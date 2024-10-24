@@ -20,6 +20,6 @@ As a shadow, you gain the following features.
 
 [COLLEGE TRIGGERED ACTION](./College%20Triggered%20Action/College%20Triggered%20Action.md)
 
-[HESITATION IS WEAKNESS](./Hesitation%20Is%20Weakness/Hesitation%20Is%20Weakness.md)
+[HESITATION IS WEAKNESS](./Hesitation%20Is%20Weakness.md)
 
 [SHADOW ABILITIES](./Shadow%20Abilities/Shadow%20Abilities.md)

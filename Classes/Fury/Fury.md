@@ -13,9 +13,15 @@ You do not temper the heat of battle within you, you unleash it! Like a raptor, 
 
 As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your rage increases. Nature has no concept of fairness—and neither do you.
 
-[BASICS](./Basics.md)
+## Fury Advancement
 
-[FURY ADVANCEMENT](./Fury%20Advancement.md)
+| Level | Features                                                                                                      | Abilities                      |
+| ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 1st   | Primordial Aspect, Rage, Growing Rage, Mighty Leaps, Aspect Features, Aspect Triggered Action, Fury Abilities | Signature, 3, 5                |
+| 2nd   | Aspect Feature, Aspect Ability                                                                                | Signature, 3, 5, 5 (Aspect)    |
+| 3rd   | Aspect Feature, 7-Rage Ability                                                                                | Signature, 3, 5, 5 (Aspect), 7 |
+
+[BASICS](./Basics.md)
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 

@@ -1,14 +1,20 @@
 ---
-title_raw: Primordial Cunning Growing Rage
-title: Primordial Cunning Growing Rage
-name_raw: Primordial Cunning Growing Rage
-name: Primordial Cunning Growing Rage
+title_raw: Primordial Cunning
+title: Primordial Cunning
+name_raw: Primordial Cunning
+name: Primordial Cunning
 type: classes
 subtype: fury
 kind: 1st-level features
 ---
 
-# Primordial Cunning Growing Rage
+# Primordial Cunning
+
+You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
+
+As your rage grows, your primordial cunning intensifies. These benefits are cumulative.
+
+## Primordial Cunning Growing Rage
 
 <table style="width:99%;">
 <colgroup>

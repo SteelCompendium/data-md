@@ -14,4 +14,4 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Prim
 
 [1ST-LEVEL PRIMORDIAL ASPECT FEATURES](./1st-Level%20Primordial%20Aspect%20Features.md)
 
-[PRIMORDIAL CUNNING](./Primordial%20Cunning/Primordial%20Cunning.md)
+[PRIMORDIAL CUNNING](./Primordial%20Cunning.md)

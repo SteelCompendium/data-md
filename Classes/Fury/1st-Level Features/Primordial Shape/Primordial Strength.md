@@ -1,14 +1,20 @@
 ---
-title_raw: Primordial Strength Growing Rage
-title: Primordial Strength Growing Rage
-name_raw: Primordial Strength Growing Rage
-name: Primordial Strength Growing Rage
+title_raw: Primordial Strength
+title: Primordial Strength
+name_raw: Primordial Strength
+name: Primordial Strength
 type: classes
 subtype: fury
 kind: 1st-level features
 ---
 
-# Primordial Strength Growing Rage
+# Primordial Strength
+
+When you damage an object with a weapon attack, it takes an additional 5 damage. Additionally, whenever you push another creature, you can make it a vertical push.
+
+As your rage grows, your primordial strength intensifies. These benefits are cumulative.
+
+## Primordial Strength Growing Rage
 
 <table style="width:99%;">
 <colgroup>

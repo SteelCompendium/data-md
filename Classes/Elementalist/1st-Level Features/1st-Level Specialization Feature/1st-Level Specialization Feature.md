@@ -14,9 +14,9 @@ Your elementalist specialization grants you a feature, as shown on the 1st-Level
 
 [1ST-LEVEL ELEMENTALIST SPECIALIZATION FEATURES](./1st-Level%20Elementalist%20Specialization%20Features.md)
 
-[MANIPULATE EARTH](./Manipulate%20Earth/Manipulate%20Earth.md)
+[MANIPULATE EARTH](./Manipulate%20Earth.md)
 
-[MELT](./Melt/Melt.md)
+[MELT](./Melt.md)
 
 [SPEECH OF THE WILD](./Speech%20Of%20The%20Wild.md)
 
