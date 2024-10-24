@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Aspect Features
-title: 1St-Level Aspect Features
+title: 1st-Level Aspect Features
 name_raw: 1st-level Aspect Features
-name: 1St-Level Aspect Features
+name: 1st-Level Aspect Features
 type: classes
 subtype: fury
 kind: 1st-level features

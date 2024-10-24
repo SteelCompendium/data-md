@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Doctrine Features
-title: 1St-Level Doctrine Features
+title: 1st-Level Doctrine Features
 name_raw: 1st-level Doctrine Features
-name: 1St-Level Doctrine Features
+name: 1st-Level Doctrine Features
 type: classes
 subtype: tactician
 kind: 1st-level features

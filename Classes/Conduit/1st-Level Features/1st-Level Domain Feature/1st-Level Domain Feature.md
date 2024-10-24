@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Domain Feature
-title: 1St-Level Domain Feature
+title: 1st-Level Domain Feature
 name_raw: 1st-level Domain Feature
-name: 1St-Level Domain Feature
+name: 1st-Level Domain Feature
 type: classes
 subtype: conduit
 kind: 1st-level features

@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level College Features
-title: 1St-Level College Features
+title: 1st-Level College Features
 name_raw: 1st-level College Features
-name: 1St-Level College Features
+name: 1st-Level College Features
 type: classes
 subtype: shadow
 kind: 1st-level features

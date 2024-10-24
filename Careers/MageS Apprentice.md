@@ -1,8 +1,8 @@
 ---
 title_raw: Mage's Apprentice
-title: Mage'S Apprentice
+title: Mage's Apprentice
 name_raw: Mage's Apprentice
-name: Mage'S Apprentice
+name: Mage's Apprentice
 type: careers
 keywords: Magic
 keyword_list:

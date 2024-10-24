@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Conduit Domain Features
-title: 1St-Level Conduit Domain Features
+title: 1st-Level Conduit Domain Features
 name_raw: 1st-level Conduit Domain Features
-name: 1St-Level Conduit Domain Features
+name: 1st-Level Conduit Domain Features
 type: classes
 subtype: conduit
 kind: 1st-level features

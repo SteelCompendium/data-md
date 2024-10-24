@@ -1,8 +1,8 @@
 ---
 title_raw: I'm On Your Side
-title: I'M On Your Side
+title: I'm On Your Side
 name_raw: I'm On Your Side
-name: I'M On Your Side
+name: I'm On Your Side
 type: classes
 subtype: shadow
 kind: 1st-level features

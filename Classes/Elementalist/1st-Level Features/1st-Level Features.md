@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Features
-title: 1St-Level Features
+title: 1st-Level Features
 name_raw: 1st-level Features
-name: 1St-Level Features
+name: 1st-Level Features
 type: classes
 subtype: elementalist
 kind: 1st-level features
