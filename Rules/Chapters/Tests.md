@@ -106,7 +106,7 @@ An easy test has some risk of consequence, but most heroes will likely overcome 
 
 ##### Medium Tests
 
-A medium test has some risk of failure that most heroes will likely overcome-but with a cost. The power roll you make for a medium test determines the outcome:
+A medium test has some risk of failure that most heroes will likely overcome—but with a cost. The power roll you make for a medium test determines the outcome:
 
 - **≤11:** You fail the task.
 - **12-16:** You succeed on the task and incur a consequence.
@@ -122,7 +122,7 @@ A hard test has a greater risk of failure, and most heroes are likely to suffer 
 
 ##### Natural 19 or 20: Success With a Reward
 
-Whenever you get a natural 19 or 20 on the power roll for a test-a total of 19 or 20 before adding your characteristic score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.
+Whenever you get a natural 19 or 20 on the power roll for a test—a total of 19 or 20 before adding your characteristic score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.
 
 #### Test Outcomes
 
@@ -130,7 +130,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 ##### Failure With a Consequence
 
-If you fail a hard test and incur a consequence, you don't do what you set out to do-in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
+If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
 For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing prone. A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
 
@@ -145,7 +145,7 @@ Common consequences for failing a test include the following:
 - Thinking you know something that you don't
 - Getting stuck in a situation that must be resolved with a negotiation or a montage test you didn't need to make before
 
-In lieu of other consequences, the Director also has the option to gain 2 additional Malice-a resource that creatures run by the Director use in combat-at the start of the next combat encounter.
+In lieu of other consequences, the Director also has the option to gain 2 additional Malice—a resource that creatures run by the Director use in combat—at the start of the next combat encounter.
 
 ##### Failure
 
@@ -157,7 +157,7 @@ When a hero rolls a failure without a consequence, the Director can offer to let
 
 ##### Success With a Consequence
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the climb more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in-but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the climb more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -432,7 +432,7 @@ Consequences for tests made with lore skills typically include learning an incor
 <!-- -->
 > **For the Director: Make Your Own Skills**
 >
-> Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a Brewing skill for brewing ale or a Painting skill for making art because those aren't tasks that typically come up in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills-in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
+> Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a Brewing skill for brewing ale or a Painting skill for making art because those aren't tasks that typically come up in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills—in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
 
 ### Example Tests
 
@@ -518,7 +518,7 @@ When you attempt to assist another creature, make a test using the skill you cho
 - **12-16:** Your help grants the other creature an edge on their test.
 - **17+:** Your help gives the other creature a double edge on their test.
 
-For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the Flirt skill to distract the jailer. The Director accepts this, and asks you to make a Presence test using Flirt. The outcome of that test determines the bonus you provide to the other hero's Agility test to pick the jailer's pocket-or whether you fumble the distraction and potentially draw attention to the attempt.
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the Flirt skill to distract the jailer. The Director accepts this, and asks you to make a Presence test using Flirt. The outcome of that test determines the bonus you provide to the other hero's Agility test to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
 ### Hide and Sneak
 
@@ -526,7 +526,7 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 #### Hiding
 
-To hide from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you-for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+To hide from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
 
 When you use the Hide maneuver to hide during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the Hide skill to determine how well hidden you are.
 
@@ -549,11 +549,11 @@ If a creature is hidden from your allies but not from you, you can use a maneuve
 <!-- -->
 > **What Does It Mean to Be Observed?**
 >
-> Most of the time, if a creature has line of effect to you, they're able to observe you-especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
+> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
 
 #### Sneaking
 
-While you are hidden from another creature and not in combat, you can attempt to sneak-avoiding the senses of other creatures as you move around them in the open-to remain hidden. While sneaking, your speed is halved. To sneak, you make an Agility test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another characteristic at the Director's discretion, such as using Presence to blend in with a crowd on a packed city street.
+While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your speed is halved. To sneak, you make an Agility test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another characteristic at the Director's discretion, such as using Presence to blend in with a crowd on a packed city street.
 
 ### Group Tests
 
@@ -688,7 +688,7 @@ Jorn, a tactician, wants to make a Reason test using the Climb skill to lead the
 
 Karrel, an elementalist, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
-Val, a conduit, offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward-and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
+Val, a conduit, offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
 
 ##### Interlude
 
@@ -700,7 +700,7 @@ Urdoncara wants to make a Might test using the Lift skill to carry most of the g
 
 Jorn, eager to prove himself after his last failure, asks to make a Might test using the Lead skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the Lead skill applies to the task. They tell Jorn that Lift is more appropriate, since the tactician is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the tactician rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
 
-Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert-to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a Reason test to assist and gets a 16, granting Val an edge on her upcoming test.
+Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a Reason test to assist and gets a 16, granting Val an edge on her upcoming test.
 
 Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the conduit recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
 

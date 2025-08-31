@@ -15,7 +15,7 @@ type: title/3rd-echelon
 
 #### Maestro
 
-*When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over-and with it, his chance for redemption.*
+*When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
 **Prerequisite:** You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
 
@@ -40,4 +40,4 @@ type: title/3rd-echelon
 
 **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-*Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass-and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
+*Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.

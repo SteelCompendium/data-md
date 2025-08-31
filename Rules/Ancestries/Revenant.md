@@ -16,7 +16,7 @@ type: ancestry
 
 The dead walk among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air-and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
@@ -28,7 +28,7 @@ These revenants are rare. Many are hunted by ignorant villagers who see only the
 
 "It's just..." The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird... chill when I looked at her."
 
-"Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship-a ship from where?"
+"Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship—a ship from where?"
 
 "I dunno, uh... uh, Capital I think."
 
@@ -52,7 +52,7 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 "What is *that* gonna do? *She's already dead!*" Another knock at the hidden door. "Forget it. Let her knock. Grab as many as you can, and we'll go out the back."
 
-The head thief ran for the door out the back of the safe house. He jerked it open-and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
+The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
 
 She clenched her hand into a fist and the *judgment* she had placed on the head cutpurse detonated, hurling him backward. He sprawled across the floor, conscious but stunned.
 
@@ -64,7 +64,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "You marked us. Back in Capital. You marked one of us and just... just *walked* here."
 
-"Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled-black lips on pale gray skin.
+"Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled—black lips on pale gray skin.
 
 "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 

@@ -14,7 +14,7 @@ type: perk/supernatural
 
 #### Familiar
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar-or to adopt you as their familiar.
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
 
 The spirit uses the familiar stat block.
 

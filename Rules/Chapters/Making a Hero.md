@@ -16,7 +16,7 @@ type: chapter
 
 # Making a Hero
 
-If you're not the Director, then you create and play one of the main characters in the game's story-a hero. Your hero is a person motivated to fight forces of evil to protect the innocent, but each hero has their own personal reason for doing so. You don't have to be a pure beacon of good. Heroes have flaws and are complex, just like people in the real world. But your hero should be someone who isn't afraid to battle monsters for altruistic reasons. If you're only interested in playing a money-grubbing sellsword, you can achieve that with these rules, but you'll likely be happier playing another game.
+If you're not the Director, then you create and play one of the main characters in the game's story—a hero. Your hero is a person motivated to fight forces of evil to protect the innocent, but each hero has their own personal reason for doing so. You don't have to be a pure beacon of good. Heroes have flaws and are complex, just like people in the real world. But your hero should be someone who isn't afraid to battle monsters for altruistic reasons. If you're only interested in playing a money-grubbing sellsword, you can achieve that with these rules, but you'll likely be happier playing another game.
 
 The hero you create will be roleplayed by you. Often when referring to your hero, the rules use second-person pronouns (you/your) for shorthand, making a distinction between you and your hero only when that distinction is important.
 
@@ -31,13 +31,13 @@ The Director should make an agenda for a campaign's first session often called "
 - The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be nulls or talents. Another campaign might be grounded in more typical medieval fantasy and not have any memonek or time raiders, or those ancestries might be exceedingly rare. In the latter case, players should know that their memonek or time raider heroes are likely to get a lot of questions from curious NPCs.
 - The players get a chance to tell the Director what they would like to experience in the campaign. This can include anything from "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These wishes should be starting points for a conversation. If not all players are comfortable with certain themes or content requested by other players, then session zero is a great time to discuss that and come to a consensus about what everyone wants out of the game.
 - Make heroes! Once everyone understands what the campaign is about, it's the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.
-- The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Starting off with a little action lets you see what the game is all about-and raises anticipation for the next session.
+- The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Starting off with a little action lets you see what the game is all about—and raises anticipation for the next session.
 
 ### Step-by-Step Hero Making
 
 Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw Steel*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
 
-Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some players like to start more in the present, choosing a career and a class-the choices with the most potential impact on what your character can do in the game-and then going back and figuring out where their hero came from. There's no wrong way to do it! (The sections below tell you where to look to learn about ancestries, classes, and other options.)
+Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some players like to start more in the present, choosing a career and a class—the choices with the most potential impact on what your character can do in the game—and then going back and figuring out where their hero came from. There's no wrong way to do it! (The sections below tell you where to look to learn about ancestries, classes, and other options.)
 
 You'll want a character sheet to fill out while you make your hero.
 
@@ -65,13 +65,13 @@ The first thing you should do is think about the kind of hero you want to make. 
 <!-- -->
 > **Ambition is Good!**
 >
-> Heroes aren't just along for the ride in the Director's story. They're active participants in that story, making decisions that change their communities, their worlds, or even the entirety of the timescape! It's good for your hero to have desires-to want to found an organization, seek justice for someone who was wronged, or craft a magic sword that will help you defeat your foes. It's only when that personal ambition becomes more important than the group's story that it creates a potential problem. But if you share your character's ambitions with your Director, they can weave those desires in with the narrative. Character creation is a great time to do this.
+> Heroes aren't just along for the ride in the Director's story. They're active participants in that story, making decisions that change their communities, their worlds, or even the entirety of the timescape! It's good for your hero to have desires—to want to found an organization, seek justice for someone who was wronged, or craft a magic sword that will help you defeat your foes. It's only when that personal ambition becomes more important than the group's story that it creates a potential problem. But if you share your character's ambitions with your Director, they can weave those desires in with the narrative. Character creation is a great time to do this.
 >
-> As the story evolves, your hero's ambitions could change. That's not a bad thing-dynamic characters are awesome! But if your hero ends up pursuing different goals over time, make sure you have a conversation with your Director about it, so they can plan accordingly.
+> As the story evolves, your hero's ambitions could change. That's not a bad thing—dynamic characters are awesome! But if your hero ends up pursuing different goals over time, make sure you have a conversation with your Director about it, so they can plan accordingly.
 
 #### 2. Ancestry
 
-Choose your hero's humanoid ancestry from among the range of ancestries available in the game-devil, dragon knight, dwarf, wode elf, high elf, hakaan, human, memonek, orc, polder, revenant, or time raider. Future supplements will introduce additional ancestries you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
+Choose your hero's humanoid ancestry from among the range of ancestries available in the game—devil, dragon knight, dwarf, wode elf, high elf, hakaan, human, memonek, orc, polder, revenant, or time raider. Future supplements will introduce additional ancestries you can choose from. See [Chapter 3: Ancestries](#page-35-0) for more information.
 
 #### 3. Culture
 
@@ -96,7 +96,7 @@ Choose your hero's career, which describes what you did for a living before you 
 
 #### 5. Class
 
-Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the Stamina and Recoveries that determine your physical hardiness. A class also provides your character with skills, several abilities-the unique features that define what your hero can do-and other features and benefits. You can be a censor, conduit, elementalist, fury, null, shadow, tactician, talent, or troubadour. See Chapter 5: Classes for more information on each class, as well as the different types of abilities signature abilities, heroic abilities, and more-that heroes of a specific class have access to.
+Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the Stamina and Recoveries that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a censor, conduit, elementalist, fury, null, shadow, tactician, talent, or troubadour. See Chapter 5: Classes for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
 
 #### 6. Kit
 
@@ -104,7 +104,7 @@ Your class might grant your hero a kit that helps define your approach to martia
 
 #### 7. Add Free Strikes
 
-A free strike is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? Free strike! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same-until modified by your kit or class-and it's up to you to decide what exactly your free strikes are. A thrown dagger? A punch? The design is intended to let you use your imagination.
+A free strike is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? Free strike! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your free strikes are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
 You can also make free strikes on your turn to represent using weapons your hero isn't otherwise themed to use. A wode elf master archer can stab a too-close enemy with a dagger as a free strike, and a greataxe-wielding orc fury can use a free strike to hurl a handaxe at a flying enemy staying annoyingly out of melee range.
 
@@ -167,7 +167,7 @@ At the Director's discretion, you might lose certain gear during an adventure, o
 
 ### Changing Character Options
 
-If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game-even your character's ancestry-you can always freely change that option between game sessions. If you want to change some aspect of your character during a session, ask your Director. If they say it's fine to swap that aspect out for something else, go for it. You shouldn't be stuck with any option that makes the game less fun for you.
+If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your character's ancestry—you can always freely change that option between game sessions. If you want to change some aspect of your character during a session, ask your Director. If they say it's fine to swap that aspect out for something else, go for it. You shouldn't be stuck with any option that makes the game less fun for you.
 
 If you're changing an option for some reason other than fun, you need to follow the usual rules for changing that option. For example, you might want to swap a kit out because you think the next adventure is going to require you to have better distance with weapon strikes, doing so during a respite as talked about in Chapter 6: Kits. If no rule for swapping out an option exists, such as wanting to change a signature ability granted by your class because you think a different damage type would be more helpful against undead in an upcoming encounter, talk to your Director.
 

@@ -8,7 +8,7 @@ distance: Ranged 5
 feature_type: ability
 file_basename: Pinning Shot
 file_dpath: Shadow/3rd-Level Features
-flavor: One missile-placed well and placed hard.
+flavor: One missile—placed well and placed hard.
 item_id: pinning-shot-7-insight
 item_index: '02'
 item_name: Pinning Shot (7 Insight)
@@ -28,7 +28,7 @@ type: feature/ability/shadow/3rd-level-feature
 
 ###### Pinning Shot (7 Insight)
 
-*One missile-placed well and placed hard.*
+*One missile—placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |

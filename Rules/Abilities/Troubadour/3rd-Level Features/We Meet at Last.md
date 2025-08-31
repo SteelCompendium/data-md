@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: We Meet at Last
 file_dpath: Troubadour/3rd-Level Features
-flavor: You magically intertwine your fate with another creature-for better or worse.
+flavor: You magically intertwine your fate with another creature—for better or worse.
 item_id: we-meet-at-last-7-drama
 item_index: '06'
 item_name: We Meet at Last (7 Drama)
@@ -27,7 +27,7 @@ type: feature/ability/troubadour/3rd-level-feature
 
 ###### We Meet at Last (7 Drama)
 
-*You magically intertwine your fate with another creature-for better or worse.*
+*You magically intertwine your fate with another creature—for better or worse.*
 
 | **Magic, Ranged** |        **Maneuver** |
 | ----------------- | ------------------: |

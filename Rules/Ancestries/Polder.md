@@ -20,9 +20,9 @@ Short, averaging 31/2 feet tall, the polders' origins are obscure. They are a yo
 
 ### On Polders
 
-The three peasants-Jago, his wife Sarah, and his sister Beth-sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
+The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died-fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Curls Around Dying Embers said. "But what do *you* say?"
 
@@ -36,7 +36,7 @@ The three peasants-Jago, his wife Sarah, and his sister Beth-sat together watchi
 
 "What are you, from the moon? Where you from that you never met a polder before? There's polder in every fucking village and town from here to the sea."
 
-"Really? That's weird. I'm from Tor, I've been all over-just never met a polder before."
+"Really? That's weird. I'm from Tor, I've been all over—just never met a polder before."
 
 Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
@@ -74,7 +74,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story-short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -98,7 +98,7 @@ John turned to Embers. "I thought he was a thief."
 
 "You *were* a thief."
 
-"Yeah, I was with the Clock. Probably still am-they don't exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything."
+"Yeah, I was with the Clock. Probably still am—they don't exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything."
 
 "Did they kick you out, or did you quit?"
 
@@ -108,7 +108,7 @@ John turned to Embers. "I thought he was a thief."
 
 "I'm annoying."
 
-The elf smiled. "He's a troubadour-one of the best."
+The elf smiled. "He's a troubadour—one of the best."
 
 Sir John looked at him, nodded. "No lute, I notice. And you don't seem the type to sit by the hearth telling stories."
 
@@ -150,7 +150,7 @@ If the surface you are flattened against is destroyed, this ability ends and you
 
 #### Signature Trait: Small!
 
-Your diminutive stature lets you easily get out of-or into-trouble. Your size is 1S.
+Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.
 
 #### Purchased Polder Traits
 

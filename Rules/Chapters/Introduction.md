@@ -52,7 +52,7 @@ Tactics is about: "How are we going to do that?" We're going to... surround them
 
 In a tactical game, *positioning matters*. So our game is played on a grid. Effects and distances are measured in squares. This means all players are focused on the same problem, and there is no ambiguity regarding where the heroes and villains are in relation to each other. The hobgoblin troopers are setting themselves up in a line to stop our tactician and fury from getting into melee with the hobgoblin war mage. We're all aware of what's happening, and we can talk about what we're going to do to stop it.
 
-That means *teamwork matters*. That's why the order of combat works the way it does-to encourage the players to plan! "Okay, you use Concussive Slam on that trooper, it'll push him back, and on my turn, I can use Squad! Forward! to get us all into melee with the death captain." We think focusing on teamwork also makes the game more heroic!
+That means *teamwork matters*. That's why the order of combat works the way it does—to encourage the players to plan! "Okay, you use Concussive Slam on that trooper, it'll push him back, and on my turn, I can use Squad! Forward! to get us all into melee with the death captain." We think focusing on teamwork also makes the game more heroic!
 
 In a tactical game, you have many choices each combat round. You are never reduced to just swinging your sword. You have options. If we do a good job, you don't feel as if you outlasted your opponents because you wore their Stamina down before they could reduce yours to 0-you feel like you *beat* those hobgoblins! Through stealth and sorcery, coordination and ferocity!
 
@@ -70,7 +70,7 @@ So that's one component of the heroic keyword. But another component, equally im
 
 For instance, you never see Indiana Jones having to find a local sporting goods store because he needs to stock up on ammo. You never see Katniss Everdeen have to stop and take a shower because she stinks.
 
-These things do happen. No one watching *Raiders of the Lost Ark* thinks that Indy's gun is magic and doesn't need bullets-but we simply don't need to see Indy doing that stuff. We don't need to waste time on it.
+These things do happen. No one watching *Raiders of the Lost Ark* thinks that Indy's gun is magic and doesn't need bullets—but we simply don't need to see Indy doing that stuff. We don't need to waste time on it.
 
 Likewise in our game, we don't worry about stuff that heroes in fiction tend not to worry about. We don't worry how much everything you're carrying weighs. If you try to lift a bear, you might have trouble, sure. But nowhere on your character sheet are you tracking the weight of every item.
 
@@ -90,11 +90,11 @@ You should imagine your tactician character leading the battle, granting your al
 
 Just... you know... it's got dragons and stuff.
 
-It's worth mentioning-while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City in This or Any Age. Vasloria is mostly humans and elves and orcs and dwarves, but Capital has dozens, *hundreds* of different ancestries in it.
+It's worth mentioning—while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City in This or Any Age. Vasloria is mostly humans and elves and orcs and dwarves, but Capital has dozens, *hundreds* of different ancestries in it.
 
 Looking back at movies like *Star Wars* and the work of artists like Chris Foss, that '70s stuff now seems explicitly fantastical. There's nothing scientific or even plausible about a lightsaber or a John Berkey spaceship. But damn, they look cool!
 
-So our setting includes the timescape-our multiverse, of which the world of Orden containing Capital and Vasloria is only one part. The timescape is more explicitly "space fantasy."
+So our setting includes the timescape—our multiverse, of which the world of Orden containing Capital and Vasloria is only one part. The timescape is more explicitly "space fantasy."
 
 These core rules mostly cover the classic fantasy stuff. But we think Capital and the timescape will help us deliver a game where more people can see their fantasy in our worlds.
 
@@ -105,10 +105,10 @@ For us, fantasy includes magic, like wizards casting spells, and psionics, the n
 We know that many folks are coming to this game having only experienced d20 fantasy RPGs. This section details a few key distinctions between this game and typical d20 fantasy that you'll notice right away. These aren't the only distinctions, but they're the most obvious.
 
 - **Character options are different.** We strongly recommend you start exploring *Draw Steel* by looking through the character creation section before you decide what you want to play. You can't just assume the conduit is "basically a cleric." In some ways, it is! But in other ways, it's quite different. You might have some cool character archetype you love to play in d20 fantasy, and you're dying to see how that might work in *Draw Steel*. But you'll have a lot more fun if you start by browsing the Ancestries and Classes sections and getting inspired. Once you know a bit more about how the game works, you'll have a better handle on how to build your favorite character the *Draw Steel* way.
-- **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes-tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes-success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls-the rolls you make to determine success both in and out of combat-if you have a decent characteristic bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
-- **Abilities automatically deal damage.** When you use an ability-one of the unique combat features that defines your character-you can still have a bad turn! A tier 1 outcome with minimal damage and effects is the worst outcome you can obtain with an ability. It's not awesome. But you're still always making progress. The question is: Who's making progress faster? You or the monsters? Since there's no, "I miss, who's next?" in this game, fights typically last 3 or fewer rounds. A fight that lasts 5 rounds is a *long* fight. Because everyone's always doing damage!
-- **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your Stamina and Recoveries-the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
-- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the Tests chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence-the characteristic that represents your character's force of personality-to try to hide! Why not?
+- **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes—tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes—success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success both in and out of combat—if you have a decent characteristic bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
+- **Abilities automatically deal damage.** When you use an ability—one of the unique combat features that defines your character—you can still have a bad turn! A tier 1 outcome with minimal damage and effects is the worst outcome you can obtain with an ability. It's not awesome. But you're still always making progress. The question is: Who's making progress faster? You or the monsters? Since there's no, "I miss, who's next?" in this game, fights typically last 3 or fewer rounds. A fight that lasts 5 rounds is a *long* fight. Because everyone's always doing damage!
+- **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your Stamina and Recoveries—the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
+- **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the Tests chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to hide! Why not?
 - **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *[MCDM Discord](https://mcdm.gg/Discord)* and ask. We've got tons of awesome community members ready to help!
 - **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an edge case on the fly. If everyone's having fun, you're doing it right.
 
@@ -262,7 +262,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Edge:** A situational advantage that grants a creature a +2 bonus to a power roll.
 
-**Elementalist:** A class for a hero mage who wields the elemental forces of the timescape-earth, green, fire, the void, and more.
+**Elementalist:** A class for a hero mage who wields the elemental forces of the timescape—earth, green, fire, the void, and more.
 
 **EoT:** An abbreviation used in an ability tier outcome for an effect that lasts until the end of the affected creature's next turn.
 
@@ -426,7 +426,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Potency:** A value that determines if a target has a characteristic low enough to be affected by an effect.
 
-**Power Roll:** A roll of 2d10 plus a characteristic score that has three different possible tier outcomes-tier 1, tier 2, or tier 3. A power roll can be an ability roll or a test.
+**Power Roll:** A roll of 2d10 plus a characteristic score that has three different possible tier outcomes—tier 1, tier 2, or tier 3. A power roll can be an ability roll or a test.
 
 **Presence:** A characteristic that represents a creature's force of personality.
 

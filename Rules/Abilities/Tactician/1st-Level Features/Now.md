@@ -8,7 +8,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Now
 file_dpath: Tactician/1st-Level Features
-flavor: Your allies wait for your command-then unleash death!
+flavor: Your allies wait for your command—then unleash death!
 item_id: now-5-focus
 item_index: 08
 item_name: Now! (5 Focus)
@@ -26,7 +26,7 @@ type: feature/ability/tactician/1st-level-feature
 
 ###### Now! (5 Focus)
 
-*Your allies wait for your command-then unleash death!*
+*Your allies wait for your command—then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |

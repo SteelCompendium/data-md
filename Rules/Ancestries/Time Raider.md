@@ -14,7 +14,7 @@ type: ancestry
 
 ## Time Raider
 
-The original servitor species of the synliroi-evil psions with near godlike power-the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
+The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
@@ -68,9 +68,9 @@ One of the villagers waved back before being shushed.
 
 John looked at the taxiarch and immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty-reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional-could be reasoned with, but he was an orc.
+There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an orc.
 
-Not the war dogs-they were fanatics.
+Not the war dogs—they were fanatics.
 
 "What's this?" the taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence. Trying to muster his wary soldiers.
 
@@ -100,7 +100,7 @@ John felt his skin tighten as Dazar warded him, and from the sun's shadow cast b
 
 The hakaan burst into action and sped past him like a blur.
 
-At the same instant, a call-a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart-the clarion call of the last Storm Knight!
+At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
 At the sound, the orc dashed forward into a knot of wardog commandos, her axe already hewing about her.
 

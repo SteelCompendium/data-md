@@ -14,7 +14,7 @@ type: complication
 
 #### Elemental Inside
 
-When an evil mage threatened someone you loved, you blocked that foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental-who isn't at all happy about it.
+When an evil mage threatened someone you loved, you blocked that foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—who isn't at all happy about it.
 
 **Benefit:** You gain a +3 bonus to Stamina at 1st level, then again at 4th, 7th, and 10th levels.
 

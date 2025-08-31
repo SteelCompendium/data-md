@@ -28,7 +28,7 @@ type: treasure/trinkets/4th-echelon
 
 **Project Goal:** 600
 
-**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead-either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days-allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard Intuition test as a main action. Once a spirit is trapped, you make a Presence test to coax them into answering your questions:
+**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard Intuition test as a main action. Once a spirit is trapped, you make a Presence test to coax them into answering your questions:
 
 - **≤11:** You can ask two questions of the spirit, one of which they must answer fully and honestly.
 - **12-16:** You can ask three questions, two of which the spirit must answer fully and honestly.

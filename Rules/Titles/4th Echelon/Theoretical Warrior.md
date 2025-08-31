@@ -15,7 +15,7 @@ type: title/4th-echelon
 
 #### Theoretical Warrior
 
-*I've read about this tactic in books-it looks fairly straightforward.*
+*I've read about this tactic in books—it looks fairly straightforward.*
 
 **Prerequisite:** You have the Master Librarian title, and you complete a Learn From a Master project with a project goal of 1,000.
 

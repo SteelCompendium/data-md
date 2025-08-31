@@ -16,7 +16,7 @@ type: treasure/consumable/4th-echelon
 
 ##### Page From the Infinite Library: Solaris
 
-*This page is covered with writing and diagrams detailing the release of limitless energy-and the dangers of that process.*
+*This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.*
 
 **Keywords:** Magic
 

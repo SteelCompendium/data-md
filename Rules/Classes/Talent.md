@@ -14,7 +14,7 @@ type: class
 
 ## Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people-a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
@@ -377,7 +377,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ###### Materialize
 
-*You picture an object in your mind and give it form-directly above your opponent's head.*
+*You picture an object in your mind and give it form—directly above your opponent's head.*
 
 | **Psionic, Ranged, Resopathy, Strike** |               **Main action** |
 | -------------------------------------- | ----------------------------: |
@@ -1051,7 +1051,7 @@ Choose one of the following abilities.
 
 ###### Synaptic Conditioning (9 Clarity)
 
-*It's a subtle mindset shift. It's not that they're your enemy-you just don't like them!*
+*It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
 | **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
 | ----------------------------------------- | ------------------: |

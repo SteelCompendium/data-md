@@ -18,6 +18,6 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Benefit:** Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
 
-**Drawback:** At the start of each of your turns, if you have five or more surges-or one or more surges while in moonlight-you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee free strike against the nearest creature if you can. You can shift up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
 **Special:** You can't take this complication if you are a fury with the stormwight primordial aspect.

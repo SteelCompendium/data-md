@@ -14,7 +14,7 @@ type: complication
 
 #### Chosen One
 
-Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans-though you don't particularly like the fate those plans have in store for you.
+Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans—though you don't particularly like the fate those plans have in store for you.
 
 **Benefit:** You have 3 destiny points. Whenever you spend your Heroic Resource for your class, you can spend 1 or more destiny points instead. Each time you earn a Victory, you regain 1 destiny point.
 

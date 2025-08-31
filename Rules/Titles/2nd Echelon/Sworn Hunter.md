@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Sworn Hunter
 
-*I will follow you to the ends of the earth-just so I can kick you off the edge.*
+*I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
 **Prerequisite:** You have the Marshal title, and you take down an entire criminal organization.
 

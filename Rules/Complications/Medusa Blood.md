@@ -20,7 +20,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 ###### Stone Eyes
 
-*Your looks don't kill-they petrify.*
+*Your looks don't kill—they petrify.*
 
 | **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |

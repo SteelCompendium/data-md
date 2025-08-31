@@ -5,7 +5,7 @@ distance: 5 aura
 feature_type: ability
 file_basename: Radical Fantasia
 file_dpath: Troubadour/8th-Level Features
-flavor: 𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪
+flavor: 𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪
 item_id: radical-fantasia
 item_index: '02'
 item_name: Radical Fantasia
@@ -25,7 +25,7 @@ type: feature/ability/troubadour/8th-level-feature
 
 ###### Radical Fantasia
 
-*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪*
+*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |

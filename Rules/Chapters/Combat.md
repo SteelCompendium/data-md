@@ -31,7 +31,7 @@ When combat begins, the Director should position miniatures or tokens on a gridd
 
 A creature's size indicates how many squares they occupy during combat, which defines the creature's space. If a creature's size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
 
-The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small polders, medium humans, and large hakaan. As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L-abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
+The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small polders, medium humans, and large hakaan. As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L—abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
 
 Objects also have a size rating, which usually indicates how many squares they occupy. Some objects are identified as having an irregular size, with that size instead representing the object's mass and weight relative to a creature of the same size. If a mechanic mentions objects of a certain size, that mechanic includes all objects of that size, including irregular objects.
 
@@ -75,7 +75,7 @@ For example, if the heroes sneak up unnoticed on a camp of marauders and attack,
 
 #### Determine Who Goes First
 
-Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are surprised, then a creature on the other side gets to act first. But if both sides have creatures who aren't surprised, the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first-the heroes' side or the other side. Otherwise, the Director decides which side goes first.
+Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are surprised, then a creature on the other side gets to act first. But if both sides have creatures who aren't surprised, the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
 
 #### Creatures Take Turns
 
@@ -112,7 +112,7 @@ Once all creatures on both sides of a battle have acted, the combat round ends a
 
 ### Taking a Turn
 
-Each creature in combat-whether hero, adversary, or something in between-gets to take a **main action**, a **maneuver**, and a **move action** on their turn (explained later in this chapter). Each combatant can perform their maneuver and main action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and main action however they like. You can also turn your main action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver, or two maneuvers and a move action.
+Each creature in combat—whether hero, adversary, or something in between—gets to take a **main action**, a **maneuver**, and a **move action** on their turn (explained later in this chapter). Each combatant can perform their maneuver and main action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and main action however they like. You can also turn your main action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver, or two maneuvers and a move action.
 
 The [Movement](#page-281-3) section below breaks down how your move action works, while the [Maneuvers](#page-287-0) and [Main Actions](#page-288-0) sections break down the baseline maneuvers and main actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or a main action.
 
@@ -146,7 +146,7 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or Disengage move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry-usually 5. This represents the maximum number of squares you can move when you take the move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -501,7 +501,7 @@ A creature wanting to push an adjacent creature away from them can attempt to sh
 
 Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door's lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: Tests).
 
-Complex or time-consuming tests might require a main action if made in combat-or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
+Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
 #### Search for Hidden Creatures
 
@@ -639,7 +639,7 @@ If multiple damage weaknesses apply to a source of damage, only the weakness wit
 
 ### Stamina
 
-Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a bleeding wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body-or possibly kill you.
+Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a bleeding wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
@@ -724,7 +724,7 @@ At the end of combat, the Director determines if the heroes earn any Victories. 
 
 #### How Combat Ends
 
-The Director determines when a combat encounter is over. While some battles-especially showdowns with important villains-can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
+The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
 
 To avoid a battle dragging, the Director can set objectives when they build the encounter. Once the heroes achieve those objectives, or if it becomes clear that they can win the fight with minimal effort, the Director can end the encounter. They might do so by calling "Cut!" like a film director, or they can use some other phrase or indicator.
 
@@ -734,7 +734,7 @@ When the Director ends combat this way, the players typically choose how the bat
 
 While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven't achieved all the objectives.
 
-Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success conditions, and more-in the Introduction section of *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
+Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success conditions, and more—in the Introduction section of *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
 
 ##### Diminish Numbers
 
@@ -793,6 +793,6 @@ Event endings can cover big scenarios such as the characters destroying a dam to
 <!-- -->
 > **Fleeing Foes**
 >
-> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe-and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
 >
-> Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that-for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
+> Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.

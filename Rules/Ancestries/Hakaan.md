@@ -22,7 +22,7 @@ But Holkatya betrayed them, and the only future a hakaan is allowed to see is th
 
 The Doomsight can happen at any moment. It does not come for all or even most hakaan, but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
 
-But the only hakaan the average human meets is one trying to fulfill their doom. The human superstition-that the arrival of one or more hakaan in human lands is a sign of great forces acting in the world, auspicious times-is literally true. In dark times, many hakaan experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
+But the only hakaan the average human meets is one trying to fulfill their doom. The human superstition—that the arrival of one or more hakaan in human lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
 Humans in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional hakaan sometimes refer to the Doomsight as "wyrdken."
 
@@ -40,7 +40,7 @@ In the instant before the maw of teeth and eyeballs shut, the giant grabbed each
 
 As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find... MY flesh..." the giant's bravado hid the fact that he was at the uttermost limits of his strength. "... too RICH... for your taste!"
 
-John knew what the giant did not-the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
+John knew what the giant did not—the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
 
 But the arrival of the giant changed the equation. John saw a new solution. The hakaan risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
 
@@ -130,7 +130,7 @@ You are exceptionally strong. You gain an edge on tests made to lift and haul he
 
 Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
 
-If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you-not because you're playing a one-shot and have nothing to lose, Hacaarl.
+If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
 Additionally, when your Stamina reaches the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain Stamina or have this effect undone in any way. After 12 hours, you regain Stamina equal to your recovery value.
 

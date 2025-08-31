@@ -14,7 +14,7 @@ type: complication
 
 #### Animal Form
 
-Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient-and sometimes when it's inconvenient as well.
+Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
 **Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are Escape Grab, Hide, and Stand Up. Based on the animal you can turn into, you might be able to burrow or fly, or to automatically climb or swim at full speed while moving. If your animal form doesn't provide such additional movement, you have a +2 bonus to speed.
 

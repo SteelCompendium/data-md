@@ -5,7 +5,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Mark
 file_dpath: Tactician/1st-Level Features
-flavor: You draw your allies' attention to a specific foe-with devastating effect.
+flavor: You draw your allies' attention to a specific foe—with devastating effect.
 item_id: mark
 item_index: '11'
 item_name: Mark
@@ -23,7 +23,7 @@ type: feature/ability/tactician/1st-level-feature
 
 ###### Mark
 
-*You draw your allies' attention to a specific foe-with devastating effect.*
+*You draw your allies' attention to a specific foe—with devastating effect.*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |

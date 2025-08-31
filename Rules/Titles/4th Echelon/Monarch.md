@@ -26,7 +26,7 @@ type: title/4th-echelon
 
 Additionally, choose one of the following benefits:
 
-- *Crown Jewels:* You gain one of your nation's treasures-a trinket of the Director's choice.
+- *Crown Jewels:* You gain one of your nation's treasures—a trinket of the Director's choice.
 - *Royal Fame:* You earn 2 Renown.
 - *Royal Retinue:* The number of followers you can recruit increases by 2
 - *Royal Wealth:* You earn 2 Wealth.

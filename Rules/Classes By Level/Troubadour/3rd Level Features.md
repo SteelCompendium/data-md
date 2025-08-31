@@ -114,7 +114,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ###### We Meet at Last (7 Drama)
 
-*You magically intertwine your fate with another creature-for better or worse.*
+*You magically intertwine your fate with another creature—for better or worse.*
 
 | **Magic, Ranged** |        **Maneuver** |
 | ----------------- | ------------------: |

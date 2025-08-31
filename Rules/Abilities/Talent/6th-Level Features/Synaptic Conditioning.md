@@ -8,7 +8,7 @@ distance: Melee 2
 feature_type: ability
 file_basename: Synaptic Conditioning
 file_dpath: Talent/6th-Level Features
-flavor: It's a subtle mindset shift. It's not that they're your enemy-you just don't like them!
+flavor: It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!
 item_id: synaptic-conditioning-9-clarity
 item_index: '06'
 item_name: Synaptic Conditioning (9 Clarity)
@@ -29,7 +29,7 @@ type: feature/ability/talent/6th-level-feature
 
 ###### Synaptic Conditioning (9 Clarity)
 
-*It's a subtle mindset shift. It's not that they're your enemy-you just don't like them!*
+*It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
 | **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
 | ----------------------------------------- | ------------------: |

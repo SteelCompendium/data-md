@@ -16,7 +16,7 @@ type: ancestry
 
 The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them-an uncontrollable sensation called emotion.
+The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
 ### On Memonek
 
@@ -144,4 +144,4 @@ Your ordered mind can't be caught off guard. You can't be made surprised.
 
 ##### Useful Emotion (1 Point)
 
-Velloparatha-the worldsickness-might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.
+Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.

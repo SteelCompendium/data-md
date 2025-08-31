@@ -41,7 +41,7 @@ The armor provided by each kit fits into one of five categories, indicating the 
 
 ##### None
 
-If a kit provides no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants-or your character might just loincloth it. It's totally up to you.
+If a kit provides no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants—or your character might just loincloth it. It's totally up to you.
 
 ##### Light Armor
 
@@ -194,7 +194,7 @@ You wear no armor and wield a bow.
 
 #### Battlemind
 
-Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move-and to make your foes easier to push around.
+Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 
 ##### Equipment
 
@@ -792,7 +792,7 @@ You wear light armor and wield a medium weapon.
 
 ###### Fancy Footwork
 
-*All combat is a dance-and you'll be the one leading.*
+*All combat is a dance—and you'll be the one leading.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
@@ -808,7 +808,7 @@ You wear light armor and wield a medium weapon.
 
 #### Sword and Board
 
-The Sword and Board kit doesn't just give you a shield-it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The Sword and Board kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 

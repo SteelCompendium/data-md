@@ -14,7 +14,7 @@ type: ancestry
 
 ## Orc
 
-An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors-a reputation that the peace-loving orcs find
+An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace—loving orcs find distasteful.
 
 The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of humans who cut down the trees and built roads and farms.
 

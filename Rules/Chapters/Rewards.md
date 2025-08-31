@@ -32,13 +32,13 @@ Treasures come in all shapes and sizes, and are broken down into four types.
 
 **Leveled treasures** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common types of leveled treasure.
 
-**Artifacts** are treasures of legendary power that can change or shape an adventure-or even an entire campaign. Each of these game-breaking items is unique, highly coveted, and well guarded.
+**Artifacts** are treasures of legendary power that can change or shape an adventure—or even an entire campaign. Each of these game-breaking items is unique, highly coveted, and well guarded.
 
 ### Found, Earned, or Crafted
 
-The rules of the game account for worlds where the average person sometimes even the average noble-doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
+The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
 
-Most treasures are found as part of adventures. Many people concoct dastardly schemes, but only those with the will and power to enact that vision become villains-and acquiring treasures of great power is often part of a villain's plans. As such, the heroes who vanquish those evildoers often get to claim those treasures for themselves. At
+Most treasures are found as part of adventures. Many people concoct dastardly schemes, but only those with the will and power to enact that vision become villains—and acquiring treasures of great power is often part of a villain's plans. As such, the heroes who vanquish those evildoers often get to claim those treasures for themselves. At
 
 other times, generous and well-off individuals such as monarchs and powerful mages can reward treasures as thanks for heroic deeds.
 
@@ -57,7 +57,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
-Wearable treasures have keywords that indicate which part of the body they are meant to adorn-Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed time raider to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
+Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed time raider to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
 Though body keywords indicate where a treasure is meant to be worn, treasures can still function if worn on other parts of the body. For example, a hero without ears or who just wants to have a different look might wear an earring as a piercing anywhere else they desire.
 
@@ -696,7 +696,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 
 ##### Page From the Infinite Library: Solaris
 
-*This page is covered with writing and diagrams detailing the release of limitless energy-and the dangers of that process.*
+*This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.*
 
 **Keywords:** Magic
 
@@ -892,7 +892,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 ##### Mask of the Many
 
-*A plain white mask is lined with soft black velvet-which smells faintly of blood.*
+*A plain white mask is lined with soft black velvet—which smells faintly of blood.*
 
 **Keywords:** Head, Magic
 
@@ -1210,7 +1210,7 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 600
 
-**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead-either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days-allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard Intuition test as a main action. Once a spirit is trapped, you make a Presence test to coax them into answering your questions:
+**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard Intuition test as a main action. Once a spirit is trapped, you make a Presence test to coax them into answering your questions:
 
 - **≤11:** You can ask two questions of the spirit, one of which they must answer fully and honestly.
 - **12-16:** You can ask three questions, two of which the spirit must answer fully and honestly.
@@ -1244,7 +1244,7 @@ Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. Yo
 
 #### Carry Three Safely
 
-Your connection with leveled treasures doesn't just make them useful. It also makes them dangerous. Each leveled treasure is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic implement yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them-and leaving your other items behind.
+Your connection with leveled treasures doesn't just make them useful. It also makes them dangerous. Each leveled treasure is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic implement yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
 
 It's fine to own or possess more than three leveled treasures, as long as the extras are stored away or in the possession of other creatures. But if you carry more than three leveled treasures, you must make a Presence test during each respite:
 
@@ -1713,7 +1713,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Keywords:** Light Weapon, Psionic
 
-**Item Prerequisite:** Eighteen daggers-nine taken from personal enemies and nine gifted by friends
+**Item Prerequisite:** Eighteen daggers—nine taken from personal enemies and nine gifted by friends
 
 **Project Source:** Texts or lore in Variac
 
@@ -1973,7 +1973,7 @@ Whenever a creature within 10 squares of you deals damage to another creature, y
 
 ### Artifacts
 
-Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake-these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounter-building guidelines in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* expect. That's part of the fun!
+Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake—these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounter—building guidelines in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* expect. That's part of the fun!
 
 Typically, one creature never holds onto an artifact for too long. Most of these treasures have a sentience of their own and an eagerness to move on. Since many powerful entities might want to get their hands on an artifact, characters might see armies, dragons, and even gods come to collect one from a wielder who refuses to let go.
 
@@ -1983,7 +1983,7 @@ Typically, one creature never holds onto an artifact for too long. Most of these
 
 **Keywords:** Magic; Light Weapon, Medium Weapon, or Heavy Weapon
 
-Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures-and even more frequently among cultures long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history.
+Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures—and even more frequently among cultures long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history.
 
 Though its size and make are often debated, the sword is consistently described as having a crossguard made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in weapons. Those who touch the blade are filled with the vigor and power of the heroes who have held it before.
 
@@ -2005,7 +2005,7 @@ Though its size and make are often debated, the sword is consistently described 
 
 This scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
 
-The Encepter is said to have first manifested in a young world doomed to apocalypse-unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.
+The Encepter is said to have first manifested in a young world doomed to apocalypse—unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.
 
 **Shining Presence:** The one who wields the Encepter is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 outcome, though the wielder can still roll in an attempt to score a critical success or critical hit.
 
@@ -2033,21 +2033,21 @@ When the Mortal Coil is left unattended or is in the possession of a creature wh
 
 **Get Busy Dyin':** Each creature in the penumbra ages at 10 times the usual rate, and diseases and poisons affecting creatures in the penumbra run their course at 10 times their usual rate. A creature with no natural maximum lifespan permanently reduces their Stamina maximum by 10 each year. Each creature can undertake one additional respite activity during each respite.
 
-**If You Meet God on the Road, Kill Them:** Every non-mortal entity in the penumbra is granted the gift of mortality. Previously immortal or invulnerable entities-from planar creatures to the gods themselves can be killed while in the penumbra, though not necessarily easily. Any creature or entity who dies in the Mortal Coil's penumbra experiences perfect death. They are permanently, irrevocably dead, and no magic, psionics, or technology can restore them to life.
+**If You Meet God on the Road, Kill Them:** Every non-mortal entity in the penumbra is granted the gift of mortality. Previously immortal or invulnerable entities—from planar creatures to the gods themselves can be killed while in the penumbra, though not necessarily easily. Any creature or entity who dies in the Mortal Coil's penumbra experiences perfect death. They are permanently, irrevocably dead, and no magic, psionics, or technology can restore them to life.
 
 **Perpetual Motion:** If there are ever no creatures or entities within the Mortal Coil's penumbra, the radius of the penumbra doubles.
 
-**Beneath Contempt:** Deities and their servants always overlook the Mortal Coil and its host-either unable to notice it, or not considering it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid in the manifold where it was destroyed, then reforms in a hidden place.
+**Beneath Contempt:** Deities and their servants always overlook the Mortal Coil and its host—either unable to notice it, or not considering it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid in the manifold where it was destroyed, then reforms in a hidden place.
 
 ## Titles
 
-Titles are special benefits earned by heroes through adventure and mighty deeds. Heroes must win titles-sometimes individually, sometimes as a group-by accomplishing heroic tasks. Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty.
+Titles are special benefits earned by heroes through adventure and mighty deeds. Heroes must win titles—sometimes individually, sometimes as a group—by accomplishing heroic tasks. Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty.
 
 Each title comes with a new ability or other special benefit. By earning titles, heroes gain a unique set of capabilities that sets them apart from other adventurers.
 
 ### Title Requirements
 
-Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or-in the case of the Monarch title-win a kingdom!
+Players don't simply choose their characters' titles. Like treasures and Renown (in the next section), titles must be won. Each title has a unique requirement, so that earning a title might mean your character needs to defeat a specific monster, research dangerous forbidden lore, or—in the case of the Monarch title—win a kingdom!
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon simply because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
@@ -2065,7 +2065,7 @@ Granting titles before characters reach the recommended echelon can be fun, but 
 
 This section details a number of ready-to-use titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title. Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs.
 
-The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters-the Jesters-who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the Brawler title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
+The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters—the Jesters—who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the Brawler title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
 <!-- -->
 > **For the Director: Perks as Custom Titles**
@@ -2086,7 +2086,7 @@ Most titles, however, are earned by all the heroes at once for accomplishing a g
 
 Titles are rewards for heroic activities, and they often go hand in hand with treasure and other goodies. If the party defeats a fearsome monster and earns Renown, or accomplishes a quest and wins a magic leveled treasure, one or more characters might earn a title at the same time.
 
-There is no hard-and-fast rule for the number of titles characters should accumulate by a certain level. If a character wins a title whenever they accomplish a truly notable deed-once every few adventures-then they might earn about one title per echelon. Sticking to this rate isn't a requirement, though. Characters might easily earn twice or half as many titles, making them a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
+There is no hard-and-fast rule for the number of titles characters should accumulate by a certain level. If a character wins a title whenever they accomplish a truly notable deed—once every few adventures—then they might earn about one title per echelon. Sticking to this rate isn't a requirement, though. Characters might easily earn twice or half as many titles, making them a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
 
 ### 1st-Echelon Titles
 
@@ -2104,13 +2104,13 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 #### Ancient Loremaster
 
-*It's astonishing what you find in old books. Look at this-nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
+*It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
 
 **Prerequisite:** You find a trove of forgotten books.
 
 **Effect:** Choose one of the following benefits:
 
-- *Leverage:* You know a priceless secret. The Director chooses the type of person who would value this secret-usually a member of a particular faction, such as a Higaran noble, or a type of person, such as a fence of stolen goods. When engaged in a negotiation with this type of person, you can offer this secret. If they accept, their interest increases by 3 (to a maximum of 5). You can share this secret only once.
+- *Leverage:* You know a priceless secret. The Director chooses the type of person who would value this secret—usually a member of a particular faction, such as a Higaran noble, or a type of person, such as a fence of stolen goods. When engaged in a negotiation with this type of person, you can offer this secret. If they accept, their interest increases by 3 (to a maximum of 5). You can share this secret only once.
 - *Rare Books:* You add rare, ancient books to your collection. Whenever you undertake a research project, roll 1d6 for each dead language you know and add the total to the project roll.
 - *Susurrus Codex:* You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow the book's advice, you gain an edge on Reason tests and take a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
 
@@ -2147,7 +2147,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Discerning Shopper:* When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item-or at least information about it.
+- *Discerning Shopper:* When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item—or at least information about it.
 - *One with the Crowd:* While you're using one or more creatures as cover, you gain an edge on tests made to hide and sneak.
 - *Street Smart:* While in a settlement, you can't be surprised.
 
@@ -2286,7 +2286,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 ###### Come Out to Play (1 Heroic Resource)
 
-*Come out to play-yay!*
+*Come out to play—yay!*
 
 | **Area, Magic** |                                **Maneuver** |
 | --------------- | ------------------------------------------: |
@@ -2303,7 +2303,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 **Prerequisite:** The entire party is killed or captured by sapient foes.
 
-**Effect:** After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you-unless you can escape or overcome the nefarious challenge your captors have planned.
+**Effect:** After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
 
 The Director chooses one of the following benefits, based on the fate your captors have in mind for you. Each hero gains the same benefit. Additionally, you must face an encounter, montage test, or adventure related to the benefit, as the Director determines.
 
@@ -2615,7 +2615,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 #### Sworn Hunter
 
-*I will follow you to the ends of the earth-just so I can kick you off the edge.*
+*I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
 **Prerequisite:** You have the Marshal title, and you take down an entire criminal organization.
 
@@ -2729,7 +2729,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 #### Maestro
 
-*When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over-and with it, his chance for redemption.*
+*When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
 **Prerequisite:** You visit the realms of gods, devils, or other immortal beings and hear a note of the Music of Creation.
 
@@ -2754,7 +2754,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-*Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass-and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
+*Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
 
 #### Master Crafter
 
@@ -2869,7 +2869,7 @@ Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a test with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Mind Over Matter:* Whenever you spend a Recovery, you can end one condition on yourself.
-- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter damaging terrain or terrain that could impose a condition on them. The target doesn't appear to move or teleport to that space-they are simply there. No one but you has any memory of the target's previous position.
+- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter damaging terrain or terrain that could impose a condition on them. The target doesn't appear to move or teleport to that space—they are simply there. No one but you has any memory of the target's previous position.
 
 #### Forsaken
 
@@ -2880,8 +2880,8 @@ Additionally, choose one of the following benefits:
 **Effect:** A characteristic of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Brief Reunion:* While you're winded, you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
-- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact-for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
-- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item-for instance, any magic sword for the Blade of a Thousand Years, any implement for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
+- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
+- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
 
 #### Monarch
 
@@ -2896,7 +2896,7 @@ Additionally, choose one of the following benefits:
 
 Additionally, choose one of the following benefits:
 
-- *Crown Jewels:* You gain one of your nation's treasures-a trinket of the Director's choice.
+- *Crown Jewels:* You gain one of your nation's treasures—a trinket of the Director's choice.
 - *Royal Fame:* You earn 2 Renown.
 - *Royal Retinue:* The number of followers you can recruit increases by 2
 - *Royal Wealth:* You earn 2 Wealth.
@@ -2934,7 +2934,7 @@ Additionally, choose one of the following benefits:
 
 #### Theoretical Warrior
 
-*I've read about this tactic in books-it looks fairly straightforward.*
+*I've read about this tactic in books—it looks fairly straightforward.*
 
 **Prerequisite:** You have the Master Librarian title, and you complete a Learn From a Master project with a project goal of 1,000.
 
@@ -2974,7 +2974,7 @@ At the start of character creation, your Renown is 0. Some careers can increase 
 
 ### Increasing Renown
 
-Some perks (see [Chapter 7](#page-241-0)), downtime projects ([Chapter 12](#page-307-2)), and titles and treasures (part of [Chapter 13: Rewards](#page-327-1)) can increase your renown. But for the most part, you earn Renown at the end of an exciting adventure, often after the acknowledgement of a powerful NPC that you helped save them, their family, their home, their organization-or even their nation or world. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
+Some perks (see [Chapter 7](#page-241-0)), downtime projects ([Chapter 12](#page-307-2)), and titles and treasures (part of [Chapter 13: Rewards](#page-327-1)) can increase your renown. But for the most part, you earn Renown at the end of an exciting adventure, often after the acknowledgement of a powerful NPC that you helped save them, their family, their home, their organization—or even their nation or world. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
 
 In most campaigns, the Director sets the characters up to earn 1 Renown per level, but some campaigns will feature heroes who are more or less famous (or infamous) than that.
 
@@ -3013,7 +3013,7 @@ When you recruit an artisan, choose four skills from the crafting skill group th
 
 ##### Retainer
 
-Retainers are heroic NPCs who adventure alongside the player characters. They are controlled by players in combat and are both simpler to run and less powerful than player characters. A hero can have only one retainer in their service at a time unless the Director deems otherwise. Because retainers and their stat blocks are combat focused, the Director can also decide that a large party can have only one retainer in total-or can't have any retainers at all-to keep combat from getting long and tedious.
+Retainers are heroic NPCs who adventure alongside the player characters. They are controlled by players in combat and are both simpler to run and less powerful than player characters. A hero can have only one retainer in their service at a time unless the Director deems otherwise. Because retainers and their stat blocks are combat focused, the Director can also decide that a large party can have only one retainer in total—or can't have any retainers at all—to keep combat from getting long and tedious.
 
 Rules for retainers are found in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
 
@@ -3046,7 +3046,7 @@ As an optional rule, the Director can allow a hero to make a purchase that is on
 <!-- -->
 > **Heroes Don't Do It for Gold**
 >
-> In *Draw Steel*, being a hero isn't a transactional job-it's a calling. As such, using the promise of treasure to motivate the players to accept quests comes up much less often than in many other games. Sure, the heroes need money to live, and some might even enjoy getting rich from their adventures. But money isn't the reason they put their lives on the line. Each time you create a hero, think about why your character answers the call to adventure-and make it about something more than gold.
+> In *Draw Steel*, being a hero isn't a transactional job—it's a calling. As such, using the promise of treasure to motivate the players to accept quests comes up much less often than in many other games. Sure, the heroes need money to live, and some might even enjoy getting rich from their adventures. But money isn't the reason they put their lives on the line. Each time you create a hero, think about why your character answers the call to adventure—and make it about something more than gold.
 
 ###### Hero Wealth Table
 

@@ -14,7 +14,7 @@ type: complication
 
 #### Evanesceria
 
-You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself-or anyone else either. You simply... vanish, then return later with no memory of your absence.
+You have contracted a rare magical disease called evanesceria. From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 
 **Benefit:** At the start of any combat round, you can attempt to absent yourself from reality by rolling a d10. On a 6 or higher, you disappear, then reappear in the space you left or the nearest unoccupied space of your choice when you take your turn. You can't attempt to absent yourself again until you earn 1 or more Victories.
 

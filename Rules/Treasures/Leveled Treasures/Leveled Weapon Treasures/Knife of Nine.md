@@ -20,7 +20,7 @@ type: treasure/leveled/weapon
 
 **Keywords:** Light Weapon, Psionic
 
-**Item Prerequisite:** Eighteen daggers-nine taken from personal enemies and nine gifted by friends
+**Item Prerequisite:** Eighteen daggers—nine taken from personal enemies and nine gifted by friends
 
 **Project Source:** Texts or lore in Variac
 

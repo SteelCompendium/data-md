@@ -19,7 +19,7 @@ type: title/1st-echelon
 
 **Prerequisite:** The entire party is killed or captured by sapient foes.
 
-**Effect:** After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you-unless you can escape or overcome the nefarious challenge your captors have planned.
+**Effect:** After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
 
 The Director chooses one of the following benefits, based on the fate your captors have in mind for you. Each hero gains the same benefit. Additionally, you must face an encounter, montage test, or adventure related to the benefit, as the Director determines.
 

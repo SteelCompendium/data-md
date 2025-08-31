@@ -36,7 +36,7 @@ Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back towa
 
 The elves were tall, taller than an adult human, but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again-from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -52,7 +52,7 @@ The one called Rhythylthin reached out while Dade was turned, looking at the que
 
 "Nothing happens within the wode without our knowledge," the elf said. Dade spun on him and nocked another arrow. "And approval," Rhythylthin added, clenching his fist and snapping the arrow in it.
 
-"You come bearing a gift for our queen-the *Codex Dryadalis*." Llyander nodded at the heavy scroll Meliora carried. "My cousin Rhythylthin here was sent to capture you and escort you to the Orchid Court. But I am the queen's consort, and have my own thoughts on the matter."
+"You come bearing a gift for our queen—the *Codex Dryadalis*." Llyander nodded at the heavy scroll Meliora carried. "My cousin Rhythylthin here was sent to capture you and escort you to the Orchid Court. But I am the queen's consort, and have my own thoughts on the matter."
 
 The elf smiled at the children. "But have no fear," they said. Their Vaslorian was perfect, their voice a melody. "You are safe... now." The pause before "now" spoke volumes.
 
@@ -86,7 +86,7 @@ Llyander turned and marched off. "Come!" they called. The children ran to catch 
 
 "Where are we going?" Wenna asked.
 
-"I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your guide, he will treat you well-likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
+"I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your guide, he will treat you well—likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 

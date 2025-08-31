@@ -62,7 +62,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 ###### Pinning Shot (7 Insight)
 
-*One missile-placed well and placed hard.*
+*One missile—placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |

@@ -14,7 +14,7 @@ type: complication
 
 #### Lost in Time
 
-In a long-ago age, a cataclysm overtook your city. You weren't killed, but some arcane accident caused you to be suspended in time until now. Alone, you must navigate the world around you with a head full of outdated memories-and a few ancient secrets.
+In a long-ago age, a cataclysm overtook your city. You weren't killed, but some arcane accident caused you to be suspended in time until now. Alone, you must navigate the world around you with a head full of outdated memories—and a few ancient secrets.
 
 **Benefit:** Choose a damage type from acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic. Whenever you use a signature ability, you can have it deal your chosen damage type instead of its usual damage.
 

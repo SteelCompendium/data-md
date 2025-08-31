@@ -18,4 +18,4 @@ You're not sure what you did to deserve it, but for some reason, your family sad
 
 **Benefit:** You have a retainer, in addition to any followers you acquire through Renown or other means. As usual, you can have only one retainer in your service at a time. (See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1) and Retainers in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*).
 
-**Drawback:** Outside of combat, your retainer is under the Director's control. The retainer sometimes acts without orders-always with your best interests at heart, but often in embarrassing or inconvenient ways.
+**Drawback:** Outside of combat, your retainer is under the Director's control. The retainer sometimes acts without orders—always with your best interests at heart, but often in embarrassing or inconvenient ways.

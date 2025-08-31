@@ -16,7 +16,7 @@ type: treasure/trinkets/1st-echelon
 
 ##### Mask of the Many
 
-*A plain white mask is lined with soft black velvet-which smells faintly of blood.*
+*A plain white mask is lined with soft black velvet—which smells faintly of blood.*
 
 **Keywords:** Head, Magic
 

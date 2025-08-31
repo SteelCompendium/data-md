@@ -50,7 +50,7 @@ The Director has a number of key jobs in this game, which we'll go over in this 
 
 #### First Time Running a Game
 
-If this is your first time ever running a *Draw Steel* game, good for you! Directing a game is a super rewarding experience that allows you to lead your friends in group storytelling. It's also a lot of work, but that work is fun for folks who enjoy creative activities. You're running a game for your friends. They want to have fun, but they also want to see you succeed. Remember that this is a collaborative experience-it's not all on you.
+If this is your first time ever running a *Draw Steel* game, good for you! Directing a game is a super rewarding experience that allows you to lead your friends in group storytelling. It's also a lot of work, but that work is fun for folks who enjoy creative activities. You're running a game for your friends. They want to have fun, but they also want to see you succeed. Remember that this is a collaborative experience—it's not all on you.
 
 This chapter covers the basics of running a *Draw Steel* game. While you're learning to run the game, or if you're playing with new players, don't be afraid to start small and easy. A low-level adventure pitting the heroes against bandits will not only be exciting and fun, it'll give you the experience you need to eventually play a world-crossing, branching-scenario, multilevel campaign in the future.
 
@@ -74,7 +74,7 @@ A campaign pitch starts with a few paragraphs of information that provides an ov
 - What major events important to the campaign's plot have occurred before the campaign starts?
 - What kinds of adventures might the heroes have over the course of this campaign?
 
-This overview doesn't give away any of the campaign's secrets-for example, that the key to defeating the boss villain is destroying the artifact known as the Mortal Coil. It doesn't spoil surprises such as the Baron of Dalrath secretly being a lich. Rather, the overview gives the players an idea of how their story starts and what kinds of adventures they'll go on. The best pitches leave players wanting to know more and ready to dive into the action.
+This overview doesn't give away any of the campaign's secrets—for example, that the key to defeating the boss villain is destroying the artifact known as the Mortal Coil. It doesn't spoil surprises such as the Baron of Dalrath secretly being a lich. Rather, the overview gives the players an idea of how their story starts and what kinds of adventures they'll go on. The best pitches leave players wanting to know more and ready to dive into the action.
 
 Here's an example of an opening overview that Matthew Colville created for his gaming group.
 
@@ -86,7 +86,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 *The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
 
-As you can see, this opening overview introduces the setting-Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal-to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
 <!-- -->
 > **Personal Problems at the Table**
@@ -206,7 +206,7 @@ Each time you need a new location or adventure site for an upcoming adventure, d
 
 There might be other details of your campaign you'll want to establish before your first adventure. For example, you might want to know the nearest settlement to the heroes' starting town or the name of the monarch who rules over the country where that town is found. Go ahead and sketch out the names of any places you know will be an important part of your campaign, along with a single sentence or so of detail. You'll be able to add more detail to these items as needed while preparing the campaign.
 
-The main reason you shouldn't overprepare for the future is that you can't know how the players' choices and the characters' actions might change the world. Those actions should matter and have consequences. That's what makes the game fun and authentic. When what happens during a session surprises you, it should be a moment of delight-not a moment of grumbling because you just lost a lot of preparation work.
+The main reason you shouldn't overprepare for the future is that you can't know how the players' choices and the characters' actions might change the world. Those actions should matter and have consequences. That's what makes the game fun and authentic. When what happens during a session surprises you, it should be a moment of delight—not a moment of grumbling because you just lost a lot of preparation work.
 
 Overpreparing means you'll end up doing work that you'll later throw out. So do the minimum you need to do to be comfortable running the game and no more.
 
@@ -264,7 +264,7 @@ Matt, playing Linn the talent, has the Elemental Inside complication. After disc
 Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the talent's story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
-- **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too-and is one of the items desired by Ajax.
+- **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
 - **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
@@ -287,19 +287,19 @@ Every good adventure has a villain behind the trouble the heroes are trying to s
 
 ##### Villain Sins
 
-You probably know the old idiom, "Actions speak louder than words." This applies to heroes and villains alike. The thing that primarily makes a villain a force of evil the heroes-and players-will stop at nothing to defeat? The villain's actions.
+You probably know the old idiom, "Actions speak louder than words." This applies to heroes and villains alike. The thing that primarily makes a villain a force of evil the heroes—and players—will stop at nothing to defeat? The villain's actions.
 
 The best way to let the players know that your villain must be defeated is to have the villain do some unquestionably evil stuff! Before the heroes even meet the villain, they should find the corpses left behind, witness the burning villages, or be harrowed by the accounts of those lucky enough to survive the villain's wrath. The outcomes of the villain's actions let the players fully understand the depth of the evil they face. Villains don't hesitate to take or ruin the lives of others to get what they want, and most have no qualms against collateral damage.
 
-The two most important things that make your adventure's villain worth the heroes' time is what they've done-and what they're planning to do. What they've done shows that they're not just evil but capable. What they plan to do is worse than what they've done, and by golly, someone needs to stop it.
+The two most important things that make your adventure's villain worth the heroes' time is what they've done—and what they're planning to do. What they've done shows that they're not just evil but capable. What they plan to do is worse than what they've done, and by golly, someone needs to stop it.
 
-Give your villain a history of evil that the heroes can uncover. It might be a short history. Maybe the villain just performed the first in a series of murders a few hours before the heroes come to town. Or it could cover years spent as a warlord, tyrant, or entity of destruction leaving behind entire worlds reduced to rubble. Let the sins of the villain be what hooks the heroes into the adventure-and remember that there's no motivation stronger than the players deciding they must stop the villain before being asked to. A self-inspired goal works better than having an NPC beg or pay the heroes to get the job done. Still, what starts out as a job often becomes a personal mission, so don't be afraid to start there if doing so feels like the best idea.
+Give your villain a history of evil that the heroes can uncover. It might be a short history. Maybe the villain just performed the first in a series of murders a few hours before the heroes come to town. Or it could cover years spent as a warlord, tyrant, or entity of destruction leaving behind entire worlds reduced to rubble. Let the sins of the villain be what hooks the heroes into the adventure—and remember that there's no motivation stronger than the players deciding they must stop the villain before being asked to. A self-inspired goal works better than having an NPC beg or pay the heroes to get the job done. Still, what starts out as a job often becomes a personal mission, so don't be afraid to start there if doing so feels like the best idea.
 
 Once a villain discovers that the heroes are meddling in their plans, they don't sit idly by and wait for the fight to come to them. No! Great villains are proactive, sending lackeys to battle the heroes, frame them for crimes, capture their loved ones, or burn their hometowns.
 
 ##### Villain Goals
 
-Many villains don't see themselves as evil. In fact, most heroes and villains have similar motivations-ambition, revenge, and even protecting others and saving the world. The difference is that villains believe their personal goals are more important than anything else, and they are willing to sacrifice the well-being and lives of others to get what they want.
+Many villains don't see themselves as evil. In fact, most heroes and villains have similar motivations—ambition, revenge, and even protecting others and saving the world. The difference is that villains believe their personal goals are more important than anything else, and they are willing to sacrifice the well-being and lives of others to get what they want.
 
 Any of the following options make a great quick villain goal, or can serve as inspiration for goals of your own:
 
@@ -323,13 +323,13 @@ Every adventure should give the heroes a clear goal to accomplish. While most ev
 
 The heroes' ultimate adventure goal should be one that stops or prevents the total achievement of the villain's goal. If the heroes live under the oppressive rule of a tyrant who usurped a lordship and imprisons any who question his authority, they could fight to help the rightful heir regain the lordship. They might engage in political intrigue to get close to the tyrant before deposing him. They could lead others in a wide rebellion that creates a new form of government. "Depose the tyrant and install better leadership" is the heroes' ultimate adventure goal, though they have many ways to accomplish that goal.
 
-An adventure's goal doesn't always result in a total failure for the villain. Sometimes the heroes need to simply prevent as much destruction as they can while surviving to fight another day. For example, if Ajax the Invincible attacks the port city of Blackbottom to force its leaders to bend the knee, a group of 1st-level heroes lacks the resources and power to stand directly against the siege and stop it. As such, the adventure's goal might be to escape the city leading as many innocent folk as possible to safety-and staying alive to face the villain later. The heroes are still heroes for saving people, even if they can't stop the villain's plans.
+An adventure's goal doesn't always result in a total failure for the villain. Sometimes the heroes need to simply prevent as much destruction as they can while surviving to fight another day. For example, if Ajax the Invincible attacks the port city of Blackbottom to force its leaders to bend the knee, a group of 1st-level heroes lacks the resources and power to stand directly against the siege and stop it. As such, the adventure's goal might be to escape the city leading as many innocent folk as possible to safety—and staying alive to face the villain later. The heroes are still heroes for saving people, even if they can't stop the villain's plans.
 
 ##### Discovering the Goal
 
 An adventure's goal isn't always clear to the players at the start, but the heroes should always have a good idea of how to keep pursuing the story. Gameplay and fun can grind to a halt if the players don't have any idea what their characters should do to further their goals.
 
-Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer-a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of Capital's Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots-an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
+Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer—a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of Capital's Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots—an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
 
 <!-- -->
 > **Complications and Adventures**
@@ -338,7 +338,7 @@ Every adventure should have an inciting incident that either sees the heroes dis
 
 #### Creating NPCs
 
-The heroes and the fell monsters they slay shouldn't be the only folks in an adventure. A few friendly (or at least nonhostile) NPCs can supply the characters with information, equipment, and-most importantly-a good reason for putting their lives on the line. If all the people the characters come across are villainous, apathetic, or selfish, the players won't feel very motivated to get their heroics on.
+The heroes and the fell monsters they slay shouldn't be the only folks in an adventure. A few friendly (or at least nonhostile) NPCs can supply the characters with information, equipment, and—most importantly—a good reason for putting their lives on the line. If all the people the characters come across are villainous, apathetic, or selfish, the players won't feel very motivated to get their heroics on.
 
 The NPCs the heroes meet during their adventures should be complex people. They have personal motivations for helping the heroes, personality and behavioral quirks, and character flaws. An adventure typically features at least three or four NPCs you'll want to flesh out, depending on how many scenes you plan to play out and how many NPCs each scene requires.
 
@@ -366,7 +366,7 @@ What character flaw does this NPC have? They might be selfish when it comes to w
 
 ##### Helping the Heroes
 
-Why would this NPC want to help the heroes during this adventure? They don't have to be fully on board with helping the characters at first. It might take some convincing, in the form of a test, a negotiation, or a task the heroes need to accomplish to win the NPC's help. But there should be at least a kernel of motivation in the NPC already-or they have no reason to help. It could be that they don't want the villain to succeed, they see a profitable opportunity in working with the heroes, or they feel they owe the heroes a favor thanks to a previous adventure.
+Why would this NPC want to help the heroes during this adventure? They don't have to be fully on board with helping the characters at first. It might take some convincing, in the form of a test, a negotiation, or a task the heroes need to accomplish to win the NPC's help. But there should be at least a kernel of motivation in the NPC already—or they have no reason to help. It could be that they don't want the villain to succeed, they see a profitable opportunity in working with the heroes, or they feel they owe the heroes a favor thanks to a previous adventure.
 
 ##### Denying Aid
 
@@ -437,7 +437,7 @@ Director sheets are a resource you can use to prepare and track the progress of 
 
 #### Creating and Running Combat
 
-There's a lot to be said about building and preparing great combat encounters for *Draw Steel*. So much so that we had to put that advice in another book-the one with all the monsters and other stuff you need to build combat encounters. Go check it out in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
+There's a lot to be said about building and preparing great combat encounters for *Draw Steel*. So much so that we had to put that advice in another book—the one with all the monsters and other stuff you need to build combat encounters. Go check it out in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
 
 One tip that we *will* note here (and it's also in the other book because it bears repeating) is that combat encounters should hold narrative weight. *Draw Steel* isn't a game of attrition, where a few small, trivial combat encounters are meant to weaken the heroes, winnowing down their resources to make the final, important, epic clash with the villain more of a struggle. A quick combat encounter with two bumbling guards at a gate is likely over in a matter of less than a round and shouldn't award the heroes a Victory. These can be fun scenes to roleplay, but they aren't going to make full use of the characters' features and should occur infrequently. Most of the time when combat takes place, the stakes for the heroes and the story should be high!
 
@@ -456,7 +456,7 @@ When preparing an exploration scene, you'll want to come up with answers to the 
 
 Information or objects the heroes need to obtain from an exploration scene to advance the story should have some way of being found without a test. Simply by entering a monarch's private chambers, the heroes learn that the king is dead and has been slain by a knife, because his body and the murder weapon are plainly visible. They should also automatically notice that the knife bears the crest of a noble house, providing an obvious path to continue the adventure. Other details in the room might help speed along their investigation of who killed the king, but they can find the bare minimum of what they need to continue for free.
 
-It's okay for a test to be the *best* way to get necessary information or objects. But if the heroes fail or don't make the test, make sure there's another way-likely a more difficult way-for the story to continue. When searching a necromancer's tower for a book that will help stop a ritual, characters might miss all the clues pointing to the book. But they can later run into the necromancer's apprentices, who know where the book is-and who aren't willing to give up that information without a difficult fight.
+It's okay for a test to be the *best* way to get necessary information or objects. But if the heroes fail or don't make the test, make sure there's another way—likely a more difficult way—for the story to continue. When searching a necromancer's tower for a book that will help stop a ritual, characters might miss all the clues pointing to the book. But they can later run into the necromancer's apprentices, who know where the book is—and who aren't willing to give up that information without a difficult fight.
 
 Other information and rewards the heroes can earn in an exploration scene can be hidden behind tests that can be failed or missed. If heroes don't think to check under the dead king's desk, they don't find the chalice that rolled under there. If they do find the chalice but fail a Reason test to examine it, they don't learn that the chalice carries the residue of a rare poison, potentially leading them to a nearby alchemist who sells it. They can still solve the mystery without this information,
 
@@ -491,7 +491,7 @@ Allow the heroes' investigation to drive the action. In an exploration scene, yo
 
 The heroes can usually obtain basic information just by interacting with their environment. If a player asks, "Does it look like the muddy floor of the cave would cling to someone's boots?", getting confirmation doesn't require a test. However, following the tracks that lead out of the cave toward the bandits' new hideout does require a test, because that's a harder task whose failure gives the bandits extra time to prepare an ambush for when the heroes arrive! If a character wants to meticulously dig through the refuse pile and examine each piece of trash, no test is required to find the torn-up pieces of the map unless they're under serious time pressure to do so. However, a character piecing the map back together needs to succeed on a Reason test to do so, because failing that task means the heroes obtain only incomplete information as they continue their search.
 
-[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to-and that's the way the game is meant to be played!
+[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
 
 Additionally, if a player has a particularly clever and plausible idea for attempting to overcome a challenge, you can have them automatically succeed on a task even if failure would make the story more interesting. It's important to reward clever thinking with success once in a while, so that the players are encouraged to think outside the box and create memorable moments!
 
@@ -517,7 +517,7 @@ On the other hand, not sharing the difficulty of every test with the players let
 
 After a hero makes a test, it's up to you to narrate and decide the outcome, keeping some basic guidelines in mind.
 
-If a test is a **failure with a consequence**, the hero doesn't just fail-they make things worse. This might mean drawing the attention of nearby foes, setting off a hazard or trap, taking damage or causing an ally to take damage, taking a bane on a future test, losing a mundane item, making a friendly NPC angry, or even earning you a little future Malice. The consequence is up to you!
+If a test is a **failure with a consequence**, the hero doesn't just fail—they make things worse. This might mean drawing the attention of nearby foes, setting off a hazard or trap, taking damage or causing an ally to take damage, taking a bane on a future test, losing a mundane item, making a friendly NPC angry, or even earning you a little future Malice. The consequence is up to you!
 
 If a test is a **failure**, the hero doesn't do what they set out to do. But even though they don't incur a formal consequence, negative effects can still accompany a failed test depending on circumstances. If a hero attempts to move silently past a group of guards, a failure on the test might draw the guards' attention, but the character should have a chance to react before the alarm is raised. But if the character had incurred a failure with a consequence, they would be spotted immediately as the shouting guards rush to the attack.
 
@@ -525,7 +525,7 @@ If a test is a **success with a consequence**, the hero succeeds but suffers a s
 
 If a test is a **success**, the hero does what they set out to do! You can even let a player narrate the outcome of a successful test by asking them, "How did you pull this off ?"
 
-If the test is a **success with a reward**, the hero does what they set out to do-and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
+If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
 Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
 
@@ -548,7 +548,7 @@ The hazards you'll create and use in your adventures come in one of three types:
 
 ##### Activated Hazard Triggers
 
-All activated hazards have some kind of trigger, and the heroes should be allowed to make tests-typically Reason or Intuition tests-to notice and then disable that trigger. The deadlier the hazard, the harder the test.
+All activated hazards have some kind of trigger, and the heroes should be allowed to make tests—typically Reason or Intuition tests—to notice and then disable that trigger. The deadlier the hazard, the harder the test.
 
 If a hero doesn't think to search for a trigger before stumbling into a hazard, you can still call for a test to let them notice the trigger when the hazard is about to activate, provided it makes sense to do so. If a hero is about to cross over a tripwire that triggers a trap, you might call for an Intuition test to notice the wire at the point when it can be clearly seen. On a failed test, the character walks into the tripwire and activates the trap.
 
@@ -601,7 +601,7 @@ Some hazards deal effects in addition to or instead of damage. A hazard that is 
 - A character receives a gaping wound that causes them to take 1d10 damage whenever they roll a natural 2 before they next finish a respite.
 - A character is teleported into the middle of a nearby body of water.
 
-But although lasting and interesting consequences are fun, make sure they don't derail your story to the point where the whole game becomes about solving the problems created by a hazard-unless your group thinks that's fun!
+But although lasting and interesting consequences are fun, make sure they don't derail your story to the point where the whole game becomes about solving the problems created by a hazard—unless your group thinks that's fun!
 
 #### Creating and Running Interaction
 
@@ -609,15 +609,15 @@ Interaction scenes are similar to exploration scenes, except that the heroes obt
 
 Interaction scenes aren't full negotiations, which are reserved for adventure-changing conversations. Still, keep in mind that different NPCs react differently to various forms of persuasion. A coward might be easy to intimidate, while a battle-hardened soldier might be impossible to awe with displays of ferocity. A bribe might work for a corrupt noble, but a goodly queen who already has wealth beyond measure likely has no interest in whatever riches the heroes possess.
 
-Refer to the details you wrote down for your NPCs while you roleplay them. Keep in mind any distinct behaviors or attitudes you can throw in to help make the scene fun. You don't have to be a great actor to create a memorable interaction scene! Simply describing how an NPC looks, sounds, and acts goes a long way even without doing funny voices. If you want to put on a character voice, go for it-but there's no obligation to.
+Refer to the details you wrote down for your NPCs while you roleplay them. Keep in mind any distinct behaviors or attitudes you can throw in to help make the scene fun. You don't have to be a great actor to create a memorable interaction scene! Simply describing how an NPC looks, sounds, and acts goes a long way even without doing funny voices. If you want to put on a character voice, go for it—but there's no obligation to.
 
 ### Creating and Running Negotiations
 
-When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats-a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
+When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
 When assigning negotiation stats, keep the following guidelines in mind:
 
-- The higher an NPC's starting interest, the more likely the heroes are to end the negotiation with everything they want-and then some-from the NPC.
+- The higher an NPC's starting interest, the more likely the heroes are to end the negotiation with everything they want—and then some—from the NPC.
 - The higher an NPC's starting patience, the longer the negotiation and the more chances the heroes have to make arguments. If you want a long, rich negotiation, give your NPC a higher patience score.
 - The more motivations an NPC has, the more likely the heroes are to make easier tests while engaging the NPC.
 - The more pitfalls an NPC has, the more likely the heroes are to stumble into a topic that turns negotiation sour. However, too many pitfalls can feel like a "Gotcha!" setup to players, especially if they don't have time to do a little research or reconnaissance on the NPC before going into the negotiation.
@@ -631,15 +631,15 @@ A negotiation has six possible outcomes, but two of those are predetermined. If 
 <!-- -->
 > **Multiple NPCs**
 >
-> The negotiation rules are built around the idea of the heroes facing off against a single dominant NPC-a powerful leader, a ranking diplomat, a warlord, a key villain, and so forth. But this isn't to say that you can't run a negotiation with the heroes interacting with a group of NPCs, each with their own slightly different take on wheeling and dealing.
+> The negotiation rules are built around the idea of the heroes facing off against a single dominant NPC—a powerful leader, a ranking diplomat, a warlord, a key villain, and so forth. But this isn't to say that you can't run a negotiation with the heroes interacting with a group of NPCs, each with their own slightly different take on wheeling and dealing.
 >
-> If you set up a negotiation using more than one NPC, you don't give each NPC their own negotiation stats, motivations, and pitfalls. Rather, you assign stats to the group as a whole, then have different NPCs step to the fore in the negotiation when a particular motivation or pitfall is in play. For example, if you assign the greed pitfall to a group of knights, the well-dressed captain of that group might appear as though they're open to being bribed by the heroes. But when the dour sergeant-atarms who resents the captain's flamboyant lifestyle angrily rejects the characters' offer, the captain must go along with it to keep the peace among their followers.
+> If you set up a negotiation using more than one NPC, you don't give each NPC their own negotiation stats, motivations, and pitfalls. Rather, you assign stats to the group as a whole, then have different NPCs step to the fore in the negotiation when a particular motivation or pitfall is in play. For example, if you assign the greed pitfall to a group of knights, the well-dressed captain of that group might appear as though they're open to being bribed by the heroes. But when the dour sergeant-at-arms who resents the captain's flamboyant lifestyle angrily rejects the characters' offer, the captain must go along with it to keep the peace among their followers.
 
 If a negotiation ends with the NPC's interest at 2 or 5, you need to know what the NPC might offer the heroes instead of or in addition to their main ask. It's also a good idea to have a list of two favors, items, pieces of information, or other help the NPC can offer the heroes, so that you aren't scrambling to think of something if these results come up.
 
 Likewise, if the NPC's interest hits 3, they'll ask the heroes for a favor in exchange for what's being asked of them. The heroes might also directly ask the NPC what they can offer to cinch the negotiation. In this case, it helps to have in mind two favors, items, pieces of information, or other help the NPC could ask for from the heroes.
 
-Finally, if the heroes really offend the NPC and end the negotiation with their interest at 0, have some idea of what the NPC might do to try to punish the heroes. If you don't have this ready, though, don't sweat it. Revenge is a dish best served cold-and maybe a few sessions from now-so you've got time to plan.
+Finally, if the heroes really offend the NPC and end the negotiation with their interest at 0, have some idea of what the NPC might do to try to punish the heroes. If you don't have this ready, though, don't sweat it. Revenge is a dish best served cold—and maybe a few sessions from now—so you've got time to plan.
 
 #### Hero Negotiation Stats
 
@@ -647,7 +647,7 @@ Many heroes have class features, titles, or other character options that make th
 
 #### Heroes Must Initiate
 
-A negotiation should always be initiated by the heroes, and the character (as with people in general) can't be forced to negotiate for something they don't want. As you prepare your negotiation, remember that the players might decide to gain what the characters need from the NPC in some other way-calling in a favor from someone else who has the means to help them, stealing what they need from the NPC, simply pushing forward without the NPC's help, and so on.
+A negotiation should always be initiated by the heroes, and the character (as with people in general) can't be forced to negotiate for something they don't want. As you prepare your negotiation, remember that the players might decide to gain what the characters need from the NPC in some other way—calling in a favor from someone else who has the means to help them, stealing what they need from the NPC, simply pushing forward without the NPC's help, and so on.
 
 #### Framework for Roleplaying
 
@@ -655,7 +655,7 @@ New Directors and players might feel a bit overwhelmed by negotiation, wondering
 
 An NPC's interest helps you determine their attitude toward the party's proposals, while their patience indicates how much time they're willing to give the heroes. In the same way that Stamina tells you when a monster is done with a fight, patience tells you when an NPC is done talking and is ready to deal. The negotiation rules mean you never have to just roleplay a conversation until you and the players become bored with the scene, then someone makes a single test to see what happens. The negotiation rules let you roleplay with structure, risks, and rewards!
 
-The most important thing to remember when it comes to negotiation is that the rules are meant to work with you-not against you. They're flexible on purpose. If a hero makes an excellent argument that you think should work without a test, then it does. If a hero makes an unfortunate argument that should fail no matter what, then they're out of luck. You're empowered to run negotiation in whatever way will be the most fun for you and your players.
+The most important thing to remember when it comes to negotiation is that the rules are meant to work with you—not against you. They're flexible on purpose. If a hero makes an excellent argument that you think should work without a test, then it does. If a hero makes an unfortunate argument that should fail no matter what, then they're out of luck. You're empowered to run negotiation in whatever way will be the most fun for you and your players.
 
 If players are having trouble roleplaying during a negotiation, try running your next negotiation without announcing that the characters are now in a negotiation. Simply ask them for tests when appropriate and have the NPC respond based on the test outcomes and their motivations and pitfalls. This approach might help your players shake off focusing on the rules to simply roleplay as you track interest and patience on the side.
 
@@ -698,7 +698,7 @@ The bandit chief archetype can be used for any other local big shot, such as the
 
 The bandit chief has the following possible motivations:
 
-- **Freedom:** No one tells me what to do-not if they want to keep their head on their shoulders. And no one tells my toughs what to do except *me*!
+- **Freedom:** No one tells me what to do—not if they want to keep their head on their shoulders. And no one tells my toughs what to do except *me*!
 - **Greed:** Gold! I love the feel of shining, clinking coins running between my fingers. I never found anything to spend it on that I like as much as just *having* gold.
 - **Power:** I want a stronger hideout, more toughs, and a bigger share of the loot. Get me that, and I'll do your dirty work for you.
 - **Revelry:** If you don't get drunk after a raid, then why have a raid?
@@ -742,7 +742,7 @@ The knight has the following possible pitfalls:
 
 **Impression Score:** 3
 
-*The guildmaster knows the value of a coin, but understands that knowledge-inside information and trade secrets alike-is the most valuable currency. They bargain accordingly.*
+*The guildmaster knows the value of a coin, but understands that knowledge—inside information and trade secrets alike—is the most valuable currency. They bargain accordingly.*
 
 The guildmaster archetype can be used for any other local information broker, such as a cult leader, hag, or spy.
 
@@ -752,14 +752,14 @@ The guildmaster has the following possible motivations:
 
 - **Benevolence:** The people can't take care of themselves. Somebody's got to look after them, the poor lambs.
 - **Discovery:** It would be highly unethical for you to show me those schematics you obtained from a rival guild. Likewise, it would be highly unethical for me to slide you this bag of gold.
-- **Power:** Who do you think will be in charge in the next age? The nobles? Pah! They still count their wealth in cows. Whoever controls information will rule the world-and I intend for that to be us.
-- **Protection:** We have rivals-hungry opportunists who will stop at nothing. If I want to protect my guild, I've got to do unto them before they do unto us.
+- **Power:** Who do you think will be in charge in the next age? The nobles? Pah! They still count their wealth in cows. Whoever controls information will rule the world—and I intend for that to be us.
+- **Protection:** We have rivals—hungry opportunists who will stop at nothing. If I want to protect my guild, I've got to do unto them before they do unto us.
 
 ###### Pitfalls
 
 The guildmaster has the following possible pitfalls:
 
-- **Higher Authority:** My loyalty is to the guild-not the burgomaster, not the king, not Ajax himself. But don't tell them I said that.
+- **Higher Authority:** My loyalty is to the guild—not the burgomaster, not the king, not Ajax himself. But don't tell them I said that.
 - **Justice:** We're reshaping the world here. Of course, some people who can't adapt are going to find themselves on the bottom. But why should anyone blame us for that?
 - **Peace:** Conflict isn't bad in and of itself. It drives innovation. The key is to not be on the losing side.
 - **Revelry:** I don't have time for this foolishness. Come talk to me again when you have something of value to show me.
@@ -778,7 +778,7 @@ The warlord has the following possible motivations:
 
 - **Freedom:** I'm not paying a single coin to some weakling liege lord for the privilege of being told what to do. I've raised my banner. I defy anyone to pull it down.
 - **Legacy:** Did you see that young captain out there putting the fear of the gods into her troops? That's my kid, but she earned her title. Someday, this will all be hers.
-- **Peace:** Look around you. Everywhere you look-weakness, corruption, waste. Peace is a noble goal, but we won't have peace until the current regime is swept away.
+- **Peace:** Look around you. Everywhere you look—weakness, corruption, waste. Peace is a noble goal, but we won't have peace until the current regime is swept away.
 - **Vengeance:** Have you suffered as I have at the hands of that accursed villain? If so, then I'll gladly call you friend.
 
 ###### Pitfalls
@@ -803,9 +803,9 @@ The burgomaster archetype can be used for any other local ruler, such as a baron
 The burgomaster has the following possible motivations:
 
 - **Greed:** Keep talking. I'm sure we can come to an agreement that benefits all parties. A rising tide and all that.
-- **Higher Authority:** No one can accuse me of being disloyal. What my duty demands, I do-but let's determine the most sensible way to go about it.
+- **Higher Authority:** No one can accuse me of being disloyal. What my duty demands, I do—but let's determine the most sensible way to go about it.
 - **Justice:** The rule of law must be preserved. If you have evidence of crimes, those responsible must be punished.
-- **Protection:** The weak, the helpless-they depend upon me. And, to a lesser extent, civic-minded heroes like yourselves. Together, we'll make sure the people come to no harm.
+- **Protection:** The weak, the helpless—they depend upon me. And, to a lesser extent, civic-minded heroes like yourselves. Together, we'll make sure the people come to no harm.
 
 ###### Pitfalls
 
@@ -820,7 +820,7 @@ The burgomaster has the following possible pitfalls:
 
 **Impression Score:** 6
 
-*The virtuoso is the preeminent musician in the land-perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
+*The virtuoso is the preeminent musician in the land—perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
 
 The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
 
@@ -837,10 +837,10 @@ The virtuoso has the following possible motivations:
 
 The virtuoso has the following possible pitfalls:
 
-- **Greed:** You offer me money? Money comes to geniuses-it is our due. I can get it from a thousand admirers.
+- **Greed:** You offer me money? Money comes to geniuses—it is our due. I can get it from a thousand admirers.
 - **Power:** I have no ambitions beyond this opera house. For me to leave this place, even for a palace or a throne... it would be an exile for me.
 - **Protection:** I'm not afraid. The god of music will look after her own.
-- **Vengeance:** Perhaps there are some who hate me-those who think I stand in their way, or whose accomplishments I have eclipsed. But I hate no one and am jealous of no one.
+- **Vengeance:** Perhaps there are some who hate me—those who think I stand in their way, or whose accomplishments I have eclipsed. But I hate no one and am jealous of no one.
 
 ##### High Priest
 
@@ -882,8 +882,8 @@ The duke has the following possible motivations:
 
 - **Discovery:** My agents have brought me many whispers, but this is news to me. Who else knows of this?
 - **Higher Authority:** I must do as my liege commands. So tell me how you seek to serve them as well.
-- **Peace:** We must have stability. I will sacrifice anything-and anyone-for this.
-- **Vengeance:** There is one-I will not speak their name-who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
+- **Peace:** We must have stability. I will sacrifice anything—and anyone—for this.
+- **Vengeance:** There is one—I will not speak their name—who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
 
 ###### Pitfalls
 
@@ -952,7 +952,7 @@ The monarch has the following possible pitfalls:
 
 *The lich spent centuries alone, studying and building their power... but now the time for studying is over.*
 
-The lich is willing to negotiate with strong heroes who might make loyal lieutenants-or powerful undead servants if the talks don't go well.
+The lich is willing to negotiate with strong heroes who might make loyal lieutenants—or powerful undead servants if the talks don't go well.
 
 The lich archetype can be used for any other world-shaking threat, such as a would-be emperor or the vampire lord Count Rhodar von Glauer.
 
@@ -970,7 +970,7 @@ The lich has the following possible motivations:
 The lich has the following possible pitfalls:
 
 - **Benevolence:** Do you ask the farmer to pity the wheat before it's harvested?
-- **Legacy:** I don't care what the common people think of me. The less they think of me, the better-as long as they obey my commands.
+- **Legacy:** I don't care what the common people think of me. The less they think of me, the better—as long as they obey my commands.
 - **Peace:** Yes, yes, peace will come... but not now.
 - **Protection:** If you're so intent on saving lives, then save your own by bowing down before me! No harm will come to my servants.
 
@@ -978,7 +978,7 @@ The lich has the following possible pitfalls:
 
 **Impression Score:** 12
 
-*The deity will listen to your prayers-and might perhaps answer them as well, if the mood strikes them.*
+*The deity will listen to your prayers—and might perhaps answer them as well, if the mood strikes them.*
 
 The deity archetype can be used for any other world-transcending power, such as the legendary time dragon Cthrion Uroniziir, or the dread pharaoh Khorsekef the Infinite.
 
@@ -1036,7 +1036,7 @@ You can use any of the following montage tests in your game, or as inspiration t
 
 ##### Fight Fire
 
-Fire has broken out in the town! The heroes must prevent the conflagration from spreading while saving as many townsfolk as possible. Their efforts might be made more difficult if the cause of the fire-such as a marauding dragon or an invading army-is still around causing trouble.
+Fire has broken out in the town! The heroes must prevent the conflagration from spreading while saving as many townsfolk as possible. Their efforts might be made more difficult if the cause of the fire—such as a marauding dragon or an invading army—is still around causing trouble.
 
 ###### Setting the Scene
 
@@ -1059,7 +1059,7 @@ The following challenges can be part of the montage test:
 At the end of the first montage test round, an emergency crops up. One or more heroes, selected by the players, must deal with the situation before the end of the round. If the heroes successfully deal with the twist, they earn a success for the montage test. Otherwise, they earn a failure.
 
 - **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* Climb, Gymnastics, Jump.
-- **Cause of the Fire:** At the end of the first round of the montage test, the hostile cause of the fire appears-a squad of an invading army, a dragon, a team of arsonists, and so forth. The characters must engage in a standard or hard encounter with this threat.
+- **Cause of the Fire:** At the end of the first round of the montage test, the hostile cause of the fire appears—a squad of an invading army, a dragon, a team of arsonists, and so forth. The characters must engage in a standard or hard encounter with this threat.
 - **Help!** Townsfolk are about to run into a burning building to save a trapped relative. This twist requires two tests, each of which nets a success or a failure for the montage test. One hero can try to prevent the townspeople from entering the burning building while another rescues the relative. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Lift, Persuade.
 
 ###### Montage Test Outcomes
@@ -1072,7 +1072,7 @@ One of the following outcomes ends the montage test:
 
 ##### Infiltrate the Palace
 
-Whether the heroes are trying to reach a tyrant's throne room, pull off a daring art heist, or rescue royalty from captivity, they're somewhere they're not supposed to be-and they'd prefer to keep their presence a secret.
+Whether the heroes are trying to reach a tyrant's throne room, pull off a daring art heist, or rescue royalty from captivity, they're somewhere they're not supposed to be—and they'd prefer to keep their presence a secret.
 
 ###### Setting the Scene
 
@@ -1105,7 +1105,7 @@ The following challenges can be part of the heroes' infiltration:
 
 ###### Optional Twist
 
-At any time during the infiltration section of the montage test, immediately after one hero's turn, the characters run into another group breaking into the palace at the same time, and possibly after the same prize. The characters can choose to fight or negotiate with the other party, or simply let them pass-in which case they might meet them again when they reach their final goal.
+At any time during the infiltration section of the montage test, immediately after one hero's turn, the characters run into another group breaking into the palace at the same time, and possibly after the same prize. The characters can choose to fight or negotiate with the other party, or simply let them pass—in which case they might meet them again when they reach their final goal.
 
 ###### Montage Test Outcomes
 
@@ -1160,7 +1160,7 @@ The fugitive's route is easy to follow, but could they be setting a false trail?
 
 The following challenges can be part of the montage test:
 
-- **Ask Around:** Characters can gather clues from locals or bystanders-or if they have access to the proper magic, from animals or the dead. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Interrogate, Persuade, Rumors.
+- **Ask Around:** Characters can gather clues from locals or bystanders—or if they have access to the proper magic, from animals or the dead. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Interrogate, Persuade, Rumors.
 - **Follow the Trail:** Looking for tracks or other signs of the fugitive's passage can lead the characters on. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Search, Track. *Special:* The heroes can attempt this challenge twice during the montage test.
 - **Obtain a Good View:** Characters can climb up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
 - **Predict the Next Move:** The heroes might have an idea where the quarry is headed. A character gains an edge on the test for this challenge if they know the quarry well. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Read Person, an appropriate skill from the lore skill group (Nature to follow an animal, Criminal Underworld to follow a criminal, and so forth).
@@ -1180,7 +1180,7 @@ One of the following outcomes ends the montage test:
 
 ##### Wilderness Race
 
-The heroes must cross trackless wilderness, perhaps to reach a besieged city before it falls or seek the site where a curse is about to be activated. Getting there fast is a priority-but so is getting there alive.
+The heroes must cross trackless wilderness, perhaps to reach a besieged city before it falls or seek the site where a curse is about to be activated. Getting there fast is a priority—but so is getting there alive.
 
 ###### Setting the Scene
 
@@ -1359,7 +1359,7 @@ If the heroes use clever thinking to easily and surprisingly overcome or bypass 
 
 ### Campaign: First Session
 
-Ah, that new-campaign smell! The first session of any new long-term campaign is all about getting the players excited, comfortable, and ready to play. The first session of a campaign is sometimes referred to as "session 0" because of its focus on setup and character building-but when character building is done, you want to make sure your first session kicks off with maximum excitement!
+Ah, that new-campaign smell! The first session of any new long-term campaign is all about getting the players excited, comfortable, and ready to play. The first session of a campaign is sometimes referred to as "session 0" because of its focus on setup and character building—but when character building is done, you want to make sure your first session kicks off with maximum excitement!
 
 #### First, Business
 
@@ -1397,7 +1397,7 @@ As your players make their heroes, you can take notes. It's a good idea to recor
 
 #### Start With a Bang
 
-When all else is done, it's a great idea to play an opening scene during your first session-ideally a scene that includes a combat encounter. This first encounter should give the players a taste of the delicious campaign you're cooking up for them and leave them eager for the next session.
+When all else is done, it's a great idea to play an opening scene during your first session—ideally a scene that includes a combat encounter. This first encounter should give the players a taste of the delicious campaign you're cooking up for them and leave them eager for the next session.
 
 Your opening encounter should introduce or hint at the villain the heroes face during their first adventure. You can use any of the following encounter ideas to get you started:
 

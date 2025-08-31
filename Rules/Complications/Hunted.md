@@ -14,7 +14,7 @@ type: complication
 
 #### Hunted
 
-You have long stayed one step ahead of a pursuer-perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
+You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
 **Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a respite activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 

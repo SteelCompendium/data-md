@@ -344,7 +344,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ###### Materialize
 
-*You picture an object in your mind and give it form-directly above your opponent's head.*
+*You picture an object in your mind and give it form—directly above your opponent's head.*
 
 | **Psionic, Ranged, Resopathy, Strike** |               **Main action** |
 | -------------------------------------- | ----------------------------: |

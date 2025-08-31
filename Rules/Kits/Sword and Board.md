@@ -14,7 +14,7 @@ type: kit
 
 #### Sword and Board
 
-The Sword and Board kit doesn't just give you a shield-it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The Sword and Board kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 

@@ -5,7 +5,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Materialize
 file_dpath: Talent/1st-Level Features
-flavor: You picture an object in your mind and give it form-directly above your opponent's head.
+flavor: You picture an object in your mind and give it form—directly above your opponent's head.
 item_id: materialize
 item_index: '03'
 item_name: Materialize
@@ -26,7 +26,7 @@ type: feature/ability/talent/1st-level-feature
 
 ###### Materialize
 
-*You picture an object in your mind and give it form-directly above your opponent's head.*
+*You picture an object in your mind and give it form—directly above your opponent's head.*
 
 | **Psionic, Ranged, Resopathy, Strike** |               **Main action** |
 | -------------------------------------- | ----------------------------: |

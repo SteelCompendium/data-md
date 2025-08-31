@@ -46,7 +46,7 @@ Each stormwight kit is associated with a primordial storm, which channels a spec
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes-which become devastating natural weapons as your ferocity grows.
+You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
 
 ##### Kit Bonuses
 
@@ -179,7 +179,7 @@ As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocit
 
 #### Raden
 
-With this stormwight kit, you channel your primordial ferocity into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood-a surge of corrupted water that draws forth hordes of rats.
+With this stormwight kit, you channel your primordial ferocity into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
 ##### Aspect Benefits
 

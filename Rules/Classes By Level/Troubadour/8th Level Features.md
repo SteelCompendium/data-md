@@ -48,7 +48,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### Radical Fantasia
 
-*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪*
+*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |

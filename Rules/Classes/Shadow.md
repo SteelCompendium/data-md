@@ -49,7 +49,7 @@ As a 1st-level shadow, you gain the following features.
 
 #### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out-or are kicked out-as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
@@ -614,7 +614,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 ###### Pinning Shot (7 Insight)
 
-*One missile-placed well and placed hard.*
+*One missile—placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |

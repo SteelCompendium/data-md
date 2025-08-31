@@ -24,7 +24,7 @@ Negotiation is a framework for important roleplaying encounters in which the her
 
 ### When to Negotiate
 
-In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes-but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
+In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
 Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the Lie skill or a Might test using Intimidate is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the Flirt skill.
 
@@ -36,7 +36,7 @@ To negotiate successfully, the heroes must make persuasive arguments to convince
 
 Some players might instinctively feel that the negotiation rules should give them something akin to mind-control superpowers. They're not used to imagining NPCs complexly, and might attempt to negotiate in situations where negotiation is either completely unreasonable or literally impossible. No matter how persuasive or well-spoken a hero is, there's no argument to be made that might convince the vile Lord Syuul to give up his pursuit of evil and become a gardener. A negotiation typically can't convince a queen to hand over her crown to the heroes and name them the new rulers of the land, or inspire a dragon to fork over every piece of treasure in their hoard. Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
 
-**Negotiation is not a process that changes an NPC's character.** Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character-you're convincing them that their current evil ways are out of character. "Is this who you are? Is this how you want to be remembered?!"
+**Negotiation is not a process that changes an NPC's character.** Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character—you're convincing them that their current evil ways are out of character. "Is this who you are? Is this how you want to be remembered?!"
 
 If some players want to use the negotiation system as a means to an end by having their characters say, "Just do what we tell you, or else!", you can remind them that that's not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
 
@@ -44,13 +44,13 @@ If some players want to use the negotiation system as a means to an end by havin
 
 In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
 
-The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship-and it's probably time to draw steel.
+The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to draw steel.
 
-Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident-after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
+Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident—after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
 
 ### Negotiation Stats
 
-During negotiation, the Director assigns NPCs four temporary statistics and features-interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls-but they have to do all that before the NPC's patience wears out.
+During negotiation, the Director assigns NPCs four temporary statistics and features—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
 
 #### Interest
 
@@ -88,7 +88,7 @@ An NPC can have any of the following twelve motivations or pitfalls.
 
 An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
 
-Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew-but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
+Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew—but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
 
 An NPC with the benevolence pitfall has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
 
@@ -164,7 +164,7 @@ An NPC with a legacy pitfall cares nothing about leaving a personal mark on the 
 Arguments that appeal to a legacy motivation contend that striking a deal with the heroes increases the likelihood that people will talk about the NPC for centuries to come. Example arguments include the following:
 
 - "If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
-- "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues-all of it created for you because your siege engines turned the tide."
+- "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide."
 
 ##### Peace
 
@@ -181,14 +181,14 @@ Arguments that appeal to a peace motivation contend that helping the heroes will
 
 ##### Power
 
-An NPC with the power motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals-though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
+An NPC with the power motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
 
 An NPC with the power pitfall has no interest in authority for themself. They might respect the authority of others, but they hate the thought of ruling over other people and roundly reject any suggestion of the idea.
 
 Arguments that appeal to a power motivation contend that working with the heroes will increase or protect the NPC's power. Example arguments include the following:
 
 - "Everyone knows you should be running the watch, Percy. The old lady's retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we'll put in a good word."
-- "We know he's your brother, Your Highness, but he's older-first in line for the throne. If you help us prove he's in a cult, you become the favorite son."
+- "We know he's your brother, Your Highness, but he's older—first in line for the throne. If you help us prove he's in a cult, you become the favorite son."
 
 ##### Protection
 
@@ -218,7 +218,7 @@ Arguments that appeal to the revelry motivation contend that striking a deal wit
 
 An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
-An NPC with the vengeance pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge-and they take a dim view of others who do.
+An NPC with the vengeance pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.
 
 Arguments that appeal to the vengeance motivation contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
 
@@ -277,7 +277,7 @@ While the heroes can discover an NPC's motivations or pitfalls through tests mad
 
 ### Making Arguments
 
-As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clearing bandits from a forest, handing over a piece of treasure, or slaying a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help-or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
+As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clearing bandits from a forest, handing over a piece of treasure, or slaying a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help—or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
 
 Arguments need a justification as to why they're true. "Helping us defeat Lord Saxton is good for you in the long run," is half an argument, but the hero also needs to explain why this is the case. "Helping us defeat Lord Saxton is good for you in the long run, because we know he's coming for your kingdom after Bedegar falls!" If a hero makes half an argument, the NPC might follow up with questions such as, "Why do you say that?" or "What makes you think that's true?" to get the full argument from them.
 
@@ -287,7 +287,7 @@ This is a good topic for discussion before a group actually gets into a negotiat
 
 #### Appeal to Motivation
 
-If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an medium test to attempt to sway the NPC with the argument. Depending on the argument, this can be a Reason, Intuition, or Presence test using any applicable skill-most commonly a skill from the interpersonal skill group. The test has the following outcomes:
+If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an medium test to attempt to sway the NPC with the argument. Depending on the argument, this can be a Reason, Intuition, or Presence test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
 
@@ -378,7 +378,7 @@ The initial response should come with an offer (or a refusal to make an offer) b
 
 #### Interest 5 ("Yes, and...")
 
-If the NPC's interest is 5, they offer everything the heroes initially asked for-and then sweeten the deal. This represents the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
+If the NPC's interest is 5, they offer everything the heroes initially asked for—and then sweeten the deal. This represents the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
 
 For example, if the heroes asked the boss of a thieves' guild for that organization's help in standing against Lord Saxton, the guildmaster might pledge to send a unit of elite assassins to aid in the battle against that tyrannical noble, and then offer the heroes a quiver filled with explosive arrows to give them an additional advantage in the fight.
 
@@ -420,7 +420,7 @@ If the NPC's interest is 0, the NPC ends the negotiation without accepting a dea
 
 After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
 
-The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock-a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 #### Zola's Negotiation Stats
 
@@ -467,9 +467,9 @@ In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a R
 
 **Alyssa:** *Ah! So she has heard of me at least! Thanks, Renown.*
 
-**Grace (playing Val, a conduit):** *"We don't. But we do have Lord Edmund-the true heir to the Bedegar throne."*
+**Grace (playing Val, a conduit):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
 
-**Director:** *Zola nods, impressed. "I'm glad the boy is safe, but that's all he is-a boy, not an army."*
+**Director:** *Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."*
 
 **Matt (playing Linn, a talent):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
 
@@ -547,7 +547,7 @@ Korvo's success has revealed Zola's benevolence motivation.
 
 **Director:** *Zola's interest is piqued. "What makes you say that?"*
 
-**Alyssa:** *"Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut-a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton-no oath of fealty necessary. After the young lord reclaims the throne, that is."*
+**Alyssa:** *"Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut—a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton—no oath of fealty necessary. After the young lord reclaims the throne, that is."*
 
 **Director:** *You're appealing to one of her motivations, so make a Presence test.*
 

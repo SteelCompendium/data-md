@@ -51,7 +51,7 @@ As a 1st-level tactician, you gain the following features.
 
 #### Tactical Doctrine
 
-Warfare is as old as civilization-and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
@@ -216,7 +216,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 ###### Mark
 
-*You draw your allies' attention to a specific foe-with devastating effect.*
+*You draw your allies' attention to a specific foe—with devastating effect.*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |
@@ -359,7 +359,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 ###### Now! (5 Focus)
 
-*Your allies wait for your command-then unleash death!*
+*Your allies wait for your command—then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |

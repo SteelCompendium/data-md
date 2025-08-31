@@ -18,7 +18,7 @@ type: chapter
 
 While all your character creation decisions bear narrative weight, none influences the way you play the game like your choice of class. Your class determines how your hero battles the threats of the timescape and overcomes other obstacles. Do you bend elemental forces to your will through the practiced casting of magic spells? Do you channel the ferocity of the Primordial Chaos as you tear across the battlefield, felling foes left and right? Or do you belt out heroic ballads that give your allies a second wind and inspire them to ever-greater achievements?
 
-Your class provides you with many of your features, most of your abilities-your most potent combat moves and noncombat options and a Heroic Resource that fuels many of those abilities. This book presents nine classes to choose from.
+Your class provides you with many of your features, most of your abilities—your most potent combat moves and noncombat options and a Heroic Resource that fuels many of those abilities. This book presents nine classes to choose from.
 
 **Censor:** A censor is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
 
@@ -34,7 +34,7 @@ Your class provides you with many of your features, most of your abilities-your 
 
 **Tactician:** A brilliant strategist and weapons master, the tactician excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
 
-**Talent:** A talent is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare-if they're willing to face the cost.
+**Talent:** A talent is the master of psionics, manifesting powers that manipulate objects, minds, and time. These heroes can reach far into themselves to use abilities even when they don't have their Heroic Resource to spare—if they're willing to face the cost.
 
 **Troubadour:** A troubadour inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
 
@@ -57,11 +57,11 @@ Abilities are presented in a special format that first describes the ability, th
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes refers to specific ways in which the ability plays out-particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury's Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes refers to specific ways in which the ability plays out—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury's Impaled ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword to keep them close. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 #### Heroic Resource Cost
 
-Each class has a Heroic Resource that your hero earns during combat, with some of your class's abilities-typically your most potent abilities-having a Heroic Resource cost to use them. When you use one of these abilities, you spend some of the Heroic Resource bestowed by your class, then activate the ability.
+Each class has a Heroic Resource that your hero earns during combat, with some of your class's abilities—typically your most potent abilities—having a Heroic Resource cost to use them. When you use one of these abilities, you spend some of the Heroic Resource bestowed by your class, then activate the ability.
 
 The nine Heroic Resources in the game are:
 
@@ -77,7 +77,7 @@ The nine Heroic Resources in the game are:
 
 ##### Heroic Abilities
 
-If an ability has a Heroic Resource cost to activate-as in, you can't use the ability at all without spending some of your Heroic Resource-then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
+If an ability has a Heroic Resource cost to activate—as in, you can't use the ability at all without spending some of your Heroic Resource—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
 Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the conduit's Healing Grace. These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
@@ -234,7 +234,7 @@ If an area ability doesn't provide a number of targets but instead says it appli
 <!-- -->
 > **Telling Friend From Foe**
 >
-> There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally-or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
+> There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally—or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
 
 #### Ability Roll
 
@@ -248,7 +248,7 @@ Unlike power rolls made as tests (see Chapter 9), ability rolls always do someth
 
 ###### Characteristics and Damage
 
-Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score-either Might, Agility, Reason, Intuition, or Presence-to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
+Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score—either Might, Agility, Reason, Intuition, or Presence—to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
 
 Using the fury's Brutal Slam ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
 
@@ -302,7 +302,7 @@ Your character has a **weak**, an **average**, and a **strong** potency value, a
 - Your average potency value is equal to your highest characteristic score − 1.
 - Your strong potency value is equal to your highest characteristic score.
 
-In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value-for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
+In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value—for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
 
 As an example, consider the conduit's Judgment's Hammer ability, which has the following power roll:
 
@@ -340,7 +340,7 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 ##### Adjusting Potencies
 
-Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities-for example, the censor's Judgment ability and the null's Null Field ability-allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
+Potencies are made for quick resolution at the table, but a number of triggered actions and other abilities—for example, the censor's Judgment ability and the null's Null Field ability—allow you to manipulate the value of potencies. If you build a hero who can adjust potencies, pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
 ##### Spending Resources on Potencies
 
@@ -352,7 +352,7 @@ This rule also applies to Director-controlled creatures who spend Malice on abil
 
 #### Critical Hit
 
-Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers-you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are dazed (see [Conditions](#page-91-2) below).
+Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are dazed (see [Conditions](#page-91-2) below).
 
 You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the tactician's Strike Now ability can be critical hits.
 
@@ -387,7 +387,7 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 #### Stacking Unique Effects
 
-The unique effects of different abilities are combined-effectively stacking on top of each other-if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect-such as the highest bonus-from each use of the ability applies. The most recently used ability applies for determining duration.
+The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
 
 For example, the null's Null Field ability reduces the potencies of enemies within the field by 1. If two allied nulls each have their Null Field ability active and an enemy cultist is targeted by both abilities, that cultist's potencies are reduced by 1, not by 2.
 
@@ -431,7 +431,7 @@ If you use an ability that creates an environmental effect, such as a portal, yo
 
 #### Straight Line
 
-Whenever a creature moves or is subjected to forced movement-a push, pull, or slide (see [Chapter 10: Combat](#page-288-0))-that movement is typically in a straight line. Abilities that allow you to move or to force move another creature often talk about moving straight toward or away from a creature or an object. But even when movement must be in a straight line, it doesn't have to be a horizontal or vertical line on an encounter map. (See the [Straight Lines](#page-85-10) sidebar earlier in this chapter.)
+Whenever a creature moves or is subjected to forced movement—a push, pull, or slide (see [Chapter 10: Combat](#page-288-0))—that movement is typically in a straight line. Abilities that allow you to move or to force move another creature often talk about moving straight toward or away from a creature or an object. But even when movement must be in a straight line, it doesn't have to be a horizontal or vertical line on an encounter map. (See the [Straight Lines](#page-85-10) sidebar earlier in this chapter.)
 
 #### Ground and Ceiling
 
@@ -506,7 +506,7 @@ For example a 6th-level censor has "Signature, 3, 5, 7, 9" in their Abilities co
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
@@ -1865,7 +1865,7 @@ Your deity grants you a Heroic Resource called piety, letting you heal and empow
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
 
-Additionally, you can gain more piety by praying to the gods-but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
 - If the roll is a 2, you gain 1 additional piety.
@@ -4870,7 +4870,7 @@ You gain one skill of your choice.
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness-and neither do you.**
+**As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
 <!-- -->
 > "DEATH!"
@@ -4905,7 +4905,7 @@ As a 1st-level fury, you gain the following features.
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape-the Primordial Chaos-and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
 - **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
 - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
@@ -5165,7 +5165,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### Out of the Way! (3 Ferocity)
 
-*Your enemies will clear your path-whether they want to or not.*
+*Your enemies will clear your path—whether they want to or not.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
@@ -6053,7 +6053,7 @@ Each stormwight kit is associated with a primordial storm, which channels a spec
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes-which become devastating natural weapons as your ferocity grows.
+You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
 
 ##### Kit Bonuses
 
@@ -6186,7 +6186,7 @@ As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocit
 
 #### Raden
 
-With this stormwight kit, you channel your primordial ferocity into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood-a surge of corrupted water that draws forth hordes of rats.
+With this stormwight kit, you channel your primordial ferocity into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
 ##### Aspect Benefits
 
@@ -7506,7 +7506,7 @@ As a 1st-level shadow, you gain the following features.
 
 #### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out-or are kicked out-as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
@@ -8071,7 +8071,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 ###### Pinning Shot (7 Insight)
 
-*One missile-placed well and placed hard.*
+*One missile—placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
@@ -8674,7 +8674,7 @@ As a 1st-level tactician, you gain the following features.
 
 #### Tactical Doctrine
 
-Warfare is as old as civilization-and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
@@ -8839,7 +8839,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 ###### Mark
 
-*You draw your allies' attention to a specific foe-with devastating effect.*
+*You draw your allies' attention to a specific foe—with devastating effect.*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |
@@ -8982,7 +8982,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 ###### Now! (5 Focus)
 
-*Your allies wait for your command-then unleash death!*
+*Your allies wait for your command—then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |
@@ -9688,7 +9688,7 @@ Additionally, whenever an ally uses a heroic ability that targets one or more cr
 
 ## Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people-a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
@@ -10051,7 +10051,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ###### Materialize
 
-*You picture an object in your mind and give it form-directly above your opponent's head.*
+*You picture an object in your mind and give it form—directly above your opponent's head.*
 
 | **Psionic, Ranged, Resopathy, Strike** |               **Main action** |
 | -------------------------------------- | ----------------------------: |
@@ -10725,7 +10725,7 @@ Choose one of the following abilities.
 
 ###### Synaptic Conditioning (9 Clarity)
 
-*It's a subtle mindset shift. It's not that they're your enemy-you just don't like them!*
+*It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
 | **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
 | ----------------------------------------- | ------------------: |
@@ -11824,7 +11824,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ###### We Meet at Last (7 Drama)
 
-*You magically intertwine your fate with another creature-for better or worse.*
+*You magically intertwine your fate with another creature—for better or worse.*
 
 | **Magic, Ranged** |        **Maneuver** |
 | ----------------- | ------------------: |
@@ -12170,7 +12170,7 @@ You have the following performance abilities, which are usable with your Routine
 
 ###### Radical Fantasia
 
-*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪*
+*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |

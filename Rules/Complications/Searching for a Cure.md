@@ -14,7 +14,7 @@ type: complication
 
 #### Searching for a Cure
 
-Your homeland has been corrupted by some terrible curse or plague, and you're the only one who escaped it. The members of your family still exist, but in changed forms-perhaps as vampire spawn, zombies, or living statues. People tell you the situation is hopeless, but you're determined to find a cure that can undo your loved ones' suffering.
+Your homeland has been corrupted by some terrible curse or plague, and you're the only one who escaped it. The members of your family still exist, but in changed forms—perhaps as vampire spawn, zombies, or living statues. People tell you the situation is hopeless, but you're determined to find a cure that can undo your loved ones' suffering.
 
 **Benefit:** Choose a type of monster connected to your homeland's plight, such as a vampire, ghost, or medusa. You have a +1 bonus to saving throws related to that monster's abilities, and you treat your characteristic scores as 1 higher than usual for the purpose of resisting potencies related to those abilities.
 

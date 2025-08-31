@@ -16,7 +16,7 @@ type: class
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
-**As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness-and neither do you.**
+**As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**
 
 <!-- -->
 > "DEATH!"
@@ -51,7 +51,7 @@ As a 1st-level fury, you gain the following features.
 
 #### Primordial Aspect
 
-You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape-the Primordial Chaos-and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
 - **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
 - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
@@ -311,7 +311,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ###### Out of the Way! (3 Ferocity)
 
-*Your enemies will clear your path-whether they want to or not.*
+*Your enemies will clear your path—whether they want to or not.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
@@ -1199,7 +1199,7 @@ Each stormwight kit is associated with a primordial storm, which channels a spec
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes-which become devastating natural weapons as your ferocity grows.
+You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
 
 ##### Kit Bonuses
 
@@ -1332,7 +1332,7 @@ As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocit
 
 #### Raden
 
-With this stormwight kit, you channel your primordial ferocity into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood-a surge of corrupted water that draws forth hordes of rats.
+With this stormwight kit, you channel your primordial ferocity into the form of a rat, becoming mobile and elusive. Raden are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
 ##### Aspect Benefits
 

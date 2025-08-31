@@ -8,7 +8,7 @@ distance: Melee 1
 feature_type: ability
 file_basename: Out of the Way
 file_dpath: Fury/1st-Level Features
-flavor: Your enemies will clear your path-whether they want to or not.
+flavor: Your enemies will clear your path—whether they want to or not.
 item_id: out-of-the-way-3-ferocity
 item_index: '04'
 item_name: Out of the Way! (3 Ferocity)
@@ -28,7 +28,7 @@ type: feature/ability/fury/1st-level-feature
 
 ###### Out of the Way! (3 Ferocity)
 
-*Your enemies will clear your path-whether they want to or not.*
+*Your enemies will clear your path—whether they want to or not.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |

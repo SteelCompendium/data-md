@@ -34,7 +34,7 @@ You wear light armor and wield a medium weapon.
 
 ###### Fancy Footwork
 
-*All combat is a dance-and you'll be the one leading.*
+*All combat is a dance—and you'll be the one leading.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |

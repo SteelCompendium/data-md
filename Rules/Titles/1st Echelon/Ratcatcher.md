@@ -25,7 +25,7 @@ type: title/1st-echelon
 
 ###### Come Out to Play (1 Heroic Resource)
 
-*Come out to play-yay!*
+*Come out to play—yay!*
 
 | **Area, Magic** |                                **Maneuver** |
 | --------------- | ------------------------------------------: |
