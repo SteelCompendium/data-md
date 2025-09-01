@@ -336,7 +336,7 @@ type: index
 | [Olothec Malice](../Olothec/Features/Olothec%20Malice)                                                                |
 | [Olothec](../Olothec/Olothec)                                                                                         |
 | [Olothec](../Olothec/Statblocks/Olothec)                                                                              |
-| [Orc Malice Malice Features](../Orcs/Features/Orc%20Malice%20Malice%20Features)                                       |
+| [Orc Malice](../Orcs/Features/Orc%20Malice)                                                                           |
 | [Orcs](../Orcs/Orcs)                                                                                                  |
 | [Mohler](../Orcs/Statblocks/Mohler)                                                                                   |
 | [Orc Blitzer](../Orcs/Statblocks/Orc%20Blitzer)                                                                       |
@@ -524,7 +524,7 @@ type: index
 | [Werewolf Malice](../Werewolf/Features/Werewolf%20Malice)                                                             |
 | [Werewolf](../Werewolf/Statblocks/Werewolf)                                                                           |
 | [Werewolf](../Werewolf/Werewolf)                                                                                      |
-| [Wyvern Malice Malice Features](../Wyverns/Features/Wyvern%20Malice%20Malice%20Features)                              |
+| [Wyvern Malice](../Wyverns/Features/Wyvern%20Malice)                                                                  |
 | [Wyvern Lurker](../Wyverns/Statblocks/Wyvern%20Lurker)                                                                |
 | [Wyvern Predator](../Wyverns/Statblocks/Wyvern%20Predator)                                                            |
 | [Wyverns](../Wyverns/Wyverns)                                                                                         |

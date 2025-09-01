@@ -8826,7 +8826,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
 <!-- -->
-> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+> 🔳 **Gift From an Accursed Tome (5 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |
@@ -10089,10 +10089,10 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > 🌀 **Vines Everywhere (7 Malice)**
 >
 > Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
-
-- **≤11:** 8 damage; restrained (save ends)
-- **12-16:** Restrained (EoT)
-- **17+:** No effect.
+>
+> - **≤11:** 8 damage; restrained (save ends)
+> - **12-16:** Restrained (EoT)
+> - **17+:** No effect.
 
 **<span class="steel-compendium-statblock">Wode Elf Lookout</span>**
 
@@ -15549,7 +15549,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> **Net Trap (3 Malice)**
+> 🔳 **Net Trap (3 Malice)**
 >
 > | **Area, Ranged, Weapon** |   **Maneuver** |
 > | ------------------------ | -------------: |
@@ -17046,7 +17046,7 @@ Orcs rely on giant bipedal lizards called scyzas to carry them over great distan
 
 Most orcs speak Caelian and Kalliak.
 
-**<span class="steel-compendium-malice">Orc Malice Malice Features</span>**
+**<span class="steel-compendium-malice">Orc Malice (Malice Features)</span>**
 
 At the start of any orc's turn, you can spend Malice to activate one of the following features.
 
@@ -26450,7 +26450,7 @@ A wyvern's infamous temper is easily provoked, particularly if their eggs or hat
 
 Wyverns are unable to speak. However, a clever hero carrying a feast of fresh meat might be able to reason with one.
 
-**<span class="steel-compendium-malice">Wyvern Malice Malice Features</span>**
+**<span class="steel-compendium-malice">Wyvern Malice (Malice Features)</span>**
 
 At the start of any wyvern's turn, you can spend Malice to activate one of the following features.
 

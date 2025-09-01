@@ -22,7 +22,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
 <!-- -->
-> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+> 🔳 **Gift From an Accursed Tome (5 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |

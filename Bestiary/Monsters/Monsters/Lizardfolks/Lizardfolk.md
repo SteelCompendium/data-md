@@ -53,7 +53,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> **Net Trap (3 Malice)**
+> 🔳 **Net Trap (3 Malice)**
 >
 > | **Area, Ranged, Weapon** |   **Maneuver** |
 > | ------------------------ | -------------: |

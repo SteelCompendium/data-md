@@ -42,7 +42,7 @@ Orcs rely on giant bipedal lizards called scyzas to carry them over great distan
 
 Most orcs speak Caelian and Kalliak.
 
-###### Orc Malice Malice Features
+###### Orc Malice (Malice Features)
 
 At the start of any orc's turn, you can spend Malice to activate one of the following features.
 

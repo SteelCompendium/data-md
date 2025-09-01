@@ -72,10 +72,10 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > 🌀 **Vines Everywhere (7 Malice)**
 >
 > Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
-
-- **≤11:** 8 damage; restrained (save ends)
-- **12-16:** Restrained (EoT)
-- **17+:** No effect.
+>
+> - **≤11:** 8 damage; restrained (save ends)
+> - **12-16:** Restrained (EoT)
+> - **17+:** No effect.
 
 ###### Wode Elf Lookout
 
