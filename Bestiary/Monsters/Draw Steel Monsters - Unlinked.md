@@ -12425,7 +12425,7 @@ Most goblins speak Caelian and Szetch.
 >
 > - **≤11:** 3 corruption damage; I < 0 weakened (save ends)
 > - **12-16:** 4 corruption damage; I < 1 weakened (save ends)
-> - **12-16:** 5 corruption damage; I < 2 weakened (save ends)
+> - **17+:** 5 corruption damage; I < 2 weakened (save ends)
 
 <!-- -->
 > 🏹 **Dizzying Hex (1 Malice)**
