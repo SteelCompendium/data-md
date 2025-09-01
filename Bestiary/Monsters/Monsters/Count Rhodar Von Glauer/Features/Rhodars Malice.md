@@ -2,12 +2,12 @@
 file_basename: Rhodars Malice
 file_dpath: Monsters/Count Rhodar Von Glauer/Features
 item_id: rhodars-malice-malice-features
-item_index: '33'
+item_index: '39'
 item_name: Rhodar's Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:rhodars-malice-malice-features
 scdc:
-  - 1.1.1:2.2:33
+  - 1.1.1:2.2:39
 source: mcdm.monsters.v1
 type: monster/feature
 ---

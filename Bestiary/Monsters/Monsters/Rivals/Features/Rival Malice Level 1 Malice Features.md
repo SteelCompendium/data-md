@@ -1,6 +1,7 @@
 ---
-file_basename: Rival Malice
+file_basename: Rival Malice Level 1 Malice Features
 file_dpath: Monsters/Rivals/Features
+include_parens_in_filename: 'true'
 item_id: rival-malice-level-1-malice-features
 item_index: '03'
 item_name: Rival Malice (Level 1+ Malice Features)

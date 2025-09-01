@@ -2,12 +2,12 @@
 file_basename: Wyvern Malice Malice Features
 file_dpath: Monsters/Wyverns/Features
 item_id: wyvern-malice-malice-features
-item_index: '12'
+item_index: '15'
 item_name: Wyvern Malice Malice Features
 scc:
   - mcdm.monsters.v1:monster.feature:wyvern-malice-malice-features
 scdc:
-  - 1.1.1:2.2:12
+  - 1.1.1:2.2:15
 source: mcdm.monsters.v1
 type: monster/feature
 ---

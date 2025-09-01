@@ -2,12 +2,12 @@
 file_basename: Minotaur Malice
 file_dpath: Monsters/Minotaurs/Features
 item_id: minotaur-malice-malice-features
-item_index: '19'
+item_index: '22'
 item_name: Minotaur Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:minotaur-malice-malice-features
 scdc:
-  - 1.1.1:2.2:19
+  - 1.1.1:2.2:22
 source: mcdm.monsters.v1
 type: monster/feature
 ---

@@ -2,12 +2,12 @@
 file_basename: Olothec Malice
 file_dpath: Monsters/Olothec/Features
 item_id: olothec-malice-malice-features
-item_index: '10'
+item_index: '13'
 item_name: Olothec Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:olothec-malice-malice-features
 scdc:
-  - 1.1.1:2.2:10
+  - 1.1.1:2.2:13
 source: mcdm.monsters.v1
 type: monster/feature
 ---

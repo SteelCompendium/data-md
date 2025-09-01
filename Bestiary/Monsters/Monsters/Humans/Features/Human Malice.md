@@ -2,12 +2,12 @@
 file_basename: Human Malice
 file_dpath: Monsters/Humans/Features
 item_id: human-malice-malice-features
-item_index: '18'
+item_index: '21'
 item_name: Human Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:human-malice-malice-features
 scdc:
-  - 1.1.1:2.2:18
+  - 1.1.1:2.2:21
 source: mcdm.monsters.v1
 type: monster/feature
 ---

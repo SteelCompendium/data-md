@@ -2,12 +2,12 @@
 file_basename: Dwarf Malice
 file_dpath: Monsters/Dwarves/Features
 item_id: dwarf-malice-malice-features
-item_index: '53'
+item_index: '62'
 item_name: Dwarf Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:dwarf-malice-malice-features
 scdc:
-  - 1.1.1:2.2:53
+  - 1.1.1:2.2:62
 source: mcdm.monsters.v1
 type: monster/feature
 ---

@@ -2,12 +2,12 @@
 file_basename: Giant Malice
 file_dpath: Monsters/Giants/Features
 item_id: giant-malice-malice-features
-item_index: '21'
+item_index: '24'
 item_name: Giant Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:giant-malice-malice-features
 scdc:
-  - 1.1.1:2.2:21
+  - 1.1.1:2.2:24
 source: mcdm.monsters.v1
 type: monster/feature
 ---

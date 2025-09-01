@@ -1,13 +1,14 @@
 ---
-file_basename: Undead Malice
+file_basename: Undead Malice Level 10 Malice Features
 file_dpath: Monsters/Undead/Features
+include_parens_in_filename: 'true'
 item_id: undead-malice-level-10-malice-features
-item_index: '06'
+item_index: 09
 item_name: Undead Malice (Level 10 Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:undead-malice-level-10-malice-features
 scdc:
-  - 1.1.1:2.2:06
+  - 1.1.1:2.2:09
 source: mcdm.monsters.v1
 type: monster/feature
 ---

@@ -2,12 +2,12 @@
 file_basename: Lightbender Malice
 file_dpath: Monsters/Lightbenders/Features
 item_id: lightbender-malice-malice-features
-item_index: '23'
+item_index: '26'
 item_name: Lightbender Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:lightbender-malice-malice-features
 scdc:
-  - 1.1.1:2.2:23
+  - 1.1.1:2.2:26
 source: mcdm.monsters.v1
 type: monster/feature
 ---

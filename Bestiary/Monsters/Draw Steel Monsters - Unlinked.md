@@ -5775,25 +5775,6 @@ Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. So
 
 Most devils speak Anjal and Caelian, among other languages. The more powerful a devil, the more languages they learn in order to more easily make ironclad contracts with a wide variety of people and cultures. Outside of rare circumstances, devils are always willing to negotiate, ever desiring to twist a situation in their favor.
 
-**<span class="steel-compendium-malice">Devil Malice (Malice Features)</span>**
-
-At the start of any devil's turn, you can spend Malice to activate one of the following features.
-
-<!-- -->
-> 👤 **Bureaucratic Tape (3 Malice)**
->
-> One devil acting this turn uses a signature ability against an adjacent creature. On a tier 3 outcome, the target of the ability has a double bane on strikes (save ends).
-
-<!-- -->
-> ⭐️ **Underhanded Tactics (5+ Malice)**
->
-> One or two devils can teleport to a space adjacent to one or more creatures who aren't hidden and make a free strike. For each 2 additional Malice spent on this feature, one additional devil can teleport.
-
-<!-- -->
-> 🌀 **Read the Small Print (7 Malice)**
->
-> Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between having damage weakness 5 or taking a bane on power rolls. The bad deal lasts until the end of the encounter.
-
 <!-- -->
 > **Devil Temptations**
 >
@@ -5812,6 +5793,25 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > **Treasures:** G'Allios Visiting Card, Thief of Joy
 >
 > **Wealth:** Each hero can earn 1 wealth in exchange for a small favor
+
+**<span class="steel-compendium-malice">Devil Malice (Malice Features)</span>**
+
+At the start of any devil's turn, you can spend Malice to activate one of the following features.
+
+<!-- -->
+> 👤 **Bureaucratic Tape (3 Malice)**
+>
+> One devil acting this turn uses a signature ability against an adjacent creature. On a tier 3 outcome, the target of the ability has a double bane on strikes (save ends).
+
+<!-- -->
+> ⭐️ **Underhanded Tactics (5+ Malice)**
+>
+> One or two devils can teleport to a space adjacent to one or more creatures who aren't hidden and make a free strike. For each 2 additional Malice spent on this feature, one additional devil can teleport.
+
+<!-- -->
+> 🌀 **Read the Small Print (7 Malice)**
+>
+> Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between having damage weakness 5 or taking a bane on power rolls. The bad deal lasts until the end of the encounter.
 
 **<span class="steel-compendium-statblock">Devil Clerk</span>**
 

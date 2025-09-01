@@ -2,12 +2,12 @@
 file_basename: High Elf Malice
 file_dpath: Monsters/Elves High/Features
 item_id: high-elf-malice-malice-features
-item_index: '11'
+item_index: '14'
 item_name: High Elf Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:high-elf-malice-malice-features
 scdc:
-  - 1.1.1:2.2:11
+  - 1.1.1:2.2:14
 source: mcdm.monsters.v1
 type: monster/feature
 ---

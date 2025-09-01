@@ -2,12 +2,12 @@
 file_basename: Shambling Mound Malice
 file_dpath: Monsters/Shambling Mound/Features
 item_id: shambling-mound-malice-malice-features
-item_index: '51'
+item_index: '57'
 item_name: Shambling Mound Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:shambling-mound-malice-malice-features
 scdc:
-  - 1.1.1:2.2:51
+  - 1.1.1:2.2:57
 source: mcdm.monsters.v1
 type: monster/feature
 ---
