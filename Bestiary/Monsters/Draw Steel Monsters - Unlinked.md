@@ -16019,6 +16019,8 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > | --------------- | -------------------------------: |
 > | **📏 5 burst**  | **🎯 Each creature in the area** |
 >
+> **Power Roll + 4:**
+>
 > - **≤11:** Frightened (EoT); if the target has I < 2 they are instead frightened (save ends)
 > - **12-16:** Frightened (EoT); if the target has I < 3 they are instead frightened (save ends)
 > - **17+:** Frightened (EoT); if the target has I < 4 they are instead dazed (save ends)
@@ -28397,7 +28399,7 @@ A massive crossbow fires thick metal bolts with devastating effect.
 >
 > **Penetrating Bolt (+2 EV)** The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
 >
-> **Chain Bolt (+2EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
+> **Chain Bolt (+2 EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
 >
 > 🏹 **Chain Bolt**
 >
