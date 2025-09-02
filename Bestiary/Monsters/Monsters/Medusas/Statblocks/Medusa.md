@@ -147,6 +147,8 @@ type: monster
 > | --------------- | -------------: |
 > | **📏 10 burst** | **🎯 Special** |
 >
+> **Power Roll + 4:**
+>
 > - **≤11:** 8 acid damage; P < 3 weakened (save ends)
 > - **12-16:** 13 acid damage; P < 4 weakened (save ends)
 > - **17+:** 17 acid damage; P < 5 weakened (save ends)

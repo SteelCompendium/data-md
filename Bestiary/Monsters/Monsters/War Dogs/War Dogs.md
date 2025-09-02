@@ -1981,6 +1981,8 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** R < 3 taunted (EoT)
 > - **12-16:** R < 4 taunted (EoT)
 > - **17+:** R < 5 taunted (EoT)
@@ -2131,6 +2133,8 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | **Area, Magic, Ranged** |                                **Maneuver** |
 > | ----------------------- | ------------------------------------------: |
 > | **📏 5 cube within 15** | **🎯 Each creature and object in the area** |
+>
+> **Power Roll + 5:**
 >
 > - **≤11:** A < 4 pull 3 toward the center of the area
 > - **12-16:** A < 5 pull 3 toward the center of the area

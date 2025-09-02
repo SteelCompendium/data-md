@@ -59,6 +59,8 @@ type: monster
 > | ------------------------- | ----------------------------: |
 > | **📏 Melee 2**            | **🎯 One creature or object** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 8 damage
 > - **12-16:** 12 damage; M < 1 bleeding (save ends)
 > - **17+:** 15 damage; M < 2 bleeding (save ends)
@@ -71,6 +73,8 @@ type: monster
 > | **Area, Magic** |                  **Maneuver** |
 > | --------------- | ----------------------------: |
 > | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)

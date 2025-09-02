@@ -85,6 +85,8 @@ A small wooden cart uses alchemical rockets to launch up to a hundred arrows at 
 > | ------------------------ | ------------------------------------------: |
 > | **📏 5 cube within 20**  | **🎯 Each creature and object in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 5 damage; R < 0 dazed (save ends)
 > - **12-16:** 8 damage; R < 1 dazed (save ends)
 > - **17+:** 11 damage; R < 2 frightened (save ends)

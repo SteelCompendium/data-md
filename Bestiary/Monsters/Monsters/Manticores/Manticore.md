@@ -117,6 +117,8 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > | ------------------------- | ------------------------------: |
 > | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 >
+> **Power Roll + 4:**
+>
 > - **≤11:** Slide 1; A < 2 3 damage
 > - **12-16:** Slide 2; A < 3 5 damage
 > - **17+:** Slide 4; A < 4 7 damage

@@ -78,6 +78,8 @@ type: monster
 > | -------------------------------- | ------------------: |
 > | **📏 Melee 1 or ranged 10**      | **🎯 One creature** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 8 corruption damage; R < 0 dazed (save ends)
 > - **12-16:** 10 corruption damage; R < 1 dazed (save ends)
 > - **17+:** 14 corruption damage; R < 2 dazed and slowed (save ends)

@@ -74,6 +74,8 @@ type: monster
 > | ----------------------- | ----------------------------: |
 > | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)
 > - **17+:** I < 2 dazed (save ends)

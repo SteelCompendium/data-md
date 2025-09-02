@@ -156,6 +156,8 @@ type: monster
 > | ------------------------- | --------------------: |
 > | **📏 Melee 2**            | **🎯 Four creatures** |
 >
+> **Power Roll + 3:**
+>
 > - **≤11:** 6 damage; bleeding (save ends); or if the target has A < 1 they are beheaded (see Lop).
 > - **12-16:** 7 damage; bleeding (save ends); or if the target has A < 2 they are beheaded
 > - **17+:** 8 damage; bleeding (save ends); or if the target has A < 3 they are beheaded

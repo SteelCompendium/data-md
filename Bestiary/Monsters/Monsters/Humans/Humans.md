@@ -587,6 +587,8 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** Push 1; M < 1 prone
 > - **12-16:** Push 2; M < 2 prone
 > - **17+:** Push 4; M < 3 prone

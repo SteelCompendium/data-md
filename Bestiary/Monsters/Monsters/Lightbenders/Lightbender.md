@@ -81,6 +81,8 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > | ------------------------- | ----------------------------: |
 > | **📏 Melee 2**            | **🎯 One creature or object** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 8 damage
 > - **12-16:** 12 damage; M < 1 bleeding (save ends)
 > - **17+:** 15 damage; M < 2 bleeding (save ends)
@@ -93,6 +95,8 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > | **Area, Magic** |                  **Maneuver** |
 > | --------------- | ----------------------------: |
 > | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)
@@ -160,6 +164,8 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > | **Area, Magic, Ranged** |                  **Maneuver** |
 > | ----------------------- | ----------------------------: |
 > | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)

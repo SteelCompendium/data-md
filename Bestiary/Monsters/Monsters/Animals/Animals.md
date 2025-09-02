@@ -560,6 +560,8 @@ The Example Animals table breaks out a number of animals using this notation. Se
 > | ---------------- | --------------------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy or object in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 3 damage
 > - **12-16:** 6 damage
 > - **17+:** 8 damage; A < 2 bleeding (save ends)
