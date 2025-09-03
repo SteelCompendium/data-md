@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.8:02
 source: mcdm.heroes.v1
+subclass: Trickery
 target: Self or one ally
 type: feature/ability/censor/7th-level-feature
 ---

@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.7:10
 source: mcdm.heroes.v1
+subclass: Sun
 target: Each enemy in the area
 type: feature/ability/conduit/9th-level-feature
 ---

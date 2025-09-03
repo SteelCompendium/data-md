@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.1.2:05
 source: mcdm.heroes.v1
+subclass: Telepathy
 type: feature/trait/talent/8th-level-feature
 ---
 

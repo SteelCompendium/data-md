@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.3:02
 source: mcdm.heroes.v1
+subclass: Paragon
 target: One ally
 type: feature/ability/censor/6th-level-feature
 ---

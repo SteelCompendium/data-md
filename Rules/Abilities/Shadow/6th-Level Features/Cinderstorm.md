@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.3:02
 source: mcdm.heroes.v1
+subclass: Black Ash
 target: Self and each ally in the area
 type: feature/ability/shadow/6th-level-feature
 ---

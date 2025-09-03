@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.7.9:12
 source: mcdm.heroes.v1
+subclass: Death
 type: feature/trait/censor/7th-level-feature
 ---
 

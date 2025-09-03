@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.1.2:04
 source: mcdm.heroes.v1
+subclass: Telekinesis
 type: feature/trait/talent/8th-level-feature
 ---
 

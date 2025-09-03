@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.7:03
 source: mcdm.heroes.v1
+subclass: Oracle
 target: One creature
 type: feature/ability/censor/9th-level-feature
 ---

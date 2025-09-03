@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.8.1:30
 source: mcdm.heroes.v1
+subclass: Love
 type: feature/trait/conduit/1st-level-feature
 ---
 

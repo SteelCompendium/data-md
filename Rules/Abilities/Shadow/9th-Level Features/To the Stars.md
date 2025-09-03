@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.7:05
 source: mcdm.heroes.v1
+subclass: Caustic Alchemy
 target: One creature or object
 type: feature/ability/shadow/9th-level-feature
 ---

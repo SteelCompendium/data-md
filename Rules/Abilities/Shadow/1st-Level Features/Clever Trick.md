@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.1:06
 source: mcdm.heroes.v1
+subclass: Harlequin Mask
 target: Self
 type: feature/ability/shadow/1st-level-feature
 ---

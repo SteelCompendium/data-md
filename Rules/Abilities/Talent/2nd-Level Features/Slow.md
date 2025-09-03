@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.1.5:06
 source: mcdm.heroes.v1
+subclass: Chronopathy
 target: Three creatures or objects
 type: feature/ability/talent/2nd-level-feature
 ---

@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.4.7:01
 source: mcdm.heroes.v1
+subclass: Mastermind
 target: Self
 type: feature/ability/tactician/9th-level-feature
 ---

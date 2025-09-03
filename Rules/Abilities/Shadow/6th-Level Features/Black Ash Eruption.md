@@ -23,6 +23,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.3:01
 source: mcdm.heroes.v1
+subclass: Black Ash
 target: One creature
 type: feature/ability/shadow/6th-level-feature
 ---

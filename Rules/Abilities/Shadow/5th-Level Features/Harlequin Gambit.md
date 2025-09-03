@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.2.5:01
 source: mcdm.heroes.v1
+subclass: Harlequin Mask
 type: feature/trait/shadow/5th-level-feature
 ---
 

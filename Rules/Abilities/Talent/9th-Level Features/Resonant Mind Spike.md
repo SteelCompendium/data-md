@@ -23,6 +23,7 @@ scc:
 scdc:
   - 1.1.1:13.2.1.7:06
 source: mcdm.heroes.v1
+subclass: Telepathy
 target: One creature
 type: feature/ability/talent/9th-level-feature
 ---

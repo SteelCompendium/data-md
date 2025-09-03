@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.5:02
 source: mcdm.heroes.v1
+subclass: Fate
 target: Three creatures
 type: feature/ability/conduit/2nd-level-feature
 ---

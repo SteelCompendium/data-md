@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.5.3:05
 source: mcdm.heroes.v1
+subclass: Stormwight
 target: Each creature in the area
 type: feature/ability/fury/6th-level-feature
 ---

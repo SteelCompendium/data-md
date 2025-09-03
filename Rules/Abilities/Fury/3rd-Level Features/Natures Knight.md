@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.5.7:03
 source: mcdm.heroes.v1
+subclass: Stormwight
 type: feature/trait/fury/3rd-level-feature
 ---
 

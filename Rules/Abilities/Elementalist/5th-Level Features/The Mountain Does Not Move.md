@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.9.5:02
 source: mcdm.heroes.v1
+subclass: Earth
 type: feature/trait/elementalist/5th-level-feature
 ---
 

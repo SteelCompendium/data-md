@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.2.2:01
 source: mcdm.heroes.v1
+subclass: Black Ash
 type: feature/trait/shadow/8th-level-feature
 ---
 

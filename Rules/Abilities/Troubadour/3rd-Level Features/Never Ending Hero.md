@@ -19,6 +19,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.6:04
 source: mcdm.heroes.v1
+subclass: Virtuoso
 target: Self and each ally in the area
 type: feature/ability/troubadour/3rd-level-feature
 ---

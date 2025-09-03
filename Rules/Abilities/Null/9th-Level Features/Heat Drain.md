@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.6.7:05
 source: mcdm.heroes.v1
+subclass: Cryokinetic
 target: One creature
 type: feature/ability/null/9th-level-feature
 ---

@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.5:01
 source: mcdm.heroes.v1
+subclass: Auteur
 target: One dead enemy
 type: feature/ability/troubadour/2nd-level-feature
 ---

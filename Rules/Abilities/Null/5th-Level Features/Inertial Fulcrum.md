@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.6.5:02
 source: mcdm.heroes.v1
+subclass: Metakinetic
 type: feature/trait/null/5th-level-feature
 ---
 

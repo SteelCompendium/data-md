@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.9.4:09
 source: mcdm.heroes.v1
+subclass: Green
 type: feature/trait/elementalist/10th-level-feature
 ---
 

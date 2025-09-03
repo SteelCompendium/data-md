@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.1:15
 source: mcdm.heroes.v1
+subclass: Virtuoso
 target: One creature
 type: feature/ability/troubadour/1st-level-feature
 ---

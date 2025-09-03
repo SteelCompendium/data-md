@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.4.5:01
 source: mcdm.heroes.v1
+subclass: Mastermind
 type: feature/trait/tactician/5th-level-feature
 ---
 

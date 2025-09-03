@@ -17,6 +17,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.1:04
 source: mcdm.heroes.v1
+subclass: Black Ash
 target: Self
 type: feature/ability/shadow/1st-level-feature
 ---

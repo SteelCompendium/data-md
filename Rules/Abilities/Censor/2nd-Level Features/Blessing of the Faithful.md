@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.5:04
 source: mcdm.heroes.v1
+subclass: Paragon
 target: Self and each ally in the area
 type: feature/ability/censor/2nd-level-feature
 ---

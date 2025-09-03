@@ -18,6 +18,7 @@ scc:
 scdc:
   - 1.1.1:13.2.5.1:11
 source: mcdm.heroes.v1
+subclass: Berserker
 target: Self or one creature
 type: feature/ability/fury/1st-level-feature
 ---

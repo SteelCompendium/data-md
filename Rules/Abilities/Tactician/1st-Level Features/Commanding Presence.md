@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.4.1:08
 source: mcdm.heroes.v1
+subclass: Vanguard
 type: feature/trait/tactician/1st-level-feature
 ---
 

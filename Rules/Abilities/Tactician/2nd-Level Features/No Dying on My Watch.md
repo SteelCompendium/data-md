@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.4.5:02
 source: mcdm.heroes.v1
+subclass: Vanguard
 target: One enemy
 type: feature/ability/tactician/2nd-level-feature
 ---

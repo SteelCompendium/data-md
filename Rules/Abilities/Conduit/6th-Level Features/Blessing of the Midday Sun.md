@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.3:07
 source: mcdm.heroes.v1
+subclass: Sun
 target: Self and each creature in the area
 type: feature/ability/conduit/6th-level-feature
 ---

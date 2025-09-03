@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.7:01
 source: mcdm.heroes.v1
+subclass: Harlequin Mask
 target: One creature
 type: feature/ability/shadow/9th-level-feature
 ---

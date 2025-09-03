@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.3:06
 source: mcdm.heroes.v1
+subclass: Oracle
 target: Three enemies
 type: feature/ability/censor/6th-level-feature
 ---

@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.4.7:06
 source: mcdm.heroes.v1
+subclass: Insurgent
 target: Self and two allies
 type: feature/ability/tactician/9th-level-feature
 ---

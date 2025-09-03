@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.8.9:03
 source: mcdm.heroes.v1
+subclass: War
 type: feature/trait/conduit/7th-level-feature
 ---
 

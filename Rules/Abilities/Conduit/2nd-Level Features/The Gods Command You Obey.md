@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.5:07
 source: mcdm.heroes.v1
+subclass: Knowledge
 target: One creature
 type: feature/ability/conduit/2nd-level-feature
 ---

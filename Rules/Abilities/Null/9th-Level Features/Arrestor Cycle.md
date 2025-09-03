@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.6.7:03
 source: mcdm.heroes.v1
+subclass: Chronokinetic
 target: One creature
 type: feature/ability/null/9th-level-feature
 ---

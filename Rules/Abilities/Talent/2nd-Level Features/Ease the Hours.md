@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.1.6:03
 source: mcdm.heroes.v1
+subclass: Chronopathy
 type: feature/trait/talent/2nd-level-feature
 ---
 

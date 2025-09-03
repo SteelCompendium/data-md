@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.1.2:01
 source: mcdm.heroes.v1
+subclass: Chronopathy
 target: Self, or one creature or object
 type: feature/ability/talent/8th-level-feature
 ---

@@ -17,6 +17,7 @@ scc:
 scdc:
   - 1.1.1:13.2.5.1:14
 source: mcdm.heroes.v1
+subclass: Stormwight
 target: Self
 type: feature/ability/fury/1st-level-feature
 ---

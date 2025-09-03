@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.4.9:03
 source: mcdm.heroes.v1
+subclass: Insurgent
 type: feature/trait/tactician/7th-level-feature
 ---
 

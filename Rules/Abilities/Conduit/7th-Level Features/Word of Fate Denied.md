@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.8.9:10
 source: mcdm.heroes.v1
+subclass: Fate
 type: feature/trait/conduit/7th-level-feature
 ---
 

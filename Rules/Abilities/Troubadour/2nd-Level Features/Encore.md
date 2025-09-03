@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.5:05
 source: mcdm.heroes.v1
+subclass: Virtuoso
 target: Special
 type: feature/ability/troubadour/2nd-level-feature
 ---

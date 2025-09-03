@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.9.1:03
 source: mcdm.heroes.v1
+subclass: Fire
 type: feature/trait/elementalist/1st-level-feature
 ---
 

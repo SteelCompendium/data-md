@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.7.10:01
 source: mcdm.heroes.v1
+subclass: Fate
 type: feature/trait/censor/4th-level-feature
 ---
 

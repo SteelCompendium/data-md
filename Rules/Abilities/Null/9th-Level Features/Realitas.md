@@ -23,6 +23,7 @@ scc:
 scdc:
   - 1.1.1:13.2.6.7:06
 source: mcdm.heroes.v1
+subclass: Metakinetic
 target: One creature
 type: feature/ability/null/9th-level-feature
 ---

@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.5:06
 source: mcdm.heroes.v1
+subclass: Trickery
 target: Self and each ally in the area
 type: feature/ability/conduit/2nd-level-feature
 ---

@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.3:05
 source: mcdm.heroes.v1
+subclass: Exorcist
 target: Self or one ally
 type: feature/ability/censor/6th-level-feature
 ---

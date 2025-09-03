@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.6.5:05
 source: mcdm.heroes.v1
+subclass: Metakinetic
 target: Self
 type: feature/ability/null/2nd-level-feature
 ---

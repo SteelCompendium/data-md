@@ -19,6 +19,7 @@ scc:
 scdc:
   - 1.1.1:13.2.9.1:21
 source: mcdm.heroes.v1
+subclass: Earth
 target: Special
 type: feature/ability/elementalist/1st-level-feature
 ---

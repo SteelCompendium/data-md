@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.5:10
 source: mcdm.heroes.v1
+subclass: Death
 target: Each ally
 type: feature/ability/conduit/2nd-level-feature
 ---

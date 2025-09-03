@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.5:12
 source: mcdm.heroes.v1
+subclass: War
 target: Self and each ally
 type: feature/ability/conduit/2nd-level-feature
 ---

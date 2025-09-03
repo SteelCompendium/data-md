@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.5:04
 source: mcdm.heroes.v1
+subclass: Love
 target: Self and one ally
 type: feature/ability/conduit/2nd-level-feature
 ---

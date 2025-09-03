@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.2.3:06
 source: mcdm.heroes.v1
+subclass: Caustic Alchemy
 target: Three creatures
 type: feature/ability/shadow/6th-level-feature
 ---

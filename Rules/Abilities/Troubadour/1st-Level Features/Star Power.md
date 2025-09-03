@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.1:21
 source: mcdm.heroes.v1
+subclass: Duelist
 target: Self
 type: feature/ability/troubadour/1st-level-feature
 ---

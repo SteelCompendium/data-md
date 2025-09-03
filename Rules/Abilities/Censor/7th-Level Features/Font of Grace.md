@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.7.9:13
 source: mcdm.heroes.v1
+subclass: Life
 type: feature/trait/censor/7th-level-feature
 ---
 

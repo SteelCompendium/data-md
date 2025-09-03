@@ -17,6 +17,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.1:19
 source: mcdm.heroes.v1
+subclass: Auteur
 target: One creature
 type: feature/ability/troubadour/1st-level-feature
 ---

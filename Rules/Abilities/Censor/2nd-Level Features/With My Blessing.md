@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.5:03
 source: mcdm.heroes.v1
+subclass: Oracle
 target: Self or one ally
 type: feature/ability/censor/2nd-level-feature
 ---

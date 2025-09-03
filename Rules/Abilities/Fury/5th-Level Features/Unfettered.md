@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.5.5:03
 source: mcdm.heroes.v1
+subclass: Reaver
 type: feature/trait/fury/5th-level-feature
 ---
 

@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.7.5:01
 source: mcdm.heroes.v1
+subclass: Paragon
 type: feature/trait/censor/5th-level-feature
 ---
 

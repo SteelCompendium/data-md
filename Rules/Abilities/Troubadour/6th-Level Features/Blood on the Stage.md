@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.3:06
 source: mcdm.heroes.v1
+subclass: Duelist
 target: One creature or object
 type: feature/ability/troubadour/6th-level-feature
 ---

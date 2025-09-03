@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.5.1:07
 source: mcdm.heroes.v1
+subclass: Berserker
 type: feature/trait/fury/1st-level-feature
 ---
 

@@ -18,6 +18,7 @@ scc:
 scdc:
   - 1.1.1:13.2.1.1:18
 source: mcdm.heroes.v1
+subclass: Telekinesis
 target: Self or one ally
 type: feature/ability/talent/1st-level-feature
 ---

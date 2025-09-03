@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.4.7:04
 source: mcdm.heroes.v1
+subclass: Insurgent
 target: Three enemies
 type: feature/ability/tactician/9th-level-feature
 ---

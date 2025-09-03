@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.7.1:10
 source: mcdm.heroes.v1
+subclass: Knowledge
 type: feature/trait/censor/1st-level-feature
 ---
 

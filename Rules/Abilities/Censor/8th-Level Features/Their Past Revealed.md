@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.7.2:03
 source: mcdm.heroes.v1
+subclass: Oracle
 type: feature/trait/censor/8th-level-feature
 ---
 

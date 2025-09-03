@@ -12,6 +12,7 @@ scc:
 scdc:
   - 1.1.1:13.1.3.2:01
 source: mcdm.heroes.v1
+subclass: Duelist
 type: feature/trait/troubadour/8th-level-feature
 ---
 

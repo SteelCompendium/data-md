@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.5:03
 source: mcdm.heroes.v1
+subclass: Duelist
 target: One creature
 type: feature/ability/troubadour/2nd-level-feature
 ---

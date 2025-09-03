@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.6.5:02
 source: mcdm.heroes.v1
+subclass: Cryokinetic
 target: Each enemy in the area
 type: feature/ability/null/2nd-level-feature
 ---

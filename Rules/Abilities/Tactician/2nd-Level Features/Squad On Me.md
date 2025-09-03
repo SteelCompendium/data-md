@@ -20,6 +20,7 @@ scc:
 scdc:
   - 1.1.1:13.2.4.5:04
 source: mcdm.heroes.v1
+subclass: Vanguard
 target: Self and each ally in the area
 type: feature/ability/tactician/2nd-level-feature
 ---

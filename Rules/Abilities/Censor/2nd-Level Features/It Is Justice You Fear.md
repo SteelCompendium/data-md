@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.5:05
 source: mcdm.heroes.v1
+subclass: Exorcist
 target: One creature
 type: feature/ability/censor/2nd-level-feature
 ---

@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.5.3:01
 source: mcdm.heroes.v1
+subclass: Reaver
 target: Self
 type: feature/ability/fury/6th-level-feature
 ---

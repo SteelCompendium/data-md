@@ -19,6 +19,7 @@ scc:
 scdc:
   - 1.1.1:13.2.3.4:06
 source: mcdm.heroes.v1
+subclass: Duelist
 target: Self and each ally in the area
 type: feature/ability/troubadour/5th-level-feature
 ---

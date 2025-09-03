@@ -23,6 +23,7 @@ scc:
 scdc:
   - 1.1.1:13.2.7.5:02
 source: mcdm.heroes.v1
+subclass: Paragon
 target: One creature
 type: feature/ability/censor/2nd-level-feature
 ---

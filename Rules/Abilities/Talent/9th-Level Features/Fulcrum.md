@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.1.7:04
 source: mcdm.heroes.v1
+subclass: Telekinesis
 target: Each enemy and object in the area
 type: feature/ability/talent/9th-level-feature
 ---

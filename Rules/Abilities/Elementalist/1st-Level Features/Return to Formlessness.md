@@ -19,6 +19,7 @@ scc:
 scdc:
   - 1.1.1:13.2.9.1:03
 source: mcdm.heroes.v1
+subclass: Fire
 target: One mundane object
 type: feature/ability/elementalist/1st-level-feature
 ---

@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.7:04
 source: mcdm.heroes.v1
+subclass: Protection
 target: Self
 type: feature/ability/conduit/9th-level-feature
 ---

@@ -21,6 +21,7 @@ scc:
 scdc:
   - 1.1.1:13.2.8.3:12
 source: mcdm.heroes.v1
+subclass: Creation
 target: Special
 type: feature/ability/conduit/6th-level-feature
 ---

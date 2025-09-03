@@ -22,6 +22,7 @@ scc:
 scdc:
   - 1.1.1:13.2.1.7:02
 source: mcdm.heroes.v1
+subclass: Chronopathy
 target: Each ally in the area
 type: feature/ability/talent/9th-level-feature
 ---
