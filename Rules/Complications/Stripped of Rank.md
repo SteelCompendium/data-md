@@ -18,7 +18,13 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 **Benefit:** You have the following ability.
 
-Ranged **Main action** eRanged 10 xOne ally
+###### Issue Order
+
+*"Move or die, folks."*
+
+| **Ranged**       | **Main action** |
+| ---------------- | --------------: |
+| **📏 Ranged 10** | **🎯 One ally** |
 
 **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 

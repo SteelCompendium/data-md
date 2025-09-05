@@ -333,7 +333,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > - **≤11:** 9 damage
 > - **12-16:** 14 damage; A < 2 slowed (save ends)
-> - \*\*17+:\*\*17 damage; A < 3 slowed (save ends)
+> - **17+:** 17 damage; A < 3 slowed (save ends)
 >
 > **Effect:** If the targets are adjacent to each other, this ability deals an extra 3 damage.
 
@@ -348,7 +348,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
-> - \*\*17+:\*\*14 damage; M < 3 prone and can't stand (save ends)
+> - **17+:** 14 damage; M < 3 prone and can't stand (save ends)
 >
 > **Effect:** If this ability is used as part of the Charge main action, the legate ignores difficult terrain during the charge. Each creature and object whose space the legate moves through takes the damage from this ability, but not its additional effects.
 

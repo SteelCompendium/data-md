@@ -17918,7 +17918,9 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Item Prerequisite:** None
 
-**Project Source:** A significant source of information on the topic of your obsession, such as a major library or a world-renowned sage **Project Roll Characteristic:** Reason
+**Project Source:** A significant source of information on the topic of your obsession, such as a major library or a world-renowned sage
+
+**Project Roll Characteristic:** Reason
 
 **Project Goal:** 120, 150, 180
 
@@ -18484,9 +18486,9 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 *You reach out with your mind to move a creature or object.*
 
-| **Psionic, Ranged**, **Strike** |                  **Maneuver** |
-| ------------------------------- | ----------------------------: |
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **Psionic, Ranged, Strike** |                  **Maneuver** |
+| --------------------------- | ----------------------------: |
+| **📏 Ranged 10**            | **🎯 One creature or object** |
 
 **Power Roll + Might, Intuition, or Presence:**
 
@@ -18620,7 +18622,13 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 **Benefit:** You have the following ability.
 
-Ranged **Main action** eRanged 10 xOne ally
+**<span class="steel-compendium-ability">Issue Order</span>**
+
+*"Move or die, folks."*
+
+| **Ranged**       | **Main action** |
+| ---------------- | --------------: |
+| **📏 Ranged 10** | **🎯 One ally** |
 
 **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 

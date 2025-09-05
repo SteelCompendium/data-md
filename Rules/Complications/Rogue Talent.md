@@ -22,9 +22,9 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 *You reach out with your mind to move a creature or object.*
 
-| **Psionic, Ranged**, **Strike** |                  **Maneuver** |
-| ------------------------------- | ----------------------------: |
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **Psionic, Ranged, Strike** |                  **Maneuver** |
+| --------------------------- | ----------------------------: |
+| **📏 Ranged 10**            | **🎯 One creature or object** |
 
 **Power Roll + Might, Intuition, or Presence:**
 
