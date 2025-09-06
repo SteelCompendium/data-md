@@ -1944,11 +1944,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Castellan Hoplon
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |     Elite Defender      |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2603**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason   |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Inspiring Strike (Signature Ability)**
@@ -2012,11 +2012,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Iron Champion Doru
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1L**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason   |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1L**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Houndaxe (Signature Ability)**
@@ -2254,11 +2254,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Strategos Alkestis
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |         Leader          |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason   |  **+5**<br/> Intuition  |  **+5**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |         Leader          |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Houndgun and Houndblade (Signature Ability)**

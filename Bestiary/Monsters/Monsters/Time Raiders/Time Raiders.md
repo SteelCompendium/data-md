@@ -418,11 +418,11 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 
 ###### Time Raider Tyrannis
 
-|    Humanoid, Time Raider    |                 -                 |        Level 3        |         Leader          |         EV 20          |
-| :-------------------------: | :-------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|       **2**<br/> Size       |         **1**<br/> Speed          | **0120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
+|    Humanoid, Time Raider    |                 -                 |       Level 3        |         Leader          |         EV 20          |
+| :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|       **2**<br/> Size       |         **10**<br/> Speed         | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Gatling Blaster (Signature Ability)**

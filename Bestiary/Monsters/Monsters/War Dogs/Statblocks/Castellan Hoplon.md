@@ -7,7 +7,7 @@ ancestry:
 ev: '48'
 file_basename: Castellan Hoplon
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 3
 item_id: castellan-hoplon
 item_index: '387'
@@ -25,18 +25,18 @@ scdc:
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2603'
+stability: 3
+stamina: '260'
 type: monster
 ---
 
 ###### Castellan Hoplon
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |     Elite Defender      |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2603**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason   |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Inspiring Strike (Signature Ability)**

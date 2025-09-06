@@ -513,11 +513,11 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 
 ###### Shieldscale Drangolin
 
-|     Kobold, Humanoid      |            -             |       Level 1       |       Elite Brute       |         EV 12          |
-| :-----------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-| **2 or 3 Size**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might     |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
+|    Kobold, Beast     |            -             |       Level 1       |       Elite Brute       |         EV 12          |
+| :------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+| **2 or 3**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity  | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might   |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Fiery Claws (Signature Ability)**

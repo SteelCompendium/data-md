@@ -62,11 +62,11 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 
 ###### Manticore
 
-|  Beast, Manticore   |           -           |        Level 4        |          Solo           |         EV 72          |
-| :-----------------: | :-------------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |   **1**<br/> Speed    | **0350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+4**<br/> Might  |  **+3**<br/> Agility  |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
+|  Beast, Manticore   |           -           |       Level 4        |          Solo           |         EV 72          |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |   **10**<br/> Speed   | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+4**<br/> Might  |  **+3**<br/> Agility  |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
 > ☠️ **Solo Monster**

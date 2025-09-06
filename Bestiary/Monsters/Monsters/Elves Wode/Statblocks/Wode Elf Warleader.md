@@ -2,7 +2,8 @@
 agility: 3
 ancestry:
   - Fey
-  - Humanoid. Wode Elf
+  - Humanoid
+  - Wode Elf
 ev: '20'
 file_basename: Wode Elf Warleader
 file_dpath: Monsters/Elves Wode/Statblocks
@@ -31,7 +32,7 @@ type: monster
 
 ###### Wode Elf Warleader
 
-| Fey, Humanoid. Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
+| Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
 |   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |

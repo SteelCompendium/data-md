@@ -219,11 +219,11 @@ Most valok communicate exclusively in Rallarian.
 
 ###### Servok Builder
 
-| Construct, Servok, Soulless, Valok |          -          |        Level 9        |       Elite Brute       |         EV 44          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2408**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 9        |       Elite Brute       |          EV 44          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **240**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Wrecking Ball (Signature Ability)**
@@ -389,11 +389,11 @@ Most valok communicate exclusively in Rallarian.
 
 ###### Servok War Engine
 
-| Construct, Servok, Soulless, Valok |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2608**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Blade Rake (Signature Ability)**

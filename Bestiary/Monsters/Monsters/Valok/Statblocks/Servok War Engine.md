@@ -8,7 +8,7 @@ ancestry:
 ev: '48'
 file_basename: Servok War Engine
 file_dpath: Monsters/Valok/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: -1
 item_id: servok-war-engine
 item_index: '329'
@@ -26,18 +26,18 @@ scdc:
 size: '3'
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2608'
+stability: 8
+stamina: '260'
 type: monster
 ---
 
 ###### Servok War Engine
 
-| Construct, Servok, Soulless, Valok |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2608**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Blade Rake (Signature Ability)**

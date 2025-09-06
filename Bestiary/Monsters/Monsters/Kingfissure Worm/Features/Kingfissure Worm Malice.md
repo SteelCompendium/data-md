@@ -46,8 +46,8 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 >
 > **Power Roll + 5:**
 >
-> - 1 8 damage; M < 3 slide 5
-> - 2 13 damage; M < 4 slide 5
-> - 3 17 damage; M < 5 slide 5
+> - **≤11:** 8 damage; M < 3 slide 5
+> - **12-16:** 13 damage; M < 4 slide 5
+> - **17+:** 17 damage; M < 5 slide 5
 >
 > **Effect:** Until the end of the next round, each target takes a −3 penalty to stability, treats all terrain as difficult terrain, and takes 10 damage whenever they are knocked prone.

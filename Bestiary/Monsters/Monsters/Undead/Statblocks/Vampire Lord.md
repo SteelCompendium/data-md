@@ -22,19 +22,19 @@ scdc:
   - 1.1.1:2:72
 size: 1M
 source: mcdm.monsters.v1
-speed: 1
+speed: 12
 stability: 3
-stamina: '2200'
+stamina: '200'
 type: monster
 ---
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |        Level 7        |         Leader          |         EV 36          |
-| :--------------------------------------: | :--------------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|             **1M**<br/> Size             |             **1**<br/> Speed             | **2200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+|                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
+| :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Crimson Embrace (Signature Ability)**

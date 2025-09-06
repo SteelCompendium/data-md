@@ -339,7 +339,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Greenskeeper
 
-| Fey, Humanoid, Wide Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
+| Fey, Humanoid, Wode Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
 |   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
@@ -510,7 +510,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Warleader
 
-| Fey, Humanoid. Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
+| Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
 |   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |

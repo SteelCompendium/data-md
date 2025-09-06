@@ -94,11 +94,11 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 
 ###### Medusa
 
-| Accursed, Humanoid, Medusa |          -          |        Level 5        |          Solo           |         EV 84          |
-| :------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size      |  **1**<br/> Speed   | **0420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-|    **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might      | **+4**<br/> Agility |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+| Accursed, Humanoid, Medusa |          -          |       Level 5        |          Solo           |         EV 84          |
+| :------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |  **10**<br/> Speed  | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
+|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+2**<br/> Might      | **+4**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**

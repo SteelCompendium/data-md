@@ -1384,11 +1384,11 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |        Level 7        |         Leader          |         EV 36          |
-| :--------------------------------------: | :--------------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|             **1M**<br/> Size             |             **1**<br/> Speed             | **2200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+|                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
+| :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Crimson Embrace (Signature Ability)**

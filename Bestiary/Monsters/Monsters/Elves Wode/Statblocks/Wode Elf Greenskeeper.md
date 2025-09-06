@@ -3,7 +3,7 @@ agility: 2
 ancestry:
   - Fey
   - Humanoid
-  - Wide Elf
+  - Wode Elf
 ev: '6'
 file_basename: Wode Elf Greenskeeper
 file_dpath: Monsters/Elves Wode/Statblocks
@@ -32,7 +32,7 @@ type: monster
 
 ###### Wode Elf Greenskeeper
 
-| Fey, Humanoid, Wide Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
+| Fey, Humanoid, Wode Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
 |   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |

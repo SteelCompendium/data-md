@@ -7,7 +7,7 @@ ancestry:
 ev: '48'
 file_basename: Strategos Alkestis
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 5
 item_id: strategos-alkestis
 item_index: '359'
@@ -25,18 +25,18 @@ scdc:
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2602'
+stability: 2
+stamina: '260'
 type: monster
 ---
 
 ###### Strategos Alkestis
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |         Leader          |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason   |  **+5**<br/> Intuition  |  **+5**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |         Leader          |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Houndgun and Houndblade (Signature Ability)**

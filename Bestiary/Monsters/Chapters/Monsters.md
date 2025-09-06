@@ -9003,7 +9003,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Greenskeeper
 
-| Fey, Humanoid, Wide Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
+| Fey, Humanoid, Wode Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
 |   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
@@ -9174,7 +9174,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Warleader
 
-| Fey, Humanoid. Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
+| Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
 |   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
@@ -13276,9 +13276,9 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 >
 > **Power Roll + 5:**
 >
-> - 1 8 damage; M < 3 slide 5
-> - 2 13 damage; M < 4 slide 5
-> - 3 17 damage; M < 5 slide 5
+> - **≤11:** 8 damage; M < 3 slide 5
+> - **12-16:** 13 damage; M < 4 slide 5
+> - **17+:** 17 damage; M < 5 slide 5
 >
 > **Effect:** Until the end of the next round, each target takes a −3 penalty to stability, treats all terrain as difficult terrain, and takes 10 damage whenever they are knocked prone.
 
@@ -13921,11 +13921,11 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 
 ###### Shieldscale Drangolin
 
-|     Kobold, Humanoid      |            -             |       Level 1       |       Elite Brute       |         EV 12          |
-| :-----------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-| **2 or 3 Size**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might     |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
+|    Kobold, Beast     |            -             |       Level 1       |       Elite Brute       |         EV 12          |
+| :------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+| **2 or 3**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity  | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might   |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Fiery Claws (Signature Ability)**
@@ -14017,11 +14017,11 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 
 ###### Lightbender
 
-| Beast, Lightbender  |          -          |        Level 3        |     Elite Ambusher      |         EV 20          |
-| :-----------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **0100**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
+| Beast, Lightbender  |          -          |       Level 3        |     Elite Ambusher      |         EV 20          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **100**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Flash Swipe (Signature Ability)**
@@ -14086,11 +14086,11 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 
 ###### Lightbender Pouncer
 
-| Beast, Lightbender  |          -          |        Level 3        |      Elite Harrier      |         EV 20          |
-| :-----------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **0100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
+| Beast, Lightbender  |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Pounce (Signature Ability)**
@@ -14571,11 +14571,11 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 
 ###### Manticore
 
-|  Beast, Manticore   |           -           |        Level 4        |          Solo           |         EV 72          |
-| :-----------------: | :-------------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |   **1**<br/> Speed    | **0350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+4**<br/> Might  |  **+3**<br/> Agility  |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
+|  Beast, Manticore   |           -           |       Level 4        |          Solo           |         EV 72          |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |   **10**<br/> Speed   | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+4**<br/> Might  |  **+3**<br/> Agility  |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -14770,11 +14770,11 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 
 ###### Medusa
 
-| Accursed, Humanoid, Medusa |          -          |        Level 5        |          Solo           |         EV 84          |
-| :------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size      |  **1**<br/> Speed   | **0420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-|    **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might      | **+4**<br/> Agility |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+| Accursed, Humanoid, Medusa |          -          |       Level 5        |          Solo           |         EV 84          |
+| :------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |  **10**<br/> Speed  | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
+|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+2**<br/> Might      | **+4**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -15780,7 +15780,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 
 ###### Orc Bloodspark
 
-|    Humanoid, Orc    |          -          |      Level 1       |                      Minion Artillery                      |  EV 3 for four minion  |
+|    Humanoid, Orc    |          -          |      Level 1       |                      Minion Artillery                      | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :--------------------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **3**<br/> Stamina |                    **0**<br/> Stability                    | **2**<br/> Free Strike |
 | **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to forced movement distance**<br/> With Captain | **-**<br/> Weaknesses  |
@@ -18926,11 +18926,11 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 
 ###### Time Raider Tyrannis
 
-|    Humanoid, Time Raider    |                 -                 |        Level 3        |         Leader          |         EV 20          |
-| :-------------------------: | :-------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|       **2**<br/> Size       |         **1**<br/> Speed          | **0120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
+|    Humanoid, Time Raider    |                 -                 |       Level 3        |         Leader          |         EV 20          |
+| :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|       **2**<br/> Size       |         **10**<br/> Speed         | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Gatling Blaster (Signature Ability)**
@@ -20672,11 +20672,11 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |        Level 7        |         Leader          |         EV 36          |
-| :--------------------------------------: | :--------------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|             **1M**<br/> Size             |             **1**<br/> Speed             | **2200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+|                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
+| :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Crimson Embrace (Signature Ability)**
@@ -21609,11 +21609,11 @@ Most valok communicate exclusively in Rallarian.
 
 ###### Servok Builder
 
-| Construct, Servok, Soulless, Valok |          -          |        Level 9        |       Elite Brute       |         EV 44          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2408**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 9        |       Elite Brute       |          EV 44          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **240**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Wrecking Ball (Signature Ability)**
@@ -21779,11 +21779,11 @@ Most valok communicate exclusively in Rallarian.
 
 ###### Servok War Engine
 
-| Construct, Servok, Soulless, Valok |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2608**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Blade Rake (Signature Ability)**
@@ -24499,11 +24499,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Castellan Hoplon
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |     Elite Defender      |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2603**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason   |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Inspiring Strike (Signature Ability)**
@@ -24567,11 +24567,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Iron Champion Doru
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1L**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason   |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1L**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Houndaxe (Signature Ability)**
@@ -24809,11 +24809,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Strategos Alkestis
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |         Leader          |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason   |  **+5**<br/> Intuition  |  **+5**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |         Leader          |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Houndgun and Houndblade (Signature Ability)**

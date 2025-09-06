@@ -7,7 +7,7 @@ ancestry:
 ev: '48'
 file_basename: Iron Champion Doru
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 4
 item_id: iron-champion-doru
 item_index: '379'
@@ -25,18 +25,18 @@ scdc:
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2602'
+stability: 2
+stamina: '260'
 type: monster
 ---
 
 ###### Iron Champion Doru
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1L**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason   |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1L**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Houndaxe (Signature Ability)**

@@ -8,7 +8,7 @@ ancestry:
 ev: '44'
 file_basename: Servok Builder
 file_dpath: Monsters/Valok/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: -1
 item_id: servok-builder
 item_index: '330'
@@ -26,18 +26,18 @@ scdc:
 size: '3'
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2408'
+stability: 8
+stamina: '240'
 type: monster
 ---
 
 ###### Servok Builder
 
-| Construct, Servok, Soulless, Valok |          -          |        Level 9        |       Elite Brute       |         EV 44          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2408**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 9        |       Elite Brute       |          EV 44          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **240**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Wrecking Ball (Signature Ability)**
