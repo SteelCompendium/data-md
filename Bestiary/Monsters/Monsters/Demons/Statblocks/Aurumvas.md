@@ -120,6 +120,6 @@ type: monster
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 1 10 fire damage; push 1
-> - **12-16:** 2 15 fire damage; push 2
-> - **17+:** 3 19 fire damage; push 3
+> - **≤11:** 10 fire damage; push 1
+> - **12-16:** 15 fire damage; push 2
+> - **17+:** 19 fire damage; push 3

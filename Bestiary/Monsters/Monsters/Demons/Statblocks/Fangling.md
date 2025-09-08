@@ -59,8 +59,6 @@ type: monster
 > | -------------------------- | ----------------------------: |
 > | **📏 8 x 3 line within 1** | **🎯 Each enemy in the area** |
 >
-> e 8 x 3 line within 1 x Each enemy in the area
->
 > **Power Roll + 2:**
 >
 > - **≤11:** 2 damage; pull 1; A < 1 bleeding (save ends)

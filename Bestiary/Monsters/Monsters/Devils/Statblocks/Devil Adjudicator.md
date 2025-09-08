@@ -84,10 +84,10 @@ type: monster
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
 > **Effect:** The target makes a Presence test
-
-- **≤11:** The adjudicator chooses a new target for the strike.
-- **12-16:** The adjudicator halves the triggering damage.
-- **17+:** The target takes a bane on the strike.
+>
+> - **≤11:** The adjudicator chooses a new target for the strike.
+> - **12-16:** The adjudicator halves the triggering damage.
+> - **17+:** The target takes a bane on the strike.
 
 <!-- -->
 > ⭐️ **Vexatious Litigation**

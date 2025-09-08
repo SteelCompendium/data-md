@@ -114,7 +114,9 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 >
 > **Power Roll + 4:**
 >
-> 6 corruption damage; M < 2 the target is impaled (save ends) 11 corruption damage; M < 3 the target is impaled (save ends) 14 corruption damage; M < 4 the target is impaled (save ends)
+> - **≤11:** 6 corruption damage; M < 2 the target is impaled (save ends)
+> - **12-16:** 11 corruption damage; M < 3 the target is impaled (save ends)
+> - **17+:** 14 corruption damage; M < 4 the target is impaled (save ends)
 >
 > **Effect:** An impaled creature is restrained and bleeding, and moves with the ashen hoarder. The ashen hoarder can have three creatures impaled with this ability at a time.
 

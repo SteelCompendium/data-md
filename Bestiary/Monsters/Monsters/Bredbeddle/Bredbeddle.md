@@ -96,7 +96,7 @@ At the start of a bredbeddle's turn, you can spend Malice to activate one of the
 > - **12-16:** 4 damage; A < 2 bleeding (save ends)
 > - **17+:** 5 damage; A < 3 bleeding (save ends); M < 2 dazed (save ends)
 >
-> **Malice:** The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.
+> **3 Malice:** The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.
 
 <!-- -->
 > 🗡 **Lop (3 Malice)**

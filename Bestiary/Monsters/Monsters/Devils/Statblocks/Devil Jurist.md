@@ -81,7 +81,7 @@ type: monster
 > | ----------------- | ------------------: |
 > | **📏 Ranged 12**  | **🎯 One creature** |
 >
-> If the target is burning (see Fire and Brimstone), they take 6 fire damage.
+> **Effect:** If the target is burning (see Fire and Brimstone), they take 6 fire damage.
 
 <!-- -->
 > ❗️ **Devilish Charm (2 Malice)**

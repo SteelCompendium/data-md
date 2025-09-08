@@ -38,7 +38,7 @@ You can utilize your own character sheets that detail important creatures' motiv
 
 The defining feature of a monster is that they impose their will on the world at the expense of someone else. A monster might take control of the land, summon a terrible force to destroy nature or settlements, or simply bring harm to someone weaker than them. This means that a creature driven by instinct who hunts for food isn't a monster unless they hunt outside their needs or their territory. Without malice or cruel ambitions that can be opposed, such creatures are no different from a force of nature.
 
-#### A creature becomes a monster when their malice meets opposition.
+**A creature becomes a monster when their malice meets opposition.**
 
 This often boils down to the monster fighting the hero over the fate of someone else. The game utilizes each monster in a way that challenges the heroes and their players, inviting the heroes to use their abilities to overcome the monster's will.
 

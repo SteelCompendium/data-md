@@ -707,8 +707,6 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > | -------------------------- | ----------------------------: |
 > | **📏 8 x 3 line within 1** | **🎯 Each enemy in the area** |
 >
-> e 8 x 3 line within 1 x Each enemy in the area
->
 > **Power Roll + 2:**
 >
 > - **≤11:** 2 damage; pull 1; A < 1 bleeding (save ends)
@@ -924,8 +922,8 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > **Power Roll + 4:**
 >
 > - **≤11:** 7 corruption damage
-> - **12-16:** 2 12 corruption damage
-> - **17+:** 3 15 corruption damage; two frenzieds appear in unoccupied spaces adjacent to each target
+> - **12-16:** 12 corruption damage
+> - **17+:** 15 corruption damage; two frenzieds appear in unoccupied spaces adjacent to each target
 
 <!-- -->
 > ☠️ **Fold Space (Villain Action 2)**
@@ -934,7 +932,7 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > | ---------------- | ----------: |
 > | **📏 Ranged 20** | **🎯 Self** |
 >
-> **Effect:** The egress folds into their own portal and teleports to an un occupied space within distance. Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear in squares in the egress's former space.
+> **Effect:** The egress folds into their own portal and teleports to an unoccupied space within distance. Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear in squares in the egress's former space.
 
 <!-- -->
 > ☠️ **Blood of the Abyss (Villain Action 3)**
@@ -946,8 +944,8 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > **Power Roll + 4:**
 >
 > - **≤11:** 6 corruption damage; R < 2 weakened (save ends)
-> - **12-16:** 2 11 corruption damage; R < 3 weakened (save ends)
-> - **17+:** 3 14 corruption damage; R < 4 weakened (save ends)
+> - **12-16:** 11 corruption damage; R < 3 weakened (save ends)
+> - **17+:** 14 corruption damage; R < 4 weakened (save ends)
 >
 > **Effect:** The egress recalls and instantly destroys any minion allies on the encounter map. A torrent of churned-up minion bodies, blood, and ichor erupts from the egress, dealing an extra 1 damage for each minion destroyed this way.
 
@@ -1687,6 +1685,6 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 1 10 fire damage; push 1
-> - **12-16:** 2 15 fire damage; push 2
-> - **17+:** 3 19 fire damage; push 3
+> - **≤11:** 10 fire damage; push 1
+> - **12-16:** 15 fire damage; push 2
+> - **17+:** 19 fire damage; push 3

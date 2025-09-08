@@ -47,7 +47,7 @@ type: monster
 >
 > - **≤11:** 7 damage
 > - **12-16:** 11 damage; push 1; M < 1 prone
-> - **17+:** 14 damage; push 2; M < 1 prone
+> - **17+:** 14 damage; push 2; M < 2 prone
 
 <!-- -->
 > ❇️ **Wild Swing**

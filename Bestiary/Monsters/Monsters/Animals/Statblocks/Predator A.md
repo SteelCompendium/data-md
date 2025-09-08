@@ -47,7 +47,7 @@ type: monster
 >
 > - **≤11:** 7 damage
 > - **12-16:** 10 damage; M < 1 prone
-> - **17+:** 13 damage; M < 1 prone
+> - **17+:** 13 damage; M < 2 prone
 
 <!-- -->
 > 👤 **Ready to Strike**

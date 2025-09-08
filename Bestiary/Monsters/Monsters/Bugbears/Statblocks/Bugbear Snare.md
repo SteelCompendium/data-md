@@ -40,7 +40,7 @@ type: monster
 |       **+2**<br/> Might        | **+3**<br/> Agility | **+0**<br/> Reason |          **+0**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->
-> 🗡 **Cut 'Em Low! Signature Ability**
+> 🗡 **Cut 'Em Low! (Signature Ability)**
 >
 > | **Charge, Melee, Strike, Weapon** |                          **Main action** |
 > | --------------------------------- | ---------------------------------------: |

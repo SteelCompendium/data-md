@@ -96,7 +96,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 >
 > | **Area, Magic**            |   **Maneuver** |
 > | -------------------------- | -------------: |
-> | **📏 5 × 2 line within 1** | **🎯 Special** |
+> | **📏 5 x 2 line within 1** | **🎯 Special** |
 >
 > **Special:** The area extends from both the basilisk's eyes, and this ability targets the first creature without cover on either side of the area.
 >

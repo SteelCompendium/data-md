@@ -2087,11 +2087,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Logostician Vesper
 
-|  Soulless, War Dog  |          -          |        Level 10        |    Elite Controller     |         EV 48          |
-| :-----------------: | :-----------------: | :--------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **02533**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -            | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |   **+5**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
+|  Soulless, War Dog  |          -          |       Level 10       |    Elite Controller     |          EV 48          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **253**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Portal to the Firing Line (Signature Ability)**

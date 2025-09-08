@@ -6,7 +6,7 @@ ancestry:
 ev: '48'
 file_basename: Logostician Vesper
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 4
 item_id: logostician-vesper
 item_index: '394'
@@ -23,19 +23,19 @@ scdc:
   - 1.1.1:2:394
 size: '2'
 source: mcdm.monsters.v1
-speed: 1
-stability: 1
-stamina: '02533'
+speed: 10
+stability: 3
+stamina: '253'
 type: monster
 ---
 
 ###### Logostician Vesper
 
-|  Soulless, War Dog  |          -          |        Level 10        |    Elite Controller     |         EV 48          |
-| :-----------------: | :-----------------: | :--------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **02533**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -            | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |   **+5**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
+|  Soulless, War Dog  |          -          |       Level 10       |    Elite Controller     |          EV 48          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **253**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Portal to the Firing Line (Signature Ability)**

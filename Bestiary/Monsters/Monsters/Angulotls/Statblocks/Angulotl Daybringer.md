@@ -111,4 +111,4 @@ type: monster
 <!-- -->
 > ⭐️ **Toxiferous**
 >
-> Whenever an adjacent enemy grabs the daybringer or uses a me lee ability against them, that enemy takes 3 poison damage.
+> Whenever an adjacent enemy grabs the daybringer or uses a melee ability against them, that enemy takes 3 poison damage.

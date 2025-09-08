@@ -505,7 +505,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 >
 > - **≤11:** 7 damage
 > - **12-16:** 10 damage; M < 1 prone
-> - **17+:** 13 damage; M < 1 prone
+> - **17+:** 13 damage; M < 2 prone
 
 <!-- -->
 > 👤 **Ready to Strike**
@@ -551,7 +551,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 >
 > - **≤11:** 7 damage
 > - **12-16:** 11 damage; push 1; M < 1 prone
-> - **17+:** 14 damage; push 2; M < 1 prone
+> - **17+:** 14 damage; push 2; M < 2 prone
 
 <!-- -->
 > ❇️ **Wild Swing**

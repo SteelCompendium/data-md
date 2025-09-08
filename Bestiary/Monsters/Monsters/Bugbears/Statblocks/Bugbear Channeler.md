@@ -42,7 +42,7 @@ type: monster
 <!-- -->
 > 🏹 **Shadow Drag (Signature Ability)**
 >
-> | **Magic, Ranged. Strike** |                 **Main Action** |
+> | **Magic, Ranged, Strike** |                 **Main Action** |
 > | ------------------------- | ------------------------------: |
 > | **📏 Ranged 8**           | **🎯 Two creatures or objects** |
 >

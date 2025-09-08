@@ -196,9 +196,9 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 <!-- -->
 > 🏹 **Divine Vine**
 >
-> | **Magic, Ranged, Weapon** |                    **Maneuver** |
-> | ------------------------- | ------------------------------: |
-> | **📏 Ranged 5**           | **🎯 One creature or object 1** |
+> | **Magic, Ranged, Weapon** |                  **Maneuver** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 5**           | **🎯 One creature or object** |
 >
 > **Power Roll + 5:**
 >

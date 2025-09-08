@@ -225,10 +225,10 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
 > **Effect:** The target makes a Presence test
-
-- **≤11:** The adjudicator chooses a new target for the strike.
-- **12-16:** The adjudicator halves the triggering damage.
-- **17+:** The target takes a bane on the strike.
+>
+> - **≤11:** The adjudicator chooses a new target for the strike.
+> - **12-16:** The adjudicator halves the triggering damage.
+> - **17+:** The target takes a bane on the strike.
 
 <!-- -->
 > ⭐️ **Vexatious Litigation**
@@ -292,7 +292,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 12**  | **🎯 One creature** |
 >
-> If the target is burning (see Fire and Brimstone), they take 6 fire damage.
+> **Effect:** If the target is burning (see Fire and Brimstone), they take 6 fire damage.
 
 <!-- -->
 > ❗️ **Devilish Charm (2 Malice)**
