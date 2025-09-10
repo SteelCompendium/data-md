@@ -34,7 +34,7 @@ type: monster
 |    Frost Giant, Giant    |          -          |       Level 8        |     Elite Artillery     |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **180**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

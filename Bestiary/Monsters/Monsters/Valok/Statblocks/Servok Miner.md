@@ -36,7 +36,7 @@ type: monster
 | Construct, Servok, Soulless, Valok |                -                |       Level 9        |    Elite Controller     |         EV 44          |
 | :--------------------------------: | :-----------------------------: | :------------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |        **5**<br/> Speed         | **200**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+4**<br/> Might          |       **-2**<br/> Agility       |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
 
 <!-- -->

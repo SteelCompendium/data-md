@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed        | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

@@ -33,7 +33,7 @@ type: monster
 |                   Undead                   |              -               |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **7**<br/> Speed       | **15**<br/> Stamina |          **1**<br/> Stability           | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **-2**<br/> Might              |     **+3**<br/> Agility      | **+1**<br/> Reason  |          **+1**<br/> Intuition          |  **+5**<br/> Presence  |
 
 <!-- -->

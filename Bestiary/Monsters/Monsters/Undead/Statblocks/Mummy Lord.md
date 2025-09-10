@@ -31,11 +31,11 @@ type: monster
 
 ###### Mummy Lord
 
-|              Mummy, Undead               |          -          |       Level 4        |         Leader          |           EV 24            |
-| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |   **6**<br/> Free Strike   |
-| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |    **+2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 4        |         Leader          |          EV 24           |
+| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |  **6**<br/> Free Strike  |
+| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Accursed Slam (Signature Ability)**

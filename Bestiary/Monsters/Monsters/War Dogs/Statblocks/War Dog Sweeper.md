@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |      Level 4       |                Minion Harrier                 | EV 6 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+3**<br/> Agility | **0**<br/> Reason  |             **+2**<br/> Intuition             |  **0**<br/> Presence   |
 
 <!-- -->

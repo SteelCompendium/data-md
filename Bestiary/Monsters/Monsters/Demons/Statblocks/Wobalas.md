@@ -31,11 +31,11 @@ type: monster
 
 ###### Wobalas
 
-|   Abyssal, Demon    |          -          |      Level 4       |                 Minion Artillery                 |   EV 6 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+1**<br/> Might  | **+3**<br/> Agility | **+1**<br/> Reason |              **+2**<br/> Intuition               |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 4       |                 Minion Artillery                 |  EV 6 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+1**<br/> Might  | **+3**<br/> Agility | **+1**<br/> Reason |              **+2**<br/> Intuition               |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Despair Bolt (Signature Ability)**

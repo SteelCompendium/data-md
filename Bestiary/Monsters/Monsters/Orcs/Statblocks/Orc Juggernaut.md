@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 3       |      Platoon Brute      |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

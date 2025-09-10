@@ -31,11 +31,11 @@ type: monster
 
 ###### Lumbering Egress
 
-|   Abyssal, Demon    |          -          |       Level 6        |         Leader          |           EV 32            |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **180**<br/> Stamina |  **3**<br/> Stability   |   **7**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **-1**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 6        |         Leader          |          EV 32           |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **180**<br/> Stamina |  **3**<br/> Stability   |  **7**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **-1**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Ensnarer Cannon (Signature Ability)**

@@ -78,7 +78,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |     Elite Defender      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **2**<br/> Size            |  **5**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **0**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->
@@ -151,7 +151,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1L**<br/> Size           |  **5**<br/> Speed   | **220**<br/> Stamina |  **3**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **+1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -222,7 +222,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Servok, Soulless, Valok |          -          |       Level 9        |       Elite Brute       |          EV 44          |
 | :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |          **3**<br/> Size           |  **5**<br/> Speed   | **240**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
@@ -310,7 +310,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Servok, Soulless, Valok |                -                |       Level 9        |    Elite Controller     |         EV 44          |
 | :--------------------------------: | :-----------------------------: | :------------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |        **5**<br/> Speed         | **200**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+4**<br/> Might          |       **-2**<br/> Agility       |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
 
 <!-- -->
@@ -392,7 +392,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
 | :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->

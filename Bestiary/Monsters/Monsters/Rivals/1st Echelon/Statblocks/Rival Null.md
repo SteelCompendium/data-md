@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 2       |      Elite Harrier      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **80**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

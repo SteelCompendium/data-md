@@ -28,7 +28,7 @@ stamina: '21'
 |   Dwarf, Humanoid   |          -          |       Level 1       |     Hexer Retainer      |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

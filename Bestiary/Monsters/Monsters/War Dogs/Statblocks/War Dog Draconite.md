@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **13**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+1**<br/> Agility | **-2**<br/> Reason  |              **-1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->

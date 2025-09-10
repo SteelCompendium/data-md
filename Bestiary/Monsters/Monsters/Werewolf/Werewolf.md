@@ -65,7 +65,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 | Accursed, Humanoid, Werebeast |          -          |       Level 1        |          Solo           |         EV 36          |
 | :---------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1M**<br/> Size        |  **7**<br/> Speed   | **200**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might       | **+2**<br/> Agility |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

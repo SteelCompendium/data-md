@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |            -            |      Level 10       |    Horde Controller     |         EV 12          |
 | :----------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **3**<br/> Size               |    **6**<br/> Speed     | **55**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              |   **-2**<br/> Agility   | **-2**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

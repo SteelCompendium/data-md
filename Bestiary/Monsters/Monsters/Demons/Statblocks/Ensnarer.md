@@ -31,11 +31,11 @@ type: monster
 
 ###### Ensnarer
 
-|   Abyssal, Demon    |          -          |      Level 1       |                   Minion Brute                   |   EV 3 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+0**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 1       |                   Minion Brute                   |  EV 3 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+2**<br/> Might  | **+0**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Tongues (Signature Ability)**

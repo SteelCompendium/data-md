@@ -31,11 +31,11 @@ type: monster
 
 ###### Tormenauk
 
-|   Abyssal, Demon    |          -          |       Level 6       |       Horde Brute       |            EV 8            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **2**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 6       |       Horde Brute       |           EV 8           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **2**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Many Maws (Signature Ability)**

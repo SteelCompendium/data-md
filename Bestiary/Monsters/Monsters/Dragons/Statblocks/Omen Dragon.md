@@ -34,7 +34,7 @@ type: monster
 |       Dragon, Elemental        |           -           |       Level 8        |          Solo           |         EV 120         |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **5**<br/> Size         |   **10**<br/> Speed   | **550**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+4**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence  |
 
 <!-- -->

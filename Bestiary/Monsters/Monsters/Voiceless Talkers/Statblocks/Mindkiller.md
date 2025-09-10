@@ -34,7 +34,7 @@ type: monster
 |  Horror, Voiceless Talker   |              -               |       Level 6        |       Elite Hexer       |         EV 32          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **6**<br/> Speed       | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

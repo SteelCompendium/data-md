@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                 Minion Hexer                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **7**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            | **+1**<br/> Agility | **+2**<br/> Reason |             **0**<br/> Intuition              |  **+3**<br/> Presence  |
 
 <!-- -->

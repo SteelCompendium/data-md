@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog  |          -          |      Level 10       |                 Minion Hexer                  | EV 12 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |             **0**<br/> Stability              | **4**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility | **+4**<br/> Reason  |             **+3**<br/> Intuition             |  **+5**<br/> Presence  |
 
 <!-- -->

@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Cold 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Cold 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+3**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |      Beast, Chimera      |           -           |       Level 3        |          Solo           |         EV 60          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |   **10**<br/> Speed   | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

@@ -74,7 +74,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |              Minion Support               | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |           **0**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **0**<br/> Presence   |
 
 <!-- -->
@@ -102,7 +102,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -130,7 +130,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |             Minion Defender             | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -158,7 +158,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -186,7 +186,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -229,7 +229,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |    Horde Controller     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -268,7 +268,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Defender      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -309,7 +309,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -353,7 +353,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -391,7 +391,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Kobold, Ooze, Soulless  |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     | **-1**<br/> Agility | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -432,7 +432,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Kobold, Humanoid   |          -          |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+3**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -516,7 +516,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |    Kobold, Beast     |            -             |       Level 1       |       Elite Brute       |         EV 12          |
 | :------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 | **2 or 3**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity  | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->

@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :----------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **109**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

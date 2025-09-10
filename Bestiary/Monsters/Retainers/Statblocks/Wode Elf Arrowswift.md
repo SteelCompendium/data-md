@@ -29,7 +29,7 @@ stamina: '21'
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |   Artillery Retainer    |          EV -          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **21**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

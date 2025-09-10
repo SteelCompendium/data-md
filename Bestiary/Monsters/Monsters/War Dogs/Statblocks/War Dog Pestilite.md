@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 3       |    Horde Controller     |          EV 5          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

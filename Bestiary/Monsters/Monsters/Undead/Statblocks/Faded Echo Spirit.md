@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |              -               |       Level 7       |                 Minion Hexer                  | EV 9 for four minions  |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |             **1**<br/> Stability              | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-3**<br/> Might             |     **+4**<br/> Agility      | **-5**<br/> Reason  |             **+1**<br/> Intuition             |  **-3**<br/> Presence  |
 
 <!-- -->

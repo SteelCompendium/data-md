@@ -34,7 +34,7 @@ type: monster
 |     Animal, Orc     |          -          |       Level 3        |       Elite Mount       |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |  **6**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **-1**<br/> Agility |  **-4**<br/> Reason  |  **+0**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

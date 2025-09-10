@@ -34,7 +34,7 @@ type: monster
 |  Horror, Overmind   |              -               |       Level 6        |          Solo           |         EV 96          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |       **5**<br/> Speed       | **450**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |     **+2**<br/> Agility      |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

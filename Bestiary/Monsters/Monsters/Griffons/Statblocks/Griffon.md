@@ -34,7 +34,7 @@ type: monster
 |   Beast, Griffon    |           -           |       Level 2       |       Elite Mount       |         EV 16          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **9**<br/> Speed    | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -65,7 +65,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 |      Elemental      |            -             |       Level 2        |          Solo           |         EV 48          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |     **8**<br/> Speed     | **250**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

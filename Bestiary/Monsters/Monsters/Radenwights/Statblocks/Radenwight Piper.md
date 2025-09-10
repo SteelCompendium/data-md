@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Support     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **0**<br/> Agility    |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

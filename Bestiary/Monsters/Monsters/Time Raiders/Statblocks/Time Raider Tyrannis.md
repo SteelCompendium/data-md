@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |                 -                 |       Level 3        |         Leader          |         EV 20          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |         **10**<br/> Speed         | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

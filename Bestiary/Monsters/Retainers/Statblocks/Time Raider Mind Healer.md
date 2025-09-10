@@ -28,7 +28,7 @@ stamina: '39'
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Support Retainer     |          EV -          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **39**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

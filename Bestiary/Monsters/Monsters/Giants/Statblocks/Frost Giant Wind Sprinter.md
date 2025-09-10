@@ -34,7 +34,7 @@ type: monster
 |    Frost Giant, Giant    |          -          |       Level 8        |      Elite Harrier      |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **10**<br/> Speed  | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+4**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

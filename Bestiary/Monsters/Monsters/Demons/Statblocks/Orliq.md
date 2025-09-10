@@ -31,11 +31,11 @@ type: monster
 
 ###### Orliq
 
-|   Abyssal, Demon    |           -           |      Level 4       |             Minion Harrier              |   EV 6 for four minions    |
-| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1T**<br/> Size   |   **6**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **-1**<br/> Might  |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+0**<br/> Intuition          |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |           -           |      Level 4       |             Minion Harrier              |  EV 6 for four minions   |
+| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1T**<br/> Size   |   **6**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **-1**<br/> Might  |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+0**<br/> Intuition          |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Soul Prism (Signature Ability)**

@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |   Platoon Controller    |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

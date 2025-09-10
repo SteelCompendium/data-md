@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |              **1L**<br/> Size              |  **5**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might              | **+5**<br/> Agility | **-2**<br/> Reason  |             **+4**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->

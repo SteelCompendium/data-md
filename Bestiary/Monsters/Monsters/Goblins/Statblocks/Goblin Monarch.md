@@ -34,7 +34,7 @@ type: monster
 |  Goblin, Humanoid   |            -            |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

@@ -35,7 +35,7 @@ type: monster
 | Abyssal, Demon, Gnoll |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size    |  **7**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might   | **-1**<br/> Agility |  **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

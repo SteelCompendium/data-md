@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+1**<br/> Agility  |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

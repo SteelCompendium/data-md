@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |             Minion Harrier              | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **13**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might       | **+4**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->

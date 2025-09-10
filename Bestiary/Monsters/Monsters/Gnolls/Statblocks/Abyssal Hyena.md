@@ -35,7 +35,7 @@ type: monster
 | Abyssal, Animal, Gnoll |          -          |      Level 2       |              Minion Brute               | EV 4 for four minions  |
 | :--------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |    **1M**<br/> Size    |  **8**<br/> Speed   | **7**<br/> Stamina |          **1**<br/> Stability           | **3**<br/> Free Strike |
-|  **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might    | **+1**<br/> Agility | **-3**<br/> Reason |          **0**<br/> Intuition           |  **-2**<br/> Presence  |
 
 <!-- -->

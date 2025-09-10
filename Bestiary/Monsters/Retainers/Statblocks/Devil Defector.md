@@ -28,7 +28,7 @@ stamina: '57'
 |     Devil, Infernal      |           -           |       Level 5       |     Hexer Retainer      |          EV -          |
 | :----------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **57**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

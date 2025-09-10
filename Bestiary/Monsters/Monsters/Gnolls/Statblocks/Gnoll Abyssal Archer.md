@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |       Level 2       |     Horde Artillery     |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

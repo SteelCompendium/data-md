@@ -85,7 +85,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 |     Beast, Worm     |            -             |       Level 7        |          Solo           |         EV 108         |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **5**<br/> Size   |    **10**<br/> Speed     | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  |   **+1**<br/> Agility    |  **-5**<br/> Reason  |  **+2**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->

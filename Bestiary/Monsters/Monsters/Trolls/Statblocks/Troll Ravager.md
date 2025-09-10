@@ -31,11 +31,11 @@ type: monster
 
 ###### Troll Ravager
 
-|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |      **4**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |     **4**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Dine and Dash (Signature Ability)**

@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |     Platoon Harrier     |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might    |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

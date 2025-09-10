@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might    |    **+3**<br/> Agility     |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

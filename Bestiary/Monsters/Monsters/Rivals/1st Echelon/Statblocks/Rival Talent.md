@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 2       |       Elite Hexer       |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

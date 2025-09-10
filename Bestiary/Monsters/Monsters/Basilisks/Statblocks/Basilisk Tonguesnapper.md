@@ -34,7 +34,7 @@ type: monster
 |          Basilisk, Beast           |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :--------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |  **8**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+1**<br/> Might          | **+2**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

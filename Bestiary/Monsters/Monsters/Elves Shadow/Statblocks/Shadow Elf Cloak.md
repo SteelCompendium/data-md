@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |             Minion Harrier              | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **8**<br/> Speed     | **8**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+1**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->

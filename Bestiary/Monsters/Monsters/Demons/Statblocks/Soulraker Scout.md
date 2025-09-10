@@ -32,11 +32,11 @@ type: monster
 
 ###### Soulraker Scout
 
-| Abyssal, Demon, Soulraker |           -           |       Level 7       |                Minion Harrier                 |   EV 9 for four minions    |
-| :-----------------------: | :-------------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|     **1M**<br/> Size      |   **7**<br/> Speed    | **12**<br/> Stamina |             **0**<br/> Stability              |   **3**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+2**<br/> Might     |  **+4**<br/> Agility  | **+1**<br/> Reason  |             **+0**<br/> Intuition             |    **-1**<br/> Presence    |
+| Abyssal, Demon, Soulraker |           -           |       Level 7       |                Minion Harrier                 |  EV 9 for four minions   |
+| :-----------------------: | :-------------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|     **1M**<br/> Size      |   **7**<br/> Speed    | **12**<br/> Stamina |             **0**<br/> Stability              |  **3**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+2**<br/> Might     |  **+4**<br/> Agility  | **+1**<br/> Reason  |             **+0**<br/> Intuition             |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Soul Stinger (Signature Ability)**

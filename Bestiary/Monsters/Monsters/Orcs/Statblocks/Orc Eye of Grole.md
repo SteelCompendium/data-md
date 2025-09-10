@@ -34,7 +34,7 @@ type: monster
 |               Humanoid, Orc                |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :----------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |  **6**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

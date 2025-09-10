@@ -34,7 +34,7 @@ type: monster
 |    Frost Giant, Giant    |          -          |       Level 8       |                 Minion Artillery                 | EV 10 for four minions |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **12**<br/> Stamina |               **5**<br/> Stability               | **4**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **-1**<br/> Agility | **-1**<br/> Reason  |              **+4**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->

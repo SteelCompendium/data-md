@@ -31,11 +31,11 @@ type: monster
 
 ###### Ruinant
 
-|   Abyssal, Demon    |          -          |       Level 1       |      Horde Harrier      |            EV 3            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 1       |      Horde Harrier      |           EV 3           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Bloodletting Claws (Signature Ability)**

@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->

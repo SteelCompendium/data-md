@@ -89,7 +89,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |        Elemental         |          -          |       Level 3       |     Elite Artillery     |         EV 20          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1T**<br/> Size     |  **6**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -139,7 +139,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |           Elemental           |           -           |       Level 3        |      Elite Harrier      |         EV 20          |
 | :---------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1S**<br/> Size        |   **8**<br/> Speed    | **100**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might       |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -189,7 +189,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |        Elemental         |           -            |       Level 3       |    Elite Controller     |         EV 20          |
 | :----------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |    **7**<br/> Speed    | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Cold 5**<br/> Immunity | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 5**<br/> Immunity | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     |  **+0**<br/> Agility   | **+1**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -244,7 +244,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |         Elemental          |            -            |       Level 3        |    Elite Controller     |         EV 28          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |    **8**<br/> Speed     | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |   **+0**<br/> Agility   |  **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -299,7 +299,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |      Elemental      |            -             |       Level 3        |       Elite Brute       |         EV 20          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **132**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **-1**<br/> Agility    |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

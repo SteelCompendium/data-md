@@ -65,7 +65,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |    Elite Controller     |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -151,7 +151,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |      Elite Support      |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -219,7 +219,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :----------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **109**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -301,7 +301,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |     Elite Ambusher      |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **7**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -387,7 +387,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 8       |                 Minion Hexer                  | EV 10 for four minions |
 | :----------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **12**<br/> Stamina |             **2**<br/> Stability              | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might        | **+3**<br/> Agility | **+1**<br/> Reason  |             **+1**<br/> Intuition             |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -420,7 +420,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |        **3**<br/> Size         |  **6**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability               | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        | **-1**<br/> Agility | **+0**<br/> Reason  |              **+1**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -448,7 +448,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |      Level 5       |             Minion Ambusher             | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **9**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+3**<br/> Agility | **+0**<br/> Reason |          **+0**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->

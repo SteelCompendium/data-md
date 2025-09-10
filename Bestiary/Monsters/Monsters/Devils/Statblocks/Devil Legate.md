@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |          -          |       Level 5        |     Elite Defender      |         EV 28          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **160**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

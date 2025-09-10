@@ -34,7 +34,7 @@ type: monster
 |    Fire Giant, Giant     |          -          |       Level 9        |       Elite Brute       |          EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **10**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |  Soulless, War Dog  |          -          |       Level 10       |    Elite Controller     |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **253**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->

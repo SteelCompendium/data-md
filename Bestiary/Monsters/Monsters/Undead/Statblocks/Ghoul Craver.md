@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |            -            |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

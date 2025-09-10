@@ -33,7 +33,7 @@ type: monster
 |      Elemental      |            -             |       Level 3        |       Elite Brute       |         EV 20          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **132**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **-1**<br/> Agility    |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

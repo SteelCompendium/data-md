@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |      Level 2       |                 Minion Artillery                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  | **+1**<br/> Reason |               **0**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->

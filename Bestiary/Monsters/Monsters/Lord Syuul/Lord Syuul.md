@@ -93,7 +93,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 |   Horror, Voiceless Talker   |                 -                 |       Level 6        |          Solo           |         EV 96          |
 | :--------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1M**<br/> Size       |         **7**<br/> Speed          | **450**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

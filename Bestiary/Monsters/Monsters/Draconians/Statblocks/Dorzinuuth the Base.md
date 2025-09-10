@@ -35,7 +35,7 @@ type: monster
 |  Draconian, Dragon, Humanoid  |              -               |       Level 6        |         Leader          |         EV 32          |
 | :---------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **2**<br/> Size        |       **5**<br/> Speed       | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might       |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

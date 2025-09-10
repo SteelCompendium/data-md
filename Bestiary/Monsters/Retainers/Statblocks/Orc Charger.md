@@ -28,7 +28,7 @@ stamina: '21'
 |    Humanoid, Orc    |          -          |       Level 1       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **8**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |              -               |      Level 10       |       Horde Hexer       |         EV 12          |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **6**<br/> Speed       | **55**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |              **0**<br/> Might              |     **+1**<br/> Agility      | **+5**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

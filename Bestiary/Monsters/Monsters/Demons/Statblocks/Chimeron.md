@@ -31,11 +31,11 @@ type: monster
 
 ###### Chimeron
 
-|   Abyssal, Demon    |          -          |       Level 9       |       Horde Brute       |            EV 9            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **90**<br/> Stamina |  **2**<br/> Stability   |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 9       |       Horde Brute       |           EV 9           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **90**<br/> Stamina |  **2**<br/> Stability   |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Flux Gnash (Signature Ability)**

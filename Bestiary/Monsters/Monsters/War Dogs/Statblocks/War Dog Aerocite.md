@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |           -           |       Level 8       |      Horde Harrier      |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+4**<br/> Agility  | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

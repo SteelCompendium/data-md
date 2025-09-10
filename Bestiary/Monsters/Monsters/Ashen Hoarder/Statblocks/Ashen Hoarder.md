@@ -31,11 +31,11 @@ type: monster
 
 ###### Ashen Hoarder
 
-|  Construct, Undead  |            -             |       Level 4        |          Solo           |           EV 72            |
-| :-----------------: | :----------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |    **-5**<br/> Presence    |
+|  Construct, Undead  |            -             |       Level 4        |          Solo           |          EV 72           |
+| :-----------------: | :----------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |  **6**<br/> Free Strike  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |   **-5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**

@@ -34,7 +34,7 @@ type: monster
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Support               |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->

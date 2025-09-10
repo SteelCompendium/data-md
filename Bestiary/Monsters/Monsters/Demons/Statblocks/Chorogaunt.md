@@ -31,11 +31,11 @@ type: monster
 
 ###### Chorogaunt
 
-|   Abyssal, Demon    |          -          |       Level 3        |         Leader          |           EV 20            |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 3        |         Leader          |          EV 20           |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > ❇️ **Agonizing Harmony (Signature Ability)**

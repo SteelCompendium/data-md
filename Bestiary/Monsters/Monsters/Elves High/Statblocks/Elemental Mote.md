@@ -35,7 +35,7 @@ type: monster
 | Elemental, High Elf, Soulless |           -           |      Level 1       |              Minion Hexer               | EV 3 for four minions  |
 | :---------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |       **1T**<br/> Size        |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **0**<br/> Might        |  **0**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->

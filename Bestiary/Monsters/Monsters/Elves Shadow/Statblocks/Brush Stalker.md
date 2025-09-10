@@ -35,7 +35,7 @@ type: monster
 | Animal, Fey, Shadow Elf |          -          |       Level 4       |      Platoon Mount      |         EV 12          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size     |  **8**<br/> Speed   | **60**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might    | **+2**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

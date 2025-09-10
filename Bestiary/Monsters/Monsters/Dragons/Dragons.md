@@ -209,7 +209,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 |     Dragon, Elemental      |           -           |       Level 2        |          Solo           |         EV 48          |
 | :------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |   **8**<br/> Speed    | **250**<br/> Stamina |  **6**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |  **+3**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -385,7 +385,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 |      Dragon, Elemental      |              -               |       Level 4        |          Solo           |         EV 72          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **4**<br/> Size       |       **8**<br/> Speed       | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |     **+4**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -554,7 +554,7 @@ The oldest of crucible dragons are known to speak some Vastariax, though younger
 |    Dragon, Elemental     |          -          |       Level 6        |          Solo           |         EV 96          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **450**<br/> Stamina |  **6**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -742,7 +742,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 |       Dragon, Elemental        |           -           |       Level 8        |          Solo           |         EV 120         |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **5**<br/> Size         |   **10**<br/> Speed   | **550**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+4**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -931,7 +931,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 |  Dragon, Elemental  |           -           |       Level 10       |          Solo           |         EV 144          |
 | :-----------------: | :-------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **3**<br/> Size   |   **15**<br/> Speed   | **650**<br/> Stamina |  **6**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  |  **+5**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->

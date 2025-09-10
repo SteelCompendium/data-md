@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |      Level 4       |                 Minion Artillery                  | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             | **+3**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->

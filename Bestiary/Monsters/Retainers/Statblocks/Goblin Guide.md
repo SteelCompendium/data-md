@@ -28,7 +28,7 @@ stamina: '21'
 |  Goblin, Humanoid   |            -            |       Level 1       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

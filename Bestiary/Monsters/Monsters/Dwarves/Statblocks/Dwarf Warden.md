@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |          -          |       Level 2       |      Platoon Brute      |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

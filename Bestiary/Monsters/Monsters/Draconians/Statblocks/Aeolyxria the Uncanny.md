@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+2**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

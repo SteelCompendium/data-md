@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |            -             |       Level 8       |    Horde Controller     |         EV 10          |
 | :-------------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |     **5**<br/> Speed     | **45**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |   **+1**<br/> Agility    | **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

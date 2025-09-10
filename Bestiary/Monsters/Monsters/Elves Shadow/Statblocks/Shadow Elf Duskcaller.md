@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 5       |   Platoon Controller    |         EV 14          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

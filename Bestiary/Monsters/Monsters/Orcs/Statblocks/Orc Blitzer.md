@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->

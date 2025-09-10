@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |    Elite Controller     |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

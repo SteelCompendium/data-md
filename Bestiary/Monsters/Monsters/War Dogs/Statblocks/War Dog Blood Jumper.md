@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |           -           |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :-------------------------: | :-------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **15**<br/> Stamina |          **2**<br/> Stability           | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+5**<br/> Might      |  **+4**<br/> Agility  | **+2**<br/> Reason  |          **+3**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->

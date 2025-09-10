@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                Minion Ambusher                | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **8**<br/> Stamina |             **0**<br/> Stability              | **3**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |             **+1**<br/> Intuition             |  **0**<br/> Presence   |
 
 <!-- -->

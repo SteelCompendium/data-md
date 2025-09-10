@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |              -               |       Level 4       |       Horde Hexer       |          EV 6          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **8**<br/> Speed       | **25**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

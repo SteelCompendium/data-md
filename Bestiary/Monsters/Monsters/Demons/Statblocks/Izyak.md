@@ -31,11 +31,11 @@ type: monster
 
 ###### Izyak
 
-|   Abyssal, Demon    |             -              |      Level 10       |    Horde Controller     |           EV 12            |
-| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **2**<br/> Size   |      **6**<br/> Speed      | **55**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  |    **+0**<br/> Agility     | **+5**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+|   Abyssal, Demon    |             -              |      Level 10       |    Horde Controller     |          EV 12           |
+| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **2**<br/> Size   |      **6**<br/> Speed      | **55**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  |    **+0**<br/> Agility     | **+5**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Nostalgic Wanderlust (Signature Ability)**

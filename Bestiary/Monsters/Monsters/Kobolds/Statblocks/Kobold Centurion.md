@@ -34,7 +34,7 @@ type: monster
 |  Kobold, Humanoid   |          -          |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+3**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -569,7 +569,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |     Angulotl, Humanoid     |               -               |       Level 1       |    Harrier Retainer     |          EV -          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might      |      **+2**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -642,7 +642,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |    Ambusher Retainer    |          EV -          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -738,7 +738,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |     Devil, Infernal      |           -           |       Level 5       |     Hexer Retainer      |          EV -          |
 | :----------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **57**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -803,7 +803,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |  Draconian, Dragon, Humanoid   |           -           |       Level 6       |    Defender Retainer    |          EV -          |
 | :----------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1M**<br/> Size        |   **5**<br/> Speed    | **66**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+2**<br/> Agility  | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -874,7 +874,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |   Dwarf, Humanoid   |          -          |       Level 1       |     Hexer Retainer      |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -951,7 +951,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | Fey, High Elf, Humanoid |          -          |       Level 1       |   Controller Retainer   |          EV -          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might    | **+1**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1022,7 +1022,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |    Ambusher Retainer    |          EV -          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1093,7 +1093,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |   Artillery Retainer    |          EV -          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **21**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1164,7 +1164,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |   Abyssal, Gnoll    |          -          |       Level 2       |    Harrier Retainer     |         EV 60          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **30**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1231,7 +1231,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |  Goblin, Humanoid   |            -            |       Level 1       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1307,7 +1307,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **0**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -1378,7 +1378,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |   Human, Humanoid   |          -          |       Level 1       |    Defender Retainer    |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1451,7 +1451,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |  Humanoid, Kobold   |          -          |       Level 1        |    Defender Retainer    |          EV -          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **300**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1518,7 +1518,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | Accursed, Humanoid, Minotaur |          -          |       Level 3       |     Brute Retainer      |          EV -          |
 | :--------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **39**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1594,7 +1594,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |    Humanoid, Orc    |          -          |       Level 1       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **8**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1659,7 +1659,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 | Humanoid, Radenwight |            -            |       Level 1       |    Support Retainer     |          EV -          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1730,7 +1730,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Support Retainer     |          EV -          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **39**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1798,11 +1798,11 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 
 ###### Troll Mercenary
 
-|    Giant, Troll     |          -          |       Level 5       |     Brute Retainer      |               EV -               |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **57**<br/> Stamina |  **4**<br/> Stability   |      **6**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 5       |     Brute Retainer      |              EV -              |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **57**<br/> Stamina |  **4**<br/> Stability   |     **6**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Big Bite (Signature Ability)**
@@ -1864,7 +1864,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |  Undead, Soulless   |          -          |       Level 1       |     Brute Retainer      |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **-1**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1941,7 +1941,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |             Undead, Soulless             |              -               |       Level 1       |     Hexer Retainer      |          EV -          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **21**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-4**<br/> Might             |     **+1**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -2019,7 +2019,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 |   Undead, Vampire   |            -            |       Level 4       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |    **5**<br/> Speed     | **48**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+3**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

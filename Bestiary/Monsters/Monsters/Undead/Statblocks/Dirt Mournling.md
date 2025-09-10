@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |                -                |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :-----------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |        **6**<br/> Speed         | **64**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |       **+1**<br/> Agility       | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->

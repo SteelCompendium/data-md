@@ -33,7 +33,7 @@ type: monster
 |        Elemental         |          -          |       Level 3       |     Elite Artillery     |         EV 20          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1T**<br/> Size     |  **6**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

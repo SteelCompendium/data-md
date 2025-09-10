@@ -35,7 +35,7 @@ type: monster
 |  Humanoid, Soulless, War Dog  |          -          |      Level 4       |                       Minion Artillery                       | EV 6 for four minions  |
 | :---------------------------: | :-----------------: | :----------------: | :----------------------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size        |  **5**<br/> Speed   | **7**<br/> Stamina |                     **0**<br/> Stability                     | **3**<br/> Free Strike |
-| **Lightning 4**<br/> Immunity | **-**<br/> Movement |         -          | **Lightning spread increases by 1 square**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 4**<br/> Immunity | **-**<br/> Movement |         -          | **Lightning spread increases by 1 square**<br/> With Captain |  **-**<br/> Weakness   |
 |       **0**<br/> Might        | **0**<br/> Agility  | **+3**<br/> Reason |                     **0**<br/> Intuition                     |  **+2**<br/> Presence  |
 
 <!-- -->

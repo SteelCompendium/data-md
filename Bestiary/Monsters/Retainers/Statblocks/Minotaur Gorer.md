@@ -29,7 +29,7 @@ stamina: '39'
 | Accursed, Humanoid, Minotaur |          -          |       Level 3       |     Brute Retainer      |          EV -          |
 | :--------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **39**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+2**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

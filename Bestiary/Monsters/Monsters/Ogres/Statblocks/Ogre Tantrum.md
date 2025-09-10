@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Artillery                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability                | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->

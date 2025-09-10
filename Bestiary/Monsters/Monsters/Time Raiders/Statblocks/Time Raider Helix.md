@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |           -           |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

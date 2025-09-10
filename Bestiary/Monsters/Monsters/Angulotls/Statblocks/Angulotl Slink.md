@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

@@ -29,7 +29,7 @@ stamina: '66'
 |  Draconian, Dragon, Humanoid   |           -           |       Level 6       |    Defender Retainer    |          EV -          |
 | :----------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1M**<br/> Size        |   **5**<br/> Speed    | **66**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+2**<br/> Agility  | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

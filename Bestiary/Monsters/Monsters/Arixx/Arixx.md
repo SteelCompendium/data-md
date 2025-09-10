@@ -59,7 +59,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 |    Arixx, Beast     |            -             |       Level 1        |          Solo           |         EV 36          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **200**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+1**<br/> Agility    |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->

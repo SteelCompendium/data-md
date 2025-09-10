@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **6**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+3**<br/> Agility    |  **0**<br/> Reason   |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

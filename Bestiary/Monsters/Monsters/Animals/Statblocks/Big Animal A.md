@@ -33,7 +33,7 @@ type: monster
 |       Animal        |          -          |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

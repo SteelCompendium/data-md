@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->

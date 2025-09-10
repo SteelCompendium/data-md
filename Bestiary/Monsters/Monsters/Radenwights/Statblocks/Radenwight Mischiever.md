@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   | **0**<br/> Reason  |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

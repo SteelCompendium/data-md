@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Harrier      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

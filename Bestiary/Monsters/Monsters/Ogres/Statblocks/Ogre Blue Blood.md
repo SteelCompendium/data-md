@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Brute                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **13**<br/> Stamina |             **4**<br/> Stability              | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |             **0**<br/> Intuition              |  **+2**<br/> Presence  |
 
 <!-- -->

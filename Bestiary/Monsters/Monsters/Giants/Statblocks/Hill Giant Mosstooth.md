@@ -34,7 +34,7 @@ type: monster
 |     Giant, Hill Giant      |            -            |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :------------------------: | :---------------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **13**<br/> Stamina |               **5**<br/> Stability               | **4**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   | **-1**<br/> Reason  |              **-1**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->

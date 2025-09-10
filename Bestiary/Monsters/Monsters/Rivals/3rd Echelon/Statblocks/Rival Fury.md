@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 8        |       Elite Brute       |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **3**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+3**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

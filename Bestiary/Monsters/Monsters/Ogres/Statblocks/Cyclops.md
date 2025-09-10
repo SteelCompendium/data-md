@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |      Level 10       |            Minion Controller            | EV 12 for four minions |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **14**<br/> Stamina |          **5**<br/> Stability           | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **-1**<br/> Agility | **-1**<br/> Reason  |          **+3**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->

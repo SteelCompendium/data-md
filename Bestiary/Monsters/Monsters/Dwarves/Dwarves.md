@@ -90,7 +90,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Defender              |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **7**<br/> Stamina |           **2**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason |           **+2**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -113,7 +113,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |               Minion Brute                |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **7**<br/> Stamina |           **2**<br/> Stability            | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -136,7 +136,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Harrier               |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -159,7 +159,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Support               |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -182,7 +182,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **26**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -221,7 +221,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |      Platoon Hexer      |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **39**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -264,7 +264,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **36**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -301,7 +301,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 3       |    Platoon Defender     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **72**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -342,7 +342,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |            -             |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **5**<br/> Speed     | **52**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+0**<br/> Agility    | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -385,7 +385,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **36**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -423,7 +423,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 2       |      Platoon Brute      |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -466,7 +466,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **132**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+0**<br/> Agility |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -545,7 +545,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **8**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+0**<br/> Agility   | **-2**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

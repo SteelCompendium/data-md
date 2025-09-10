@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 8        |     Elite Ambusher      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **200**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+4**<br/> Agility |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

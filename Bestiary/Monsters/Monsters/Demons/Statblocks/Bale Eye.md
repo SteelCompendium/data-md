@@ -31,11 +31,11 @@ type: monster
 
 ###### Bale Eye
 
-|   Abyssal, Demon    |           -           |       Level 5       |       Horde Hexer       |            EV 7            |
-| :-----------------: | :-------------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **4**<br/> Size   |   **6**<br/> Speed    | **30**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  |  **+0**<br/> Agility  | **+3**<br/> Reason  |  **+3**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |           -           |       Level 5       |       Horde Hexer       |           EV 7           |
+| :-----------------: | :-------------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **4**<br/> Size   |   **6**<br/> Speed    | **30**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  |  **+0**<br/> Agility  | **+3**<br/> Reason  |  **+3**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Wilting Visions (Signature Ability)**

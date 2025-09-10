@@ -34,7 +34,7 @@ type: monster
 |     Animal, Orc     |            -             |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :-----------------: | :----------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |     **7**<br/> Speed     | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  |   **+2**<br/> Agility    | **-4**<br/> Reason |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->

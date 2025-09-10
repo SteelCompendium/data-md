@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |       Level 4        |       Elite Brute       |         EV 24          |
 | :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |  **6**<br/> Speed   | **140**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

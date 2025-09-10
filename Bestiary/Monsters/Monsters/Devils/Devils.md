@@ -91,7 +91,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **10**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+0**<br/> Agility | **+1**<br/> Reason  |              **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -119,7 +119,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |      Level 5       |                   Minion Hexer                    | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     | **+1**<br/> Agility | **+3**<br/> Reason |               **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -147,7 +147,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |      Level 5       |             Minion Harrier              | EV 7 for four minions  |
 | :----------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **9**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+1**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -175,7 +175,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+1**<br/> Agility  |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -245,7 +245,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 5        |     Elite Artillery     |         EV 28          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+2**<br/> Agility  |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -319,7 +319,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 5        |     Elite Defender      |         EV 28          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **160**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -391,7 +391,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 6        |      Elite Harrier      |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **7**<br/> Speed   | **160**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     | **+3**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -463,7 +463,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 6        |         Leader          |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **7**<br/> Speed    | **181**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     |  **+3**<br/> Agility  |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -31,11 +31,11 @@ type: monster
 
 ###### Mummy
 
-|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |            EV 6            |
-| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |    **0**<br/> Presence     |
+|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |           EV 6           |
+| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |   **0**<br/> Presence    |
 
 <!-- -->
 > 🗡 **Accursed Bindings (Signature Ability)**

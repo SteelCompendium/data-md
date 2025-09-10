@@ -31,11 +31,11 @@ type: monster
 
 ###### Gunge
 
-|   Abyssal, Demon    |          -          |       Level 4       |    Horde Controller     |            EV 6            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **25**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 4       |    Horde Controller     |           EV 6           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **25**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Bilious Expulsion (Signature Ability)**

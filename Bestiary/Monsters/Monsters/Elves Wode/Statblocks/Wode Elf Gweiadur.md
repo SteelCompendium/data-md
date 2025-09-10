@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |            -            |       Level 3       |    Platoon Artillery    |         EV 10          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

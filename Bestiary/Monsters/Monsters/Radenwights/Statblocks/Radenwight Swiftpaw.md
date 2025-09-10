@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |      Level 1       |                Minion Harrier                 |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **+2**<br/> Agility   | **+1**<br/> Reason |             **0**<br/> Intuition              |  **-1**<br/> Presence  |
 
 <!-- -->

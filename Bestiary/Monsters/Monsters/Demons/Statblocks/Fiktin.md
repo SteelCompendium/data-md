@@ -31,11 +31,11 @@ type: monster
 
 ###### Fiktin
 
-|   Abyssal, Demon    |          -          |       Level 5       |     Horde Ambusher      |            EV 7            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 5       |     Horde Ambusher      |           EV 7           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > ❇️ **Violent Transformation (Signature Ability)**

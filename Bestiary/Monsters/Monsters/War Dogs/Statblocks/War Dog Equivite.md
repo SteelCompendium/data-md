@@ -34,7 +34,7 @@ type: monster
 |  Soulless, War Dog  |          -          |       Level 4       |       Horde Brute       |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **8**<br/> Speed   | **53**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

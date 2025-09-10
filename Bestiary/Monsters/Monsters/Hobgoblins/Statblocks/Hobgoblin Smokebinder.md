@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |              -               |       Level 5       |    Platoon Ambusher     |         EV 14          |
 | :-----------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |       **7**<br/> Speed       | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           |     **+3**<br/> Agility      | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

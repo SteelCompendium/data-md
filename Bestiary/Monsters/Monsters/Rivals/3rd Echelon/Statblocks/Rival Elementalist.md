@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **1**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

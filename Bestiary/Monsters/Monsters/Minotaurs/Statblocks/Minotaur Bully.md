@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |                   Minion Brute                   | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **14**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |              **+3**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->

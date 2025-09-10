@@ -34,7 +34,7 @@ type: monster
 |  Soulless, War Dog  |              -               |       Level 8       |     Horde Defender      |         EV 10          |
 | :-----------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |       **5**<br/> Speed       | **82**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |      **0**<br/> Agility      | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

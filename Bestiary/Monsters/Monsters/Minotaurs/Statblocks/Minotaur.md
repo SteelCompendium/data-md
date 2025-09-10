@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **100**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

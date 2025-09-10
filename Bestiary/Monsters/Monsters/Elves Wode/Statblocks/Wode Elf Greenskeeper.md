@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |             Undead, Vampire              |            -            |       Level 4       |      Horde Harrier      |          EV 6          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |   **+3**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

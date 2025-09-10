@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |            -             |       Level 2       |   Platoon Controller    |          EV 8          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **6**<br/> Speed     | **30**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+1**<br/> Agility    | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

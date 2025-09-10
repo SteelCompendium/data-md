@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |          -          |      Level 5       |                   Minion Hexer                    | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     | **+1**<br/> Agility | **+3**<br/> Reason |               **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->

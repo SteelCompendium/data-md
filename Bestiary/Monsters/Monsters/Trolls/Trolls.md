@@ -68,11 +68,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Limbjumble
 
-|        Troll        |          -          |      Level 5       |                 Minion Hexer                  |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :------------------------------: |
-|  **1S**<br/> Size   |  **5**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **Acid 8, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-2**<br/> Reason |             **-1**<br/> Intuition             |       **-1**<br/> Presence       |
+|        Troll        |          -          |      Level 5       |                 Minion Hexer                  |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :----------------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **Acid 8, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-2**<br/> Reason |             **-1**<br/> Intuition             |      **-1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Arm and a Leg (Signature Ability)**
@@ -96,11 +96,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Whelp
 
-|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Jaws and Claws (Signature Ability)**
@@ -122,11 +122,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Butcher
 
-|    Giant, Troll     |          -          |       Level 5        |       Elite Hexer       |              EV 28               |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |      **6**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5        |       Elite Hexer       |             EV 28              |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |     **6**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Savoring Bite (Signature Ability)**
@@ -190,11 +190,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Glutton
 
-|    Giant, Troll     |          -          |       Level 5        |       Elite Brute       |              EV 28               |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **160**<br/> Stamina |  **4**<br/> Stability   |      **7**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 5        |       Elite Brute       |             EV 28              |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **160**<br/> Stamina |  **4**<br/> Stability   |     **7**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Voracious Mastication (Signature Ability)**
@@ -252,11 +252,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Crack Trooper
 
-|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |      **5**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |       **+2**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |     **5**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |      **+2**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Charging Chomp (Signature Ability)**
@@ -280,11 +280,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Ravager
 
-|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |      **4**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |     **4**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Dine and Dash (Signature Ability)**

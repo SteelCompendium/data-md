@@ -36,7 +36,7 @@ type: monster
 | Accursed, Humanoid, Minotaur, Swarm |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :---------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |           **4**<br/> Size           |  **8**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+5**<br/> Might          | **+5**<br/> Agility |  **0**<br/> Reason  |             **+2**<br/> Intuition             |  **-1**<br/> Presence  |
 
 <!-- -->

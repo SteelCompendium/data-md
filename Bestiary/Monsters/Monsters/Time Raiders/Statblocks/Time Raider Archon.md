@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |      Level 3       |                  Minion Harrier                  | EV 5 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+2**<br/> Agility | **+2**<br/> Reason |              **+1**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->

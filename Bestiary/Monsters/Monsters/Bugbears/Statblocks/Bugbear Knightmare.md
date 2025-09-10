@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 8       |                 Minion Hexer                  | EV 10 for four minions |
 | :----------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **12**<br/> Stamina |             **2**<br/> Stability              | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might        | **+3**<br/> Agility | **+1**<br/> Reason  |             **+1**<br/> Intuition             |  **+4**<br/> Presence  |
 
 <!-- -->

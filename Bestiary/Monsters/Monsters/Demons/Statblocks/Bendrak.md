@@ -31,11 +31,11 @@ type: monster
 
 ###### Bendrak
 
-|   Abyssal, Demon    |          -          |       Level 2       |       Horde Hexer       |            EV 4            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 2       |       Horde Hexer       |           EV 4           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Warp Perceptions (Signature Ability)**

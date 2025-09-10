@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 5       |    Platoon Artillery    |         EV 14          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

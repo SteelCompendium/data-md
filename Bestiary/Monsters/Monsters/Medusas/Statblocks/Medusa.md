@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Medusa |          -          |       Level 5        |          Solo           |         EV 84          |
 | :------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |  **10**<br/> Speed  | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      | **+4**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

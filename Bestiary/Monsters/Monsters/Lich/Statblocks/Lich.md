@@ -30,11 +30,11 @@ type: monster
 
 ###### Lich
 
-|                   Undead                   |              -               |       Level 10       |          Solo           |           EV 144           |
-| :----------------------------------------: | :--------------------------: | :------------------: | :---------------------: | :------------------------: |
-|              **1M**<br/> Size              |      **10**<br/> Speed       | **650**<br/> Stamina |  **1**<br/> Stability   |  **10**<br/> Free Strike   |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|             **+2**<br/> Might              |     **+3**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |    **+5**<br/> Presence    |
+|                   Undead                   |              -               |       Level 10       |          Solo           |          EV 144          |
+| :----------------------------------------: | :--------------------------: | :------------------: | :---------------------: | :----------------------: |
+|              **1M**<br/> Size              |      **10**<br/> Speed       | **650**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|             **+2**<br/> Might              |     **+3**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |   **+5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**

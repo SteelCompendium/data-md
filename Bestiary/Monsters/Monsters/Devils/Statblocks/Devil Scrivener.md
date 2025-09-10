@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |           -           |      Level 5       |             Minion Harrier              | EV 7 for four minions  |
 | :----------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **9**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+1**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->

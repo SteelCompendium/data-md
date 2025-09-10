@@ -30,11 +30,11 @@ type: monster
 
 ###### Troll Limbjumble
 
-|        Troll        |          -          |      Level 5       |                 Minion Hexer                  |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :------------------------------: |
-|  **1S**<br/> Size   |  **5**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **Acid 8, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-2**<br/> Reason |             **-1**<br/> Intuition             |       **-1**<br/> Presence       |
+|        Troll        |          -          |      Level 5       |                 Minion Hexer                  |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :----------------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **Acid 8, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-2**<br/> Reason |             **-1**<br/> Intuition             |      **-1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Arm and a Leg (Signature Ability)**

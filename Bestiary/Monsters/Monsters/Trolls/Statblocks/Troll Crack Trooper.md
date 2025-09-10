@@ -31,11 +31,11 @@ type: monster
 
 ###### Troll Crack Trooper
 
-|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |      **5**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |       **+2**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |     **5**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |      **+2**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Charging Chomp (Signature Ability)**

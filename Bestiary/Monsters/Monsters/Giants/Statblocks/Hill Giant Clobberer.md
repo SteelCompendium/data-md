@@ -34,7 +34,7 @@ type: monster
 |     Giant, Hill Giant      |            -            |       Level 7        |       Elite Brute       |         EV 36          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   |  **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

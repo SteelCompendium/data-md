@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 6        |    Platoon Defender     |         EV 16          |
 | :-----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |            **2**<br/> Size            |  **4**<br/> Speed   | **111**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

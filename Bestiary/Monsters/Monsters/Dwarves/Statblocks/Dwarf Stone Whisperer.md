@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |            -             |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **5**<br/> Speed     | **52**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+0**<br/> Agility    | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

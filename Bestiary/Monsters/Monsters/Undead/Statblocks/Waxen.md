@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |       Level 7       |     Horde Artillery     |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **-2**<br/> Agility | **-4**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

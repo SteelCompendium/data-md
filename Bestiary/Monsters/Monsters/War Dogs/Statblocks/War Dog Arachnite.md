@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |            -            |       Level 6       |     Horde Artillery     |          EV 8          |
 | :-------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |    **5**<br/> Speed     | **35**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

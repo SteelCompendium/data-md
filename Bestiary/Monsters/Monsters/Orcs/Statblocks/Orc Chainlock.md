@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 | Beast, Lightbender  |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

@@ -33,7 +33,7 @@ type: monster
 |           Elemental           |           -           |       Level 3        |      Elite Harrier      |         EV 20          |
 | :---------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1S**<br/> Size        |   **8**<br/> Speed    | **100**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might       |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

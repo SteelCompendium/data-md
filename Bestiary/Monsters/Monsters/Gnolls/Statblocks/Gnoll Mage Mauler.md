@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |      Level 2       |                   Minion Hexer                   | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

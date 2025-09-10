@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

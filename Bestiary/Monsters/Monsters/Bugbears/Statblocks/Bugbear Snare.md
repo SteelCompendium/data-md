@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |      Level 5       |             Minion Ambusher             | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **9**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+3**<br/> Agility | **+0**<br/> Reason |          **+0**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->

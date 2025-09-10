@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |              -               |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :--------------------------------------: | :--------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->

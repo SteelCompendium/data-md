@@ -34,7 +34,7 @@ type: monster
 |   Animal, Goblin    |          -          |       Level 1       |       Horde Mount       |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

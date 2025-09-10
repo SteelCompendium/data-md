@@ -34,7 +34,7 @@ type: monster
 |  Bredbeddle, Giant  |          -          |       Level 3        |          Solo           |         EV 60          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **300**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+0**<br/> Agility |  **-3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -90,7 +90,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+2**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -159,7 +159,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |      Elite Harrier      |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **160**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+3**<br/> Agility  |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -231,7 +231,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Cold 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Cold 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+3**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -290,7 +290,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 |  Draconian, Dragon, Humanoid   |           -           |       Level 6        |       Elite Hexer       |         EV 32          |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **1M**<br/> Size        |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **-1**<br/> Might        |  **+3**<br/> Agility  |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -351,7 +351,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |       Elite Brute       |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |   **5**<br/> Speed    | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      |  **+2**<br/> Agility  |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -421,7 +421,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 |  Draconian, Dragon, Humanoid  |              -               |       Level 6        |         Leader          |         EV 32          |
 | :---------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **2**<br/> Size        |       **5**<br/> Speed       | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might       |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

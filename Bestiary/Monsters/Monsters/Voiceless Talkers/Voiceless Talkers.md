@@ -88,7 +88,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |              -               |      Level 6       |                   Minion Hexer                   | EV 8 for four minions  |
 | :-------------------------: | :--------------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **4**<br/> Speed       | **9**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      | **+1**<br/> Reason |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -125,7 +125,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 | Horror, Voiceless Talker |          -          |      Level 6       |             Minion Controller             | EV 8 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **0**<br/> Agility  | **+3**<br/> Reason |           **+1**<br/> Intuition           |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -151,7 +151,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 | Horror, Voiceless Talker |          -          |       Level 6        |       Elite Brute       |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1L**<br/> Size     |  **5**<br/> Speed   | **180**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **-2**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -223,7 +223,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |              -               |       Level 6        |       Elite Hexer       |         EV 32          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **6**<br/> Speed       | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -294,7 +294,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -362,7 +362,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |        **+1**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -429,7 +429,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

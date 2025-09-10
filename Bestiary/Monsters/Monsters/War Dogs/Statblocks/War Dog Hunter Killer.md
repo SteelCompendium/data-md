@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |      Level 10       |                 Minion Artillery                 | EV 12 for four minions |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |               **0**<br/> Stability               | **5**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+5**<br/> Agility | **+3**<br/> Reason  |              **+5**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->

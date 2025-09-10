@@ -32,11 +32,11 @@ type: monster
 
 ###### Soulraker Handmaiden
 
-| Abyssal, Demon, Soulraker |          -          |       Level 8       |     Horde Ambusher      |           EV 10            |
-| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|     **1M**<br/> Size      |  **0**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+3**<br/> Might     | **+0**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 8       |     Horde Ambusher      |          EV 10           |
+| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|     **1M**<br/> Size      |  **0**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+3**<br/> Might     | **+0**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > ⭐️ **Implanted Parasite**

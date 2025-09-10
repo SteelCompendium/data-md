@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8       |             Minion Controller             | EV 10 for four minions |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **14**<br/> Stamina |           **10**<br/> Stability           | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **0**<br/> Reason  |           **+3**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->

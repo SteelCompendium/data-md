@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

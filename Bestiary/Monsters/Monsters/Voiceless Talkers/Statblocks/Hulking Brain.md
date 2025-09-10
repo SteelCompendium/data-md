@@ -34,7 +34,7 @@ type: monster
 | Horror, Voiceless Talker |          -          |       Level 6        |       Elite Brute       |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1L**<br/> Size     |  **5**<br/> Speed   | **180**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **-2**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

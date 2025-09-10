@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **7**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility | **0**<br/> Reason  |              **+2**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

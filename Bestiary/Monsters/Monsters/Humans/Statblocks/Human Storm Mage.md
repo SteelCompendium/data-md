@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 3, psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **0**<br/> Agility  | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 10       |      Elite Support      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **240**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **+5**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->

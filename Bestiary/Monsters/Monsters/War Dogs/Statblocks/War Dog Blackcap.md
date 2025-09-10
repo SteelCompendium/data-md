@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |             -              |       Level 7       |     Horde Ambusher      |          EV 9          |
 | :-------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **6**<br/> Speed      | **45**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+4**<br/> Agility     | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

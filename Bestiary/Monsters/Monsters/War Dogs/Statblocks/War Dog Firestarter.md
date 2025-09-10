@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 8       |       Horde Hexer       |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|  **Fire 8**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 8**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -35,7 +35,7 @@ type: monster
 | Devil, Hobgoblin, Infernal |           -           |      Level 4       |             Minion Ambusher             | EV 6 for four minions  |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1T**<br/> Size      |   **7**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-|  **Fire 2**<br/> Immunity  | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 2**<br/> Immunity  | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |  **+3**<br/> Agility  | **0**<br/> Reason  |          **+1**<br/> Intuition          |  **0**<br/> Presence   |
 
 <!-- -->

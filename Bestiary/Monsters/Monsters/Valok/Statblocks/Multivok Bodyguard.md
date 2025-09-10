@@ -36,7 +36,7 @@ type: monster
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |     Elite Defender      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **2**<br/> Size            |  **5**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **0**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->

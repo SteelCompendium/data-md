@@ -34,7 +34,7 @@ type: monster
 |  Humanoid, Kobold   |          -          |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

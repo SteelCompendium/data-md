@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |          -          |       Level 6        |      Elite Harrier      |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **7**<br/> Speed   | **160**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     | **+3**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |     Fire Giant, Giant     |          -          |       Level 9        |         Leader          |         EV 44          |
 | :-----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **5**<br/> Size      |  **10**<br/> Speed  | **240**<br/> Stamina |  **10**<br/> Stability  | **9**<br/> Free Strike |
-| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+5**<br/> Might     | **+3**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

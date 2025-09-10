@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |        **3**<br/> Size         |  **6**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability               | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        | **-1**<br/> Agility | **+0**<br/> Reason  |              **+1**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->

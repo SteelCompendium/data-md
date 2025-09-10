@@ -35,7 +35,7 @@ type: monster
 |  Kobold, Ooze, Soulless  |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     | **-1**<br/> Agility | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->

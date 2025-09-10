@@ -28,7 +28,7 @@ stamina: '21'
 |             Undead, Soulless             |              -               |       Level 1       |     Hexer Retainer      |          EV -          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **21**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-4**<br/> Might             |     **+1**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

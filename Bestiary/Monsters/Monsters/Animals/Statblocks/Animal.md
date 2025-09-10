@@ -33,7 +33,7 @@ type: monster
 |       Animal        |          -          |       Level 1       |      Elite Harrier      |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

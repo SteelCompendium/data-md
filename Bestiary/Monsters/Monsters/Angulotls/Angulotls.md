@@ -75,7 +75,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason |              **+1**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -103,7 +103,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |      Level 1       |                 Minion Artillery                  |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+4 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+4 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might      |      **+2**<br/> Agility      | **+1**<br/> Reason |               **+0**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -131,7 +131,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |          Angulotl          |               -               |      Level 1       |             Minion Harrier              |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+2**<br/> Agility      | **-2**<br/> Reason |          **-2**<br/> Intuition          |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -157,7 +157,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |            Angulotl, Animal             |               -               |      Level 1       |                 Minion Brute                  |   EV 3 for 4 minions   |
 | :-------------------------------------: | :---------------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |            **1S**<br/> Size             |       **5**<br/> Speed        | **5**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+0**<br/> Might            |      **+2**<br/> Agility      | **-3**<br/> Reason |             **-2**<br/> Intuition             |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -185,7 +185,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |     Horde Artillery     |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+2**<br/> Agility      | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -213,7 +213,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -255,7 +255,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |    Horde Controller     |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+0**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -312,7 +312,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed        | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 | Elemental, High Elf |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **4**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

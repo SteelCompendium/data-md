@@ -32,11 +32,11 @@ type: monster
 
 ###### Soulraker Praetorian
 
-| Abyssal, Demon, Soulraker |          -          |       Level 7       |      Horde Harrier      |            EV 9            |
-| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|     **1L**<br/> Size      |  **8**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+2**<br/> Might     | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |    **+0**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 7       |      Horde Harrier      |           EV 9           |
+| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|     **1L**<br/> Size      |  **8**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+2**<br/> Might     | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Stinger (Signature Ability)**

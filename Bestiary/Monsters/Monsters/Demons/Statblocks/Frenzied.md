@@ -31,11 +31,11 @@ type: monster
 
 ###### Frenzied
 
-|   Abyssal, Demon    |          -          |      Level 1       |             Minion Harrier              |   EV 3 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |          **-1**<br/> Intuition          |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 1       |             Minion Harrier              |  EV 3 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |          **-1**<br/> Intuition          |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Rip and Tear (Signature Ability)**

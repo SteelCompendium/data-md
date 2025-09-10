@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |      Level 2       |                Minion Harrier                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **5**<br/> Stamina |             **1**<br/> Stability              | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |             **+0**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->

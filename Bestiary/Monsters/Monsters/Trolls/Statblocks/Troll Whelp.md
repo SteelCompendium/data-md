@@ -31,11 +31,11 @@ type: monster
 
 ###### Troll Whelp
 
-|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Jaws and Claws (Signature Ability)**

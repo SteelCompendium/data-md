@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

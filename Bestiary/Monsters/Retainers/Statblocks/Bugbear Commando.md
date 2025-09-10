@@ -30,7 +30,7 @@ stamina: '30'
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |    Ambusher Retainer    |          EV -          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

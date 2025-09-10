@@ -31,11 +31,11 @@ type: monster
 
 ###### Styrich
 
-|   Abyssal, Demon    |          -          |       Level 8       |       Horde Hexer       |           EV 10            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **1**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |    **+0**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 8       |       Horde Hexer       |          EV 10           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **1**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Hair Whip (Signature Ability)**

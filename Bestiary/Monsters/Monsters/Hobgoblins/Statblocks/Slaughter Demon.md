@@ -35,7 +35,7 @@ type: monster
 | Abyssal, Demon, Hobgoblin |            -             |       Level 4        |       Elite Brute       |         EV 24          |
 | :-----------------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size      |     **7**<br/> Speed     | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |    **0**<br/> Agility    |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

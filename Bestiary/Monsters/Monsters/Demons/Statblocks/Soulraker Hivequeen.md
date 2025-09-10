@@ -32,11 +32,11 @@ type: monster
 
 ###### Soulraker Hivequeen
 
-| Abyssal, Demon, Soulraker |           -           |       Level 9        |         Leader          |           EV 44            |
-| :-----------------------: | :-------------------: | :------------------: | :---------------------: | :------------------------: |
-|      **5**<br/> Size      |   **6**<br/> Speed    | **240**<br/> Stamina |  **2**<br/> Stability   |   **9**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+5**<br/> Might     |  **-1**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |    **+2**<br/> Presence    |
+| Abyssal, Demon, Soulraker |           -           |       Level 9        |         Leader          |          EV 44           |
+| :-----------------------: | :-------------------: | :------------------: | :---------------------: | :----------------------: |
+|      **5**<br/> Size      |   **6**<br/> Speed    | **240**<br/> Stamina |  **2**<br/> Stability   |  **9**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+5**<br/> Might     |  **-1**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Stinging Ovipositor (Signature Ability)**

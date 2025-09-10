@@ -29,7 +29,7 @@ stamina: '48'
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |    Ambusher Retainer    |          EV -          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

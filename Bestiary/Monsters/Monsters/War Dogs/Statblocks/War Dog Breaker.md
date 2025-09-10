@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 7        |       Elite Brute       |         EV 36          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **200**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

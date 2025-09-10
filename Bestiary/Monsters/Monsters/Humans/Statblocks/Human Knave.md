@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

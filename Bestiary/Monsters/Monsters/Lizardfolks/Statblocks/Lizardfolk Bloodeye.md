@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |   **1**<br/> Agility   | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

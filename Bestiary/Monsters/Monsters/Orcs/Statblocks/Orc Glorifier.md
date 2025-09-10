@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |      Level 1       |                 Minion Controller                 | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->

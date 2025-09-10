@@ -28,7 +28,7 @@ stamina: '21'
 | Humanoid, Radenwight |            -            |       Level 1       |    Support Retainer     |          EV -          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

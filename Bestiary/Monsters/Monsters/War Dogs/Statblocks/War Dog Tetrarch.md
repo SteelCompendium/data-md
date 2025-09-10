@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->

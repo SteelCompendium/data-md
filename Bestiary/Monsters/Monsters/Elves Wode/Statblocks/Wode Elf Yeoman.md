@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                 Minion Artillery                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->

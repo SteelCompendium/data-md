@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6       |      Platoon Hexer      |         EV 16          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1L**<br/> Size            |      **5**<br/> Speed      | **70**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+2**<br/> Agility     | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

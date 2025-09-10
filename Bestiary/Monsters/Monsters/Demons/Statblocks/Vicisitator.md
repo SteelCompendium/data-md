@@ -31,11 +31,11 @@ type: monster
 
 ###### Vicisitator
 
-|   Abyssal, Demon    |          -          |      Level 10       |      Horde Harrier      |           EV 12            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **9**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |    **-3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 10       |      Horde Harrier      |          EV 12           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **9**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |   **-3**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Warp Touch (Signature Ability)**

@@ -28,7 +28,7 @@ stamina: '48'
 |   Undead, Vampire   |            -            |       Level 4       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |    **5**<br/> Speed     | **48**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+3**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

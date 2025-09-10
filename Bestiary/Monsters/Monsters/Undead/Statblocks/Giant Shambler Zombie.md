@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |          -          |      Level 10       |                   Minion Brute                   | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |              **3**<br/> Size               |  **4**<br/> Speed   | **17**<br/> Stamina |               **5**<br/> Stability               | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              | **-3**<br/> Agility | **-3**<br/> Reason  |              **+1**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->

@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 10       |     Elite Artillery     |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **+2**<br/> Agility |  **+4**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence   |
 
 <!-- -->

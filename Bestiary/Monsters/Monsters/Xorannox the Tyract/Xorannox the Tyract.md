@@ -55,7 +55,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 |  Horror, Overmind   |              -               |       Level 6        |          Solo           |         EV 96          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |       **5**<br/> Speed       | **450**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |     **+2**<br/> Agility      |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -173,7 +173,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |       Controller        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -201,7 +201,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -227,7 +227,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |       Controller        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -253,7 +253,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |          Hexer          |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -281,7 +281,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |          Hexer          |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -307,7 +307,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

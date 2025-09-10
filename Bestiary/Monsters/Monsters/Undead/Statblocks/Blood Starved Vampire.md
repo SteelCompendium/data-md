@@ -34,7 +34,7 @@ type: monster
 |             Undead, Vampire              |            -            |       Level 7       |             Minion Harrier              | EV 9 for four minions  |
 | :--------------------------------------: | :---------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **12**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+1**<br/> Agility   | **-3**<br/> Reason  |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->

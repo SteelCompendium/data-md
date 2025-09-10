@@ -33,7 +33,7 @@ type: monster
 |         Elemental          |            -            |       Level 3        |    Elite Controller     |         EV 28          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |    **8**<br/> Speed     | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |   **+0**<br/> Agility   |  **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

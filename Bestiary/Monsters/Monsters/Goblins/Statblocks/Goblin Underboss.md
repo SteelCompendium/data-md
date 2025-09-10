@@ -34,7 +34,7 @@ type: monster
 |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

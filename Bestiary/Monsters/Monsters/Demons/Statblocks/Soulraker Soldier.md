@@ -32,11 +32,11 @@ type: monster
 
 ###### Soulraker Soldier
 
-| Abyssal, Demon, Soulraker |          -          |       Level 7       |                 Minion Brute                  |   EV 9 for four minions    |
-| :-----------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|      **2**<br/> Size      |  **6**<br/> Speed   | **13**<br/> Stamina |             **2**<br/> Stability              |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+4**<br/> Might     | **+2**<br/> Agility | **-1**<br/> Reason  |             **-1**<br/> Intuition             |    **-1**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 7       |                 Minion Brute                  |  EV 9 for four minions   |
+| :-----------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|      **2**<br/> Size      |  **6**<br/> Speed   | **13**<br/> Stamina |             **2**<br/> Stability              |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+4**<br/> Might     | **+2**<br/> Agility | **-1**<br/> Reason  |             **-1**<br/> Intuition             |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Chitin Bash (Signature Ability)**

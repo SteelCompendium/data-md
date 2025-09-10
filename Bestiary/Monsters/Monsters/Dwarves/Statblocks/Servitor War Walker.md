@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **8**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+0**<br/> Agility   | **-2**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

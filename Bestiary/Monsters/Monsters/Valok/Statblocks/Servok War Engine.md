@@ -36,7 +36,7 @@ type: monster
 | Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
 | :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->

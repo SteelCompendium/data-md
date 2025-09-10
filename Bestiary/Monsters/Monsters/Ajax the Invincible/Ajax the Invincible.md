@@ -149,7 +149,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 |    Human, Humanoid    |              -               |       Level 11       |          Solo           |         EV 156          |
 | :-------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **1L**<br/> Size    |       **7**<br/> Speed       | **700**<br/> Stamina |  **2**<br/> Stability   | **11**<br/> Free Strike |
-| **-**<br/> Immunities | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunities | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |   **+5**<br/> Might   |     **+4**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->

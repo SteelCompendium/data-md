@@ -31,7 +31,7 @@ stamina: '48'
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **0**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

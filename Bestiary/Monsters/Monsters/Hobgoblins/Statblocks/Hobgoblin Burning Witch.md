@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 4       |   Platoon Controller    |         EV 12          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **5**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+1**<br/> Agility     | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

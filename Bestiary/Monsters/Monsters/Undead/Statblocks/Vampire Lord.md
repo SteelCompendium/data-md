@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
 | :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

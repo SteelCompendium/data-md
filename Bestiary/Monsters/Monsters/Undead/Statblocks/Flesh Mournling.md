@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |          -          |       Level 4       |     Horde Defender      |          EV 6          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |  **6**<br/> Speed   | **35**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

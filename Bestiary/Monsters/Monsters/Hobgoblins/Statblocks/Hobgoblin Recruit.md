@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |               Minion Brute                | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **+1**<br/> Presence  |
 
 <!-- -->

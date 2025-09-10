@@ -31,11 +31,11 @@ type: monster
 
 ###### Torlas
 
-|   Abyssal, Demon    |          -          |       Level 1       |    Horde Controller     |            EV 3            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 1       |    Horde Controller     |           EV 3           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Floor to Flesh (Signature Ability)**

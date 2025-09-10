@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |           -           |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

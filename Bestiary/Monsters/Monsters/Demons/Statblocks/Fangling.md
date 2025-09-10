@@ -31,11 +31,11 @@ type: monster
 
 ###### Fangling
 
-|   Abyssal, Demon    |          -          |       Level 4       |      Horde Harrier      |            EV 6            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+0**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 4       |      Horde Harrier      |           EV 6           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Tooth! Tusk! Claw! (Signature Ability)**

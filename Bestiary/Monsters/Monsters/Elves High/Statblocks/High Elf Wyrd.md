@@ -35,7 +35,7 @@ type: monster
 |   Fey, High Elf, Humanoid   |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+2**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

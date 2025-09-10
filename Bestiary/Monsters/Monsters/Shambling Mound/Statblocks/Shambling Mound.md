@@ -34,7 +34,7 @@ type: monster
 | Plant, Shambling Mound |          -          |       Level 5        |          Solo           |         EV 84          |
 | :--------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size     |  **3**<br/> Speed   | **400**<br/> Stamina |  **5**<br/> Stability   | **7**<br/> Free Strike |
-|  **-**<br/> Immunity   | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity   | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+4**<br/> Might    | **-1**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

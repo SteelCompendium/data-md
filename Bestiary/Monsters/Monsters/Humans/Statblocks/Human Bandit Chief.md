@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |       Level 3        |         Leader          |         EV 20          |
 | :---------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

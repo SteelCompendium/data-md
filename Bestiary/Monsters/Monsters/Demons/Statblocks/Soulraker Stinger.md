@@ -32,11 +32,11 @@ type: monster
 
 ###### Soulraker Stinger
 
-| Abyssal, Demon, Soulraker |            -            |       Level 7       |               Minion Artillery                |   EV 9 for four minions    |
-| :-----------------------: | :---------------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|     **1M**<br/> Size      |    **6**<br/> Speed     | **10**<br/> Stamina |             **0**<br/> Stability              |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+0**<br/> Might     |   **-1**<br/> Agility   | **+4**<br/> Reason  |             **+4**<br/> Intuition             |    **+0**<br/> Presence    |
+| Abyssal, Demon, Soulraker |            -            |       Level 7       |               Minion Artillery                |  EV 9 for four minions   |
+| :-----------------------: | :---------------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|     **1M**<br/> Size      |    **6**<br/> Speed     | **10**<br/> Stamina |             **0**<br/> Stability              |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+0**<br/> Might     |   **-1**<br/> Agility   | **+4**<br/> Reason  |             **+4**<br/> Intuition             |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Barb Launch (Signature Ability)**

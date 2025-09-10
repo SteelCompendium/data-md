@@ -34,7 +34,7 @@ type: monster
 |    Animal, Human    |           -           |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **5**<br/> Speed    | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

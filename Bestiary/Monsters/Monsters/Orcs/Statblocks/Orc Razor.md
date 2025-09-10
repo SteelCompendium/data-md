@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

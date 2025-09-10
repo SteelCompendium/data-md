@@ -35,7 +35,7 @@ type: monster
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

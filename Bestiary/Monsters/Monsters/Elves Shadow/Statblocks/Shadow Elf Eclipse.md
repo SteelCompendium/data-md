@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **6**<br/> Speed     | **180**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might     |   **+3**<br/> Agility   |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -31,11 +31,11 @@ type: monster
 
 ###### Pitling
 
-|   Abyssal, Demon    |           -           |      Level 1       |            Minion Artillery             |   EV 3 for four minions    |
-| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1T**<br/> Size   |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **-2**<br/> Might  |  **+2**<br/> Agility  | **-2**<br/> Reason |          **-2**<br/> Intuition          |    **-2**<br/> Presence    |
+|   Abyssal, Demon    |           -           |      Level 1       |            Minion Artillery             |  EV 3 for four minions   |
+| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1T**<br/> Size   |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **-2**<br/> Might  |  **+2**<br/> Agility  | **-2**<br/> Reason |          **-2**<br/> Intuition          |   **-2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Spit (Signature Ability)**

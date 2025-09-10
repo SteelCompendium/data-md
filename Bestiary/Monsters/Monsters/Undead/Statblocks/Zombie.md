@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |       Level 1       |       Horde Brute       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility | **-5**<br/> Reason  |  **-2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

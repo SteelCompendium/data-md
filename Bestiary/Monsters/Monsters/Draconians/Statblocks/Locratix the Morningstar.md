@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |      Elite Harrier      |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **160**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+3**<br/> Agility  |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

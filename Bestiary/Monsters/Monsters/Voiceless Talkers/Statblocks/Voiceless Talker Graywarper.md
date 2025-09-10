@@ -34,7 +34,7 @@ type: monster
 | Horror, Voiceless Talker |          -          |      Level 6       |             Minion Controller             | EV 8 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **0**<br/> Agility  | **+3**<br/> Reason |           **+1**<br/> Intuition           |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -89,7 +89,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 |      Fey, Hag       |              -               |       Level 3        |          Solo           |         EV 60          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |       **5**<br/> Speed       | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

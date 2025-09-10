@@ -31,11 +31,11 @@ type: monster
 
 ###### Blight Phage
 
-|   Abyssal, Demon    |          -          |       Level 7       |    Horde Controller     |            EV 9            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+0**<br/> Agility | **+4**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 7       |    Horde Controller     |           EV 9           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  | **+0**<br/> Agility | **+4**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Blight Pus (Signature Ability)**

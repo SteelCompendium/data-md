@@ -31,11 +31,11 @@ type: monster
 
 ###### Aurumvas
 
-|   Abyssal, Demon    |           -           |       Level 10       |         Leader          |           EV 48            |
-| :-----------------: | :-------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |   **8**<br/> Speed    | **260**<br/> Stamina |  **2**<br/> Stability   |  **10**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+5**<br/> Might  |  **+2**<br/> Agility  |  **+5**<br/> Reason  |  **+3**<br/> Intuition  |    **+5**<br/> Presence    |
+|   Abyssal, Demon    |           -           |       Level 10       |         Leader          |          EV 48           |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |   **8**<br/> Speed    | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+5**<br/> Might  |  **+2**<br/> Agility  |  **+5**<br/> Reason  |  **+3**<br/> Intuition  |   **+5**<br/> Presence   |
 
 <!-- -->
 > ⭐️ **Absorb Soul**

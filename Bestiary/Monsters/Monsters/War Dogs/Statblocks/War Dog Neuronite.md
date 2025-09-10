@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |           -           |       Level 1       |     Horde Defender      |          EV 3          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+1**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

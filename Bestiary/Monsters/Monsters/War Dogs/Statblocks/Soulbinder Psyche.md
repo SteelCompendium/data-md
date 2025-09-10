@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |              -               |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |      **1M**<br/> Size       |       **5**<br/> Speed       | **220**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->

@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

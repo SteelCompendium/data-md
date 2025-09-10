@@ -31,11 +31,11 @@ type: monster
 
 ###### Tyburaki
 
-|   Abyssal, Demon    |           -            |      Level 10       |                  Minion Harrier                  |   EV 12 for four minions   |
-| :-----------------: | :--------------------: | :-----------------: | :----------------------------------------------: | :------------------------: |
-|   **2**<br/> Size   |    **8**<br/> Speed    | **15**<br/> Stamina |               **0**<br/> Stability               |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **Swim**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  |  **+5**<br/> Agility   | **+0**<br/> Reason  |              **+3**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |           -            |      Level 10       |                  Minion Harrier                  |  EV 12 for four minions  |
+| :-----------------: | :--------------------: | :-----------------: | :----------------------------------------------: | :----------------------: |
+|   **2**<br/> Size   |    **8**<br/> Speed    | **15**<br/> Stamina |               **0**<br/> Stability               |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **Swim**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  |  **+5**<br/> Agility   | **+0**<br/> Reason  |              **+3**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Tail Bite (Signature Ability)**

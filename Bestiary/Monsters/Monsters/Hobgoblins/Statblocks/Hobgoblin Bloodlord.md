@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **6**<br/> Speed      | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+4**<br/> Might           |    **+2**<br/> Agility     |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

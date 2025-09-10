@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |       Elite Brute       |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |   **5**<br/> Speed    | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      |  **+2**<br/> Agility  |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

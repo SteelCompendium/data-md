@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **46**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |  **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

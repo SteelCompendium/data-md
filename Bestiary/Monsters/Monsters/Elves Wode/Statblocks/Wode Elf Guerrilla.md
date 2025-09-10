@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |             -              |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :---------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |    **+2**<br/> Agility     |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

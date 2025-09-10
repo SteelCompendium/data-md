@@ -25,11 +25,11 @@ stamina: '57'
 
 ###### Troll Mercenary
 
-|    Giant, Troll     |          -          |       Level 5       |     Brute Retainer      |               EV -               |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **57**<br/> Stamina |  **4**<br/> Stability   |      **6**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 5       |     Brute Retainer      |              EV -              |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **57**<br/> Stamina |  **4**<br/> Stability   |     **6**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Big Bite (Signature Ability)**
