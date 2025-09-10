@@ -101,7 +101,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 >
 > When the abyssal hyena is reduced to 0 Stamina, they can make a melee free strike before dying.
 
-###### Gnoll Chainflai
+###### Gnoll Chainflail
 
 |   Abyssal, Gnoll    |          -          |      Level 2       |                 Minion Artillery                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |

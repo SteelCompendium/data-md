@@ -108,9 +108,9 @@ type: monster
 <!-- -->
 > ☠️ **All to Cinders (Villain Action 3)**
 >
-> | **Area**        |                                           **-** |
-> | --------------- | ----------------------------------------------: |
-> | **📏 10 burst** | **🎯 Self and each fire giant ally in the are** |
+> | **Area**        |                                            **-** |
+> | --------------- | -----------------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each fire giant ally in the area** |
 >
 > **Effect:** Each target unleashes a wave of fire, and each enemy within 2 squares of any target makes an Agility test. An enemy affected by two targets takes a bane on the test, while an enemy affected by three or more targets has a double bane.
 >

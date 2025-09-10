@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: gnoll-bonesplitter
-item_index: '39'
+item_index: '40'
 item_name: Gnoll Bonesplitter
 level: 2
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:gnoll-bonesplitter
 scdc:
-  - 1.1.1:2:39
+  - 1.1.1:2:40
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

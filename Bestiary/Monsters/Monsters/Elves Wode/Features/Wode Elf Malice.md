@@ -14,7 +14,7 @@ type: monster/feature
 
 ###### Wode Elf Malice (Malice Features)
 
-At the start of any wode elf's turn, you can spend Malice to activate
+At the start of any wode elf's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
 > ⭐️ **Forest Network (3 Malice)**

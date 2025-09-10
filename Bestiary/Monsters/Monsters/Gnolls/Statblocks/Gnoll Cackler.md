@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 2
 item_id: gnoll-cackler
-item_index: '40'
+item_index: '41'
 item_name: Gnoll Cackler
 level: 2
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:gnoll-cackler
 scdc:
-  - 1.1.1:2:40
+  - 1.1.1:2:41
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

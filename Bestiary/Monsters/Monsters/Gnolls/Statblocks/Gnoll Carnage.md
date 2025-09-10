@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 5
 intuition: 0
 item_id: gnoll-carnage
-item_index: '38'
+item_index: '39'
 item_name: Gnoll Carnage
 level: 2
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:gnoll-carnage
 scdc:
-  - 1.1.1:2:38
+  - 1.1.1:2:39
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -46,7 +46,7 @@ type: monster
 >
 > **Power Roll + 4:**
 >
-> - **≤11:** 14 fire damage; push
+> - **≤11:** 14 fire damage; push 2
 > - **12-16:** 19 fire damage; push 4; A < 3 burning (save ends)
 > - **17+:** 23 fire damage; push 6; A < 4 burning (save ends)
 >

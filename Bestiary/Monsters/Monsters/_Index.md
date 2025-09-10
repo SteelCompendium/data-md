@@ -217,7 +217,7 @@ type: index
 | [Gnoll Bonesplitter](../Gnolls/Statblocks/Gnoll%20Bonesplitter)                                                       |
 | [Gnoll Cackler](../Gnolls/Statblocks/Gnoll%20Cackler)                                                                 |
 | [Gnoll Carnage](../Gnolls/Statblocks/Gnoll%20Carnage)                                                                 |
-| [Gnoll Chainflai](../Gnolls/Statblocks/Gnoll%20Chainflai)                                                             |
+| [Gnoll Chainflail](../Gnolls/Statblocks/Gnoll%20Chainflail)                                                           |
 | [Gnoll Mage Mauler](../Gnolls/Statblocks/Gnoll%20Mage%20Mauler)                                                       |
 | [Gnoll Marauder](../Gnolls/Statblocks/Gnoll%20Marauder)                                                               |
 | [Gnoll Wildling](../Gnolls/Statblocks/Gnoll%20Wildling)                                                               |

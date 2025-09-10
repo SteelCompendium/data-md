@@ -521,7 +521,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** The spider or any ally riding the spider takes damage.
 >
-> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolve
+> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolves.
 
 <!-- -->
 > ⭐️ **Ride Launcher**
@@ -531,7 +531,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Wide Back**
 >
-> While riding the spider, two size 1 allies can occupy the same space
+> While riding the spider, two size 1 allies can occupy the same space.
 
 ###### Worg
 

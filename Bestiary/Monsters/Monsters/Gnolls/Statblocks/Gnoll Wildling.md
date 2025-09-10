@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: gnoll-wildling
-item_index: '42'
+item_index: '43'
 item_name: Gnoll Wildling
 level: 2
 might: 1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:gnoll-wildling
 scdc:
-  - 1.1.1:2:42
+  - 1.1.1:2:43
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

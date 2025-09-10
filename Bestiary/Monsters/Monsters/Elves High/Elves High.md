@@ -228,7 +228,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Thicket and Thorns**
 >
-> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage
+> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage.
 
 ###### High Elf Bloodletter
 
