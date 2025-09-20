@@ -48,7 +48,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Blood In Their Eyes (3 Malice)**
 >
-> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this fea- ture if they took any holy damage since ending their last turn.
+> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this feature if they took any holy damage since ending their last turn.
 
 <!-- -->
 > ☠️ **Solo Action (5 Malice)**
@@ -78,12 +78,12 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Accursed Rage**
 >
-> The werewolf's ferocity is expressed through rage, and their abilities can inflict rage points on any enemy except a stormwight fury. A creature who starts their turn with 10 or more rage expends their rage. Then before taking their turn, they must shift up to their speed toward the nearest creature and make a melee free strike against them. A creature who takes damage from this free strike gains 1 rage. Accumulated rage disappears after a character finishes a respite
+> The werewolf's ferocity is expressed through rage, and their abilities can inflict rage points on any enemy except a stormwight fury. A creature who starts their turn with 10 or more rage expends their rage. Then before taking their turn, they must shift up to their speed toward the nearest creature and make a melee free strike against them. A creature who takes damage from this free strike gains 1 rage. Accumulated rage disappears after a character finishes a respite.
 
 <!-- -->
 > ⭐️ **Shapeshifter**
 >
-> The werewolf enters combat in their hybrid humanoid form. Their shape can't be changed by any external effect
+> The werewolf enters combat in their hybrid humanoid form. Their shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Vukenstep**
@@ -103,7 +103,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 > - **12-16:** 13 damage; the target gains 4 rage
 > - **17+:** 16 damage; the target gains 5 rage
 >
-> **2 Malice:** If the target has P < 0, they are afflicted with lycanthpy. Each time the target is unaffected by the potency effect, the potency increases by 1 the next time the werewolf uses the ability against the same target. A creature afflicted with lycanthrop gains 2 rage at the end of each of their turns whenever they're in combat. Their rage doesn't disappear after finishing a respite and they must complete the Find a Cure downtime project in "Draw Steel: Heroes" to end this effect
+> **2 Malice:** If the target has P < 0, they are afflicted with lycanthpy. Each time the target is unaffected by the potency effect, the potency increases by 1 the next time the werewolf uses the ability against the same target. A creature afflicted with lycanthropy gains 2 rage at the end of each of their turns whenever they're in combat. Their rage doesn't disappear after finishing a respite and they must complete the Find a Cure downtime project in "Draw Steel: Heroes" to end this effect.
 
 <!-- -->
 > 🗡 **Ripping Claws**
@@ -131,7 +131,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage; push 3; the target gains 1 rage
 > - **17+:** 7 damage; slide 3; the target gains 3 rage
 >
-> **Effect:** The werewolf shifts up to their speed before using this ability
+> **Effect:** The werewolf shifts up to their speed before using this ability.
 
 <!-- -->
 > 👤 **Wall Leap**

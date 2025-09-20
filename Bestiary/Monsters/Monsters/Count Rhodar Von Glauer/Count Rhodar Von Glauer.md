@@ -90,7 +90,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 <!-- -->
 > ☠️ **Solo Monster**
 >
-> **End Effect:** At the end of each of his turns, Rhodar can take 20 dam- age to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
+> **End Effect:** At the end of each of his turns, Rhodar can take 20 damage to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
 >
 > **Solo Turns:** Rhodar can take two turns each round. He can't take turns consecutively.
 
@@ -162,7 +162,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 > - **12-16:** 6 damage, 7 corruption damage; push 5; M < 5 bleeding (save ends)
 > - **17+:** 6 damage, 10 corruption damage; push 7; M < 6 bleeding (save ends)
 >
-> **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
+> **Effect:** Rhodar shifts up to his speed before or after using this ability. He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
 > 🔳 **Vengeance of Rhöl (2 Malice)**

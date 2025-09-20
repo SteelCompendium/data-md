@@ -79,4 +79,4 @@ type: monster
 <!-- -->
 > ⭐️ **Lockdown**
 >
-> Any enemy who shifts adjacent to the bruxer has that shif t en d Additionally, any enemy adjacent to the bruxer can't shift.
+> Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift.

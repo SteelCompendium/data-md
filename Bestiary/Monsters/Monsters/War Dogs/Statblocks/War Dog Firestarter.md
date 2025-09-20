@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 6 fire damage; A < 3 the target is seared (save ends)
 > - **17+:** 8 fire damage; A < 4 the target is seared (save ends)
 >
-> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action
+> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action.
 
 <!-- -->
 > 🏹 **Enflame**
@@ -61,6 +61,8 @@ type: monster
 > | **📏 Ranged 10**  | **🎯 Special** |
 >
 > **Effect:** This ability targets each enemy within 2 squares of any seared creature within distance.
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** 2 fire damage
 > - **12-16:** 4 fire damage; A < 3 the target is seared (save ends)

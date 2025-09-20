@@ -77,7 +77,7 @@ type: monster
 > - **12-16:** 11 damage; M < 3 4 poison damage, weakened (save ends)
 > - **17+:** 14 damage; M < 4 8 poison damage, weakened (save ends)
 >
-> **1 Malice:** While weakened this way, a target takes 1d6 poison dam- age at the start of each of their turns.
+> **1 Malice:** While weakened this way, a target takes 1d6 poison damage at the start of each of their turns.
 
 <!-- -->
 > 🗡 **Harrying Claws**

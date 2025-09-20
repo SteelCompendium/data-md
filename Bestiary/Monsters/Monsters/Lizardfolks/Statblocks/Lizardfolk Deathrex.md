@@ -112,8 +112,9 @@ type: monster
 
 ☠️ **Thresher Thrasher (Villain Action 3)**
 
-| **Area**        |                                 **-** |
-| --------------- | ------------------------------------: |
-| **📏 10 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
+<!-- -->
+> | **Area**        |                                 **-** |
+> | --------------- | ------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.

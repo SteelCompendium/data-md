@@ -1728,6 +1728,6 @@ The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, 
 >
 > **Drawback:** You have cold weakness 5. Whenever you finish a respite and you have not recruited a new disciple of A'An since your last respite, make a **Presence test**.
 >
-> - **≤11:** A'An possesses your body until your next respite. You now must roleplay A'An trapped in your form, prioritiz- ing earning new disciples.
+> - **≤11:** A'An possesses your body until your next respite. You now must roleplay A'An trapped in your form, prioritizing earning new disciples.
 > - **12-16:** You lose a Recovery.
 > - **17+:** You suffer no effect

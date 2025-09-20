@@ -55,9 +55,9 @@ type: monster
 <!-- -->
 > 🏹 **Imbue with Might (2 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target gains an edge on their next strike.
 

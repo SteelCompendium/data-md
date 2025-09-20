@@ -55,4 +55,4 @@ type: monster
 <!-- -->
 > ⭐️ **Disorganized**
 >
-> Allies can't flank with the crawling cla.
+> Allies can't flank with the crawling claw.

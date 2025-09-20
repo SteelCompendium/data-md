@@ -60,7 +60,7 @@ type: monster
 > | --------------- | ------------------------------: |
 > | **📏 4 aura**   | **🎯 Each war dog in the area** |
 >
-> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn
+> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn.
 >
 > - The target has damage immunity 2.
 > - The target's strikes deal an extra 3 holy damage.

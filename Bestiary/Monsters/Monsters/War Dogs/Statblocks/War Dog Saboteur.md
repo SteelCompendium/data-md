@@ -48,8 +48,8 @@ type: monster
 > **Power Roll + 4:**
 >
 > - **≤11:** 4 fire damage
-> - **12-16:** 7 fire damage; push
-> - **17+:** 8 fire damage; push
+> - **12-16:** 7 fire damage; push 1
+> - **17+:** 8 fire damage; push 3
 >
 > **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
 

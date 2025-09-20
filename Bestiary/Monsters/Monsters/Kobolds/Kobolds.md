@@ -67,7 +67,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield Wall (7 Malice)**
 >
-> Until the end of the round, all kobolds with Shield? Shield! Impose an additional bane on incoming strikes and abilities.
+> Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.
 
 ###### Kobold Princeps
 
@@ -325,9 +325,9 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally
+> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally.
 >
-> **2+ Malice:** One additional ally can shift for each 2 Malice spent
+> **2+ Malice:** One additional ally can shift for each 2 Malice spent.
 
 <!-- -->
 > ❇️ **Glory to the Legion (5 Malice)**

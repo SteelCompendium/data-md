@@ -515,7 +515,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The blackguard ignores concealment if it's granted by a supernatural effect
+> The blackguard ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ❗️ **Parry!**
@@ -553,7 +553,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | ------------------------------- | ----------------------------: |
 > | **📏 3 cube within 5**          | **🎯 Each enemy in the area** |
 >
-> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally)
+> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally).
 
 ###### Human Bandit Chief
 
@@ -614,7 +614,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The bandit chief ignores concealment if it's granted by a supernatural effect
+> The bandit chief ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ☠️ **Shoot! (Villain Action 1)**

@@ -205,7 +205,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > **Trigger:** A creature damages the cannonfall with a ranged or area ability.
 >
-> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability
+> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability.
 
 <!-- -->
 > ⭐️ **Foresight Squared**

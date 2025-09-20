@@ -106,7 +106,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The miner's shape can't be changed by any external effect
+> The miner's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

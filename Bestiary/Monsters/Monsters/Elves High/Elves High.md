@@ -387,7 +387,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > **High Elf Deployments**
 >
-> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like- minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
+> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like-minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
 >
 > Many high elves also consider themselves guardians of dangerous or forbidden lore and are ready to defend it with their lives. Many illusory groves and glamoured ruins conceal repositories and powerful warriors sworn to keep these secrets out of the hands of those who would use them for ill.
 >

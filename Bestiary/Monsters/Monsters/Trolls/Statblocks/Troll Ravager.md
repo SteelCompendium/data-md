@@ -55,4 +55,4 @@ type: monster
 <!-- -->
 > ⭐️ **Group Appetite**
 >
-> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina
+> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.

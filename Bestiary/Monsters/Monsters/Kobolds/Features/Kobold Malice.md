@@ -29,4 +29,4 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield Wall (7 Malice)**
 >
-> Until the end of the round, all kobolds with Shield? Shield! Impose an additional bane on incoming strikes and abilities.
+> Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.

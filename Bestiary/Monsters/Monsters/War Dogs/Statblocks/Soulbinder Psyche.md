@@ -66,7 +66,7 @@ type: monster
 > - **12-16:** 12 corruption damage; P < 4 weakened (EoT)
 > - **17+:** 15 corruption damage; P < 5 weakened (EoT)
 >
-> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to main- tain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
+> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to maintain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
 >
 > **1 Malice:** Until the start of Psyche's next turn, if this ability makes a creature weakened, that creature is also soulbound (save ends; see Soulbind above).
 

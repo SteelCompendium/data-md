@@ -54,4 +54,4 @@ type: monster
 <!-- -->
 > ⭐️ **Corruptive Phasing**
 >
-> The spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature, that creature takes 4 corruption damage. The spirit doesn't take damage from being force moved into objects
+> The spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature, that creature takes 4 corruption damage. The spirit doesn't take damage from being force moved into objects.

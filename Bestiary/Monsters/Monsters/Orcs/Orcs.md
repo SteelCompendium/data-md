@@ -382,9 +382,9 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 <!-- -->
 > 👤 **Chroma Cloak (1 Malice)**
 >
-> | **-**          |        **Maneuver** |
-> | -------------- | ------------------: |
-> | **📏 Melee 1** | **🎯 One creature** |
+> | **-**    | **Maneuver** |
+> | -------- | -----------: |
+> | **📏 -** |     **🎯 -** |
 >
 > The garroter turns invisible until the end of their turn. This invisibility ends early if they take damage or use an ability.
 
@@ -636,7 +636,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 <!-- -->
 > ☠️ **Close In (Villain Action 1)**
 >
-> | \*\* Area\*\*   |                        **-** |
+> | **Area**        |                        **-** |
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >

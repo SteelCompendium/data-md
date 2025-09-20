@@ -61,7 +61,7 @@ type: monster
 > | ------------------------- | -------------: |
 > | **📏 Special; see below** | **🎯 Special** |
 >
-> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time
+> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time.
 >
 > **Power Roll + 3:**
 >

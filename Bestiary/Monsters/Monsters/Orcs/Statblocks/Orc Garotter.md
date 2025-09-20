@@ -70,9 +70,9 @@ type: monster
 <!-- -->
 > 👤 **Chroma Cloak (1 Malice)**
 >
-> | **-**          |        **Maneuver** |
-> | -------------- | ------------------: |
-> | **📏 Melee 1** | **🎯 One creature** |
+> | **-**    | **Maneuver** |
+> | -------- | -----------: |
+> | **📏 -** |     **🎯 -** |
 >
 > The garroter turns invisible until the end of their turn. This invisibility ends early if they take damage or use an ability.
 

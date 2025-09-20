@@ -186,7 +186,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 ###### Troll Glutton
 
@@ -304,4 +304,4 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Group Appetite**
 >
-> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina
+> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.

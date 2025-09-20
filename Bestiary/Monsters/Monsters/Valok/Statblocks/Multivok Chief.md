@@ -74,7 +74,7 @@ type: monster
 > | --------------- | --------------: |
 > | **📏 Ranged 5** | **🎯 One ally** |
 >
-> **Effect:** The target shifts up to their speed and can use a main action
+> **Effect:** The target shifts up to their speed and can use a main action.
 
 <!-- -->
 > ❗️ **Quick Shield**
@@ -95,7 +95,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The chief's shape can't be changed by any external effect
+> The chief's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

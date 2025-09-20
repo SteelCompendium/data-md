@@ -48,7 +48,7 @@ type: monster
 >
 > - **≤11:** 4 damage
 > - **12-16:** 7 damage
-> - **17+:** 9 damage; the target can't shift (EoT
+> - **17+:** 9 damage; the target can't shift (EoT)
 
 <!-- -->
 > ⭐️ **Bitter Bones**

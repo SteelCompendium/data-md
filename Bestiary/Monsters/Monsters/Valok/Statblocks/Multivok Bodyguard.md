@@ -97,7 +97,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The bodyguard's shape can't be changed by any external effect
+> The bodyguard's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

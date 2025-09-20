@@ -58,7 +58,7 @@ type: monster
 > | --------------- | -------------------------------------------: |
 > | **📏 Ranged 8** | **🎯 Self or one ally with a Phasing trait** |
 >
-> **Effect:** The target shifts up to their speed
+> **Effect:** The target shifts up to their speed.
 >
 > **2 Malice:** The ghost chooses one additional target.
 
@@ -100,7 +100,7 @@ type: monster
 > - **12-16:** P < 2 the target is levitated (EoT)
 > - **17+:** P < 3 the target is levitated until the end of the encounter
 >
-> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way
+> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way.
 
 <!-- -->
 > ☠️ **Awful Wail (Villain Action 3)**

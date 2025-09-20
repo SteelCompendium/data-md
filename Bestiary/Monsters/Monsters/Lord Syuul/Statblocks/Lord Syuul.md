@@ -96,7 +96,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting
+> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting.
 
 <!-- -->
 > ❗️ **Adaptability**
@@ -123,7 +123,7 @@ type: monster
 >
 > **Effect:** Each target makes an **Intuition test**.
 >
-> - **≤11:** 16 psychic damage; the target has no line of effect to any creture except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
+> - **≤11:** 16 psychic damage; the target has no line of effect to any creature except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
 > - **12-16:** 13 psychic damage; the target has no line of effect to any creature except Lord Syuul (save ends)
 > - **17+:** 7 psychic damage
 

@@ -47,7 +47,7 @@ stamina: '21'
 <!-- -->
 > ⭐️ **Arise**
 >
-> The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maxi- mum and fall prone.
+> The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maximum and fall prone.
 
 ###### Level 4 Retainer Advancement Ability
 

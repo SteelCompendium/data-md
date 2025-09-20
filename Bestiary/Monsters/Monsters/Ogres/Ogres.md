@@ -188,9 +188,9 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ❗️ **Hrraaaaaagh!**
 >
-> | **ree triggered action** |       **-** |
-> | ------------------------ | ----------: |
-> | **📏 Self**              | **🎯 Self** |
+> | **-**       | **Free triggered action** |
+> | ----------- | ------------------------: |
+> | **📏 Self** |               **🎯 Self** |
 >
 > **Trigger:** The juggernaut takes damage.
 >

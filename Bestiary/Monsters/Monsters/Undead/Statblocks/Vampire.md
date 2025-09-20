@@ -47,7 +47,7 @@ type: monster
 > **Power Roll + 4:**
 >
 > - **≤11:** 7 damage; M < 2 bleeding (save ends)
-> - **12-16:** 10 corruption damage; M < 3 5 corruption damage and bleed- ing (save ends)
+> - **12-16:** 10 corruption damage; M < 3 5 corruption damage and bleeding (save ends)
 > - **17+:** 11 corruption damage; M < 4 7 corruption damage and bleeding (save ends)
 >
 > **Effect:** The vampire regains Stamina equal to any corruption damage dealt.

@@ -148,7 +148,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > - **12-16:** M < 3 restrained (save ends)
 > - **17+:** Slowed (save ends); or if M < 4 restrained (save ends)
 >
-> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magi- cally begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified
+> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magically begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified.
 
 <!-- -->
 > 👤 **Nimble Escape**
@@ -182,7 +182,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Many Peering Eyes**
 >
-> The medusa can't be flanked
+> The medusa can't be flanked.
 
 <!-- -->
 > ☠️ **Mass Petrify (Villain Action 1)**

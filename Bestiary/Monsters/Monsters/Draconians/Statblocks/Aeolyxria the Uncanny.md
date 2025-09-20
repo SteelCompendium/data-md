@@ -54,9 +54,9 @@ type: monster
 <!-- -->
 > 🏹 **Experimental Treasure**
 >
-> | **Magic, Ranged, Strike** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Ranged 10**          | **🎯 Two creature or objects** |
+> | **Magic, Ranged, Strike** |                 **Main action** |
+> | ------------------------- | ------------------------------: |
+> | **📏 Ranged 10**          | **🎯 Two creatures or objects** |
 >
 > **Power Roll + 3:**
 >

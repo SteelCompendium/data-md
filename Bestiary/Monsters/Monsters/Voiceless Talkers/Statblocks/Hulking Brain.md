@@ -61,7 +61,7 @@ type: monster
 > | ----------------- | ----------------: |
 > | **📏 Melee 1**    | **🎯 Each enemy** |
 >
-> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved
+> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved.
 >
 > **Power Roll + 3:**
 >

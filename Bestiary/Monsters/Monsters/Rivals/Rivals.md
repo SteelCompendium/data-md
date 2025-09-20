@@ -84,9 +84,9 @@ At the start of any rival's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > 🔳 **Check Out Our Loot (5 Malice)**
 >
-> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison
+> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison damage and weakened, or fire damage and frightened.
 >
-> - **≤11:** damage and weakened, or fire damage and frightened. 11 damage; the condition affects the target (save ends)
+> - **≤11:** 11 damage; the condition affects the target (save ends)
 > - **12-16:** 8 damage; the condition affects the target (EoT)
 > - **17+:** 5 damage
 
@@ -146,9 +146,9 @@ It's possible that these rivals gained a head start on their adventures and will
 <!-- -->
 > 🏹 **Imbue with Might (2 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target gains an edge on their next strike.
 
@@ -279,7 +279,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 7 damage; the null shifts up to 2 square
+> - **≤11:** 7 damage; the null shifts up to 2 squares
 > - **12-16:** 10 damage; the null shifts up to 3 squares
 > - **17+:** 13 damage; the null shifts up to 4 squares
 
@@ -299,7 +299,7 @@ It's possible that these rivals gained a head start on their adventures and will
 <!-- -->
 > ⭐️ **Inertial Shield**
 >
-> The first time each round that the null is targeted by a da- age-dealing strike, they halve the damage.
+> The first time each round that the null is targeted by a damage-dealing strike, they halve the damage.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -1491,7 +1491,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 > - **12-16:** R < 4 restrained (save ends)
 > - **17+:** R < 5 restrained (save ends)
 >
-> \*\*Effect:\*\*One ally within distance can use an additional main action on their next turn.
+> **Effect:** One ally within distance can use an additional main action on their next turn.
 
 <!-- -->
 > ❗️ **Psionic Retribution (2 Malice)**

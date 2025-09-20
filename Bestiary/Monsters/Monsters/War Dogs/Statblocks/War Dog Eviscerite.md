@@ -41,9 +41,9 @@ type: monster
 <!-- -->
 > 🗡 **Chainsaw Whip (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 3**            | **🎯 One creature and object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 3**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >

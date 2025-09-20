@@ -55,7 +55,7 @@ type: monster
 >
 > **Special:** A creature adjacent to the target can attempt an **Agility test** as a maneuver to remove the detonator.
 >
-> - **≤11:** No effect
+> - **≤11:** No effect.
 > - **12-16:** The detonator is disarmed and destroyed.
 > - **17+:** The creature can attach the detonator to another creature or object within 5 squares of them.
 

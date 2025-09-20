@@ -59,4 +59,4 @@ type: monster
 >
 > **Trigger:** An ally deals damage to the target.
 >
-> **Effect:** The swiftpaw makes a free strike against the targe.
+> **Effect:** The swiftpaw makes a free strike against the target.

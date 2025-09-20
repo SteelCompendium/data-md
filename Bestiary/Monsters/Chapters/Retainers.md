@@ -1399,7 +1399,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The warrior ignores concealment if it's granted by a supernatural effect
+> The warrior ignores concealment if it's granted by a supernatural effect.
 
 ###### Level 4 Retainer Advancement Ability
 
@@ -1438,7 +1438,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > | **Area, Charge, Weapon** |               **Main action** |
 > | ------------------------ | ----------------------------: |
-> | **📏 Burst 1**           | **🎯 Each enemy in the area** |
+> | **📏 1 burst**           | **🎯 Each enemy in the area** |
 >
 > **Power Roll + highest characteristic:**
 >
@@ -1883,7 +1883,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > ⭐️ **Arise**
 >
-> The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maxi- mum and fall prone.
+> The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maximum and fall prone.
 
 ###### Level 4 Retainer Advancement Ability
 

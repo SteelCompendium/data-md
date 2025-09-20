@@ -255,32 +255,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Loyalty Collar**
 >
-> When the tetherite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.War Dog Malice Level 1+ Malice Features At the start of any war dog's turn, you can spend Malice to activate one of the following features.
-
-<!-- -->
-> 👤 **Reconstitute (3 Malice)**
->
-> One war dog acting this turn tears apart a nearby corpse of a humanoid and incorporates its body parts into their own. The war dog regains Stamina equal to 5 times their level.
-
-<!-- -->
-> 🔳 **Fire for Effect (5 Malice)**
->
-> | **Area, Magic, Ranged** |                     **Maneuver** |
-> | ----------------------- | -------------------------------: |
-> | **📏 4 cube within 10** | **🎯 Each creature in the area** |
->
-> **Effect:** Each target makes an Agility test. The same condition is imposed on each affected target.
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 fire damage; slowed or weakened (save ends
-> - **12-16:** 5 fire damage; slowed or weakened (EoT
-> - **17+:** 5 fire damage
-
-<!-- -->
-> ⭐️ **Fodder Run (7 Malice)**
->
-> Each war dog minion in the encounter shifts up to their speed and can make a free strike. A minion who does so is then reduced to 0
+> When the tetherite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.
 
 ###### War Dog Amalgamite
 
@@ -371,9 +346,9 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 <!-- -->
 > 🗡 **Chainsaw Whip (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 3**            | **🎯 One creature and object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 3**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -434,7 +409,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > | ----------------- | ----------------------------: |
 > | **📏 5 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn
+> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -503,7 +478,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 >
 > **Special:** A creature adjacent to the target can attempt an **Agility test** as a maneuver to remove the detonator.
 >
-> - **≤11:** No effect
+> - **≤11:** No effect.
 > - **12-16:** The detonator is disarmed and destroyed.
 > - **17+:** The creature can attach the detonator to another creature or object within 5 squares of them.
 
@@ -654,7 +629,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 >
 > **Trigger:** The target takes damage, is force moved, or is reduced to 0 Stamina.
 >
-> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved The target then immediately dies.
+> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved. The target then immediately dies.
 
 <!-- -->
 > ⭐️ **End Effect**
@@ -933,7 +908,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ------------------------- | -------------: |
 > | **📏 Special; see below** | **🎯 Special** |
 >
-> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time
+> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time.
 >
 > **Power Roll + 3:**
 >
@@ -983,7 +958,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Face in the Crowd**
 >
-> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect
+> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -1107,7 +1082,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 >
 > - **≤11:** 2 corruption damage
 > - **12-16:** 4 corruption damage
-> - **17+:** 5 corruption damage; one ally in the area can end one effect on them that can be ended by a saving throw, and can give that effect to one targe
+> - **17+:** 5 corruption damage; one ally in the area can end one effect on them that can be ended by a saving throw, and can give that effect to one target
 >
 > **Effect:** The tormentite regains 2 Stamina for each creature targeted by this ability.
 
@@ -1167,7 +1142,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Body Bank Branch Manager**
 >
-> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute)
+> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute).
 
 ##### No Loyalty Collar?
 
@@ -1199,7 +1174,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > **3 Malice:** Each target loses 1d3 Recoveries.
 
 <!-- -->
-> 🏹 **Get Them, You Dolts! 1 Malice per target**
+> 🏹 **Get Them, You Dolts! (1 Malice per target)**
 >
 > | **Ranged**       |           **Maneuver** |
 > | ---------------- | ---------------------: |
@@ -1340,8 +1315,8 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > **Power Roll + 4:**
 >
 > - **≤11:** 4 fire damage
-> - **12-16:** 7 fire damage; push
-> - **17+:** 8 fire damage; push
+> - **12-16:** 7 fire damage; push 1
+> - **17+:** 8 fire damage; push 3
 >
 > **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
 
@@ -1571,7 +1546,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 6 fire damage; A < 3 the target is seared (save ends)
 > - **17+:** 8 fire damage; A < 4 the target is seared (save ends)
 >
-> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action
+> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action.
 
 <!-- -->
 > 🏹 **Enflame**
@@ -1581,6 +1556,8 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | **📏 Ranged 10**  | **🎯 Special** |
 >
 > **Effect:** This ability targets each enemy within 2 squares of any seared creature within distance.
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** 2 fire damage
 > - **12-16:** 4 fire damage; A < 3 the target is seared (save ends)
@@ -1665,7 +1642,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | --------------- | ------------------------------: |
 > | **📏 4 aura**   | **🎯 Each war dog in the area** |
 >
-> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn
+> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn.
 >
 > - The target has damage immunity 2.
 > - The target's strikes deal an extra 3 holy damage.
@@ -2008,7 +1985,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 <!-- -->
 > ⭐️ **Last Stand**
 >
-> The first time in an encounter that Hoplon is reduced to 0 Stam- na, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
+> The first time in an encounter that Hoplon is reduced to 0 Stamina, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
 
 ###### Iron Champion Doru
 
@@ -2040,7 +2017,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 >
 > | **Area, Weapon** |                             **Main action** |
 > | ---------------- | ------------------------------------------: |
-> | **📏 Burst 3**   | **🎯 Each creature and object in the area** |
+> | **📏 3 burst**   | **🎯 Each creature and object in the area** |
 >
 > **Power Roll + 5:**
 >
@@ -2078,7 +2055,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 <!-- -->
 > ⭐️ **The Scarless**
 >
-> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whe- ever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw
+> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whenever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw.
 
 <!-- -->
 > ⭐️ **Champion's Loyalty Collar**
@@ -2201,7 +2178,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 12 corruption damage; P < 4 weakened (EoT)
 > - **17+:** 15 corruption damage; P < 5 weakened (EoT)
 >
-> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to main- tain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
+> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to maintain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
 >
 > **1 Malice:** Until the start of Psyche's next turn, if this ability makes a creature weakened, that creature is also soulbound (save ends; see Soulbind above).
 

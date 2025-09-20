@@ -88,7 +88,7 @@ type: monster
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The bandit chief ignores concealment if it's granted by a supernatural effect
+> The bandit chief ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ☠️ **Shoot! (Villain Action 1)**

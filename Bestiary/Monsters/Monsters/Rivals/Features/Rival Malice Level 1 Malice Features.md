@@ -30,9 +30,9 @@ At the start of any rival's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > 🔳 **Check Out Our Loot (5 Malice)**
 >
-> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison
+> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison damage and weakened, or fire damage and frightened.
 >
-> - **≤11:** damage and weakened, or fire damage and frightened. 11 damage; the condition affects the target (save ends)
+> - **≤11:** 11 damage; the condition affects the target (save ends)
 > - **12-16:** 8 damage; the condition affects the target (EoT)
 > - **17+:** 5 damage
 

@@ -73,7 +73,7 @@ type: monster
 >
 > **Trigger:** The target takes damage, is force moved, or is reduced to 0 Stamina.
 >
-> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved The target then immediately dies.
+> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved. The target then immediately dies.
 
 <!-- -->
 > ⭐️ **End Effect**

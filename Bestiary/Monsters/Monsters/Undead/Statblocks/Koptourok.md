@@ -64,7 +64,7 @@ type: monster
 > - **12-16:** Pull 5; M < 3 5 corruption damage
 > - **17+:** Pull 7; M < 4 5 corruption damage
 >
-> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the kop- tourok, the koptourok can fly until the end of the encounter
+> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the koptourok, the koptourok can fly until the end of the encounter
 
 <!-- -->
 > ⭐️ **Exhale**

@@ -45,7 +45,7 @@ type: monster
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 4 cold damage; the wraith can shift 1 squar
+> - **≤11:** 4 cold damage; the wraith can shift 1 square
 > - **12-16:** 7 cold damage; the wraith shifts up to 2 square
 > - **17+:** 9 cold damage; P < 5 slowed (save ends); the wraith shifts up to 3 squares
 >

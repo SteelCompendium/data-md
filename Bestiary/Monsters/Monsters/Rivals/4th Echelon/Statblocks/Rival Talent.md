@@ -65,7 +65,7 @@ type: monster
 > - **12-16:** R < 4 restrained (save ends)
 > - **17+:** R < 5 restrained (save ends)
 >
-> \*\*Effect:\*\*One ally within distance can use an additional main action on their next turn.
+> **Effect:** One ally within distance can use an additional main action on their next turn.
 
 <!-- -->
 > ❗️ **Psionic Retribution (2 Malice)**

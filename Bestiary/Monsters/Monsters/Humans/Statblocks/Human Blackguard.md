@@ -71,7 +71,7 @@ type: monster
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The blackguard ignores concealment if it's granted by a supernatural effect
+> The blackguard ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ❗️ **Parry!**
@@ -109,4 +109,4 @@ type: monster
 > | ------------------------------- | ----------------------------: |
 > | **📏 3 cube within 5**          | **🎯 Each enemy in the area** |
 >
-> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally)
+> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally).

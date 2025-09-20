@@ -718,9 +718,7 @@ As the embodiment of these wayward souls, the omen dragon wields them like weapo
 
 #### Life Outside Life
 
-Just as the omen dragon exists outside the cycle of life, so too does their domain. The omen dragon's dragonseal brings desolation and stagnancy to all living things. Growth does not happen. Living things that grow or creatures who dwell near an omen dragon's domain do not age. One can often find secret societies researching lichdom residing in
-
-such sites, for what better place to study than a stagnant wasteland that grants one infinite time?
+Just as the omen dragon exists outside the cycle of life, so too does their domain. The omen dragon's dragonseal brings desolation and stagnancy to all living things. Growth does not happen. Living things that grow or creatures who dwell near an omen dragon's domain do not age. One can often find secret societies researching lichdom residing in such sites, for what better place to study than a stagnant wasteland that grants one infinite time?
 
 The effects that surround an omen dragon also mean that new life cannot begin. Civilization cannot exist, let alone prosper, without a reliable food source. When living creatures die in these dragons' domains, their bodies do not decompose. Their souls are sucked into the omen dragon, granting the creature ever more power.
 

@@ -112,7 +112,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The builder's shape can't be changed by any external effect
+> The builder's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

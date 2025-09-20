@@ -95,4 +95,4 @@ type: monster
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.

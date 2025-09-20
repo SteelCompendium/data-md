@@ -60,7 +60,7 @@ type: monster
 >
 > | **Area, Weapon** |                             **Main action** |
 > | ---------------- | ------------------------------------------: |
-> | **📏 Burst 3**   | **🎯 Each creature and object in the area** |
+> | **📏 3 burst**   | **🎯 Each creature and object in the area** |
 >
 > **Power Roll + 5:**
 >
@@ -98,7 +98,7 @@ type: monster
 <!-- -->
 > ⭐️ **The Scarless**
 >
-> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whe- ever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw
+> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whenever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw.
 
 <!-- -->
 > ⭐️ **Champion's Loyalty Collar**

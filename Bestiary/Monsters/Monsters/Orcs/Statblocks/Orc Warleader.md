@@ -86,7 +86,7 @@ type: monster
 <!-- -->
 > ☠️ **Close In (Villain Action 1)**
 >
-> | \*\* Area\*\*   |                        **-** |
+> | **Area**        |                        **-** |
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >

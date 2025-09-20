@@ -47,9 +47,9 @@ type: monster
 >
 > **Power Roll + 3:**
 >
-> - **≤11:** 1 10 damage
-> - **12-16:** 2 15 damage; M < 1 slowed (save ends)
-> - **17+:** 3 18 damage; M < 2 slowed (save ends)
+> - **≤11:** 10 damage
+> - **12-16:** 15 damage; M < 1 slowed (save ends)
+> - **17+:** 18 damage; M < 2 slowed (save ends)
 >
 > **Effect:** Locratix deals 6 damage to each creature or object in a 2 x 1 line behind the target.
 

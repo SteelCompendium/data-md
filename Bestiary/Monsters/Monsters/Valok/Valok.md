@@ -139,7 +139,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The bodyguard's shape can't be changed by any external effect
+> The bodyguard's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -189,7 +189,7 @@ Most valok communicate exclusively in Rallarian.
 > | --------------- | --------------: |
 > | **📏 Ranged 5** | **🎯 One ally** |
 >
-> **Effect:** The target shifts up to their speed and can use a main action
+> **Effect:** The target shifts up to their speed and can use a main action.
 
 <!-- -->
 > ❗️ **Quick Shield**
@@ -210,7 +210,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The chief's shape can't be changed by any external effect
+> The chief's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -298,7 +298,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The builder's shape can't be changed by any external effect
+> The builder's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -380,7 +380,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The miner's shape can't be changed by any external effect
+> The miner's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -441,8 +441,8 @@ Most valok communicate exclusively in Rallarian.
 >
 > **Effect:** Each target makes an Agility test.
 >
-> - **≤11:** 16 fire damage; the target is burning (save ends
-> - **12-16:** 12 fire damage; the target is burning (EoT
+> - **≤11:** 16 fire damage; the target is burning (save ends)
+> - **12-16:** 12 fire damage; the target is burning (EoT)
 > - **17+:** 8 fire damage
 >
 > A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.
@@ -472,7 +472,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The war engine's shape can't be changed by any external effect
+> The war engine's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

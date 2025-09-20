@@ -201,7 +201,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 >
 > **Trigger:** An ally deals damage to the target.
 >
-> **Effect:** The swiftpaw makes a free strike against the targe.
+> **Effect:** The swiftpaw makes a free strike against the target.
 
 ###### Radenwight Bruxer
 
@@ -253,7 +253,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > ⭐️ **Lockdown**
 >
-> Any enemy who shifts adjacent to the bruxer has that shif t en d Additionally, any enemy adjacent to the bruxer can't shift.
+> Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift.
 
 ###### Radenwight Piper
 

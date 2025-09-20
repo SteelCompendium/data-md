@@ -56,7 +56,7 @@ type: monster
 > **3 Malice:** Each target loses 1d3 Recoveries.
 
 <!-- -->
-> 🏹 **Get Them, You Dolts! 1 Malice per target**
+> 🏹 **Get Them, You Dolts! (1 Malice per target)**
 >
 > | **Ranged**       |           **Maneuver** |
 > | ---------------- | ---------------------: |

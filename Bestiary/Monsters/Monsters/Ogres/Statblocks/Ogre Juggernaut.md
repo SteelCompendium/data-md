@@ -85,9 +85,9 @@ type: monster
 <!-- -->
 > ❗️ **Hrraaaaaagh!**
 >
-> | **ree triggered action** |       **-** |
-> | ------------------------ | ----------: |
-> | **📏 Self**              | **🎯 Self** |
+> | **-**       | **Free triggered action** |
+> | ----------- | ------------------------: |
+> | **📏 Self** |               **🎯 Self** |
 >
 > **Trigger:** The juggernaut takes damage.
 >

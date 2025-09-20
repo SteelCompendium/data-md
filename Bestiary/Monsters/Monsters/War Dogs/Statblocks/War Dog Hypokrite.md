@@ -67,7 +67,7 @@ type: monster
 <!-- -->
 > ⭐️ **Face in the Crowd**
 >
-> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect
+> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**

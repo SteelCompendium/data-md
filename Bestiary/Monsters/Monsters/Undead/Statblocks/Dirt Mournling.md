@@ -64,7 +64,7 @@ type: monster
 > - **12-16:** 6 corruption damage; I < 3 frightened (save ends)
 > - **17+:** 7 corruption damage; I < 4 frightened (save ends)
 >
-> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed
+> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed.
 
 <!-- -->
 > ⭐️ **Arise**
@@ -74,7 +74,7 @@ type: monster
 <!-- -->
 > ⭐️ **Immutable Form**
 >
-> The mournling's shape can't be changed by any external effect
+> The mournling's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Rupture**

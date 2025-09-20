@@ -19,7 +19,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Blood In Their Eyes (3 Malice)**
 >
-> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this fea- ture if they took any holy damage since ending their last turn.
+> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this feature if they took any holy damage since ending their last turn.
 
 <!-- -->
 > ☠️ **Solo Action (5 Malice)**

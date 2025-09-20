@@ -53,4 +53,4 @@ type: monster
 <!-- -->
 > ⭐️ **Death Grasp**
 >
-> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect end.
+> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect ends.

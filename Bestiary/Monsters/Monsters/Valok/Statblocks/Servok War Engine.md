@@ -85,8 +85,8 @@ type: monster
 >
 > **Effect:** Each target makes an Agility test.
 >
-> - **≤11:** 16 fire damage; the target is burning (save ends
-> - **12-16:** 12 fire damage; the target is burning (EoT
+> - **≤11:** 16 fire damage; the target is burning (save ends)
+> - **12-16:** 12 fire damage; the target is burning (EoT)
 > - **17+:** 8 fire damage
 >
 > A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.
@@ -116,7 +116,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The war engine's shape can't be changed by any external effect
+> The war engine's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

@@ -76,4 +76,4 @@ type: monster
 <!-- -->
 > ⭐️ **Body Bank Branch Manager**
 >
-> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute)
+> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute).

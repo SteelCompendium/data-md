@@ -86,7 +86,7 @@ type: monster
 >
 > **Trigger:** A creature within distance deals damage to the minotaur.
 >
-> **Effect:** The minotaur uses theCharge main action and either Flail and Blade or Goring Horns against the target.
+> **Effect:** The minotaur uses the Charge main action and either Flail and Blade or Goring Horns against the target.
 
 <!-- -->
 > ⭐️ **Minotaur Sense**

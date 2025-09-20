@@ -52,9 +52,9 @@ type: monster
 <!-- -->
 > 🗡 **Toothful Thrashing (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 1**            | **🎯 One creatures or object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 4:**
 >
