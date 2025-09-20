@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: 3 aura
 feature_type: ability
 file_basename: Riders on the Storm
-file_dpath: Fury/6th-Level Features
+file_dpath: Abilities/Fury/6th-Level Features
 flavor: You focus your connection to the Primordial Chaos into a seething storm.
 item_id: riders-on-the-storm-9-ferocity
 item_index: '05'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:riders-on-the-storm-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.3:05
+  - 1.1.1:11.2.5.3:05
 source: mcdm.heroes.v1
 subclass: Stormwight
 target: Each creature in the area

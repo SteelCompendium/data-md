@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Ranged 15
@@ -12,7 +13,6 @@ keywords:
   - Ranged
   - Strike
   - Weapon
-kit: Sniper
 scc:
   - mcdm.heroes.v1:kit-ability.sniper:patient-shot
 scdc:

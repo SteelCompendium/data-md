@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Melee 1
 feature_type: ability
 file_basename: Iron Grip
-file_dpath: Null/5th-Level Features
+file_dpath: Abilities/Null/5th-Level Features
 flavor: You grab the target with supernatural force.
 item_id: iron-grip-9-discipline
 item_index: '03'
@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.null.5th-level-feature:iron-grip-9-discipline
 scdc:
-  - 1.1.1:13.2.6.4:03
+  - 1.1.1:11.2.6.4:03
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/5th-level-feature

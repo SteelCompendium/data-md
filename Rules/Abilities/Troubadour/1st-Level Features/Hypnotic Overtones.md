@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 2 burst
 feature_type: ability
 file_basename: Hypnotic Overtones
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: You produce an entrancing note that twists the senses in a spectacular fashion.
 item_id: hypnotic-overtones-3-drama
 item_index: '13'
@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:hypnotic-overtones-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:13
+  - 1.1.1:11.2.3.1:13
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/1st-level-feature

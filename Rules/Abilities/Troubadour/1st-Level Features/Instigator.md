@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: troubadour
 distance: Melee 1
 feature_type: ability
 file_basename: Instigator
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: I didn't do it! What?
 item_id: instigator
 item_index: '24'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:instigator
 scdc:
-  - 1.1.1:13.2.3.1:24
+  - 1.1.1:11.2.3.1:24
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/troubadour/1st-level-feature

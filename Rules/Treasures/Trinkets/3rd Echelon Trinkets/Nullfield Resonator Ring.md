@@ -8,7 +8,7 @@ item_name: Nullfield Resonator Ring
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:nullfield-resonator-ring
 scdc:
-  - 1.1.1:12.4.3:02
+  - 1.1.1:13.4.3:02
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/3rd-echelon
@@ -32,18 +32,19 @@ type: treasure/trinkets/3rd-echelon
 
 Additionally, you have the following ability.
 
-###### Nullring Strike
-
-*Your punch delivers a devastating burst of psionic energy.*
-
-| **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
-| -------------------------------------- | ----------------------------: |
-| **📏 Melee 1**                         | **🎯 One creature or object** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 3 psychic damage
-- **12-16:** 5 psychic damage; I < AVERAGE, slowed (save ends)
-- **17+:** 8 psychic damage; I < STRONG, slowed (save ends)
-
-**Effect:** While slowed in this way, the target takes a bane on magic or psionic abilities.
+<!-- -->
+> ###### Nullring Strike
+>
+> *Your punch delivers a devastating burst of psionic energy.*
+>
+> | **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
+> | -------------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                         | **🎯 One creature or object** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** 3 psychic damage
+> - **12-16:** 5 psychic damage; I < AVERAGE, slowed (save ends)
+> - **17+:** 8 psychic damage; I < STRONG, slowed (save ends)
+>
+> **Effect:** While slowed in this way, the target takes a bane on magic or psionic abilities.

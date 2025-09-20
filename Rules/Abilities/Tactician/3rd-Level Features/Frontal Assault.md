@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Self
 feature_type: ability
 file_basename: Frontal Assault
-file_dpath: Tactician/3rd-Level Features
+file_dpath: Abilities/Tactician/3rd-Level Features
 flavor: The purpose of a charge is to break their morale and force a retreat.
 item_id: frontal-assault-7-focus
 item_index: '04'
@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:frontal-assault-7-focus
 scdc:
-  - 1.1.1:13.2.4.6:04
+  - 1.1.1:11.2.4.6:04
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/tactician/3rd-level-feature

@@ -4,7 +4,7 @@ class: elementalist
 distance: Ranged 10
 feature_type: ability
 file_basename: Skin Like Castle Walls
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: You cover yourself or an ally in protective stone.
 item_id: skin-like-castle-walls
 item_index: '14'
@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:skin-like-castle-walls
 scdc:
-  - 1.1.1:13.2.9.1:14
+  - 1.1.1:11.2.9.1:14
 source: mcdm.heroes.v1
 subclass: Earth
 target: Self or one ally

@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: 10 x 1 line within 1
 feature_type: ability
 file_basename: Shadowfall
-file_dpath: Shadow/5th-Level Features
+file_dpath: Abilities/Shadow/5th-Level Features
 flavor: You vanish. They fall. You reappear.
 item_id: shadowfall-9-insight
 item_index: '01'
@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:shadowfall-9-insight
 scdc:
-  - 1.1.1:13.2.2.4:01
+  - 1.1.1:11.2.2.4:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/shadow/5th-level-feature

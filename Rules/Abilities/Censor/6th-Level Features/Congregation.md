@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Melee 1
 feature_type: ability
 file_basename: Congregation
-file_dpath: Censor/6th-Level Features
+file_dpath: Abilities/Censor/6th-Level Features
 flavor: You focus your allies' wrath on a chosen foe.
 item_id: congregation-9-wrath
 item_index: '04'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:congregation-9-wrath
 scdc:
-  - 1.1.1:13.2.7.3:04
+  - 1.1.1:11.2.7.3:04
 source: mcdm.heroes.v1
 subclass: Paragon
 target: One creature

@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 1 or ranged 10
@@ -13,7 +14,6 @@ keywords:
   - Ranged
   - Strike
   - Weapon
-kit: Cloak and Dagger
 scc:
   - mcdm.heroes.v1:kit-ability.cloak-and-dagger:fade
 scdc:

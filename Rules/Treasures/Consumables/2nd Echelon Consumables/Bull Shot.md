@@ -8,7 +8,7 @@ item_name: Bull Shot
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:bull-shot
 scdc:
-  - 1.1.1:12.2.3:09
+  - 1.1.1:13.2.3:09
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/2nd-echelon

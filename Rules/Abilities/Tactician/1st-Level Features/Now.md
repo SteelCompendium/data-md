@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Ranged 10
 feature_type: ability
 file_basename: Now
-file_dpath: Tactician/1st-Level Features
+file_dpath: Abilities/Tactician/1st-Level Features
 flavor: Your allies wait for your command—then unleash death!
 item_id: now-5-focus
 item_index: 08
@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:now-5-focus
 scdc:
-  - 1.1.1:13.2.4.1:08
+  - 1.1.1:11.2.4.1:08
 source: mcdm.heroes.v1
 target: Three allies
 type: feature/ability/tactician/1st-level-feature

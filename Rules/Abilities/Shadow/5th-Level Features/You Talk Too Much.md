@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: You Talk Too Much
-file_dpath: Shadow/5th-Level Features
+file_dpath: Abilities/Shadow/5th-Level Features
 flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
 item_id: you-talk-too-much-9-insight
 item_index: '03'
@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:you-talk-too-much-9-insight
 scdc:
-  - 1.1.1:13.2.2.4:03
+  - 1.1.1:11.2.2.4:03
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/shadow/5th-level-feature

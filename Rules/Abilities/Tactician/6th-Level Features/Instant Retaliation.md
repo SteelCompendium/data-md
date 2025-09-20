@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Melee 1
 feature_type: ability
 file_basename: Instant Retaliation
-file_dpath: Tactician/6th-Level Features
+file_dpath: Abilities/Tactician/6th-Level Features
 flavor: You parry with almost supernatural speed.
 item_id: instant-retaliation-9-focus
 item_index: '05'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:instant-retaliation-9-focus
 scdc:
-  - 1.1.1:13.2.4.3:05
+  - 1.1.1:11.2.4.3:05
 source: mcdm.heroes.v1
 subclass: Vanguard
 target: One ally

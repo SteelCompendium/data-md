@@ -4,7 +4,7 @@ class: fury
 distance: Self
 feature_type: ability
 file_basename: Furious Change
-file_dpath: Fury/1st-Level Features
+file_dpath: Abilities/Fury/1st-Level Features
 flavor: In your anger, you revert to a more bestial form.
 item_id: furious-change
 item_index: '14'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:furious-change
 scdc:
-  - 1.1.1:13.2.5.1:14
+  - 1.1.1:11.2.5.1:14
 source: mcdm.heroes.v1
 subclass: Stormwight
 target: Self

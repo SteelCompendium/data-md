@@ -1,10 +1,11 @@
 ---
+ability_type: Free Strike
 action_type: Main action
 class: conduit
 distance: Ranged 10
 feature_type: ability
 file_basename: Ray of Wrath
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: You unleash a blast of holy light upon your foe.
 item_id: ray-of-wrath
 item_index: '22'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:ray-of-wrath
 scdc:
-  - 1.1.1:13.2.8.1:22
+  - 1.1.1:11.2.8.1:22
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/conduit/1st-level-feature

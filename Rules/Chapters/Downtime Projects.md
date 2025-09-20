@@ -589,37 +589,38 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Chargebreaker:** While you wield this weapon, you have the following ability.
 
-###### Stop Right There
-
-*Their momentum, your impact.*
-
-| **Melee, Strike, Weapon** | **Free triggered** |
-| ------------------------- | -----------------: |
-| **📏 Melee 1**            |   **🎯 One enemy** |
-
-**Trigger:** The target willingly moves adjacent to you.
-
-**Effect:** The target takes 5 damage.
-
-**Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is slowed (save ends). This replaces the benefit of Chilling I.
-
-**Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
-
-**Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 Stamina or less, they drop to 0 Stamina. This replaces the benefit of Disrupting I.
-
-**Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
-
-- **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
-- **Large:** Abilities using this weapon gain a +1 melee distance bonus or a +3 ranged distance bonus.
-- **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
-
-**Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
-
-**Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is frightened (save ends). This replaces the benefit of Terrifying I.
-
-**Thundering II:** Whenever you deal rolled damage to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also knocked prone after being pushed. This replaces the benefit of Thundering I.
-
-**Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
+<!-- -->
+> ###### Stop Right There
+>
+> *Their momentum, your impact.*
+>
+> | **Melee, Strike, Weapon** | **Free triggered** |
+> | ------------------------- | -----------------: |
+> | **📏 Melee 1**            |   **🎯 One enemy** |
+>
+> **Trigger:** The target willingly moves adjacent to you.
+>
+> **Effect:** The target takes 5 damage.
+>
+> **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is slowed (save ends). This replaces the benefit of Chilling I.
+>
+> **Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
+>
+> **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 Stamina or less, they drop to 0 Stamina. This replaces the benefit of Disrupting I.
+>
+> **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
+>
+> - **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
+> - **Large:** Abilities using this weapon gain a +1 melee distance bonus or a +3 ranged distance bonus.
+> - **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
+>
+> **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
+>
+> **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is frightened (save ends). This replaces the benefit of Terrifying I.
+>
+> **Thundering II:** Whenever you deal rolled damage to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also knocked prone after being pushed. This replaces the benefit of Thundering I.
+>
+> **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
 ###### 5th-Level Weapon Enhancements
 
@@ -655,27 +656,28 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 **Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
 
-###### Nova
-
-*I am an eternal flame, baby!*
-
-| **Area, Magic** |               **Main action** |
-| --------------- | ----------------------------: |
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Your Highest Characteristic Score:**
-
-- **≤11:** 7 fire damage
-- **12-16:** 11 fire damage
-- **17+:** 16 fire damage
-
-**Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is frightened (save ends). This replaces the benefit of Terrifying II.
-
-**Thundering III:** Whenever you deal rolled damage to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them prone after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
-
-**Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
-
-**Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become grabbed or res trained, each target in the area is instead slowed until the end of their next turn.
+<!-- -->
+> ###### Nova
+>
+> *I am an eternal flame, baby!*
+>
+> | **Area, Magic** |               **Main action** |
+> | --------------- | ----------------------------: |
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Your Highest Characteristic Score:**
+>
+> - **≤11:** 7 fire damage
+> - **12-16:** 11 fire damage
+> - **17+:** 16 fire damage
+>
+> **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is frightened (save ends). This replaces the benefit of Terrifying II.
+>
+> **Thundering III:** Whenever you deal rolled damage to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them prone after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
+>
+> **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
+>
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become grabbed or res trained, each target in the area is instead slowed until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 

@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Ranged 10
 feature_type: ability
 file_basename: Twist at the End
-file_dpath: Troubadour/2nd-Level Features
+file_dpath: Abilities/Troubadour/2nd-Level Features
 flavor: You didn't see that coming, did you?!
 item_id: twist-at-the-end-5-drama
 item_index: '01'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:twist-at-the-end-5-drama
 scdc:
-  - 1.1.1:13.2.3.5:01
+  - 1.1.1:11.2.3.5:01
 source: mcdm.heroes.v1
 subclass: Auteur
 target: One dead enemy

@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Two Throats at Once
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: A bargain.
 item_id: two-throats-at-once-3-insight
 item_index: '18'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:two-throats-at-once-3-insight
 scdc:
-  - 1.1.1:13.2.2.1:18
+  - 1.1.1:11.2.2.1:18
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: feature/ability/shadow/1st-level-feature

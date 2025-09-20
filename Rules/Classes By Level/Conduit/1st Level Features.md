@@ -172,43 +172,46 @@ If you are in the same area as a creature using this or a similar feature who ha
 
 You have the following ability.
 
-###### Faithful Friend
-
-*An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
-
-| **Magic**   | **Main action** |
-| ----------- | --------------: |
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+<!-- -->
+> ###### Faithful Friend
+>
+> *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
+>
+> | **Magic**   | **Main action** |
+> | ----------- | --------------: |
+> | **📏 Self** |     **🎯 Self** |
+>
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
 You have the following ability.
 
-###### Grave Speech
-
-*You commune with the lingering soul of the recently dead.*
-
-| **Magic**      |             **Maneuver** |
-| -------------- | -----------------------: |
-| **📏 Melee 1** | **🎯 One dead creature** |
-
-**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
+<!-- -->
+> ###### Grave Speech
+>
+> *You commune with the lingering soul of the recently dead.*
+>
+> | **Magic**      |             **Maneuver** |
+> | -------------- | -----------------------: |
+> | **📏 Melee 1** | **🎯 One dead creature** |
+>
+> **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
 ##### Hands of the Maker
 
 You have the following ability.
 
-###### Hands of the Maker
-
-*You craft objects with the power of your mind.*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
+<!-- -->
+> ###### Hands of the Maker
+>
+> *You craft objects with the power of your mind.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
 ##### Inner Light
 
@@ -238,74 +241,78 @@ As a respite activity, you can bless a weapon. Any creature who wields the weapo
 
 You have the following ability, which you can use once on your turn.
 
-###### Healing Grace
-
-*Your divine energy restores the righteous.*
-
-| **Magic, Ranged** |            **Maneuver** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** The target can spend a Recovery.
-
-**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
-
-- You can target one additional ally within distance.
-- You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-- A prone target can stand up.
-- A target can spend 1 additional Recovery.
+<!-- -->
+> ###### Healing Grace
+>
+> *Your divine energy restores the righteous.*
+>
+> | **Magic, Ranged** |            **Maneuver** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Effect:** The target can spend a Recovery.
+>
+> **Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+>
+> - You can target one additional ally within distance.
+> - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
+> - A prone target can stand up.
+> - A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
 
 You have the following ability, which can be used as a ranged free strike.
 
-###### Ray of Wrath
-
-*You unleash a blast of holy light upon your foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 + I damage
-- **12-16:** 4 + I damage
-- **17+:** 6 + I damage
-
-**Effect:** You can have this ability deal holy damage.
+<!-- -->
+> ###### Ray of Wrath
+>
+> *You unleash a blast of holy light upon your foe.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 2 + I damage
+> - **12-16:** 4 + I damage
+> - **17+:** 6 + I damage
+>
+> **Effect:** You can have this ability deal holy damage.
 
 #### Triggered Action
 
 Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.)
 
-###### Word of Guidance
+<!-- -->
+> ###### Word of Guidance
+>
+> *You invigorate an attacking ally with divine energy.*
+>
+> | **Magic, Ranged** |   **Triggered** |
+> | ----------------- | --------------: |
+> | **📏 Ranged 10**  | **🎯 One ally** |
+>
+> **Trigger:** The target makes an ability roll for a damage-dealing ability.
+>
+> **Effect:** The power roll gains an edge.
+>
+> **Spend 1 Piety:** The power roll has a double edge.
 
-*You invigorate an attacking ally with divine energy.*
-
-| **Magic, Ranged** |   **Triggered** |
-| ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 One ally** |
-
-**Trigger:** The target makes an ability roll for a damage-dealing ability.
-
-**Effect:** The power roll gains an edge.
-
-**Spend 1 Piety:** The power roll has a double edge.
-
-###### Word of Judgment
-
-*Your holy word saps an attacking enemy's strength.*
-
-| **Magic, Ranged** |   **Triggered** |
-| ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 One ally** |
-
-**Trigger:** The target would take damage from an ability that uses a power roll.
-
-**Effect:** The power roll takes a bane against the target.
-
-**Spend 1 Piety:** The power roll has a double bane against the target.
+<!-- -->
+> ###### Word of Judgment
+>
+> *Your holy word saps an attacking enemy's strength.*
+>
+> | **Magic, Ranged** |   **Triggered** |
+> | ----------------- | --------------: |
+> | **📏 Ranged 10**  | **🎯 One ally** |
+>
+> **Trigger:** The target would take damage from an ability that uses a power roll.
+>
+> **Effect:** The power roll takes a bane against the target.
+>
+> **Spend 1 Piety:** The power roll has a double bane against the target.
 
 #### Prayer
 
@@ -361,127 +368,135 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Blessed Light, Staggering Curse.)
 
-###### Blessed Light
+<!-- -->
+> ###### Blessed Light
+>
+> *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I holy damage
+> - **12-16:** 5 + I holy damage
+> - **17+:** 8 + I holy damage
+>
+> **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.
 
-*Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
+<!-- -->
+> ###### Drain
+>
+> *You drain the energy from your target to revitalize yourself or an ally.*
+>
+> | **Magic, Melee, Strike** |     **Main action** |
+> | ------------------------ | ------------------: |
+> | **📏 Melee 1**           | **🎯 One creature** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 2 + I corruption damage
+> - **12-16:** 5 + I corruption damage
+> - **17+:** 7 + I corruption damage
+>
+> **Effect:** You or one ally within distance can spend a Recovery.
 
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+<!-- -->
+> ###### Holy Lash
+>
+> *A tendril of divine energy shoots forth to draw in your foe.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I holy damage; vertical pull 2
+> - **12-16:** 5 + I holy damage; vertical pull 3
+> - **17+:** 8 + I holy damage; vertical pull 4
 
-**Power Roll + Intuition:**
+<!-- -->
+> ###### Lightfall
+>
+> *A rain of holy light scours your enemies and repositions your allies.*
+>
+> | **Area, Magic** |               **Main action** |
+> | --------------- | ----------------------------: |
+> | **📏 2 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 2 holy damage
+> - **12-16:** 3 holy damage
+> - **17+:** 5 holy damage
+>
+> **Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
 
-- **≤11:** 3 + I holy damage
-- **12-16:** 5 + I holy damage
-- **17+:** 8 + I holy damage
+<!-- -->
+> ###### Sacrificial Offer
+>
+> *Divine magic tears at your foe and defends a nearby friend.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 2 + I corruption damage
+> - **12-16:** 4 + I corruption damage
+> - **17+:** 6 + I corruption damage
+>
+> **Effect:** Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.
 
-**Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.
+<!-- -->
+> ###### Staggering Curse
+>
+> *A blast of judgment disorients your foe.*
+>
+> | **Magic, Melee, Strike** |               **Main action** |
+> | ------------------------ | ----------------------------: |
+> | **📏 Melee 1**           | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I holy damage; slide 1
+> - **12-16:** 5 + I holy damage; slide 2
+> - **17+:** 8 + I holy damage; slide 3
 
-###### Drain
+<!-- -->
+> ###### Warrior's Prayer
+>
+> *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I holy damage
+> - **12-16:** 6 + I holy damage
+> - **17+:** 9 + I holy damage
+>
+> **Effect:** You or one ally within distance gains temporary Stamina equal to your Intuition score.
 
-*You drain the energy from your target to revitalize yourself or an ally.*
-
-| **Magic, Melee, Strike** |     **Main action** |
-| ------------------------ | ------------------: |
-| **📏 Melee 1**           | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 + I corruption damage
-- **12-16:** 5 + I corruption damage
-- **17+:** 7 + I corruption damage
-
-**Effect:** You or one ally within distance can spend a Recovery.
-
-###### Holy Lash
-
-*A tendril of divine energy shoots forth to draw in your foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I holy damage; vertical pull 2
-- **12-16:** 5 + I holy damage; vertical pull 3
-- **17+:** 8 + I holy damage; vertical pull 4
-
-###### Lightfall
-
-*A rain of holy light scours your enemies and repositions your allies.*
-
-| **Area, Magic** |               **Main action** |
-| --------------- | ----------------------------: |
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 holy damage
-- **12-16:** 3 holy damage
-- **17+:** 5 holy damage
-
-**Effect:** You can teleport yourself and each ally in the area to unoccupied spaces in the area.
-
-###### Sacrificial Offer
-
-*Divine magic tears at your foe and defends a nearby friend.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 + I corruption damage
-- **12-16:** 4 + I corruption damage
-- **17+:** 6 + I corruption damage
-
-**Effect:** Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.
-
-###### Staggering Curse
-
-*A blast of judgment disorients your foe.*
-
-| **Magic, Melee, Strike** |               **Main action** |
-| ------------------------ | ----------------------------: |
-| **📏 Melee 1**           | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I holy damage; slide 1
-- **12-16:** 5 + I holy damage; slide 2
-- **17+:** 8 + I holy damage; slide 3
-
-###### Warrior's Prayer
-
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I holy damage
-- **12-16:** 6 + I holy damage
-- **17+:** 9 + I holy damage
-
-**Effect:** You or one ally within distance gains temporary Stamina equal to your Intuition score.
-
-###### Wither
-
-*A bolt of holy energy saps the life from a foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
-- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
-- **17+:** 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
+<!-- -->
+> ###### Wither
+>
+> *A bolt of holy energy saps the life from a foe.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I corruption damage; P < WEAK, the target takes a bane on their next power roll
+> - **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a bane on their next power roll
+> - **17+:** 8 + I corruption damage; P < STRONG, the target takes a bane on their next power roll
 
 ##### Heroic Abilities
 
@@ -491,116 +506,124 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
 
-###### Call the Thunder Down (3 Piety)
+<!-- -->
+> ###### Call the Thunder Down (3 Piety)
+>
+> *You ask your saint for thunder and your prayer is answered.*
+>
+> | **Area, Magic, Ranged** |               **Main action** |
+> | ----------------------- | ----------------------------: |
+> | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 2 sonic damage; push 1
+> - **12-16:** 3 sonic damage; push 2
+> - **17+:** 5 sonic damage; push 3
+>
+> **Effect:** You can push each willing ally in the area the same distance, ignoring stability.
 
-*You ask your saint for thunder and your prayer is answered.*
+<!-- -->
+> ###### Font of Wrath (3 Piety)
+>
+> *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
+>
+> | **Magic, Ranged** | **Main action** |
+> | ----------------- | --------------: |
+> | **📏 Ranged 10**  |  **🎯 Special** |
+>
+> **Effect:** You summon a spirit of size 2 who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your Intuition score.
 
-| **Area, Magic, Ranged** |               **Main action** |
-| ----------------------- | ----------------------------: |
-| **📏 3 cube within 10** | **🎯 Each enemy in the area** |
+<!-- -->
+> ###### Judgment's Hammer (3 Piety)
+>
+> *Your divine fury is a hammer that crashes down upon the unrighteous.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I holy damage; A < WEAK, prone
+> - **12-16:** 6 + I holy damage; A < AVERAGE, prone
+> - **17+:** 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
 
-**Power Roll + Intuition:**
-
-- **≤11:** 2 sonic damage; push 1
-- **12-16:** 3 sonic damage; push 2
-- **17+:** 5 sonic damage; push 3
-
-**Effect:** You can push each willing ally in the area the same distance, ignoring stability.
-
-###### Font of Wrath (3 Piety)
-
-*A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
-
-| **Magic, Ranged** | **Main action** |
-| ----------------- | --------------: |
-| **📏 Ranged 10**  |  **🎯 Special** |
-
-**Effect:** You summon a spirit of size 2 who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your Intuition score.
-
-###### Judgment's Hammer (3 Piety)
-
-*Your divine fury is a hammer that crashes down upon the unrighteous.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I holy damage; A < WEAK, prone
-- **12-16:** 6 + I holy damage; A < AVERAGE, prone
-- **17+:** 9 + I holy damage; A < STRONG, prone and can't stand (save ends)
-
-###### Violence Will Not Aid Thee (3 Piety)
-
-*After some holy lightning, your enemy will think twice about their next attack.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I lightning damage
-- **12-16:** 6 + I lightning damage
-- **17+:** 9 + I lightning damage
-
-**Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
+<!-- -->
+> ###### Violence Will Not Aid Thee (3 Piety)
+>
+> *After some holy lightning, your enemy will think twice about their next attack.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I lightning damage
+> - **12-16:** 6 + I lightning damage
+> - **17+:** 9 + I lightning damage
+>
+> **Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
 
 ###### 5-Piety Ability
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)
 
-###### Corruption's Curse (5 Piety)
+<!-- -->
+> ###### Corruption's Curse (5 Piety)
+>
+> *Cursed by you, your enemy takes more damage from your allies.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 3 + I corruption damage; M < WEAK, damage weakness 5 (save ends)
+> - **12-16:** 6 + I corruption damage; M < AVERAGE, damage weakness 5 (save ends)
+> - **17+:** 9 + I corruption damage; M < STRONG, damage weakness 5 (save ends)
 
-*Cursed by you, your enemy takes more damage from your allies.*
+<!-- -->
+> ###### Curse of Terror (5 Piety)
+>
+> *Fear of divine judgment overwhelms your foe.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
+> - **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
+> - **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
 
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+<!-- -->
+> ###### Faith Is Our Armor (5 Piety)
+>
+> *The heroes' armor glows with golden light, granting divine protection.*
+>
+> | **Magic, Ranged** |       **Maneuver** |
+> | ----------------- | -----------------: |
+> | **📏 Ranged 10**  | **🎯 Four allies** |
+>
+> **Effect:** You can target yourself instead of one ally with this ability.
+>
+> **Power Roll + Intuition:**
+>
+> - **≤11:** The target gains 5 temporary Stamina.
+> - **12-16:** The target gains 10 temporary Stamina.
+> - **17+:** The target gains 15 temporary Stamina.
 
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I corruption damage; M < WEAK, damage weakness 5 (save ends)
-- **12-16:** 6 + I corruption damage; M < AVERAGE, damage weakness 5 (save ends)
-- **17+:** 9 + I corruption damage; M < STRONG, damage weakness 5 (save ends)
-
-###### Curse of Terror (5 Piety)
-
-*Fear of divine judgment overwhelms your foe.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 6 + I holy damage; I < WEAK, frightened (save ends)
-- **12-16:** 9 + I holy damage; I < AVERAGE, frightened (save ends)
-- **17+:** 13 + I holy damage; I < STRONG, frightened (save ends)
-
-###### Faith Is Our Armor (5 Piety)
-
-*The heroes' armor glows with golden light, granting divine protection.*
-
-| **Magic, Ranged** |       **Maneuver** |
-| ----------------- | -----------------: |
-| **📏 Ranged 10**  | **🎯 Four allies** |
-
-**Effect:** You can target yourself instead of one ally with this ability.
-
-**Power Roll + Intuition:**
-
-- **≤11:** The target gains 5 temporary Stamina.
-- **12-16:** The target gains 10 temporary Stamina.
-- **17+:** The target gains 15 temporary Stamina.
-
-###### Sermon of Grace (5 Piety)
-
-*You inspire your allies with tales of your saint's great deeds.*
-
-| **Area, Magic** |              **Main action** |
-| --------------- | ---------------------------: |
-| **📏 4 burst**  | **🎯 Each ally in the area** |
-
-**Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
+<!-- -->
+> ###### Sermon of Grace (5 Piety)
+>
+> *You inspire your allies with tales of your saint's great deeds.*
+>
+> | **Area, Magic** |              **Main action** |
+> | --------------- | ---------------------------: |
+> | **📏 4 burst**  | **🎯 Each ally in the area** |
+>
+> **Effect:** Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.

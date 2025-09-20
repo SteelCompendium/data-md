@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 10 x 2 line within 5
 feature_type: ability
 file_basename: Spirit Stampede
-file_dpath: Conduit/6th-Level Features
+file_dpath: Abilities/Conduit/6th-Level Features
 flavor: Animal spirits run through the battlefield, trampling your foes.
 item_id: spirit-stampede-9-piety
 item_index: '04'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:spirit-stampede-9-piety
 scdc:
-  - 1.1.1:13.2.8.3:04
+  - 1.1.1:11.2.8.3:04
 source: mcdm.heroes.v1
 subclass: Nature
 target: Each enemy in the area

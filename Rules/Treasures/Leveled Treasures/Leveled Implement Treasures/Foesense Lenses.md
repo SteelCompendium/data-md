@@ -8,7 +8,7 @@ item_name: Foesense Lenses
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:foesense-lenses
 scdc:
-  - 1.1.1:12.3.3:04
+  - 1.1.1:13.3.3:04
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/implement

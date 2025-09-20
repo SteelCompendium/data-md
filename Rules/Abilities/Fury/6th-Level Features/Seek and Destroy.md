@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Melee 1
 feature_type: ability
 file_basename: Seek and Destroy
-file_dpath: Fury/6th-Level Features
+file_dpath: Abilities/Fury/6th-Level Features
 flavor: You break through the enemy lines to make an example.
 item_id: seek-and-destroy-9-ferocity
 item_index: '06'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:seek-and-destroy-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.3:06
+  - 1.1.1:11.2.5.3:06
 source: mcdm.heroes.v1
 subclass: Reaver
 target: One creature

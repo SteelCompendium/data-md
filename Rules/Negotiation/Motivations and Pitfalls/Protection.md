@@ -7,7 +7,7 @@ item_name: Protection
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:protection
 scdc:
-  - 1.1.1:11:11
+  - 1.1.1:12:11
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

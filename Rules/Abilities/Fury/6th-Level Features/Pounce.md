@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Melee 1
 feature_type: ability
 file_basename: Pounce
-file_dpath: Fury/6th-Level Features
+file_dpath: Abilities/Fury/6th-Level Features
 flavor: You strike at the target like the ultimate predator you are.
 item_id: pounce-9-ferocity
 item_index: '03'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:pounce-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.3:03
+  - 1.1.1:11.2.5.3:03
 source: mcdm.heroes.v1
 subclass: Stormwight
 target: One creature

@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: 3 burst
 feature_type: ability
 file_basename: Death Comes for You All
-file_dpath: Fury/9th-Level Features
+file_dpath: Abilities/Fury/9th-Level Features
 flavor: You use your weapon to create a destructive shockwave.
 item_id: death-comes-for-you-all-11-ferocity
 item_index: '02'
@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all-11-ferocity
 scdc:
-  - 1.1.1:13.2.5.6:02
+  - 1.1.1:11.2.5.6:02
 source: mcdm.heroes.v1
 subclass: Berserker
 target: Each enemy in the area

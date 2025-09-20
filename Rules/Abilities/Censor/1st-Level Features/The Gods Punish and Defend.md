@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Melee 1
 feature_type: ability
 file_basename: The Gods Punish and Defend
-file_dpath: Censor/1st-Level Features
+file_dpath: Abilities/Censor/1st-Level Features
 flavor: You channel holy energy to smite a foe and heal an ally.
 item_id: the-gods-punish-and-defend-3-wrath
 item_index: '11'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:the-gods-punish-and-defend-3-wrath
 scdc:
-  - 1.1.1:13.2.7.1:11
+  - 1.1.1:11.2.7.1:11
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/censor/1st-level-feature

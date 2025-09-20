@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 3
 feature_type: ability
 file_basename: Demon Door
-file_dpath: Shadow/9th-Level Features
+file_dpath: Abilities/Shadow/9th-Level Features
 flavor: You create a temporary portal to allow a massive demonic hand to reach through.
 item_id: demon-door-11-insight
 item_index: '06'
@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:demon-door-11-insight
 scdc:
-  - 1.1.1:13.2.2.7:06
+  - 1.1.1:11.2.2.7:06
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: One creature

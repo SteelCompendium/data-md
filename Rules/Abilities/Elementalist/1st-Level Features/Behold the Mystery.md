@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Behold the Mystery
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: You open a rift into the void to harry your foes.
 item_id: behold-the-mystery-3-essence
 item_index: '17'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:behold-the-mystery-3-essence
 scdc:
-  - 1.1.1:13.2.9.1:17
+  - 1.1.1:11.2.9.1:17
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/1st-level-feature

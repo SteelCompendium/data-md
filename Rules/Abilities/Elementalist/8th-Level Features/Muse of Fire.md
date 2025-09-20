@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: 5 cube within 10
 feature_type: ability
 file_basename: Muse of Fire
-file_dpath: Elementalist/8th-Level Features
+file_dpath: Abilities/Elementalist/8th-Level Features
 flavor: The fire burns hot enough to sear the face of any god watching.
 item_id: muse-of-fire-11-essence
 item_index: '01'
@@ -21,7 +21,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:muse-of-fire-11-essence
 scdc:
-  - 1.1.1:13.2.9.2:01
+  - 1.1.1:11.2.9.2:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/8th-level-feature

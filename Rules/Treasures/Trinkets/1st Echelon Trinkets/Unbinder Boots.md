@@ -8,7 +8,7 @@ item_name: Unbinder Boots
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:unbinder-boots
 scdc:
-  - 1.1.1:12.4.4:05
+  - 1.1.1:13.4.4:05
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon

@@ -4,7 +4,7 @@ class: elementalist
 distance: Self
 feature_type: ability
 file_basename: Earth Accepts Me
-file_dpath: Elementalist/3rd-Level Features
+file_dpath: Abilities/Elementalist/3rd-Level Features
 flavor: You can slip into the stone.
 item_id: earth-accepts-me
 item_index: '05'
@@ -16,7 +16,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:earth-accepts-me
 scdc:
-  - 1.1.1:13.2.9.6:05
+  - 1.1.1:11.2.9.6:05
 source: mcdm.heroes.v1
 subclass: Earth
 target: Self

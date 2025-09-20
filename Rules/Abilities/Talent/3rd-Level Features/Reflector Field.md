@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: 3 aura
 feature_type: ability
 file_basename: Reflector Field
-file_dpath: Talent/3rd-Level Features
+file_dpath: Abilities/Talent/3rd-Level Features
 flavor: A protective field reverses the momentum of incoming attacks.
 item_id: reflector-field-7-clarity
 item_index: '04'
@@ -20,7 +20,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:reflector-field-7-clarity
 scdc:
-  - 1.1.1:13.2.1.6:04
+  - 1.1.1:11.2.1.6:04
 source: mcdm.heroes.v1
 target: Special
 type: feature/ability/talent/3rd-level-feature

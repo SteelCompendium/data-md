@@ -4,7 +4,7 @@ class: fury
 distance: Self
 feature_type: ability
 file_basename: Unearthly Reflexes
-file_dpath: Fury/1st-Level Features
+file_dpath: Abilities/Fury/1st-Level Features
 flavor: You are as elusive as a hummingbird.
 item_id: unearthly-reflexes
 item_index: '05'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:unearthly-reflexes
 scdc:
-  - 1.1.1:13.2.5.1:05
+  - 1.1.1:11.2.5.1:05
 source: mcdm.heroes.v1
 subclass: Reaver
 target: Self

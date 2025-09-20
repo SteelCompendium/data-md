@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: troubadour
 distance: Melee 1
 feature_type: ability
 file_basename: Artful Flourish
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: And they said practicing fencing was a waste!
 item_id: artful-flourish
 item_index: '11'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:artful-flourish
 scdc:
-  - 1.1.1:13.2.3.1:11
+  - 1.1.1:11.2.3.1:11
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: feature/ability/troubadour/1st-level-feature

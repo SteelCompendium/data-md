@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Blessing of Insight
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Abilities/Conduit/2nd-Level Features
 flavor: The gods grant insight revealing where best to strike your enemies.
 item_id: blessing-of-insight-5-piety
 item_index: '12'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:blessing-of-insight-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:12
+  - 1.1.1:11.2.8.5:12
 source: mcdm.heroes.v1
 subclass: War
 target: Self and each ally

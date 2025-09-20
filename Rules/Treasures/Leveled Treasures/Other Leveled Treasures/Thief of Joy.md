@@ -8,7 +8,7 @@ item_name: Thief of Joy
 scc:
   - mcdm.heroes.v1:treasure.leveled.other:thief-of-joy
 scdc:
-  - 1.1.1:12.3.2:03
+  - 1.1.1:13.3.2:03
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/other

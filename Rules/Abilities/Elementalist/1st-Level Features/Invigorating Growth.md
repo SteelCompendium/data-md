@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: Invigorating Growth
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 item_id: invigorating-growth-3-essence
 item_index: '23'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:invigorating-growth-3-essence
 scdc:
-  - 1.1.1:13.2.9.1:23
+  - 1.1.1:11.2.9.1:23
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/elementalist/1st-level-feature

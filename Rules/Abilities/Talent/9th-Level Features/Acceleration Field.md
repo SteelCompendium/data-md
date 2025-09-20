@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 5
 feature_type: ability
 file_basename: Acceleration Field
-file_dpath: Talent/9th-Level Features
+file_dpath: Abilities/Talent/9th-Level Features
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 item_id: acceleration-field-11-clarity
 item_index: '03'
@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:acceleration-field-11-clarity
 scdc:
-  - 1.1.1:13.2.1.7:03
+  - 1.1.1:11.2.1.7:03
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Three allies

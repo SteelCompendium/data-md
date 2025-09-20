@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 4 burst
 feature_type: ability
 file_basename: Invocation of Mystery
-file_dpath: Conduit/6th-Level Features
+file_dpath: Abilities/Conduit/6th-Level Features
 flavor: '"Now you see us..."'
 item_id: invocation-of-mystery-9-piety
 item_index: '05'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:invocation-of-mystery-9-piety
 scdc:
-  - 1.1.1:13.2.8.3:05
+  - 1.1.1:11.2.8.3:05
 source: mcdm.heroes.v1
 subclass: Trickery
 target: Self and each ally in the area

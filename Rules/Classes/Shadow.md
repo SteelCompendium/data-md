@@ -110,51 +110,54 @@ Your shadow college grants you one or two features, as shown on the 1st-Level Co
 
 You have the following ability.
 
-###### Black Ash Teleport
-
-*In a swirl of black ash, you step from one place to another.*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
-
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+<!-- -->
+> ###### Black Ash Teleport
+>
+> *In a swirl of black ash, you step from one place to another.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+>
+> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
 
 ##### Coat the Blade
 
 You have the following ability.
 
-###### Coat the Blade
-
-*A little poison goes a long way.*
-
-| **-**       | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
-
-**Spend 1+ Insight:** For each insight you spend, you gain 1 additional surge.
+<!-- -->
+> ###### Coat the Blade
+>
+> *A little poison goes a long way.*
+>
+> | **-**       | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
+>
+> **Spend 1+ Insight:** For each insight you spend, you gain 1 additional surge.
 
 ##### I'm No Threat
 
 You have the following ability.
 
-###### I'm No Threat
-
-*Taking on an illusory countenance gives you an advantage on subterfuge.*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
-
-The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
-
-**Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
+<!-- -->
+> ###### I'm No Threat
+>
+> *Taking on an illusory countenance gives you an advantage on subterfuge.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
+>
+> The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
+>
+> **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
 
 ##### Smoke Bomb
 
@@ -172,61 +175,65 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 | Caustic Alchemy | Defensive Roll        |
 | Harlequin Mask  | Clever Trick          |
 
-###### Clever Trick (1 Insight)
+<!-- -->
+> ###### Clever Trick (1 Insight)
+>
+> *You sow a moment of confusion in combat, to your enemy's peril.*
+>
+> | **Magic**   | **Triggered** |
+> | ----------- | ------------: |
+> | **📏 Self** |   **🎯 Self** |
+>
+> **Trigger:** An enemy targets you with a strike.
+>
+> **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
 
-*You sow a moment of confusion in combat, to your enemy's peril.*
+<!-- -->
+> ###### Defensive Roll
+>
+> *When an enemy attacks, you roll with the impact to reduce the harm.*
+>
+> | **-**       | **Triggered** |
+> | ----------- | ------------: |
+> | **📏 Self** |   **🎯 Self** |
+>
+> **Trigger:** Another creature damages you.
+>
+> **Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
+>
+> **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
-| **Magic**   | **Triggered** |
-| ----------- | ------------: |
-| **📏 Self** |   **🎯 Self** |
-
-**Trigger:** An enemy targets you with a strike.
-
-**Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
-
-###### Defensive Roll
-
-*When an enemy attacks, you roll with the impact to reduce the harm.*
-
-| **-**       | **Triggered** |
-| ----------- | ------------: |
-| **📏 Self** |   **🎯 Self** |
-
-**Trigger:** Another creature damages you.
-
-**Effect:** You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.
-
-**Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
-
-###### In All This Confusion
-
-*You vanish in a plume of black smoke to avoid danger.*
-
-| **Magic**   | **Triggered** |
-| ----------- | ------------: |
-| **📏 Self** |   **🎯 Self** |
-
-**Trigger:** You take damage.
-
-**Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
-
-**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
+<!-- -->
+> ###### In All This Confusion
+>
+> *You vanish in a plume of black smoke to avoid danger.*
+>
+> | **Magic**   | **Triggered** |
+> | ----------- | ------------: |
+> | **📏 Self** |   **🎯 Self** |
+>
+> **Trigger:** You take damage.
+>
+> **Effect:** You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.
+>
+> **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
 
 #### Hesitation Is Weakness
 
 You have the following ability.
 
-###### Hesitation Is Weakness (1 Insight)
-
-*Keep up the attack. Never give them a moment's grace.*
-
-| **-**       | **Free triggered** |
-| ----------- | -----------------: |
-| **📏 Self** |        **🎯 Self** |
-
-**Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.
-
-**Effect:** You take your turn after the triggering hero.
+<!-- -->
+> ###### Hesitation Is Weakness (1 Insight)
+>
+> *Keep up the attack. Never give them a moment's grace.*
+>
+> | **-**       | **Free triggered** |
+> | ----------- | -----------------: |
+> | **📏 Self** |        **🎯 Self** |
+>
+> **Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.
+>
+> **Effect:** You take your turn after the triggering hero.
 
 #### Kit
 
@@ -240,69 +247,73 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Teamwork Has Its Place.)
 
-###### Gasping in Pain
+<!-- -->
+> ###### Gasping in Pain
+>
+> *Your precise strikes let your allies take advantage of a target's agony.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage
+> - **12-16:** 5 + A damage
+> - **17+:** 8 + A damage; I < STRONG, prone
+>
+> **Effect:** One ally within 5 squares of the target gains 1 surge.
 
-*Your precise strikes let your allies take advantage of a target's agony.*
+<!-- -->
+> ###### I Work Better Alone
+>
+> *"It's better, just you and me. Isn't it?"*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage
+> - **12-16:** 6 + A damage
+> - **17+:** 9 + A damage
+>
+> **Effect:** If the target has none of your allies adjacent to them, you gain 1 surge before making the power roll.
 
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
+<!-- -->
+> ###### Teamwork Has Its Place
+>
+> *You attack an enemy as an ally exposes their weakness.*
+>
+> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage
+> - **12-16:** 6 + A damage
+> - **17+:** 9 + A damage
+>
+> **Effect:** If any ally is adjacent to the target, you gain 1 surge before making the power roll.
 
-**Power Roll + Agility:**
-
-- **≤11:** 3 + A damage
-- **12-16:** 5 + A damage
-- **17+:** 8 + A damage; I < STRONG, prone
-
-**Effect:** One ally within 5 squares of the target gains 1 surge.
-
-###### I Work Better Alone
-
-*"It's better, just you and me. Isn't it?"*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 3 + A damage
-- **12-16:** 6 + A damage
-- **17+:** 9 + A damage
-
-**Effect:** If the target has none of your allies adjacent to them, you gain 1 surge before making the power roll.
-
-###### Teamwork Has Its Place
-
-*You attack an enemy as an ally exposes their weakness.*
-
-| **Melee, Ranged, Strike, Weapon** |               **Main action** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 3 + A damage
-- **12-16:** 6 + A damage
-- **17+:** 9 + A damage
-
-**Effect:** If any ally is adjacent to the target, you gain 1 surge before making the power roll.
-
-###### You Were Watching the Wrong One
-
-*They can't watch both of you at once.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 3 + A damage
-- **12-16:** 5 + A damage
-- **17+:** 8 + A damage
-
-**Effect:** As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.
+<!-- -->
+> ###### You Were Watching the Wrong One
+>
+> *They can't watch both of you at once.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage
+> - **12-16:** 5 + A damage
+> - **17+:** 8 + A damage
+>
+> **Effect:** As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.
 
 ##### Heroic Abilities
 
@@ -312,121 +323,129 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
 
-###### Disorienting Strike (3 Insight)
+<!-- -->
+> ###### Disorienting Strike (3 Insight)
+>
+> *Your attack leaves them reeling, allowing you to follow up.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 4 + A damage; slide 2
+> - **12-16:** 6 + A damage; slide 3
+> - **17+:** 10 + A damage; slide 5
+>
+> **Effect:** You can shift into any square the target leaves when you slide them.
 
-*Your attack leaves them reeling, allowing you to follow up.*
+<!-- -->
+> ###### Eviscerate (3 Insight)
+>
+> *You leave your foe bleeding out after a devastating attack.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 4 + A damage; R < WEAK, bleeding (save ends)
+> - **12-16:** 6 + A damage; R < AVERAGE, bleeding (save ends)
+> - **17+:** 10 + A damage; R < STRONG, bleeding (save ends)
 
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
+<!-- -->
+> ###### Get In Get Out (3 Insight)
+>
+> *Move unexpectedly, strike fast, and be gone!*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 5 + A damage
+> - **12-16:** 8 + A damage
+> - **17+:** 11 + A damage
 
-**Power Roll + Agility:**
-
-- **≤11:** 4 + A damage; slide 2
-- **12-16:** 6 + A damage; slide 3
-- **17+:** 10 + A damage; slide 5
-
-**Effect:** You can shift into any square the target leaves when you slide them.
-
-###### Eviscerate (3 Insight)
-
-*You leave your foe bleeding out after a devastating attack.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 4 + A damage; R < WEAK, bleeding (save ends)
-- **12-16:** 6 + A damage; R < AVERAGE, bleeding (save ends)
-- **17+:** 10 + A damage; R < STRONG, bleeding (save ends)
-
-###### Get In Get Out (3 Insight)
-
-*Move unexpectedly, strike fast, and be gone!*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 5 + A damage
-- **12-16:** 8 + A damage
-- **17+:** 11 + A damage
-
-###### Two Throats at Once (3 Insight)
-
-*A bargain.*
-
-| **Melee, Ranged, Strike, Weapon** |                 **Main action** |
-| --------------------------------- | ------------------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 4 damage
-- **12-16:** 6 damage
-- **17+:** 10 damage
+<!-- -->
+> ###### Two Throats at Once (3 Insight)
+>
+> *A bargain.*
+>
+> | **Melee, Ranged, Strike, Weapon** |                 **Main action** |
+> | --------------------------------- | ------------------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 4 damage
+> - **12-16:** 6 damage
+> - **17+:** 10 damage
 
 ##### 5-Insight Ability
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)
 
-###### Coup de Grace (5 Insight)
+<!-- -->
+> ###### Coup de Grace (5 Insight)
+>
+> *Your blade might be the last thing they see.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 2d6 + 7 + A damage
+> - **12-16:** 2d6 + 11 + A damage
+> - **17+:** 2d6 + 16 + A damage
 
-*Your blade might be the last thing they see.*
+<!-- -->
+> ###### One Hundred Throats (5 Insight)
+>
+> *As you move across the battlefield, every foe within reach feels your wrath.*
+>
+> | **Melee, Weapon**      | **Main action** |
+> | ---------------------- | --------------: |
+> | **📏 Self; see below** |     **🎯 Self** |
+>
+> **Effect:** You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 6 damage
+> - **17+:** 9 damage
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+<!-- -->
+> ###### Setup (5 Insight)
+>
+> *Your friends will thank you.*
+>
+> | **Ranged, Strike, Weapon** |     **Main action** |
+> | -------------------------- | ------------------: |
+> | **📏 Ranged 5**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 6 + A damage; R < WEAK, the target has damage weakness 5 (save ends)
+> - **12-16:** 9 + A damage; R < AVERAGE, the target has damage weakness 5 (save ends)
+> - **17+:** 13 + A damage; R < STRONG, the target has damage weakness 5 (save ends)
 
-**Power Roll + Agility:**
-
-- **≤11:** 2d6 + 7 + A damage
-- **12-16:** 2d6 + 11 + A damage
-- **17+:** 2d6 + 16 + A damage
-
-###### One Hundred Throats (5 Insight)
-
-*As you move across the battlefield, every foe within reach feels your wrath.*
-
-| **Melee, Weapon**      | **Main action** |
-| ---------------------- | --------------: |
-| **📏 Self; see below** |     **🎯 Self** |
-
-**Effect:** You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.
-
-**Power Roll + Agility:**
-
-- **≤11:** 3 damage
-- **12-16:** 6 damage
-- **17+:** 9 damage
-
-###### Setup (5 Insight)
-
-*Your friends will thank you.*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-| -------------------------- | ------------------: |
-| **📏 Ranged 5**            | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 6 + A damage; R < WEAK, the target has damage weakness 5 (save ends)
-- **12-16:** 9 + A damage; R < AVERAGE, the target has damage weakness 5 (save ends)
-- **17+:** 13 + A damage; R < STRONG, the target has damage weakness 5 (save ends)
-
-###### Shadowstrike (5 Insight)
-
-*They have no idea what the college taught you.*
-
-| **Magic, Melee, Ranged** | **Main action** |
-| ------------------------ | --------------: |
-| **📏 Self; see below**   |     **🎯 Self** |
-
-**Effect:** You use a strike signature ability twice.
+<!-- -->
+> ###### Shadowstrike (5 Insight)
+>
+> *They have no idea what the college taught you.*
+>
+> | **Magic, Melee, Ranged** | **Main action** |
+> | ------------------------ | --------------: |
+> | **📏 Self; see below**   |     **🎯 Self** |
+>
+> **Effect:** You use a strike signature ability twice.
 
 ### 2nd-Level Features
 
@@ -470,99 +489,105 @@ Your shadow college grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### In a Puff of Ash (5 Insight)
+<!-- -->
+> ###### In a Puff of Ash (5 Insight)
+>
+> *You enchant a strike with your teleportation magic.*
+>
+> | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | ---------------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 6 + A damage; you can teleport the target 1 square
+> - **12-16:** 10 + A damage; you can teleport the target up to 3 squares
+> - **17+:** 14 + A damage; you can teleport the target up to 5 squares
 
-*You enchant a strike with your teleportation magic.*
-
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
-| ---------------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 6 + A damage; you can teleport the target 1 square
-- **12-16:** 10 + A damage; you can teleport the target up to 3 squares
-- **17+:** 14 + A damage; you can teleport the target up to 5 squares
-
-###### Too Slow (5 Insight)
-
-*Your foe made a big mistake.*
-
-| **-**                  | **Free triggered** |
-| ---------------------- | -----------------: |
-| **📏 Self; see below** |        **🎯 Self** |
-
-**Trigger:** You use your In All This Confusion ability.
-
-**Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+<!-- -->
+> ###### Too Slow (5 Insight)
+>
+> *Your foe made a big mistake.*
+>
+> | **-**                  | **Free triggered** |
+> | ---------------------- | -----------------: |
+> | **📏 Self; see below** |        **🎯 Self** |
+>
+> **Trigger:** You use your In All This Confusion ability.
+>
+> **Effect:** You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
 
 ##### 2nd-Level Caustic Alchemy Ability
 
 Choose one of the following abilities.
 
-###### Sticky Bomb (5 Insight)
+<!-- -->
+> ###### Sticky Bomb (5 Insight)
+>
+> *Explosives are best when they're attached to an enemy.*
+>
+> | **Ranged**       |     **Main action** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 10** | **🎯 One creature** |
+>
+> **Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 4 + A fire damage
+> - **12-16:** 7 + A fire damage
+> - **17+:** 11 + A fire damage
 
-*Explosives are best when they're attached to an enemy.*
-
-| **Ranged**       |     **Main action** |
-| ---------------- | ------------------: |
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.
-
-**Power Roll + Agility:**
-
-- **≤11:** 4 + A fire damage
-- **12-16:** 7 + A fire damage
-- **17+:** 11 + A fire damage
-
-###### Stink Bomb (5 Insight)
-
-*Putrid yellow gas explodes from a bomb you toss.*
-
-| **Area, Ranged**        |                  **Main action** |
-| ----------------------- | -------------------------------: |
-| **📏 3 cube within 10** | **🎯 Each creature in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 2 poison damage
-- **12-16:** 5 poison damage
-- **17+:** 7 poison damage
-
-**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
+<!-- -->
+> ###### Stink Bomb (5 Insight)
+>
+> *Putrid yellow gas explodes from a bomb you toss.*
+>
+> | **Area, Ranged**        |                  **Main action** |
+> | ----------------------- | -------------------------------: |
+> | **📏 3 cube within 10** | **🎯 Each creature in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 2 poison damage
+> - **12-16:** 5 poison damage
+> - **17+:** 7 poison damage
+>
+> **Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is weakened (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
 Choose one of the following abilities.
 
-###### Machinations of Sound (5 Insight)
+<!-- -->
+> ###### Machinations of Sound (5 Insight)
+>
+> *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
+>
+> | **Area, Magic, Ranged** |                     **Maneuver** |
+> | ----------------------- | -------------------------------: |
+> | **📏 3 cube within 10** | **🎯 Each creature in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** Slide 4
+> - **12-16:** Slide 5
+> - **17+:** Slide 7
+>
+> **Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
 
-*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
-
-| **Area, Magic, Ranged** |                     **Maneuver** |
-| ----------------------- | -------------------------------: |
-| **📏 3 cube within 10** | **🎯 Each creature in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** Slide 4
-- **12-16:** Slide 5
-- **17+:** Slide 7
-
-**Effect:** This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.
-
-###### So Gullible (5 Insight)
-
-*When your enemy strikes, you reveal you were in a different place all along.*
-
-| **Magic**   | **Free triggered** |
-| ----------- | -----------------: |
-| **📏 Self** |        **🎯 Self** |
-
-**Trigger:** Another creature targets you with a strike.
-
-**Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+<!-- -->
+> ###### So Gullible (5 Insight)
+>
+> *When your enemy strikes, you reveal you were in a different place all along.*
+>
+> | **Magic**   | **Free triggered** |
+> | ----------- | -----------------: |
+> | **📏 Self** |        **🎯 Self** |
+>
+> **Trigger:** Another creature targets you with a strike.
+>
+> **Effect:** You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
 ### 3rd-Level Features
 
@@ -572,73 +597,78 @@ As a 3rd-level shadow, you gain the following features.
 
 You have the following ability.
 
-###### Careful Observation
-
-*A moment of focus leaves a foe firmly in your sights.*
-
-| **Ranged**       |        **Maneuver** |
-| ---------------- | ------------------: |
-| **📏 Ranged 20** | **🎯 One creature** |
-
-**Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.
+<!-- -->
+> ###### Careful Observation
+>
+> *A moment of focus leaves a foe firmly in your sights.*
+>
+> | **Ranged**       |        **Maneuver** |
+> | ---------------- | ------------------: |
+> | **📏 Ranged 20** | **🎯 One creature** |
+>
+> **Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.
 
 #### 7-Insight Ability
 
 Choose one heroic ability from the following options, each of which costs 7 insight to use.
 
-###### Dancer (7 Insight)
+<!-- -->
+> ###### Dancer (7 Insight)
+>
+> *You enter a flow state that makes you nearly impossible to pin down.*
+>
+> | **-**       | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
-*You enter a flow state that makes you nearly impossible to pin down.*
+<!-- -->
+> ###### Misdirecting Strike (7 Insight)
+>
+> *"Why are you looking at ME?!"*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 9 + A damage
+> - **12-16:** 13 + A damage
+> - **17+:** 18 + A damage
+>
+> **Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
 
-| **-**       | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
+<!-- -->
+> ###### Pinning Shot (7 Insight)
+>
+> *One missile—placed well and placed hard.*
+>
+> | **Ranged, Strike, Weapon** |     **Main action** |
+> | -------------------------- | ------------------: |
+> | **📏 Ranged 5**            | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 8 + A damage; A < WEAK, restrained (save ends)
+> - **12-16:** 12 + A damage; A < AVERAGE, restrained (save ends)
+> - **17+:** 16 + A damage; A < STRONG, restrained (save ends)
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
-
-###### Misdirecting Strike (7 Insight)
-
-*"Why are you looking at ME?!"*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 9 + A damage
-- **12-16:** 13 + A damage
-- **17+:** 18 + A damage
-
-**Effect:** The target is taunted by a willing ally within 5 squares of you until the end of the target's next turn.
-
-###### Pinning Shot (7 Insight)
-
-*One missile—placed well and placed hard.*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-| -------------------------- | ------------------: |
-| **📏 Ranged 5**            | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 8 + A damage; A < WEAK, restrained (save ends)
-- **12-16:** 12 + A damage; A < AVERAGE, restrained (save ends)
-- **17+:** 16 + A damage; A < STRONG, restrained (save ends)
-
-###### Staggering Blow (7 Insight)
-
-*There's no recovering from this.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 7 + A damage; M < WEAK, slowed (save ends)
-- **12-16:** 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
-- **17+:** 16 + A damage; M < STRONG, prone and can't stand (save ends)
+<!-- -->
+> ###### Staggering Blow (7 Insight)
+>
+> *There's no recovering from this.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 7 + A damage; M < WEAK, slowed (save ends)
+> - **12-16:** 11 + A damage; M < AVERAGE, prone and can't stand (save ends)
+> - **17+:** 16 + A damage; M < STRONG, prone and can't stand (save ends)
 
 ### 4th-Level Features
 
@@ -658,17 +688,18 @@ Your sense for stealth shows those around you how to evade notice. While you are
 
 Additionally, you have the following ability.
 
-###### Night Watch
-
-*A steely dagger from out of the blue knocks another weapon off course.*
-
-| **Ranged, Weapon** |   **Triggered** |
-| ------------------ | --------------: |
-| **📏 Ranged 5**    | **🎯 One ally** |
-
-**Trigger:** The target takes damage from another creature's ability while you are hidden.
-
-**Effect:** The target takes half the damage. You remain hidden.
+<!-- -->
+> ###### Night Watch
+>
+> *A steely dagger from out of the blue knocks another weapon off course.*
+>
+> | **Ranged, Weapon** |   **Triggered** |
+> | ------------------ | --------------: |
+> | **📏 Ranged 5**    | **🎯 One ally** |
+>
+> **Trigger:** The target takes damage from another creature's ability while you are hidden.
+>
+> **Effect:** The target takes half the damage. You remain hidden.
 
 #### Perk
 
@@ -720,63 +751,67 @@ Additionally, your Defensive Roll ability now allows you to shift up to 5 square
 
 Choose one heroic ability from the following options, each of which costs 9 insight to use.
 
-###### Blackout (9 Insight)
+<!-- -->
+> ###### Blackout (9 Insight)
+>
+> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+>
+> | **Area, Magic** |   **Maneuver** |
+> | --------------- | -------------: |
+> | **📏 3 burst**  | **🎯 Special** |
+>
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
 
-*You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+<!-- -->
+> ###### Into the Shadows (9 Insight)
+>
+> *You sweep your foe off their feet and plunge them into absolute darkness.*
+>
+> | **Magic, Melee, Strike, Weapon** |               **Main action** |
+> | -------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                   | **🎯 One creature or object** |
+>
+> **Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 8 + A corruption damage
+> - **12-16:** 13 + A corruption damage
+> - **17+:** 17 + A corruption damage
 
-| **Area, Magic** |   **Maneuver** |
-| --------------- | -------------: |
-| **📏 3 burst**  | **🎯 Special** |
+<!-- -->
+> ###### Shadowfall (9 Insight)
+>
+> *You vanish. They fall. You reappear.*
+>
+> | **Area, Melee, Weapon**     |               **Main action** |
+> | --------------------------- | ----------------------------: |
+> | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 10 damage
+> - **12-16:** 14 damage
+> - **17+:** 20 damage
+>
+> **Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
-
-###### Into the Shadows (9 Insight)
-
-*You sweep your foe off their feet and plunge them into absolute darkness.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
-
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
-
-**Power Roll + Agility:**
-
-- **≤11:** 8 + A corruption damage
-- **12-16:** 13 + A corruption damage
-- **17+:** 17 + A corruption damage
-
-###### Shadowfall (9 Insight)
-
-*You vanish. They fall. You reappear.*
-
-| **Area, Melee, Weapon**     |               **Main action** |
-| --------------------------- | ----------------------------: |
-| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 damage
-- **12-16:** 14 damage
-- **17+:** 20 damage
-
-**Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
-
-###### You Talk Too Much (9 Insight)
-
-*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
-- **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
-- **17+:** 21 + A damage; P < STRONG, dazed (save ends)
-
-**Effect:** The target can't communicate with anyone until the end of the encounter.
+<!-- -->
+> ###### You Talk Too Much (9 Insight)
+>
+> *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
+> - **17+:** 21 + A damage; P < STRONG, dazed (save ends)
+>
+> **Effect:** The target can't communicate with anyone until the end of the encounter.
 
 ### 6th-Level Features
 
@@ -806,95 +841,101 @@ Your shadow college grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### Black Ash Eruption (9 Insight)
+<!-- -->
+> ###### Black Ash Eruption (9 Insight)
+>
+> *Your attack produces a cloud of black ash that launches an enemy into the air.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> | -------------------------------- | ------------------: |
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 3 + A damage; vertical push 5
+> - **12-16:** 6 + A damage; vertical push 10
+> - **17+:** 9 + A damage; vertical push 15
+>
+> **Effect:** A creature force moved by this ability must be moved straight upward.
 
-*Your attack produces a cloud of black ash that launches an enemy into the air.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Melee 1**                   | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 3 + A damage; vertical push 5
-- **12-16:** 6 + A damage; vertical push 10
-- **17+:** 9 + A damage; vertical push 15
-
-**Effect:** A creature force moved by this ability must be moved straight upward.
-
-###### Cinderstorm (9 Insight)
-
-*You teleport your friends in a burst of ash and fire.*
-
-| **Magic**      |                          **Maneuver** |
-| -------------- | ------------------------------------: |
-| **📏 4 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+<!-- -->
+> ###### Cinderstorm (9 Insight)
+>
+> *You teleport your friends in a burst of ash and fire.*
+>
+> | **Magic**      |                          **Maneuver** |
+> | -------------- | ------------------------------------: |
+> | **📏 4 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
 Choose one of the following abilities.
 
-###### One Vial Makes You Better (9 Insight)
+<!-- -->
+> ###### One Vial Makes You Better (9 Insight)
+>
+> *A well-timed throw of a potion will keep your allies in the fight.*
+>
+> | **Ranged**       |           **Maneuver** |
+> | ---------------- | ---------------------: |
+> | **📏 Ranged 10** | **🎯 Three creatures** |
+>
+> **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+>
+> A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
-*A well-timed throw of a potion will keep your allies in the fight.*
-
-| **Ranged**       |           **Maneuver** |
-| ---------------- | ---------------------: |
-| **📏 Ranged 10** | **🎯 Three creatures** |
-
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
-
-A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
-
-###### One Vial Makes You Faster (9 Insight)
-
-*Each ally who catches a potion you throw can take the battle to the next level.*
-
-| **Ranged**       |        **Main action** |
-| ---------------- | ---------------------: |
-| **📏 Ranged 10** | **🎯 Three creatures** |
-
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
-
-A creature who drinks the potion receives benefits based on your power roll.
-
-**Power Roll + Agility:**
-
-- **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-- **12-16:** The creature can fly until the end of the encounter.
-- **17+:** The creature turns invisible until the end of their next turn.
+<!-- -->
+> ###### One Vial Makes You Faster (9 Insight)
+>
+> *Each ally who catches a potion you throw can take the battle to the next level.*
+>
+> | **Ranged**       |        **Main action** |
+> | ---------------- | ---------------------: |
+> | **📏 Ranged 10** | **🎯 Three creatures** |
+>
+> **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+>
+> A creature who drinks the potion receives benefits based on your power roll.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** The creature's speed is increased by 2 until the end of the encounter.
+> - **12-16:** The creature can fly until the end of the encounter.
+> - **17+:** The creature turns invisible until the end of their next turn.
 
 ##### 6th-Level Harlequin Mask Abilities
 
 Choose one of the following abilities.
 
-###### Look! (9 Insight)
+<!-- -->
+> ###### Look! (9 Insight)
+>
+> *You distract your foes, allowing your allies to take advantage of that distraction.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 5 burst**  | **🎯 Each enemy in the area** |
+>
+> **Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.
 
-*You distract your foes, allowing your allies to take advantage of that distraction.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 5 burst**  | **🎯 Each enemy in the area** |
-
-**Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.
-
-###### Puppet Strings (9 Insight)
-
-*You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
-
-| **Magic, Melee**, **Strike, Weapon** |    **Main action** |
-| ------------------------------------ | -----------------: |
-| **📏 Melee 1**                       | **🎯 Two enemies** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
-- **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-- **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
-
-**Effect:** You choose the new targets for the original target's free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+<!-- -->
+> ###### Puppet Strings (9 Insight)
+>
+> *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
+>
+> | **Magic, Melee**, **Strike, Weapon** |    **Main action** |
+> | ------------------------------------ | -----------------: |
+> | **📏 Melee 1**                       | **🎯 Two enemies** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
+> - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
+> - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.
+>
+> **Effect:** You choose the new targets for the original target's free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 
 ### 7th-Level Features
 
@@ -952,77 +993,82 @@ Your movement no longer provokes opportunity attacks. Additionally, you can use 
 
 You have damage immunity against area abilities and effects equal to your Agility score. You also have the following ability, which you can use once per round on your turn.
 
-###### Time Bomb
-
-*The longer it cooks, the bigger the boom.*
-
-| **Area, Ranged**        |             **Free maneuver** |
-| ----------------------- | ----------------------------: |
-| **📏 2 cube within 10** | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
-
-For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
-
-**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+<!-- -->
+> ###### Time Bomb
+>
+> *The longer it cooks, the bigger the boom.*
+>
+> | **Area, Ranged**        |             **Free maneuver** |
+> | ----------------------- | ----------------------------: |
+> | **📏 2 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
+>
+> For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
+>
+> **Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
 #### 11-Insight Ability
 
 Choose one heroic ability from the following options, each of which costs 11 insight to use.
 
-###### Assassinate (11 Insight)
+<!-- -->
+> ###### Assassinate (11 Insight)
+>
+> *A practiced attack will instantly kill an already weakened foe.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 12 + A damage
+> - **12-16:** 18 + A damage
+> - **17+:** 24 + A damage
+>
+> **Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
 
-*A practiced attack will instantly kill an already weakened foe.*
+<!-- -->
+> ###### Shadowgrasp (11 Insight)
+>
+> *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
+>
+> | **Area, Magic** |               **Main action** |
+> | --------------- | ----------------------------: |
+> | **📏 2 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
+> - **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
+> - **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
 
-| **Melee, Strike, Weapon** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Melee 1**            | **🎯 One creature or object** |
+<!-- -->
+> ###### Speed of Shadows (11 Insight)
+>
+> *You make multiple strikes against a foe before they even notice they're dead.*
+>
+> | **Magic**   | **Main action** |
+> | ----------- | --------------: |
+> | **📏 Self** |     **🎯 Self** |
+>
+> **Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can shift up to 2 squares between each use.
 
-**Power Roll + Agility:**
-
-- **≤11:** 12 + A damage
-- **12-16:** 18 + A damage
-- **17+:** 24 + A damage
-
-**Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
-
-###### Shadowgrasp (11 Insight)
-
-*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
-
-| **Area, Magic** |               **Main action** |
-| --------------- | ----------------------------: |
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
-- **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
-- **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
-
-###### Speed of Shadows (11 Insight)
-
-*You make multiple strikes against a foe before they even notice they're dead.*
-
-| **Magic**   | **Main action** |
-| ----------- | --------------: |
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can shift up to 2 squares between each use.
-
-###### They Always Line Up (11 Insight)
-
-*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
-
-| **Area, Ranged, Weapon**   |               **Main action** |
-| -------------------------- | ----------------------------: |
-| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 12 damage; M < WEAK, slowed (save ends)
-- **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
-- **17+:** 24 damage; M < STRONG, slowed (save ends)
+<!-- -->
+> ###### They Always Line Up (11 Insight)
+>
+> *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
+>
+> | **Area, Ranged, Weapon**   |               **Main action** |
+> | -------------------------- | ----------------------------: |
+> | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 12 damage; M < WEAK, slowed (save ends)
+> - **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
+> - **17+:** 24 damage; M < STRONG, slowed (save ends)
 
 ### 9th-Level Features
 
@@ -1042,103 +1088,109 @@ Your shadow college grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### Cacophony of Cinders (11 Insight)
+<!-- -->
+> ###### Cacophony of Cinders (11 Insight)
+>
+> *You tumble through the battle, stabbing foes and teleporting allies.*
+>
+> | **Magic, Melee, Weapon** | **Main action** |
+> | ------------------------ | --------------: |
+> | **📏 Self; see below**   |     **🎯 Self** |
+>
+> **Effect:** You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** An enemy takes 6 damage; an ally can teleport up to 3 squares.
+> - **12-16:** An enemy takes 10 damage; an ally can teleport up to 5 squares.
+> - **17+:** An enemy takes 14 damage; an ally can teleport up to 7 squares.
 
-*You tumble through the battle, stabbing foes and teleporting allies.*
-
-| **Magic, Melee, Weapon** | **Main action** |
-| ------------------------ | --------------: |
-| **📏 Self; see below**   |     **🎯 Self** |
-
-**Effect:** You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
-
-**Power Roll + Agility:**
-
-- **≤11:** An enemy takes 6 damage; an ally can teleport up to 3 squares.
-- **12-16:** An enemy takes 10 damage; an ally can teleport up to 5 squares.
-- **17+:** An enemy takes 14 damage; an ally can teleport up to 7 squares.
-
-###### Demon Door (11 Insight)
-
-*You create a temporary portal to allow a massive demonic hand to reach through.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Melee 3**                   | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 13 + A corruption damage; push 3
-- **12-16:** 18 + A corruption damage; push 5
-- **17+:** 25 + A corruption damage; push 7
-
-**Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+<!-- -->
+> ###### Demon Door (11 Insight)
+>
+> *You create a temporary portal to allow a massive demonic hand to reach through.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> | -------------------------------- | ------------------: |
+> | **📏 Melee 3**                   | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 13 + A corruption damage; push 3
+> - **12-16:** 18 + A corruption damage; push 5
+> - **17+:** 25 + A corruption damage; push 7
+>
+> **Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
 
 ##### 9th-Level Caustic Alchemy Abilities
 
 Choose one of the following abilities.
 
-###### Chain Reaction (11 Insight)
+<!-- -->
+> ###### Chain Reaction (11 Insight)
+>
+> *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
+>
+> | **Ranged**       |               **Main action** |
+> | ---------------- | ----------------------------: |
+> | **📏 Ranged 10** | **🎯 One creature or object** |
+>
+> **Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 7 damage
+> - **12-16:** 10 damage
+> - **17+:** 15 damage
 
-*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
-
-| **Ranged**       |               **Main action** |
-| ---------------- | ----------------------------: |
-| **📏 Ranged 10** | **🎯 One creature or object** |
-
-**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
-
-**Power Roll + Agility:**
-
-- **≤11:** 7 damage
-- **12-16:** 10 damage
-- **17+:** 15 damage
-
-###### To the Stars (11 Insight)
-
-*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
-
-| **Melee, Ranged, Strike**   |               **Main action** |
-| --------------------------- | ----------------------------: |
-| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 4 + A fire damage; vertical push 8
-- **12-16:** 7 + A fire damage; vertical push 10
-- **17+:** 11 + A fire damage; vertical push 15
-
-**Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
+<!-- -->
+> ###### To the Stars (11 Insight)
+>
+> *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
+>
+> | **Melee, Ranged, Strike**   |               **Main action** |
+> | --------------------------- | ----------------------------: |
+> | **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 4 + A fire damage; vertical push 8
+> - **12-16:** 7 + A fire damage; vertical push 10
+> - **17+:** 11 + A fire damage; vertical push 15
+>
+> **Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
 
 ##### 9th-Level Harlequin Mask Abilities
 
 Choose one of the following abilities.
 
-###### I Am You (11 Insight)
+<!-- -->
+> ###### I Am You (11 Insight)
+>
+> *Your mask reflects your foe's face. Surely they won't need it much longer.*
+>
+> | **Magic, Ranged** |        **Maneuver** |
+> | ----------------- | ------------------: |
+> | **📏 Ranged 10**  | **🎯 One creature** |
+>
+> **Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
 
-*Your mask reflects your foe's face. Surely they won't need it much longer.*
-
-| **Magic, Ranged** |        **Maneuver** |
-| ----------------- | ------------------: |
-| **📏 Ranged 10**  | **🎯 One creature** |
-
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
-
-###### It Was Me All Along (11 Insight)
-
-*After everything you've been through together, you twist the blade and make the pain extra personal.*
-
-| **Melee, Strike, Weapon** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Melee 1**            | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 15 + A damage
-- **12-16:** 21 + A damage
-- **17+:** 28 + A damage
-
-**Effect:** If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+<!-- -->
+> ###### It Was Me All Along (11 Insight)
+>
+> *After everything you've been through together, you twist the blade and make the pain extra personal.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 15 + A damage
+> - **12-16:** 21 + A damage
+> - **17+:** 28 + A damage
+>
+> **Effect:** If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
 
 ### 10th-Level Features
 

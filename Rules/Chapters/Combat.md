@@ -162,10 +162,6 @@ A single move or other effect can never allow a creature to move more squares th
 
 A creature can't move diagonally when doing so would involve passing through the corner of a wall or some other object that completely fills the corner between the creature's space and the space they are moving to. This rule applies only to moving past objects, not moving past other creatures.
 
-###### Cut Corners
-
-The tactician moves 3 squares to exit the building without cutting corners. The war dog eviscerite can't move around the side of the building in just 2 squares of movement, since they'd have to cut a corner to do so.
-
 #### Shifting
 
 Shifting is a careful form of movement that allows a creature to move safely past dangerous foes. Certain abilities, features, and other rules allow you to shift a specific number of squares, sometimes up to your speed. Whenever you shift, creatures can't make opportunity attacks against you triggered by that movement (see [Opportunity Attacks](#page-289-4) later in this chapter).
@@ -437,19 +433,20 @@ A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-2
 
 A creature who is grabbed by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
 
-###### Escape Grab
-
-| **-**       | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** No effect.
-- **12-16:** You can escape the grab, but if you do, a creature who has you grabbed can make a melee free strike against you before you are no longer grabbed.
-- **17+:** You are no longer grabbed.
-
-**Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you grabbed.
+<!-- -->
+> ###### Escape Grab
+>
+> | **-**       | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Power Roll + Might or Agility:**
+>
+> - **≤11:** No effect.
+> - **12-16:** You can escape the grab, but if you do, a creature who has you grabbed can make a melee free strike against you before you are no longer grabbed.
+> - **17+:** You are no longer grabbed.
+>
+> **Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you grabbed.
 
 See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the grabbed condition.
 
@@ -457,19 +454,20 @@ See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information
 
 A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
 
-###### Grab
-
-| **Melee, Weapon** |        **Maneuver** |
-| ----------------- | ------------------: |
-| **📏 Melee 1**    | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** No effect.
-- **12-16:** You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.
-- **17+:** The target is grabbed by you.
-
-**Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+<!-- -->
+> ###### Grab
+>
+> | **Melee, Weapon** |        **Maneuver** |
+> | ----------------- | ------------------: |
+> | **📏 Melee 1**    | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** No effect.
+> - **12-16:** You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.
+> - **17+:** The target is grabbed by you.
+>
+> **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
 Unless otherwise indicated, a creature can grab only one creature at a time.
 
@@ -483,19 +481,20 @@ Using the Hide maneuver, a creature attempts to hide from other creatures who ar
 
 A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
 
-###### Knockback
-
-| **Melee, Weapon** |        **Maneuver** |
-| ----------------- | ------------------: |
-| **📏 Melee 1**    | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
-
-**Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+<!-- -->
+> ###### Knockback
+>
+> | **Melee, Weapon** |        **Maneuver** |
+> | ----------------- | ------------------: |
+> | **📏 Melee 1**    | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** Push 1
+> - **12-16:** Push 2
+> - **17+:** Push 3
+>
+> **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
 #### Make or Assist a Test
 

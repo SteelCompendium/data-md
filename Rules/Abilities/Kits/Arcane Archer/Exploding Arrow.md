@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Ranged 15
@@ -13,7 +14,6 @@ keywords:
   - Ranged
   - Strike
   - Weapon
-kit: Arcane Archer
 scc:
   - mcdm.heroes.v1:kit-ability.arcane-archer:exploding-arrow
 scdc:

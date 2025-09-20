@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: talent
 distance: Ranged 10
 feature_type: ability
 file_basename: Entropic Bolt
-file_dpath: Talent/1st-Level Features
+file_dpath: Abilities/Talent/1st-Level Features
 flavor: You advance an enemy's age for a moment.
 item_id: entropic-bolt
 item_index: '16'
@@ -18,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:entropic-bolt
 scdc:
-  - 1.1.1:13.2.1.1:16
+  - 1.1.1:11.2.1.1:16
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/talent/1st-level-feature

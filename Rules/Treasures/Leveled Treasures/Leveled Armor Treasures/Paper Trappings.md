@@ -8,7 +8,7 @@ item_name: Paper Trappings
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:paper-trappings
 scdc:
-  - 1.1.1:12.3.4:01
+  - 1.1.1:13.3.4:01
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/armor

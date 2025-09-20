@@ -8,7 +8,7 @@ item_name: Revenger's Wrap
 scc:
   - mcdm.heroes.v1:treasure.leveled.other:revengers-wrap
 scdc:
-  - 1.1.1:12.3.2:05
+  - 1.1.1:13.3.2:05
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/other

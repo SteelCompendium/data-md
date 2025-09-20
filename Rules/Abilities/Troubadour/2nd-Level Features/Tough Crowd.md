@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Tough Crowd
-file_dpath: Troubadour/2nd-Level Features
+file_dpath: Abilities/Troubadour/2nd-Level Features
 flavor: Your fans don't seem to like the opening act...
 item_id: tough-crowd-5-drama
 item_index: '04'
@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:tough-crowd-5-drama
 scdc:
-  - 1.1.1:13.2.3.5:04
+  - 1.1.1:11.2.3.5:04
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Special

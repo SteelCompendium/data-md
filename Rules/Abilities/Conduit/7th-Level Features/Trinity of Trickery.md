@@ -7,10 +7,10 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Trinity of Trickery
-file_dpath: Conduit/7th-Level Features
+file_dpath: Abilities/Conduit/7th-Level Features
 flavor: Hey! I'm over here. No, here, numbskull.
 item_id: trinity-of-trickery-9-piety
-item_index: '02'
+item_index: '06'
 item_name: Trinity of Trickery (9 Piety)
 keywords:
   - Magic
@@ -19,7 +19,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:trinity-of-trickery-9-piety
 scdc:
-  - 1.1.1:13.2.8.8:02
+  - 1.1.1:11.2.8.8:06
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/conduit/7th-level-feature

@@ -4,7 +4,7 @@ class: elementalist
 distance: Self; see below
 feature_type: ability
 file_basename: Practical Magic
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: Your mastery of elemental power lets you customize your conjurations.
 item_id: practical-magic
 item_index: '10'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:practical-magic
 scdc:
-  - 1.1.1:13.2.9.1:10
+  - 1.1.1:11.2.9.1:10
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/elementalist/1st-level-feature

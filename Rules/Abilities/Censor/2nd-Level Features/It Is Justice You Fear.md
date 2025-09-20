@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: It Is Justice You Fear
-file_dpath: Censor/2nd-Level Features
+file_dpath: Abilities/Censor/2nd-Level Features
 flavor: I am but a vessel. Your own deeds weigh upon you.
 item_id: it-is-justice-you-fear-5-wrath
 item_index: '05'
@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:it-is-justice-you-fear-5-wrath
 scdc:
-  - 1.1.1:13.2.7.5:05
+  - 1.1.1:11.2.7.5:05
 source: mcdm.heroes.v1
 subclass: Exorcist
 target: One creature

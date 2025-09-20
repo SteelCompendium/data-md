@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Rejuvenate
-file_dpath: Talent/8th-Level Features
+file_dpath: Abilities/Talent/8th-Level Features
 flavor: You reshape the flow of time in the target's body to return it to an earlier state.
 item_id: rejuvenate-11-clarity
 item_index: '06'
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:rejuvenate-11-clarity
 scdc:
-  - 1.1.1:13.2.1.2:06
+  - 1.1.1:11.2.1.2:06
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/8th-level-feature

@@ -4,7 +4,7 @@ class: 'null'
 distance: 1 aura
 feature_type: ability
 file_basename: Null Field
-file_dpath: Null/1st-Level Features
+file_dpath: Abilities/Null/1st-Level Features
 flavor: You project an aura that dampens the power of your foes.
 item_id: null-field
 item_index: '11'
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:null-field
 scdc:
-  - 1.1.1:13.2.6.1:11
+  - 1.1.1:11.2.6.1:11
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/null/1st-level-feature

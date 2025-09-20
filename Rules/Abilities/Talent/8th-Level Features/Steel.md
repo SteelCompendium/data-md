@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Steel
-file_dpath: Talent/8th-Level Features
+file_dpath: Abilities/Talent/8th-Level Features
 flavor: The target's skin becomes covered in tough metal.
 item_id: steel-11-clarity
 item_index: '04'
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:steel-11-clarity
 scdc:
-  - 1.1.1:13.2.1.2:04
+  - 1.1.1:11.2.1.2:04
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/8th-level-feature

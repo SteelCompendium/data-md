@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Ranged 10
 feature_type: ability
 file_basename: Youve Still Got Something Left
-file_dpath: Tactician/5th-Level Features
+file_dpath: Abilities/Tactician/5th-Level Features
 flavor: You push an ally to use a heroic ability sooner than they otherwise would.
 item_id: youve-still-got-something-left-9-focus
 item_index: '02'
@@ -18,7 +18,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:youve-still-got-something-left-9-focus
 scdc:
-  - 1.1.1:13.2.4.4:02
+  - 1.1.1:11.2.4.4:02
 source: mcdm.heroes.v1
 target: One ally
 type: feature/ability/tactician/5th-level-feature

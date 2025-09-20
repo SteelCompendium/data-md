@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: Magma Titan
-file_dpath: Elementalist/6th-Level Features
+file_dpath: Abilities/Elementalist/6th-Level Features
 flavor: Their body swells with lava, mud, and might, towering over their enemies.
 item_id: magma-titan-9-essence
 item_index: '02'
@@ -22,7 +22,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:magma-titan-9-essence
 scdc:
-  - 1.1.1:13.2.9.3:02
+  - 1.1.1:11.2.9.3:02
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/elementalist/6th-level-feature

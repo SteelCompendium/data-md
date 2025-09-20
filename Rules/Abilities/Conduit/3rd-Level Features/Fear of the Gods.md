@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 5 cube within 10
 feature_type: ability
 file_basename: Fear of the Gods
-file_dpath: Conduit/3rd-Level Features
+file_dpath: Abilities/Conduit/3rd-Level Features
 flavor: Your divine magic makes a creature appear as what your enemies fear most.
 item_id: fear-of-the-gods-7-piety
 item_index: '03'
@@ -20,7 +20,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:fear-of-the-gods-7-piety
 scdc:
-  - 1.1.1:13.2.8.6:03
+  - 1.1.1:11.2.8.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/conduit/3rd-level-feature

@@ -8,7 +8,7 @@ item_name: Kuran'zoi Prismscale
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:kuranzoi-prismscale
 scdc:
-  - 1.1.1:12.3.4:09
+  - 1.1.1:13.3.4:09
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/armor

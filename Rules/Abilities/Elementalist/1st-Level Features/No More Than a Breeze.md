@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: No More Than a Breeze
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: The material substance of a creature shreds away at your command.
 item_id: no-more-than-a-breeze-5-essence
 item_index: '07'
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:07
+  - 1.1.1:11.2.9.1:07
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/elementalist/1st-level-feature

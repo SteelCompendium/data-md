@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Soul Burn
-file_dpath: Talent/3rd-Level Features
+file_dpath: Abilities/Talent/3rd-Level Features
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 item_id: soul-burn-7-clarity
 item_index: '02'
@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:soul-burn-7-clarity
 scdc:
-  - 1.1.1:13.2.1.6:02
+  - 1.1.1:11.2.1.6:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/3rd-level-feature

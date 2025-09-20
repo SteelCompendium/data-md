@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Self
 feature_type: ability
 file_basename: Elemental Ferocity
-file_dpath: Fury/8th-Level Features
+file_dpath: Abilities/Fury/8th-Level Features
 flavor: Your primordial energy makes for instant retribution.
 item_id: elemental-ferocity-11-ferocity
 item_index: '04'
@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:elemental-ferocity-11-ferocity
 scdc:
-  - 1.1.1:13.2.5.2:04
+  - 1.1.1:11.2.5.2:04
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/fury/8th-level-feature

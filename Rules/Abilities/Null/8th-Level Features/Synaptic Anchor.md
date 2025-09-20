@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self; see below
 feature_type: ability
 file_basename: Synaptic Anchor
-file_dpath: Null/8th-Level Features
+file_dpath: Abilities/Null/8th-Level Features
 flavor: You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.
 item_id: synaptic-anchor-11-discipline
 item_index: '01'
@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.null.8th-level-feature:synaptic-anchor-11-discipline
 scdc:
-  - 1.1.1:13.2.6.2:01
+  - 1.1.1:11.2.6.2:01
 source: mcdm.heroes.v1
 target: Self or one creature
 type: feature/ability/null/8th-level-feature

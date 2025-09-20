@@ -4,7 +4,7 @@ class: troubadour
 distance: Ranged 10
 feature_type: ability
 file_basename: Turnabout Is Fair Play
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: All's fair in love and whatever.
 item_id: turnabout-is-fair-play
 item_index: '19'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:turnabout-is-fair-play
 scdc:
-  - 1.1.1:13.2.3.1:19
+  - 1.1.1:11.2.3.1:19
 source: mcdm.heroes.v1
 subclass: Auteur
 target: One creature

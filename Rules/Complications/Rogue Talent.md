@@ -18,18 +18,19 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 **Benefit:** You have the following ability, which you can use as a ranged free strike.
 
-###### Telekinetic Grasp
-
-*You reach out with your mind to move a creature or object.*
-
-| **Psionic, Ranged, Strike** |                  **Maneuver** |
-| --------------------------- | ----------------------------: |
-| **📏 Ranged 10**            | **🎯 One creature or object** |
-
-**Power Roll + Might, Intuition, or Presence:**
-
-- **≤11:** Push or pull 1
-- **12-16:** Push or pull 2
-- **17+:** Push or pull 3
+<!-- -->
+> ###### Telekinetic Grasp
+>
+> *You reach out with your mind to move a creature or object.*
+>
+> | **Psionic, Ranged, Strike** |                  **Maneuver** |
+> | --------------------------- | ----------------------------: |
+> | **📏 Ranged 10**            | **🎯 One creature or object** |
+>
+> **Power Roll + Might, Intuition, or Presence:**
+>
+> - **≤11:** Push or pull 1
+> - **12-16:** Push or pull 2
+> - **17+:** Push or pull 3
 
 **Drawback:** You have psychic weakness 5.

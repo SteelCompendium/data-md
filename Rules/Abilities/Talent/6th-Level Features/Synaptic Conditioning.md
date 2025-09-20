@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Melee 2
 feature_type: ability
 file_basename: Synaptic Conditioning
-file_dpath: Talent/6th-Level Features
+file_dpath: Abilities/Talent/6th-Level Features
 flavor: It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!
 item_id: synaptic-conditioning-9-clarity
 item_index: '06'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-conditioning-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:06
+  - 1.1.1:11.2.1.3:06
 source: mcdm.heroes.v1
 subclass: Telepathy
 target: One creature

@@ -8,7 +8,7 @@ item_name: Displacer
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:displacer
 scdc:
-  - 1.1.1:12.3.1:09
+  - 1.1.1:13.3.1:09
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Synaptic Override
-file_dpath: Talent/2nd-Level Features
+file_dpath: Abilities/Talent/2nd-Level Features
 flavor: You control an enemy's nervous system. How pleasant for them.
 item_id: synaptic-override-5-clarity
 item_index: '04'
@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:synaptic-override-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:04
+  - 1.1.1:11.2.1.5:04
 source: mcdm.heroes.v1
 subclass: Telepathy
 target: One enemy

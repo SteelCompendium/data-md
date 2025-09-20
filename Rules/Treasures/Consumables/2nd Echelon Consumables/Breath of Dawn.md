@@ -8,7 +8,7 @@ item_name: Breath of Dawn
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:breath-of-dawn
 scdc:
-  - 1.1.1:12.2.3:08
+  - 1.1.1:13.2.3:08
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/2nd-echelon

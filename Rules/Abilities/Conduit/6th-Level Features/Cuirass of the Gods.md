@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Cuirass of the Gods
-file_dpath: Conduit/6th-Level Features
+file_dpath: Abilities/Conduit/6th-Level Features
 flavor: Your allies are covered in spiritual armor.
 item_id: cuirass-of-the-gods-9-piety
 item_index: '01'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:cuirass-of-the-gods-9-piety
 scdc:
-  - 1.1.1:13.2.8.3:01
+  - 1.1.1:11.2.8.3:01
 source: mcdm.heroes.v1
 subclass: Protection
 target: Three creatures

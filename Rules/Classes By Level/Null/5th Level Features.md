@@ -44,56 +44,60 @@ If you're not surprised at the start of your first turn in combat, you gain an e
 
 Choose one heroic ability from the following options, each of which costs 9 discipline to use.
 
-###### Anticipating Strike (9 Discipline)
+<!-- -->
+> ###### Anticipating Strike (9 Discipline)
+>
+> *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
+>
+> | **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
+> | ---------------------------------- | ------------------: |
+> | **📏 Melee 1**                     | **🎯 One creature** |
+>
+> **Trigger:** The target moves or uses a main action.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 7 + A damage; I < WEAK, restrained (save ends)
+> - **12-16:** 10 + A damage; I < AVERAGE, restrained (save ends)
+> - **17+:** 13 + A damage; I < STRONG, restrained (save ends)
+>
+> **Effect:** This strike resolves before the triggering movement or main action.
 
-*You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
+<!-- -->
+> ###### Iron Grip (9 Discipline)
+>
+> *You grab the target with supernatural force.*
+>
+> | **Melee, Psionic, Strike, Weapon** |     **Main action** |
+> | ---------------------------------- | ------------------: |
+> | **📏 Melee 1**                     | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 10 + A damage; A < WEAK, grabbed
+> - **12-16:** 14 + A damage; A < AVERAGE, grabbed
+> - **17+:** 18 + A damage; A < STRONG, grabbed
+>
+> **Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
-| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
-| ---------------------------------- | ------------------: |
-| **📏 Melee 1**                     | **🎯 One creature** |
+<!-- -->
+> ###### Phase Leap (9 Discipline)
+>
+> *You leap beyond reality, leaving an afterimage of yourself.*
+>
+> | **Psionic** |    **Move** |
+> | ----------- | ----------: |
+> | **📏 Self** | **🎯 Self** |
+>
+> **Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
-**Trigger:** The target moves or uses a main action.
-
-**Power Roll + Agility:**
-
-- **≤11:** 7 + A damage; I < WEAK, restrained (save ends)
-- **12-16:** 10 + A damage; I < AVERAGE, restrained (save ends)
-- **17+:** 13 + A damage; I < STRONG, restrained (save ends)
-
-**Effect:** This strike resolves before the triggering movement or main action.
-
-###### Iron Grip (9 Discipline)
-
-*You grab the target with supernatural force.*
-
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
-| ---------------------------------- | ------------------: |
-| **📏 Melee 1**                     | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 + A damage; A < WEAK, grabbed
-- **12-16:** 14 + A damage; A < AVERAGE, grabbed
-- **17+:** 18 + A damage; A < STRONG, grabbed
-
-**Effect:** While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
-
-###### Phase Leap (9 Discipline)
-
-*You leap beyond reality, leaving an afterimage of yourself.*
-
-| **Psionic** |    **Move** |
-| ----------- | ----------: |
-| **📏 Self** | **🎯 Self** |
-
-**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
-
-###### Synaptic Reset (9 Discipline)
-
-*You expand your nullifying power to mitigate harmful effects.*
-
-| **Area, Psionic** |                          **Maneuver** |
-| ----------------- | ------------------------------------: |
-| **📏 3 burst**    | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.
+<!-- -->
+> ###### Synaptic Reset (9 Discipline)
+>
+> *You expand your nullifying power to mitigate harmful effects.*
+>
+> | **Area, Psionic** |                          **Maneuver** |
+> | ----------------- | ------------------------------------: |
+> | **📏 3 burst**    | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.

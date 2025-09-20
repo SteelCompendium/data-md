@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Ranged 10
 feature_type: ability
 file_basename: Patter Song
-file_dpath: Troubadour/5th-Level Features
+file_dpath: Abilities/Troubadour/5th-Level Features
 flavor: Dazzle them with your fancy patter and they forget where they were.
 item_id: patter-song-9-drama
 item_index: '02'
@@ -19,7 +19,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:patter-song-9-drama
 scdc:
-  - 1.1.1:13.2.3.4:02
+  - 1.1.1:11.2.3.4:02
 source: mcdm.heroes.v1
 target: Special
 type: feature/ability/troubadour/5th-level-feature

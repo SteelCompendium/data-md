@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: In a Puff of Ash
-file_dpath: Shadow/2nd-Level Features
+file_dpath: Abilities/Shadow/2nd-Level Features
 flavor: You enchant a strike with your teleportation magic.
 item_id: in-a-puff-of-ash-5-insight
 item_index: '02'
@@ -22,7 +22,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-ash-5-insight
 scdc:
-  - 1.1.1:13.2.2.5:02
+  - 1.1.1:11.2.2.5:02
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: One creature

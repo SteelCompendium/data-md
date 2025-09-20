@@ -8,7 +8,7 @@ item_name: Mask of Oversight
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:mask-of-oversight
 scdc:
-  - 1.1.1:12.4.3:05
+  - 1.1.1:13.4.3:05
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/3rd-echelon

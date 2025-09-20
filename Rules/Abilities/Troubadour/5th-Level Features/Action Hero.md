@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 3 burst
 feature_type: ability
 file_basename: Action Hero
-file_dpath: Troubadour/5th-Level Features
+file_dpath: Abilities/Troubadour/5th-Level Features
 flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
 item_id: action-hero-9-drama
 item_index: '01'
@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:action-hero-9-drama
 scdc:
-  - 1.1.1:13.2.3.4:01
+  - 1.1.1:11.2.3.4:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/5th-level-feature

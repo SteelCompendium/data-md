@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Levity and Gravity
-file_dpath: Talent/2nd-Level Features
+file_dpath: Abilities/Talent/2nd-Level Features
 flavor: You raise the target slightly into the air, then smother them against the ground.
 item_id: levity-and-gravity-5-clarity
 item_index: '01'
@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:levity-and-gravity-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:01
+  - 1.1.1:11.2.1.5:01
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: One creature or object

@@ -18,20 +18,21 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 **Benefit:** You can automatically swim at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
-###### Rogue Wave
-
-*You summon a wave of water to batter your foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Your Highest Characteristic Score:**
-
-- **≤11:** 2 damage; push or pull 1
-- **12-16:** 5 damage; push or pull 2
-- **17+:** 7 damage; push or pull 3
-
-**Effect:** You can forgo dealing damage with this ability.
+<!-- -->
+> ###### Rogue Wave
+>
+> *You summon a wave of water to batter your foe.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Your Highest Characteristic Score:**
+>
+> - **≤11:** 2 damage; push or pull 1
+> - **12-16:** 5 damage; push or pull 2
+> - **17+:** 7 damage; push or pull 3
+>
+> **Effect:** You can forgo dealing damage with this ability.
 
 **Drawback:** You have lightning weakness 5. Additionally, the ocean or a creature it sends to seek you can assign you a quest. If you don't do the ocean's bidding, it might temporarily deny you this complication's benefits—including being able to breathe underwater—at an inconvenient time.

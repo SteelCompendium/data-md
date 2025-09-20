@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Melee 1
 feature_type: ability
 file_basename: Squad Gear Check
-file_dpath: Tactician/5th-Level Features
+file_dpath: Abilities/Tactician/5th-Level Features
 flavor: You distract a foe while your allies secure their defensive gear.
 item_id: squad-gear-check-9-focus
 item_index: '01'
@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:squad-gear-check-9-focus
 scdc:
-  - 1.1.1:13.2.4.4:01
+  - 1.1.1:11.2.4.4:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/tactician/5th-level-feature

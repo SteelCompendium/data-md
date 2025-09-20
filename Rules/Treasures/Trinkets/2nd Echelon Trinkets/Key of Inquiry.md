@@ -8,7 +8,7 @@ item_name: Key of Inquiry
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:key-of-inquiry
 scdc:
-  - 1.1.1:12.4.2:08
+  - 1.1.1:13.4.2:08
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/2nd-echelon

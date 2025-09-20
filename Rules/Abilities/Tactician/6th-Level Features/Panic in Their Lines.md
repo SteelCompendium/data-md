@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Panic in Their Lines
-file_dpath: Tactician/6th-Level Features
+file_dpath: Abilities/Tactician/6th-Level Features
 flavor: You confuse your foes, causing them to turn on each other.
 item_id: panic-in-their-lines-9-focus
 item_index: '03'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:panic-in-their-lines-9-focus
 scdc:
-  - 1.1.1:13.2.4.3:03
+  - 1.1.1:11.2.4.3:03
 source: mcdm.heroes.v1
 subclass: Insurgent
 target: Two creatures

@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 1
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Dual Wielder
 scc:
   - mcdm.heroes.v1:kit-ability.dual-wielder:double-strike
 scdc:

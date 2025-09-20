@@ -8,7 +8,7 @@ item_name: Star-Hunter
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:star-hunter
 scdc:
-  - 1.1.1:12.3.4:05
+  - 1.1.1:13.3.4:05
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/armor

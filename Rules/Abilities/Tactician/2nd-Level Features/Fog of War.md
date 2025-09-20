@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Ranged 10
 feature_type: ability
 file_basename: Fog of War
-file_dpath: Tactician/2nd-Level Features
+file_dpath: Abilities/Tactician/2nd-Level Features
 flavor: Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.
 item_id: fog-of-war-5-focus
 item_index: '05'
@@ -18,7 +18,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war-5-focus
 scdc:
-  - 1.1.1:13.2.4.5:05
+  - 1.1.1:11.2.4.5:05
 source: mcdm.heroes.v1
 subclass: Insurgent
 target: Two creatures

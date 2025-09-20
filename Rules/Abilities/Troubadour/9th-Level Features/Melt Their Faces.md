@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: Melt Their Faces
-file_dpath: Troubadour/9th-Level Features
+file_dpath: Abilities/Troubadour/9th-Level Features
 flavor: The power of music rips through the reality around the target and blows them away.
 item_id: melt-their-faces-11-drama
 item_index: '04'
@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:melt-their-faces-11-drama
 scdc:
-  - 1.1.1:13.2.3.7:04
+  - 1.1.1:11.2.3.7:04
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: One creature or object

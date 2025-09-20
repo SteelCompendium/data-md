@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Font of Wrath
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.
 item_id: font-of-wrath-3-piety
 item_index: '04'
@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:font-of-wrath-3-piety
 scdc:
-  - 1.1.1:13.2.8.1:04
+  - 1.1.1:11.2.8.1:04
 source: mcdm.heroes.v1
 target: Special
 type: feature/ability/conduit/1st-level-feature

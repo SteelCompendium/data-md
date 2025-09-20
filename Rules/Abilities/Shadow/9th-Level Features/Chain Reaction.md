@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Ranged 10
 feature_type: ability
 file_basename: Chain Reaction
-file_dpath: Shadow/9th-Level Features
+file_dpath: Abilities/Shadow/9th-Level Features
 flavor: One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.
 item_id: chain-reaction-11-insight
 item_index: '02'
@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:chain-reaction-11-insight
 scdc:
-  - 1.1.1:13.2.2.7:02
+  - 1.1.1:11.2.2.7:02
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: One creature or object

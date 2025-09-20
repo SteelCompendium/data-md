@@ -18,20 +18,21 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Benefit:** You have the following heroic ability.
 
-###### Psychic Blast (Special Heroic Resource Cost)
-
-*Psionic energy bursts from your body in an iridescent shimmer.*
-
-| **Area, Psionic** |               **Main action** |
-| ----------------- | ----------------------------: |
-| **📏 3 burst**    | **🎯 Each enemy in the area** |
-
-**Effect:** Using this ability costs all your Heroic Resource.
-
-**Power Roll + Your Highest Characteristic Score:**
-
-- **≤11:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level
-- **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
-- **17+:** 1 psychic damage for each Heroic Resource you spend
+<!-- -->
+> ###### Psychic Blast (Special Heroic Resource Cost)
+>
+> *Psionic energy bursts from your body in an iridescent shimmer.*
+>
+> | **Area, Psionic** |               **Main action** |
+> | ----------------- | ----------------------------: |
+> | **📏 3 burst**    | **🎯 Each enemy in the area** |
+>
+> **Effect:** Using this ability costs all your Heroic Resource.
+>
+> **Power Roll + Your Highest Characteristic Score:**
+>
+> - **≤11:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level
+> - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
+> - **17+:** 1 psychic damage for each Heroic Resource you spend
 
 **Drawback:** Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free triggered action.

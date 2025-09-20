@@ -4,7 +4,7 @@ class: tactician
 distance: Ranged 10
 feature_type: ability
 file_basename: Strike Now
-file_dpath: Tactician/1st-Level Features
+file_dpath: Abilities/Tactician/1st-Level Features
 flavor: Your foe left an opening. You point this out to an ally!
 item_id: strike-now
 item_index: '06'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:strike-now
 scdc:
-  - 1.1.1:13.2.4.1:06
+  - 1.1.1:11.2.4.1:06
 source: mcdm.heroes.v1
 target: One ally
 type: feature/ability/tactician/1st-level-feature

@@ -8,7 +8,7 @@ item_name: Lightning Treads
 scc:
   - mcdm.heroes.v1:treasure.leveled.other:lightning-treads
 scdc:
-  - 1.1.1:12.3.2:01
+  - 1.1.1:13.3.2:01
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/other

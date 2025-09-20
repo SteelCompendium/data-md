@@ -7,10 +7,10 @@ cost_resource: Essence
 distance: 4 cube within 10
 feature_type: ability
 file_basename: Storm of Sands
-file_dpath: Elementalist/5th-Level Features
+file_dpath: Abilities/Elementalist/5th-Level Features
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 item_id: storm-of-sands-9-essence
-item_index: '03'
+item_index: '07'
 item_name: Storm of Sands (9 Essence)
 keywords:
   - Area
@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:storm-of-sands-9-essence
 scdc:
-  - 1.1.1:13.2.9.4:03
+  - 1.1.1:11.2.9.4:07
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/5th-level-feature

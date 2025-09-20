@@ -300,15 +300,16 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 **Benefit:** You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 
-###### Corrupt Spirit
-
-*You unlock the sinister secrets of pain.*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of your turn, whenever you use a damage-dealing heroic ability against a single target, you can weaken that target's life force. The ability deals extra corruption damage equal to your highest characteristic score.
+<!-- -->
+> ###### Corrupt Spirit
+>
+> *You unlock the sinister secrets of pain.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** Until the end of your turn, whenever you use a damage-dealing heroic ability against a single target, you can weaken that target's life force. The ability deals extra corruption damage equal to your highest characteristic score.
 
 **Drawback:** You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, to a maximum equal to your recovery value. Whenever you take holy damage, this weakness resets to 1.
 
@@ -652,15 +653,16 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 
 **Benefit:** You have the following ability.
 
-###### Share Head
-
-*You don't have a head, but you can psionically borrow another.*
-
-| **Psionic, Ranged** |                **Maneuver** |
-| ------------------- | --------------------------: |
-| **📏 Ranged 10**    | **🎯 One willing creature** |
-
-**Effect:** You can see, hear, and smell as if you were in the target's space. Additionally, you can borrow their mouth to speak when you wish to do so, speaking in your own voice. This effect ends when you use Share Head on a different target, when the target moves more than 10 squares away from you, or when the target is no longer willing to share their head with you.
+<!-- -->
+> ###### Share Head
+>
+> *You don't have a head, but you can psionically borrow another.*
+>
+> | **Psionic, Ranged** |                **Maneuver** |
+> | ------------------- | --------------------------: |
+> | **📏 Ranged 10**    | **🎯 One willing creature** |
+>
+> **Effect:** You can see, hear, and smell as if you were in the target's space. Additionally, you can borrow their mouth to speak when you wish to do so, speaking in your own voice. This effect ends when you use Share Head on a different target, when the target moves more than 10 squares away from you, or when the target is no longer willing to share their head with you.
 
 **Drawback:** Having no head, you can't see, hear, smell, taste, or verbalize except by using the Share Head ability. Additionally, you can't wear gear that requires a head, such as a helmet or hat.
 
@@ -694,21 +696,22 @@ You can perceive ghosts and spirits that others don't sense. These supernatural 
 
 **Benefit and Drawback:** Incorporeal undead within 10 squares of you can communicate telepathically with you. Additionally, you have the Contact Spirits ability.
 
-###### Contact Spirits
-
-*The restless dead speak to you.*
-
-| **Magic**   | **Main action** |
-| ----------- | --------------: |
-| **📏 Self** |     **🎯 Self** |
-
-**Power Roll + Intuition or Presence:**
-
-- **≤11:** You take corruption damage equal to 5 + your level.
-- **12-16:** The spirit of anyone you know of who has died speaks to you, provided they are on the same world as you. You learn how they died and can ask them one question, which they can answer truthfully or untruthfully. The spirit knows everything they knew in life, and is aware of events that took place in their immediate surroundings since their death.
-- **17+:** As tier 2, but you can ask three questions.
-
-**Effect:** If any sapient creatures have died nearby within the last 24 hours, you have a double bane on the power roll for this ability if any of those creatures were hostile to you, or a double edge if any of them were friendly to you. When you use this ability, you can't do so again until you earn 1 or more Victories.
+<!-- -->
+> ###### Contact Spirits
+>
+> *The restless dead speak to you.*
+>
+> | **Magic**   | **Main action** |
+> | ----------- | --------------: |
+> | **📏 Self** |     **🎯 Self** |
+>
+> **Power Roll + Intuition or Presence:**
+>
+> - **≤11:** You take corruption damage equal to 5 + your level.
+> - **12-16:** The spirit of anyone you know of who has died speaks to you, provided they are on the same world as you. You learn how they died and can ask them one question, which they can answer truthfully or untruthfully. The spirit knows everything they knew in life, and is aware of events that took place in their immediate surroundings since their death.
+> - **17+:** As tier 2, but you can ask three questions.
+>
+> **Effect:** If any sapient creatures have died nearby within the last 24 hours, you have a double bane on the power roll for this ability if any of those creatures were hostile to you, or a double edge if any of them were friendly to you. When you use this ability, you can't do so again until you earn 1 or more Victories.
 
 #### Medusa Blood
 
@@ -716,21 +719,22 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 **Benefit:** You have the following ability.
 
-###### Stone Eyes
-
-*Your looks don't kill—they petrify.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Might or Presence:**
-
-- **≤11:** 2 damage; M < WEAK, slowed (save ends)
-- **12-16:** 4 damage; M < AVERAGE, slowed (save ends)
-- **17+:** 6 damage; M < STRONG, slowed (save ends)
-
-**Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
+<!-- -->
+> ###### Stone Eyes
+>
+> *Your looks don't kill—they petrify.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Might or Presence:**
+>
+> - **≤11:** 2 damage; M < WEAK, slowed (save ends)
+> - **12-16:** 4 damage; M < AVERAGE, slowed (save ends)
+> - **17+:** 6 damage; M < STRONG, slowed (save ends)
+>
+> **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
 
 **Drawback:** Out of combat, you use your Stone Eyes ability on anyone who meets your gaze, whether you intend to or not. Your companions know not to make eye contact, but strangers are likely to trigger the ability unless you cover your eyes.
 
@@ -802,21 +806,22 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Benefit:** You have the following heroic ability.
 
-###### Psychic Blast (Special Heroic Resource Cost)
-
-*Psionic energy bursts from your body in an iridescent shimmer.*
-
-| **Area, Psionic** |               **Main action** |
-| ----------------- | ----------------------------: |
-| **📏 3 burst**    | **🎯 Each enemy in the area** |
-
-**Effect:** Using this ability costs all your Heroic Resource.
-
-**Power Roll + Your Highest Characteristic Score:**
-
-- **≤11:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level
-- **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
-- **17+:** 1 psychic damage for each Heroic Resource you spend
+<!-- -->
+> ###### Psychic Blast (Special Heroic Resource Cost)
+>
+> *Psionic energy bursts from your body in an iridescent shimmer.*
+>
+> | **Area, Psionic** |               **Main action** |
+> | ----------------- | ----------------------------: |
+> | **📏 3 burst**    | **🎯 Each enemy in the area** |
+>
+> **Effect:** Using this ability costs all your Heroic Resource.
+>
+> **Power Roll + Your Highest Characteristic Score:**
+>
+> - **≤11:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level
+> - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
+> - **17+:** 1 psychic damage for each Heroic Resource you spend
 
 **Drawback:** Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free triggered action.
 
@@ -850,19 +855,20 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 **Benefit:** You have the following ability, which you can use as a ranged free strike.
 
-###### Telekinetic Grasp
-
-*You reach out with your mind to move a creature or object.*
-
-| **Psionic, Ranged, Strike** |                  **Maneuver** |
-| --------------------------- | ----------------------------: |
-| **📏 Ranged 10**            | **🎯 One creature or object** |
-
-**Power Roll + Might, Intuition, or Presence:**
-
-- **≤11:** Push or pull 1
-- **12-16:** Push or pull 2
-- **17+:** Push or pull 3
+<!-- -->
+> ###### Telekinetic Grasp
+>
+> *You reach out with your mind to move a creature or object.*
+>
+> | **Psionic, Ranged, Strike** |                  **Maneuver** |
+> | --------------------------- | ----------------------------: |
+> | **📏 Ranged 10**            | **🎯 One creature or object** |
+>
+> **Power Roll + Might, Intuition, or Presence:**
+>
+> - **≤11:** Push or pull 1
+> - **12-16:** Push or pull 2
+> - **17+:** Push or pull 3
 
 **Drawback:** You have psychic weakness 5.
 
@@ -990,17 +996,18 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 **Benefit:** You have the following ability.
 
-###### Issue Order
-
-*"Move or die, folks."*
-
-| **Ranged**       | **Main action** |
-| ---------------- | --------------: |
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
-
-**Special:** If you have the Stike Now tactician ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+<!-- -->
+> ###### Issue Order
+>
+> *"Move or die, folks."*
+>
+> | **Ranged**       | **Main action** |
+> | ---------------- | --------------: |
+> | **📏 Ranged 10** | **🎯 One ally** |
+>
+> **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
+>
+> **Special:** If you have the Stike Now tactician ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
 **Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1).
 
@@ -1058,15 +1065,16 @@ You wear a loyalty collar from one of Ajax's war dogs (see *[Draw Steel: Monster
 
 **Benefit:** Even if you are a war dog yourself, other war dogs can't use their Posthumous Promotion ability on you while you wear your collar. Additionally, you have the following ability.
 
-###### Posthumous Retirement
-
-*You make your modified collar explode.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 1 burst**  | **🎯 Each enemy in the area** |
-
-**Effect:** Your loyalty collar detonates, dealing fire damage equal to 5 plus your level to each target. Once you use this ability, you can't use it again until you spend 1 uninterrupted minute out of combat resetting the collar.
+<!-- -->
+> ###### Posthumous Retirement
+>
+> *You make your modified collar explode.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 1 burst**  | **🎯 Each enemy in the area** |
+>
+> **Effect:** Your loyalty collar detonates, dealing fire damage equal to 5 plus your level to each target. Once you use this ability, you can't use it again until you spend 1 uninterrupted minute out of combat resetting the collar.
 
 **Drawback:** Each time you use your Posthumous Retirement ability, the Director can spend 3 Malice to make your collar malfunction and deal its damage to you in addition to the usual targets.
 
@@ -1092,21 +1100,22 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 **Benefit:** You can automatically swim at full speed while moving, and you can breathe underwater. Additionally, you have the following ability.
 
-###### Rogue Wave
-
-*You summon a wave of water to batter your foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Your Highest Characteristic Score:**
-
-- **≤11:** 2 damage; push or pull 1
-- **12-16:** 5 damage; push or pull 2
-- **17+:** 7 damage; push or pull 3
-
-**Effect:** You can forgo dealing damage with this ability.
+<!-- -->
+> ###### Rogue Wave
+>
+> *You summon a wave of water to batter your foe.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Your Highest Characteristic Score:**
+>
+> - **≤11:** 2 damage; push or pull 1
+> - **12-16:** 5 damage; push or pull 2
+> - **17+:** 7 damage; push or pull 3
+>
+> **Effect:** You can forgo dealing damage with this ability.
 
 **Drawback:** You have lightning weakness 5. Additionally, the ocean or a creature it sends to seek you can assign you a quest. If you don't do the ocean's bidding, it might temporarily deny you this complication's benefits—including being able to breathe underwater—at an inconvenient time.
 

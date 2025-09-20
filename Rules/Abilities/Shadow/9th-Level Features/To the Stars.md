@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: To the Stars
-file_dpath: Shadow/9th-Level Features
+file_dpath: Abilities/Shadow/9th-Level Features
 flavor: You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.
 item_id: to-the-stars-11-insight
 item_index: '05'
@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:to-the-stars-11-insight
 scdc:
-  - 1.1.1:13.2.2.7:05
+  - 1.1.1:11.2.2.7:05
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: One creature or object

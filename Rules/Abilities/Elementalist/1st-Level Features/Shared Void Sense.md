@@ -4,7 +4,7 @@ class: elementalist
 distance: Ranged 10
 feature_type: ability
 file_basename: Shared Void Sense
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: You grant allies a taste of your unearthly vision.
 item_id: shared-void-sense
 item_index: '12'
@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:shared-void-sense
 scdc:
-  - 1.1.1:13.2.9.1:12
+  - 1.1.1:11.2.9.1:12
 source: mcdm.heroes.v1
 subclass: Void
 target: Special

@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Exothermic Shield
-file_dpath: Talent/5th-Level Features
+file_dpath: Abilities/Talent/5th-Level Features
 flavor: You encase the target in psionic flame and allow them to flicker without fear of burning out.
 item_id: exothermic-shield-9-clarity
 item_index: '02'
@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:exothermic-shield-9-clarity
 scdc:
-  - 1.1.1:13.2.1.4:02
+  - 1.1.1:11.2.1.4:02
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/5th-level-feature

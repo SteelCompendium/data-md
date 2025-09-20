@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Heat Sink
-file_dpath: Null/2nd-Level Features
+file_dpath: Abilities/Null/2nd-Level Features
 flavor: You absorb ambient heat, coating the ground in frost and precipitating snow from the air.
 item_id: heat-sink-5-discipline
 item_index: '04'
@@ -18,7 +18,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:heat-sink-5-discipline
 scdc:
-  - 1.1.1:13.2.6.5:04
+  - 1.1.1:11.2.6.5:04
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: Self

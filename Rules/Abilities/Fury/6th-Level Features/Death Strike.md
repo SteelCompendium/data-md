@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Melee 1
 feature_type: ability
 file_basename: Death Strike
-file_dpath: Fury/6th-Level Features
+file_dpath: Abilities/Fury/6th-Level Features
 flavor: Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.
 item_id: death-strike-9-ferocity
 item_index: '01'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:death-strike-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.3:01
+  - 1.1.1:11.2.5.3:01
 source: mcdm.heroes.v1
 subclass: Reaver
 target: Self

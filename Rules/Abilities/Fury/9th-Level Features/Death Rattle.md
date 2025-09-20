@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: 3 burst
 feature_type: ability
 file_basename: Death Rattle
-file_dpath: Fury/9th-Level Features
+file_dpath: Abilities/Fury/9th-Level Features
 flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
 item_id: death-rattle-11-ferocity
 item_index: '05'
@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-rattle-11-ferocity
 scdc:
-  - 1.1.1:13.2.5.6:05
+  - 1.1.1:11.2.5.6:05
 source: mcdm.heroes.v1
 subclass: Stormwight
 target: Each enemy in the area

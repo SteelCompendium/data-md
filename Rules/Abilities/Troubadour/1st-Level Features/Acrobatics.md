@@ -4,7 +4,7 @@ class: troubadour
 distance: 5 aura
 feature_type: ability
 file_basename: Acrobatics
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: Folks love a good tumble.
 item_id: acrobatics
 item_index: '17'
@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:acrobatics
 scdc:
-  - 1.1.1:13.2.3.1:17
+  - 1.1.1:11.2.3.1:17
 source: mcdm.heroes.v1
 subclass: Duelist
 target: Self and each ally in the area

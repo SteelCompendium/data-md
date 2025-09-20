@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: elementalist
 distance: Ranged 10
 feature_type: ability
 file_basename: Ray of Agonizing Self Reflection
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: You inflict pain and doubt in equal measure.
 item_id: ray-of-agonizing-self-reflection
 item_index: '01'
@@ -18,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ray-of-agonizing-self-reflection
 scdc:
-  - 1.1.1:13.2.9.1:01
+  - 1.1.1:11.2.9.1:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/elementalist/1st-level-feature

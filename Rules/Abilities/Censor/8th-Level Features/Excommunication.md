@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Melee 1
 feature_type: ability
 file_basename: Excommunication
-file_dpath: Censor/8th-Level Features
+file_dpath: Abilities/Censor/8th-Level Features
 flavor: You curse your foe to become a bane to their allies.
 item_id: excommunication-11-wrath
 item_index: '04'
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:excommunication-11-wrath
 scdc:
-  - 1.1.1:13.2.7.2:04
+  - 1.1.1:11.2.7.2:04
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/censor/8th-level-feature

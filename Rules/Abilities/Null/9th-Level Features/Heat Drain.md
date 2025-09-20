@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Melee 1
 feature_type: ability
 file_basename: Heat Drain
-file_dpath: Null/9th-Level Features
+file_dpath: Abilities/Null/9th-Level Features
 flavor: You drain all the heat from the target.
 item_id: heat-drain-11-discipline
 item_index: '05'
@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:heat-drain-11-discipline
 scdc:
-  - 1.1.1:13.2.6.7:05
+  - 1.1.1:11.2.6.7:05
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: One creature

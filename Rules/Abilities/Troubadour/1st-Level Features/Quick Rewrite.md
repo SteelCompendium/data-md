@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Quick Rewrite
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: You write something unexpected into the scene that hinders your enemy.
 item_id: quick-rewrite-3-drama
 item_index: '01'
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:quick-rewrite-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:01
+  - 1.1.1:11.2.3.1:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/1st-level-feature

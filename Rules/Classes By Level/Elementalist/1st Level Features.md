@@ -85,21 +85,22 @@ When you use an ability outside of combat that lets you spend unlimited essence 
 
 You have the following ability, which can be used as a ranged free strike.
 
-###### Hurl Element
-
-*You cast a ball of elemental energy at a foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 10**          | **🎯 One creature or object** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 + R damage
-- **12-16:** 4 + R damage
-- **17+:** 6 + R damage
-
-**Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
+<!-- -->
+> ###### Hurl Element
+>
+> *You cast a ball of elemental energy at a foe.*
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 + R damage
+> - **12-16:** 4 + R damage
+> - **17+:** 6 + R damage
+>
+> **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
 #### Persistent Magic
 
@@ -115,19 +116,20 @@ If you take damage equal to or greater than 5 times your Reason score in one tur
 
 You have the following ability.
 
-###### Practical Magic
-
-*Your mastery of elemental power lets you customize your conjurations.*
-
-| **Magic**              | **Maneuver** |
-| ---------------------- | -----------: |
-| **📏 Self; see below** |  **🎯 Self** |
-
-**Effect:** Choose one of the following effects:
-
-- You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
-- You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-- You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
+<!-- -->
+> ###### Practical Magic
+>
+> *Your mastery of elemental power lets you customize your conjurations.*
+>
+> | **Magic**              | **Maneuver** |
+> | ---------------------- | -----------: |
+> | **📏 Self; see below** |  **🎯 Self** |
+>
+> **Effect:** Choose one of the following effects:
+>
+> - You use the Knockback maneuver (see Chapter 10: Combat), but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.
+> - You choose a creature within the distance of your Hurl Element ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
+> - You teleport up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to teleport 1 additional square for each essence spent.
 
 #### 1st-Level Specialization Feature
 
@@ -148,15 +150,16 @@ You instantly recognize illusions for what they are, you can see invisible creat
 
 You also gain the following ability.
 
-###### Shared Void Sense
-
-*You grant allies a taste of your unearthly vision.*
-
-| **Magic, Ranged, Void** |   **Maneuver** |
-| ----------------------- | -------------: |
-| **📏 Ranged 10**        | **🎯 Special** |
-
-**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
+<!-- -->
+> ###### Shared Void Sense
+>
+> *You grant allies a taste of your unearthly vision.*
+>
+> | **Magic, Ranged, Void** |   **Maneuver** |
+> | ----------------------- | -------------: |
+> | **📏 Ranged 10**        | **🎯 Special** |
+>
+> **Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of the Shared Void Sense ability.
 
 ##### It Is the Soul Which Hears
 
@@ -168,31 +171,33 @@ Additionally, you can touch a living plant that is not a plant creature to commu
 
 You have the following ability.
 
-###### Motivate Earth
-
-*The earth rises, falls, or opens up at your command.*
-
-| **Earth, Magic, Melee** | **Main action** |
-| ----------------------- | --------------: |
-| **📏 Melee 1**          |  **🎯 Special** |
-
-**Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
-
-Alternatively, you touch a structure made of mundane dirt, stone, or metal that occupies 2 or more squares. You can open a 1-square opening in the structure where you touched it. You can instead touch an existing doorway or other opening that is 1 square or smaller in a mundane dirt, stone, or metal surface. The opening is sealed by the same material that makes up the surface.
+<!-- -->
+> ###### Motivate Earth
+>
+> *The earth rises, falls, or opens up at your command.*
+>
+> | **Earth, Magic, Melee** | **Main action** |
+> | ----------------------- | --------------: |
+> | **📏 Melee 1**          |  **🎯 Special** |
+>
+> **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
+>
+> Alternatively, you touch a structure made of mundane dirt, stone, or metal that occupies 2 or more squares. You can open a 1-square opening in the structure where you touched it. You can instead touch an existing doorway or other opening that is 1 square or smaller in a mundane dirt, stone, or metal surface. The opening is sealed by the same material that makes up the surface.
 
 ##### Return to Formlessness
 
 You have the following ability.
 
-###### Return to Formlessness
-
-*With the merest touch, you cause an object to turn to slag or ash.*
-
-| **Fire, Magic, Melee** |           **Main action** |
-| ---------------------- | ------------------------: |
-| **📏 Melee 1**         | **🎯 One mundane object** |
-
-**Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
+<!-- -->
+> ###### Return to Formlessness
+>
+> *With the merest touch, you cause an object to turn to slag or ash.*
+>
+> | **Fire, Magic, Melee** |           **Main action** |
+> | ---------------------- | ------------------------: |
+> | **📏 Melee 1**         | **🎯 One mundane object** |
+>
+> **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
 
 #### Specialization Triggered Action
 
@@ -207,61 +212,65 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 | Green          | Breath of Dawn Remembered |
 | Void           | Subtle Relocation         |
 
-###### Breath of Dawn Remembered
+<!-- -->
+> ###### Breath of Dawn Remembered
+>
+> *The power you channel grants the ability to get back in the fight.*
+>
+> | **Green, Magic, Ranged** |           **Triggered** |
+> | ------------------------ | ----------------------: |
+> | **📏 Ranged 10**         | **🎯 Self or one ally** |
+>
+> **Trigger:** The target starts their turn or takes damage.
+>
+> **Effect:** The target can spend a Recovery.
+>
+> **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
 
-*The power you channel grants the ability to get back in the fight.*
+<!-- -->
+> ###### Explosive Assistance
+>
+> *You add a little magic to an ally's aggression at just the right time.*
+>
+> | **Fire, Magic, Ranged** |           **Triggered** |
+> | ----------------------- | ----------------------: |
+> | **📏 Ranged 10**        | **🎯 Self or one ally** |
+>
+> **Trigger:** The target force moves a creature or object.
+>
+> **Effect:** The forced movement distance gains a bonus equal to your Reason score.
+>
+> **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
-| **Green, Magic, Ranged** |           **Triggered** |
-| ------------------------ | ----------------------: |
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+<!-- -->
+> ###### Skin Like Castle Walls
+>
+> *You cover yourself or an ally in protective stone.*
+>
+> | **Earth, Magic, Ranged** |           **Triggered** |
+> | ------------------------ | ----------------------: |
+> | **📏 Ranged 10**         | **🎯 Self or one ally** |
+>
+> **Trigger:** The target takes damage.
+>
+> **Effect:** The target takes half the damage.
+>
+> **Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
 
-**Trigger:** The target starts their turn or takes damage.
-
-**Effect:** The target can spend a Recovery.
-
-**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
-
-###### Explosive Assistance
-
-*You add a little magic to an ally's aggression at just the right time.*
-
-| **Fire, Magic, Ranged** |           **Triggered** |
-| ----------------------- | ----------------------: |
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
-
-**Trigger:** The target force moves a creature or object.
-
-**Effect:** The forced movement distance gains a bonus equal to your Reason score.
-
-**Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
-
-###### Skin Like Castle Walls
-
-*You cover yourself or an ally in protective stone.*
-
-| **Earth, Magic, Ranged** |           **Triggered** |
-| ------------------------ | ----------------------: |
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
-
-**Trigger:** The target takes damage.
-
-**Effect:** The target takes half the damage.
-
-**Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
-
-###### Subtle Relocation
-
-*You call on the void to swallow and spit out an ally.*
-
-| **Magic, Ranged, Void** |           **Triggered** |
-| ----------------------- | ----------------------: |
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
-
-**Trigger:** The target starts their turn, moves, or is force moved.
-
-**Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
-
-**Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
+<!-- -->
+> ###### Subtle Relocation
+>
+> *You call on the void to swallow and spit out an ally.*
+>
+> | **Magic, Ranged, Void** |           **Triggered** |
+> | ----------------------- | ----------------------: |
+> | **📏 Ranged 10**        | **🎯 Self or one ally** |
+>
+> **Trigger:** The target starts their turn, moves, or is force moved.
+>
+> **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+>
+> **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
 
 #### Enchantment
 
@@ -317,125 +326,133 @@ Your understanding of elemental magic grants you unique abilities, letting you d
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Bifurcated Incineration, Viscous Fire.)
 
-###### Afflict a Bountiful Decay
+<!-- -->
+> ###### Afflict a Bountiful Decay
+>
+> *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
+>
+> | **Green, Magic, Ranged, Rot, Strike** |     **Main action** |
+> | ------------------------------------- | ------------------: |
+> | **📏 Ranged 10**                      | **🎯 One creature** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 + R corruption damage
+> - **12-16:** 4 + R corruption damage
+> - **17+:** 6 + R corruption damage
+>
+> **Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
-*Your curse causes your foe's flesh to rot off as spores that aid your allies.*
+<!-- -->
+> ###### Bifurcated Incineration
+>
+> *Two jets of flame lance out at your command.*
+>
+> | **Fire, Magic, Ranged, Strike** |                 **Main action** |
+> | ------------------------------- | ------------------------------: |
+> | **📏 Ranged 10**                | **🎯 Two creatures or objects** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 fire damage
+> - **12-16:** 4 fire damage
+> - **17+:** 6 fire damage
 
-| **Green, Magic, Ranged, Rot, Strike** |     **Main action** |
-| ------------------------------------- | ------------------: |
-| **📏 Ranged 10**                      | **🎯 One creature** |
+<!-- -->
+> ###### Grasp of Beyond
+>
+> *You absorb the life energy of another creature and use it to teleport.*
+>
+> | **Magic, Melee, Strike, Void** |     **Main action** |
+> | ------------------------------ | ------------------: |
+> | **📏 Melee 1**                 | **🎯 One creature** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 3 + R corruption damage
+> - **12-16:** 6 + R corruption damage
+> - **17+:** 9 + R corruption damage
+>
+> **Effect:** You can teleport up to a number of squares equal to your Reason score.
 
-**Power Roll + Reason:**
+<!-- -->
+> ###### The Green Within, the Green Without
+>
+> *Whipping vines erupt from a foe's body to grasp at another close by.*
+>
+> | **Green, Magic, Ranged, Strike** |     **Main action** |
+> | -------------------------------- | ------------------: |
+> | **📏 Ranged 10**                 | **🎯 One creature** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 + R damage
+> - **12-16:** 5 + R damage
+> - **17+:** 7 + R damage
+>
+> **Effect:** You slide one creature within 10 squares of the target up to 2 squares.
 
-- **≤11:** 2 + R corruption damage
-- **12-16:** 4 + R corruption damage
-- **17+:** 6 + R corruption damage
+<!-- -->
+> ###### Meteoric Introduction
+>
+> *You give your enemy a gentle tap-like an asteroid impact.*
+>
+> | **Earth, Magic, Melee, Strike** |               **Main action** |
+> | ------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                  | **🎯 One creature or object** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 3 + R damage; push 2
+> - **12-16:** 5 + R damage; push 3
+> - **17+:** 8 + R damage; push 4
 
-**Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+<!-- -->
+> ###### Ray of Agonizing Self-Reflection
+>
+> *You inflict pain and doubt in equal measure.*
+>
+> | **Magic, Ranged, Strike, Void** |               **Main action** |
+> | ------------------------------- | ----------------------------: |
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
+> - **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
+> - **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
 
-###### Bifurcated Incineration
+<!-- -->
+> ###### Unquiet Ground
+>
+> *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
+>
+> | **Area, Earth, Magic, Ranged** |               **Main action** |
+> | ------------------------------ | ----------------------------: |
+> | **📏 2 cube within 10**        | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+>
+> **Effect:** The ground beneath the area is difficult terrain for enemies.
 
-*Two jets of flame lance out at your command.*
-
-| **Fire, Magic, Ranged, Strike** |                 **Main action** |
-| ------------------------------- | ------------------------------: |
-| **📏 Ranged 10**                | **🎯 Two creatures or objects** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 fire damage
-- **12-16:** 4 fire damage
-- **17+:** 6 fire damage
-
-###### Grasp of Beyond
-
-*You absorb the life energy of another creature and use it to teleport.*
-
-| **Magic, Melee, Strike, Void** |     **Main action** |
-| ------------------------------ | ------------------: |
-| **📏 Melee 1**                 | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 3 + R corruption damage
-- **12-16:** 6 + R corruption damage
-- **17+:** 9 + R corruption damage
-
-**Effect:** You can teleport up to a number of squares equal to your Reason score.
-
-###### The Green Within, the Green Without
-
-*Whipping vines erupt from a foe's body to grasp at another close by.*
-
-| **Green, Magic, Ranged, Strike** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Ranged 10**                 | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 + R damage
-- **12-16:** 5 + R damage
-- **17+:** 7 + R damage
-
-**Effect:** You slide one creature within 10 squares of the target up to 2 squares.
-
-###### Meteoric Introduction
-
-*You give your enemy a gentle tap-like an asteroid impact.*
-
-| **Earth, Magic, Melee, Strike** |               **Main action** |
-| ------------------------------- | ----------------------------: |
-| **📏 Melee 1**                  | **🎯 One creature or object** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 3 + R damage; push 2
-- **12-16:** 5 + R damage; push 3
-- **17+:** 8 + R damage; push 4
-
-###### Ray of Agonizing Self-Reflection
-
-*You inflict pain and doubt in equal measure.*
-
-| **Magic, Ranged, Strike, Void** |               **Main action** |
-| ------------------------------- | ----------------------------: |
-| **📏 Ranged 10**                | **🎯 One creature or object** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 + R corruption damage; R < WEAK, slowed (save ends)
-- **12-16:** 4 + R corruption damage; R < AVERAGE, slowed (save ends)
-- **17+:** 6 + R corruption damage; R < STRONG, slowed (save ends)
-
-###### Unquiet Ground
-
-*A sudden storm of detritus assaults your foes and leaves them struggling to move.*
-
-| **Area, Earth, Magic, Ranged** |               **Main action** |
-| ------------------------------ | ----------------------------: |
-| **📏 2 cube within 10**        | **🎯 Each enemy in the area** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 damage
-- **12-16:** 5 damage
-- **17+:** 7 damage
-
-**Effect:** The ground beneath the area is difficult terrain for enemies.
-
-###### Viscous Fire
-
-*A jet of heavy fire erupts where you strike.*
-
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
-| ------------------------------- | ----------------------------: |
-| **📏 Ranged 10**                | **🎯 One creature or object** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 + R fire damage; push 2
-- **12-16:** 5 + R fire damage; push 3
-- **17+:** 7 + R fire damage; push 4
+<!-- -->
+> ###### Viscous Fire
+>
+> *A jet of heavy fire erupts where you strike.*
+>
+> | **Fire, Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------------- | ----------------------------: |
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 + R fire damage; push 2
+> - **12-16:** 5 + R fire damage; push 3
+> - **17+:** 7 + R fire damage; push 4
 
 ##### Heroic Abilities
 
@@ -445,132 +462,140 @@ You channel a variety of heroic abilities, all of them fueled by your essence.
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
 
-###### Behold the Mystery (3 Essence)
+<!-- -->
+> ###### Behold the Mystery (3 Essence)
+>
+> *You open a rift into the void to harry your foes.*
+>
+> | **Area, Magic, Ranged, Void** |               **Main action** |
+> | ----------------------------- | ----------------------------: |
+> | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 2 psychic damage
+> - **12-16:** 4 psychic damage
+> - **17+:** 6 psychic damage
+>
+> **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-*You open a rift into the void to harry your foes.*
+<!-- -->
+> ###### The Flesh, a Crucible (3 Essence)
+>
+> *Fire engulfs your target and continues to churn.*
+>
+> | **Fire, Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------------- | ----------------------------: |
+> | **📏 Ranged 10**                | **🎯 One creature or object** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 5 + R fire damage
+> - **12-16:** 8 + R fire damage
+> - **17+:** 11 + R fire damage
+>
+> **Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
 
-| **Area, Magic, Ranged, Void** |               **Main action** |
-| ----------------------------- | ----------------------------: |
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+<!-- -->
+> ###### Invigorating Growth (3 Essence)
+>
+> *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
+>
+> | **Green, Magic, Ranged, Strike** |     **Main action** |
+> | -------------------------------- | ------------------: |
+> | **📏 Ranged 10**                 | **🎯 One creature** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 4 + R poison damage
+> - **12-16:** 7 + R poison damage
+> - **17+:** 11 + R poison damage
+>
+> **Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
 
-**Power Roll + Reason:**
-
-- **≤11:** 2 psychic damage
-- **12-16:** 4 psychic damage
-- **17+:** 6 psychic damage
-
-**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
-
-###### The Flesh, a Crucible (3 Essence)
-
-*Fire engulfs your target and continues to churn.*
-
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
-| ------------------------------- | ----------------------------: |
-| **📏 Ranged 10**                | **🎯 One creature or object** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R fire damage
-- **12-16:** 8 + R fire damage
-- **17+:** 11 + R fire damage
-
-**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
-
-###### Invigorating Growth (3 Essence)
-
-*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
-
-| **Green, Magic, Ranged, Strike** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Ranged 10**                 | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 4 + R poison damage
-- **12-16:** 7 + R poison damage
-- **17+:** 11 + R poison damage
-
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
-
-###### Ripples in the Earth (3 Essence)
-
-*Like a stone was dropped into a pond, waves in the earth radiate from you.*
-
-| **Area, Earth, Magic** |               **Main action** |
-| ---------------------- | ----------------------------: |
-| **📏 2 burst**         | **🎯 Each enemy in the area** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 3 damage
-- **12-16:** 5 damage
-- **17+:** 8 damage; M < STRONG, prone
-
-**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
+<!-- -->
+> ###### Ripples in the Earth (3 Essence)
+>
+> *Like a stone was dropped into a pond, waves in the earth radiate from you.*
+>
+> | **Area, Earth, Magic** |               **Main action** |
+> | ---------------------- | ----------------------------: |
+> | **📏 2 burst**         | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 5 damage
+> - **17+:** 8 damage; M < STRONG, prone
+>
+> **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
 ###### 5-Essence Ability
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
 
-###### Conflagration (5 Essence)
+<!-- -->
+> ###### Conflagration (5 Essence)
+>
+> *A storm of fire descends upon your enemies.*
+>
+> | **Area, Fire, Magic, Ranged** |               **Main action** |
+> | ----------------------------- | ----------------------------: |
+> | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 4 fire damage
+> - **12-16:** 6 fire damage
+> - **17+:** 10 fire damage
+>
+> **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-*A storm of fire descends upon your enemies.*
+<!-- -->
+> ###### Instantaneous Excavation (5 Essence)
+>
+> *The surface of the world around you opens up to swallow foes.*
+>
+> | **Earth, Magic, Ranged** |   **Maneuver** |
+> | ------------------------ | -------------: |
+> | **📏 Ranged 10**         | **🎯 Special** |
+>
+> **Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** The target can shift 1 square from the edge of the hole to the nearest unoccupied space of their choice.
+> - **12-16:** The target falls into the hole.
+> - **17+:** The target falls into the hole and can't reduce the height of the fall.
+>
+> **Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
-| ----------------------------- | ----------------------------: |
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+<!-- -->
+> ###### No More Than a Breeze (5 Essence)
+>
+> *The material substance of a creature shreds away at your command.*
+>
+> | **Magic, Ranged, Void** |            **Maneuver** |
+> | ----------------------- | ----------------------: |
+> | **📏 Ranged 10**        | **🎯 Self or one ally** |
+>
+> **Effect:** Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+>
+> **Persistent 1:** The effect lasts until the start of your next turn.
 
-**Power Roll + Reason:**
-
-- **≤11:** 4 fire damage
-- **12-16:** 6 fire damage
-- **17+:** 10 fire damage
-
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
-
-###### Instantaneous Excavation (5 Essence)
-
-*The surface of the world around you opens up to swallow foes.*
-
-| **Earth, Magic, Ranged** |   **Maneuver** |
-| ------------------------ | -------------: |
-| **📏 Ranged 10**         | **🎯 Special** |
-
-**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
-
-**Power Roll + Reason:**
-
-- **≤11:** The target can shift 1 square from the edge of the hole to the nearest unoccupied space of their choice.
-- **12-16:** The target falls into the hole.
-- **17+:** The target falls into the hole and can't reduce the height of the fall.
-
-**Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
-
-###### No More Than a Breeze (5 Essence)
-
-*The material substance of a creature shreds away at your command.*
-
-| **Magic, Ranged, Void** |            **Maneuver** |
-| ----------------------- | ----------------------: |
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
-
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
-
-**Persistent 1:** The effect lasts until the start of your next turn.
-
-###### Test of Rain (5 Essence)
-
-*You call down a rain that burns your enemies and restores your allies.*
-
-| **Area, Green, Magic, Ranged** |               **Main action** |
-| ------------------------------ | ----------------------------: |
-| **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 4 acid damage
-- **12-16:** 6 acid damage
-- **17+:** 10 acid damage
-
-**Effect:** You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.
+<!-- -->
+> ###### Test of Rain (5 Essence)
+>
+> *You call down a rain that burns your enemies and restores your allies.*
+>
+> | **Area, Green, Magic, Ranged** |               **Main action** |
+> | ------------------------------ | ----------------------------: |
+> | **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 4 acid damage
+> - **12-16:** 6 acid damage
+> - **17+:** 10 acid damage
+>
+> **Effect:** You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.

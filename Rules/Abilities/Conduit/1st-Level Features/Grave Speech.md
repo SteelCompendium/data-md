@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:grave-speech
 scdc:
-  - 1.1.1:13.2.8.1:19
+  - 1.1.1:11.2.8.1:19
 source: mcdm.heroes.v1
 subclass: Death
 target: One dead creature

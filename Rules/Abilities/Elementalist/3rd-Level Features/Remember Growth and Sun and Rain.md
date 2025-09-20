@@ -4,7 +4,7 @@ class: elementalist
 distance: Melee 1
 feature_type: ability
 file_basename: Remember Growth and Sun and Rain
-file_dpath: Elementalist/3rd-Level Features
+file_dpath: Abilities/Elementalist/3rd-Level Features
 flavor: You stir any wood's memory and learn what it has seen.
 item_id: remember-growth-and-sun-and-rain
 item_index: '01'
@@ -17,7 +17,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain
 scdc:
-  - 1.1.1:13.2.9.6:01
+  - 1.1.1:11.2.9.6:01
 source: mcdm.heroes.v1
 subclass: Green
 target: One mundane wooden object

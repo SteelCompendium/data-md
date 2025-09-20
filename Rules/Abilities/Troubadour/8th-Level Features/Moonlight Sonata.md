@@ -4,7 +4,7 @@ class: troubadour
 distance: 5 aura
 feature_type: ability
 file_basename: Moonlight Sonata
-file_dpath: Troubadour/8th-Level Features
+file_dpath: Abilities/Troubadour/8th-Level Features
 flavor: Music pours out of your heart, filling the area with the utmost delicacy and without damper.
 item_id: moonlight-sonata
 item_index: '03'
@@ -17,7 +17,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:moonlight-sonata
 scdc:
-  - 1.1.1:13.2.3.2:03
+  - 1.1.1:11.2.3.2:03
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Each ally in the area

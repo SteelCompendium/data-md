@@ -8,7 +8,7 @@ item_name: Displacing Replacement Bracer
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:displacing-replacement-bracer
 scdc:
-  - 1.1.1:12.4.4:08
+  - 1.1.1:13.4.4:08
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon

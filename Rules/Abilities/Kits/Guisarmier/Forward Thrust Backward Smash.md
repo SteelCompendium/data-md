@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 2
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Guisarmier
 scc:
   - mcdm.heroes.v1:kit-ability.guisarmier:forward-thrust-backward-smash
 scdc:

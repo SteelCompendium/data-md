@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1
 feature_type: ability
 file_basename: Black Ash Eruption
-file_dpath: Shadow/6th-Level Features
+file_dpath: Abilities/Shadow/6th-Level Features
 flavor: Your attack produces a cloud of black ash that launches an enemy into the air.
 item_id: black-ash-eruption-9-insight
 item_index: '01'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:black-ash-eruption-9-insight
 scdc:
-  - 1.1.1:13.2.2.3:01
+  - 1.1.1:11.2.2.3:01
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: One creature

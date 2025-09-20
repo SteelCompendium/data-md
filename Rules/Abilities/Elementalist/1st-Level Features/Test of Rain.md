@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Test of Rain
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: You call down a rain that burns your enemies and restores your allies.
 item_id: test-of-rain-5-essence
 item_index: '15'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:15
+  - 1.1.1:11.2.9.1:15
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/1st-level-feature

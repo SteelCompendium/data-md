@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Ranged 5
 feature_type: ability
 file_basename: Setup
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: Your friends will thank you.
 item_id: setup-5-insight
 item_index: 08
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:setup-5-insight
 scdc:
-  - 1.1.1:13.2.2.1:08
+  - 1.1.1:11.2.2.1:08
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/shadow/1st-level-feature

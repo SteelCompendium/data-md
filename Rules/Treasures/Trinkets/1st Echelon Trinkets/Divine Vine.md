@@ -8,7 +8,7 @@ item_name: Divine Vine
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:divine-vine
 scdc:
-  - 1.1.1:12.4.4:06
+  - 1.1.1:13.4.4:06
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon

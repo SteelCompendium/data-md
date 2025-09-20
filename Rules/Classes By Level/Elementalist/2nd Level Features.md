@@ -82,80 +82,85 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 
 You have the following ability.
 
-###### There Is No Space Between
-
-*Knowledge of the mystery reveals that two spaces are the same space.*
-
-| **Magic, Ranged, Void** |   **Maneuver** |
-| ----------------------- | -------------: |
-| **📏 Ranged 10**        | **🎯 Special** |
-
-**Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
-
-At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
+<!-- -->
+> ###### There Is No Space Between
+>
+> *Knowledge of the mystery reveals that two spaces are the same space.*
+>
+> | **Magic, Ranged, Void** |   **Maneuver** |
+> | ----------------------- | -------------: |
+> | **📏 Ranged 10**        | **🎯 Special** |
+>
+> **Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+>
+> At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
 
 #### New 5-Essence Ability
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
 
-###### O Flower Aid, O Earth Defend (5 Essence)
+<!-- -->
+> ###### O Flower Aid, O Earth Defend (5 Essence)
+>
+> *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
+>
+> | **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
+> | ------------------------------------- | -------------: |
+> | **📏 3 cube within 10**               | **🎯 Special** |
+>
+> **Effect:** Until the start of your next turn, the area gains the following effects:
+>
+> - Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
+> - The area is difficult terrain for enemies.
+> - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
+>
+> **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
 
-*Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
+<!-- -->
+> ###### Subvert the Green Within (5 Essence)
+>
+> *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
+>
+> | **Green, Magic, Ranged, Strike, Void** |     **Main action** |
+> | -------------------------------------- | ------------------: |
+> | **📏 Ranged 10**                       | **🎯 One creature** |
+>
+> **Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 5 + R poison damage
+> - **12-16:** 9 + R poison damage
+> - **17+:** 12 + R poison damage
 
-| **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
-| ------------------------------------- | -------------: |
-| **📏 3 cube within 10**               | **🎯 Special** |
+<!-- -->
+> ###### Translated Through Flame (5 Essence)
+>
+> *Your ally disappears, then reappears in a burst of fire.*
+>
+> | **Fire, Magic, Ranged, Void** |         **Main action** |
+> | ----------------------------- | ----------------------: |
+> | **📏 Ranged 10**              | **🎯 Self or one ally** |
+>
+> **Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 3 fire damage
+> - **12-16:** 5 fire damage
+> - **17+:** 8 fire damage
 
-**Effect:** Until the start of your next turn, the area gains the following effects:
-
-- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
-- The area is difficult terrain for enemies.
-- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
-
-**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
-
-###### Subvert the Green Within (5 Essence)
-
-*Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
-
-| **Green, Magic, Ranged, Strike, Void** |     **Main action** |
-| -------------------------------------- | ------------------: |
-| **📏 Ranged 10**                       | **🎯 One creature** |
-
-**Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R poison damage
-- **12-16:** 9 + R poison damage
-- **17+:** 12 + R poison damage
-
-###### Translated Through Flame (5 Essence)
-
-*Your ally disappears, then reappears in a burst of fire.*
-
-| **Fire, Magic, Ranged, Void** |         **Main action** |
-| ----------------------------- | ----------------------: |
-| **📏 Ranged 10**              | **🎯 Self or one ally** |
-
-**Effect:** The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
-
-**Power Roll + Reason:**
-
-- **≤11:** 3 fire damage
-- **12-16:** 5 fire damage
-- **17+:** 8 fire damage
-
-###### Volcano's Embrace (5 Essence)
-
-*Wrap them up in fire and melting stone.*
-
-| **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
-| -------------------------------------- | ------------------: |
-| **📏 Ranged 10**                       | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)
-- **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)
-- **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)
+<!-- -->
+> ###### Volcano's Embrace (5 Essence)
+>
+> *Wrap them up in fire and melting stone.*
+>
+> | **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
+> | -------------------------------------- | ------------------: |
+> | **📏 Ranged 10**                       | **🎯 One creature** |
+>
+> **Power Roll + Reason:**
+>
+> - **≤11:** 5 + R fire damage; A < WEAK, restrained (save ends)
+> - **12-16:** 9 + R fire damage; A < AVERAGE, restrained (save ends)
+> - **17+:** 12 + R fire damage; A < STRONG, restrained (save ends)

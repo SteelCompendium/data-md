@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Gravitic Charge
-file_dpath: Null/6th-Level Features
+file_dpath: Abilities/Null/6th-Level Features
 flavor: You channel your discipline into momentum that defies gravity.
 item_id: gravitic-charge-9-discipline
 item_index: '02'
@@ -18,7 +18,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:gravitic-charge-9-discipline
 scdc:
-  - 1.1.1:13.2.6.3:02
+  - 1.1.1:11.2.6.3:02
 source: mcdm.heroes.v1
 subclass: Metakinetic
 target: Self

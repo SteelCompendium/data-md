@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Self
 feature_type: ability
 file_basename: Demon Unleashed
-file_dpath: Fury/3rd-Level Features
+file_dpath: Abilities/Fury/3rd-Level Features
 flavor: Foes tremble at the sight of you.
 item_id: demon-unleashed-7-ferocity
 item_index: '01'
@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:demon-unleashed-7-ferocity
 scdc:
-  - 1.1.1:13.2.5.5:01
+  - 1.1.1:11.2.5.5:01
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/fury/3rd-level-feature

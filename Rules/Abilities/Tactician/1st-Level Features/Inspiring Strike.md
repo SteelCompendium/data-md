@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Inspiring Strike
-file_dpath: Tactician/1st-Level Features
+file_dpath: Abilities/Tactician/1st-Level Features
 flavor: Your attack gives an ally hope.
 item_id: inspiring-strike-3-focus
 item_index: '02'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:inspiring-strike-3-focus
 scdc:
-  - 1.1.1:13.2.4.1:02
+  - 1.1.1:11.2.4.1:02
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/tactician/1st-level-feature

@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Melee 1
 feature_type: ability
 file_basename: Sentenced
-file_dpath: Censor/2nd-Level Features
+file_dpath: Abilities/Censor/2nd-Level Features
 flavor: The shock of your condemnation freezes your enemy in their boots.
 item_id: sentenced-5-wrath
 item_index: '02'
@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:sentenced-5-wrath
 scdc:
-  - 1.1.1:13.2.7.5:02
+  - 1.1.1:11.2.7.5:02
 source: mcdm.heroes.v1
 subclass: Paragon
 target: One creature

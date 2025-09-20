@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Psi Boost
 file_dpath: Abilities/Talent/6th-Level Features
 item_id: psi-boost
-item_index: '02'
+item_index: '05'
 item_name: Psi Boost
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.talent.6th-level-feature:psi-boost
 scdc:
-  - 1.1.1:13.1.1.3:02
+  - 1.1.1:11.1.1.3:05
 source: mcdm.heroes.v1
 type: feature/trait/talent/6th-level-feature
 ---

@@ -4,7 +4,7 @@ class: tactician
 distance: Ranged 10
 feature_type: ability
 file_basename: Advanced Tactics
-file_dpath: Tactician/1st-Level Features
+file_dpath: Abilities/Tactician/1st-Level Features
 flavor: Your leadership aids an ally.
 item_id: advanced-tactics
 item_index: '05'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:advanced-tactics
 scdc:
-  - 1.1.1:13.2.4.1:05
+  - 1.1.1:11.2.4.1:05
 source: mcdm.heroes.v1
 subclass: Insurgent
 target: One ally

@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Self; see below
 feature_type: ability
 file_basename: Cacophony of Cinders
-file_dpath: Shadow/9th-Level Features
+file_dpath: Abilities/Shadow/9th-Level Features
 flavor: You tumble through the battle, stabbing foes and teleporting allies.
 item_id: cacophony-of-cinders-11-insight
 item_index: '04'
@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:cacophony-of-cinders-11-insight
 scdc:
-  - 1.1.1:13.2.2.7:04
+  - 1.1.1:11.2.2.7:04
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: Self

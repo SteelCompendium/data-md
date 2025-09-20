@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Staggering Blow
-file_dpath: Shadow/3rd-Level Features
+file_dpath: Abilities/Shadow/3rd-Level Features
 flavor: There's no recovering from this.
 item_id: staggering-blow-7-insight
 item_index: '01'
@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:staggering-blow-7-insight
 scdc:
-  - 1.1.1:13.2.2.6:01
+  - 1.1.1:11.2.2.6:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/shadow/3rd-level-feature

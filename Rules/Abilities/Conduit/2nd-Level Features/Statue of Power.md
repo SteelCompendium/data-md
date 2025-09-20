@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Statue of Power
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Abilities/Conduit/2nd-Level Features
 flavor: A marble statue of your deity rises from the earth.
 item_id: statue-of-power-5-piety
 item_index: '03'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:statue-of-power-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:03
+  - 1.1.1:11.2.8.5:03
 source: mcdm.heroes.v1
 subclass: Creation
 target: Special

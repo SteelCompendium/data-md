@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Pain of Your Own Making
-file_dpath: Censor/6th-Level Features
+file_dpath: Abilities/Censor/6th-Level Features
 flavor: You reverse the effects from an evildoer.
 item_id: pain-of-your-own-making-9-wrath
 item_index: '05'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:pain-of-your-own-making-9-wrath
 scdc:
-  - 1.1.1:13.2.7.3:05
+  - 1.1.1:11.2.7.3:05
 source: mcdm.heroes.v1
 subclass: Exorcist
 target: Self or one ally

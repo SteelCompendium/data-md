@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Ranged 10
@@ -12,7 +13,6 @@ keywords:
   - Ranged
   - Strike
   - Weapon
-kit: Ranger
 scc:
   - mcdm.heroes.v1:kit-ability.ranger:hamstring-shot
 scdc:

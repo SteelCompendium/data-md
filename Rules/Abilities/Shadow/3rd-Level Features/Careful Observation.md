@@ -4,7 +4,7 @@ class: shadow
 distance: Ranged 20
 feature_type: ability
 file_basename: Careful Observation
-file_dpath: Shadow/3rd-Level Features
+file_dpath: Abilities/Shadow/3rd-Level Features
 flavor: A moment of focus leaves a foe firmly in your sights.
 item_id: careful-observation
 item_index: '04'
@@ -15,7 +15,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:careful-observation
 scdc:
-  - 1.1.1:13.2.2.6:04
+  - 1.1.1:11.2.2.6:04
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/shadow/3rd-level-feature

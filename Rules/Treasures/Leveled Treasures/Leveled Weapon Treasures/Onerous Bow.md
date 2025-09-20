@@ -8,7 +8,7 @@ item_name: Onerous Bow
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:onerous-bow
 scdc:
-  - 1.1.1:12.3.1:04
+  - 1.1.1:13.3.1:04
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

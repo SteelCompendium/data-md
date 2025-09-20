@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: 5 x 1 line within 1
 feature_type: ability
 file_basename: Thunder Roar
-file_dpath: Fury/1st-Level Features
+file_dpath: Abilities/Fury/1st-Level Features
 flavor: You unleash a howl that hurls your enemies back.
 item_id: thunder-roar-5-ferocity
 item_index: 09
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:thunder-roar-5-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:09
+  - 1.1.1:11.2.5.1:09
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/fury/1st-level-feature

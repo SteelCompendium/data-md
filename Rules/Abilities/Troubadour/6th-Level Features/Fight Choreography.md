@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Melee 1
 feature_type: ability
 file_basename: Fight Choreography
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Abilities/Troubadour/6th-Level Features
 flavor: You and your partner make a flashy show of derring-do, then get back to your corners.
 item_id: fight-choreography-9-drama
 item_index: '07'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:fight-choreography-9-drama
 scdc:
-  - 1.1.1:13.2.3.3:07
+  - 1.1.1:11.2.3.3:07
 source: mcdm.heroes.v1
 subclass: Duelist
 target: One creature

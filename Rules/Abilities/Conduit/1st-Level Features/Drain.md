@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: conduit
 distance: Melee 1
 feature_type: ability
 file_basename: Drain
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: You drain the energy from your target to revitalize yourself or an ally.
 item_id: drain
 item_index: '20'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:drain
 scdc:
-  - 1.1.1:13.2.8.1:20
+  - 1.1.1:11.2.8.1:20
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/conduit/1st-level-feature

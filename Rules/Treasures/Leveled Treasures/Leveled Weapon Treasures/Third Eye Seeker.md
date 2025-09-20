@@ -8,7 +8,7 @@ item_name: Third Eye Seeker
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:third-eye-seeker
 scdc:
-  - 1.1.1:12.3.1:14
+  - 1.1.1:13.3.1:14
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Melee 1
 feature_type: ability
 file_basename: Blood for Blood
-file_dpath: Fury/1st-Level Features
+file_dpath: Abilities/Fury/1st-Level Features
 flavor: See how well they fight after you've bled them dry.
 item_id: blood-for-blood-5-ferocity
 item_index: '13'
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:blood-for-blood-5-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:13
+  - 1.1.1:11.2.5.1:13
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/fury/1st-level-feature

@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 5 burst
 feature_type: ability
 file_basename: Heres How Your Story Ends
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Abilities/Troubadour/6th-Level Features
 flavor: You give away the ending of this battle, and it's not great for them.
 item_id: heres-how-your-story-ends-9-drama
 item_index: '05'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:heres-how-your-story-ends-9-drama
 scdc:
-  - 1.1.1:13.2.3.3:05
+  - 1.1.1:11.2.3.3:05
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Each enemy in the area

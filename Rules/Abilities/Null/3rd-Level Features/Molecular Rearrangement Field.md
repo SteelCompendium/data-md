@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Molecular Rearrangement Field
-file_dpath: Null/3rd-Level Features
+file_dpath: Abilities/Null/3rd-Level Features
 flavor: Your enemies' wounds open, your allies' wounds close.
 item_id: molecular-rearrangement-field-7-discipline
 item_index: '03'
@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:molecular-rearrangement-field-7-discipline
 scdc:
-  - 1.1.1:13.2.6.6:03
+  - 1.1.1:11.2.6.6:03
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/null/3rd-level-feature

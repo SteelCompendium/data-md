@@ -8,7 +8,7 @@ item_name: Color Cloak (Yellow)
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:color-cloak-yellow
 scdc:
-  - 1.1.1:12.4.4:10
+  - 1.1.1:13.4.4:10
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon

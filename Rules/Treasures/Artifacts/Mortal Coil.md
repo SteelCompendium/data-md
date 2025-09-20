@@ -8,7 +8,7 @@ item_name: Mortal Coil
 scc:
   - mcdm.heroes.v1:treasure.artifact:mortal-coil
 scdc:
-  - 1.1.1:12.1:02
+  - 1.1.1:13.1:02
 source: mcdm.heroes.v1
 treasure_type: Treasure
 type: treasure/artifact

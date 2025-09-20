@@ -4,7 +4,7 @@ class: elementalist
 distance: Ranged 10
 feature_type: ability
 file_basename: There Is No Space Between
-file_dpath: Elementalist/2nd-Level Features
+file_dpath: Abilities/Elementalist/2nd-Level Features
 flavor: Knowledge of the mystery reveals that two spaces are the same space.
 item_id: there-is-no-space-between
 item_index: '04'
@@ -17,7 +17,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:there-is-no-space-between
 scdc:
-  - 1.1.1:13.2.9.5:04
+  - 1.1.1:11.2.9.5:04
 source: mcdm.heroes.v1
 subclass: Void
 target: Special

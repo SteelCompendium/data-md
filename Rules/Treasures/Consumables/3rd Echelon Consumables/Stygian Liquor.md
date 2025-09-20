@@ -8,7 +8,7 @@ item_name: Stygian Liquor
 scc:
   - mcdm.heroes.v1:treasure.consumable.3rd-echelon:stygian-liquor
 scdc:
-  - 1.1.1:12.2.2:08
+  - 1.1.1:13.2.2:08
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/3rd-echelon

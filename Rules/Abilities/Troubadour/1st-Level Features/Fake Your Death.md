@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Self
 feature_type: ability
 file_basename: Fake Your Death
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: O happy dagger, this is thy sheath!
 item_id: fake-your-death-5-drama
 item_index: '05'
@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:fake-your-death-5-drama
 scdc:
-  - 1.1.1:13.2.3.1:05
+  - 1.1.1:11.2.3.1:05
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/troubadour/1st-level-feature

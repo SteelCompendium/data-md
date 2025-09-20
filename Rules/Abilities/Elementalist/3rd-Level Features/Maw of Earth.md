@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Maw of Earth
-file_dpath: Elementalist/3rd-Level Features
+file_dpath: Abilities/Elementalist/3rd-Level Features
 flavor: You open up the ground, spewing out shrapnel of stone and debris.
 item_id: maw-of-earth-7-essence
 item_index: '03'
@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:maw-of-earth-7-essence
 scdc:
-  - 1.1.1:13.2.9.6:03
+  - 1.1.1:11.2.9.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/3rd-level-feature

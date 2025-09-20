@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 3 aura
 feature_type: ability
 file_basename: Wellspring of Grace
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Abilities/Conduit/2nd-Level Features
 flavor: A holy light is emitted from your body, healing your allies.
 item_id: wellspring-of-grace-5-piety
 item_index: 08
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:wellspring-of-grace-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:08
+  - 1.1.1:11.2.8.5:08
 source: mcdm.heroes.v1
 subclass: Life
 target: Each ally in the area

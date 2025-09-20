@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Stabilizing Field
-file_dpath: Null/3rd-Level Features
+file_dpath: Abilities/Null/3rd-Level Features
 flavor: You project order, making it harder for your enemies to interfere with you and your allies.
 item_id: stabilizing-field-7-discipline
 item_index: '04'
@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:stabilizing-field-7-discipline
 scdc:
-  - 1.1.1:13.2.6.6:04
+  - 1.1.1:11.2.6.6:04
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/null/3rd-level-feature

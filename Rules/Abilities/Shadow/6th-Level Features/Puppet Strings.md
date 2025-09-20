@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Melee 1
 feature_type: ability
 file_basename: Puppet Strings
-file_dpath: Shadow/6th-Level Features
+file_dpath: Abilities/Shadow/6th-Level Features
 flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
 item_id: puppet-strings-9-insight
 item_index: '03'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:puppet-strings-9-insight
 scdc:
-  - 1.1.1:13.2.2.3:03
+  - 1.1.1:11.2.2.3:03
 source: mcdm.heroes.v1
 subclass: Harlequin Mask
 target: Two enemies

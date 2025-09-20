@@ -71,18 +71,18 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 ###### Censor Advancement Table
 
-| Level | Features                                                                                                             | Abilities                      | Order<br/> Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------- |
-| 1st   | Censor Order, Deity and Domains, Wrath,<br/> Judgment, Kit, My Life for Yours, Domain<br/> Feature, Censor Abilities | Signature, 3, 5                | -                    |
-| 2nd   | Perk, Order Features, Order Ability                                                                                  | Signature, 3, 5                | 5                    |
-| 3rd   | Look On My Work and Despair, 7-Wrath<br/> Ability                                                                    | Signature,<br/> 3, 5, 7        | 5                    |
-| 4th   | Characteristic Increase, Perk, Skill, Wrath<br/> Beyond Wrath, Domain Feature                                        | Signature,<br/> 3, 5, 7        | 5                    |
-| 5th   | Order Feature, 9-Wrath Ability                                                                                       | Signature, 3,<br/> 5, 7, 9     | 5                    |
-| 6th   | Implement of Wrath, Perk, Order Ability                                                                              | Signature, 3,<br/> 5, 7, 9     | 5, 9                 |
-| 7th   | Characteristic Increase, Domain Feature,<br/> Focused Wrath, Skill                                                   | Signature, 3,<br/> 5, 7, 9     | 5, 9                 |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                                | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9                 |
-| 9th   | Improved Implement of Wrath, Order Ability                                                                           | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, Templar,<br/> Virtue, Wrath of the Gods                                        | Signature, 3, 5,<br/> 7, 9, 11 | 5, 9, 11             |
+| Level | Features                                                                                                   | Abilities                 | Order<br/> Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
+| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                    |
+| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                    |
+| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                    |
+| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                    |
+| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                    |
+| 6th   | Implement of Wrath, Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                              | Signature, 3, 5, 7, 9     | 5, 9                 |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
+| 9th   | Improved Implement of Wrath, Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
+| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
 
 #### Wrath
 
@@ -106,28 +106,29 @@ When you use an ability outside of combat that lets you spend unlimited wrath on
 
 You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
-###### Judgment
-
-*You utter a prayer that outlines your foe in holy energy.*
-
-| **Magic, Ranged** |     **Maneuver** |
-| ----------------- | ---------------: |
-| **📏 Ranged 10**  | **🎯 One enemy** |
-
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
-
-Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
-
-When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
-
-Additionally, you can spend 1 wrath to take one of the following free triggered actions:
-
-- When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
-- When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
-- When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
-
-You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+<!-- -->
+> ###### Judgment
+>
+> *You utter a prayer that outlines your foe in holy energy.*
+>
+> | **Magic, Ranged** |     **Maneuver** |
+> | ----------------- | ---------------: |
+> | **📏 Ranged 10**  | **🎯 One enemy** |
+>
+> **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+>
+> Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
+>
+> When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
+>
+> Additionally, you can spend 1 wrath to take one of the following free triggered actions:
+>
+> - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
+> - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
+> - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
+> - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+>
+> You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
 ##### Judgment Order Benefit
 
@@ -145,19 +146,20 @@ You can use and gain the benefits of a kit. See [Chapter 6: Kits](#page-231-0) f
 
 You channel your will to mend your wounds or the wounds of your allies. You have the following ability.
 
-###### My Life for Yours
-
-*You channel some of your vitality into more resilience for you or an ally.*
-
-| **Magic, Ranged** |           **Triggered** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target starts their turn or takes damage.
-
-**Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
-
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
+<!-- -->
+> ###### My Life for Yours
+>
+> *You channel some of your vitality into more resilience for you or an ally.*
+>
+> | **Magic, Ranged** |           **Triggered** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Trigger:** The target starts their turn or takes damage.
+>
+> **Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
+>
+> **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
 
 #### 1st-Level Domain Feature
 
@@ -208,43 +210,46 @@ If you are in the same area as a creature using this or a similar feature who ha
 
 You have the following ability.
 
-###### Faithful Friend
-
-*An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
-
-| **Magic**   | **Main action** |
-| ----------- | --------------: |
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
+<!-- -->
+> ###### Faithful Friend
+>
+> *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
+>
+> | **Magic**   | **Main action** |
+> | ----------- | --------------: |
+> | **📏 Self** |     **🎯 Self** |
+>
+> **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
 ##### Grave Speech
 
 You have the following ability.
 
-###### Grave Speech
-
-*You commune with the lingering soul of the recently dead.*
-
-| **Magic**      |             **Maneuver** |
-| -------------- | -----------------------: |
-| **📏 Melee 1** | **🎯 One dead creature** |
-
-**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
+<!-- -->
+> ###### Grave Speech
+>
+> *You commune with the lingering soul of the recently dead.*
+>
+> | **Magic**      |             **Maneuver** |
+> | -------------- | -----------------------: |
+> | **📏 Melee 1** | **🎯 One dead creature** |
+>
+> **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
 ##### Hands of the Maker
 
 You have the following ability.
 
-###### Hands of the Maker
-
-*You craft objects with the power of your mind.*
-
-| **Magic**   | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
+<!-- -->
+> ###### Hands of the Maker
+>
+> *You craft objects with the power of your mind.*
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
 ##### Inner Light
 
@@ -278,65 +283,69 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Your Allies Cannot Save You!)
 
-###### Back Blasphemer!
+<!-- -->
+> ###### Back Blasphemer!
+>
+> *You channel power through your weapon to repel foes.*
+>
+> | **Area, Magic, Melee, Weapon** |               **Main action** |
+> | ------------------------------ | ----------------------------: |
+> | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 2 holy damage; push 1
+> - **12-16:** 4 holy damage; push 2
+> - **17+:** 6 holy damage; push 3
 
-*You channel power through your weapon to repel foes.*
+<!-- -->
+> ###### Every Step... Death!
+>
+> *You show your foe a glimpse of their fate after death.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 5 + P psychic damage
+> - **12-16:** 7 + P psychic damage
+> - **17+:** 10 + P psychic damage
+>
+> **Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
-| ------------------------------ | ----------------------------: |
-| **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
+<!-- -->
+> ###### Halt Miscreant!
+>
+> *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 2 + M holy damage; P < WEAK, slowed (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, slowed (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, slowed (save ends)
 
-**Power Roll + Presence:**
-
-- **≤11:** 2 holy damage; push 1
-- **12-16:** 4 holy damage; push 2
-- **17+:** 6 holy damage; push 3
-
-###### Every Step... Death!
-
-*You show your foe a glimpse of their fate after death.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P psychic damage
-- **12-16:** 7 + P psychic damage
-- **17+:** 10 + P psychic damage
-
-**Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
-
-###### Halt Miscreant!
-
-*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
-
-| **Melee, Strike, Weapon** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Melee 1**            | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M holy damage; P < WEAK, slowed (save ends)
-- **12-16:** 5 + M holy damage; P < AVERAGE, slowed (save ends)
-- **17+:** 7 + M holy damage; P < STRONG, slowed (save ends)
-
-###### Your Allies Cannot Save You!
-
-*Your magic strike turns your foe's guilt into a burst of holy power.*
-
-| **Melee, Strike, Weapon** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Melee 1**            | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M holy damage
-- **12-16:** 5 + M holy damage
-- **17+:** 8 + M holy damage
-
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
+<!-- -->
+> ###### Your Allies Cannot Save You!
+>
+> *Your magic strike turns your foe's guilt into a burst of holy power.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M holy damage
+> - **12-16:** 5 + M holy damage
+> - **17+:** 8 + M holy damage
+>
+> **Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
 
 ##### Heroic Abilities
 
@@ -346,135 +355,143 @@ You call upon a number of heroic abilities, all of them bound to your wrath.
 
 Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
 
-###### Behold a Shield of Faith! (3 Wrath)
+<!-- -->
+> ###### Behold a Shield of Faith! (3 Wrath)
+>
+> *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M holy damage
+> - **12-16:** 6 + M holy damage
+> - **17+:** 9 + M holy damage
+>
+> **Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
 
-*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
+<!-- -->
+> ###### Driving Assault (3 Wrath)
+>
+> *As you force your enemy back with your weapon, you use your faith to stay close.*
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M damage; push 1
+> - **12-16:** 6 + M damage; push 3
+> - **17+:** 9 + M damage; push 5
+>
+> **Effect:** You can shift up to your speed in a straight line toward the target after pushing them.
 
-| **Melee, Strike, Weapon** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Melee 1**            | **🎯 One creature or object** |
+<!-- -->
+> ###### The Gods Punish and Defend (3 Wrath)
+>
+> *You channel holy energy to smite a foe and heal an ally.*
+>
+> | **Magic, Melee, Strike, Weapon** |               **Main action** |
+> | -------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                   | **🎯 One creature or object** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 5 + M holy damage
+> - **12-16:** 8 + M holy damage
+> - **17+:** 11 + M holy damage
+>
+> **Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.
 
-**Power Roll + Might:**
-
-- **≤11:** 3 + M holy damage
-- **12-16:** 6 + M holy damage
-- **17+:** 9 + M holy damage
-
-**Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
-
-###### Driving Assault (3 Wrath)
-
-*As you force your enemy back with your weapon, you use your faith to stay close.*
-
-| **Melee, Strike, Weapon** |               **Main action** |
-| ------------------------- | ----------------------------: |
-| **📏 Melee 1**            | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
-
-**Effect:** You can shift up to your speed in a straight line toward the target after pushing them.
-
-###### The Gods Punish and Defend (3 Wrath)
-
-*You channel holy energy to smite a foe and heal an ally.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M holy damage
-- **12-16:** 8 + M holy damage
-- **17+:** 11 + M holy damage
-
-**Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.
-
-###### Repent! (3 Wrath)
-
-*You conjure memories of their sins to harry your foes.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)
+<!-- -->
+> ###### Repent! (3 Wrath)
+>
+> *You conjure memories of their sins to harry your foes.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 5 + P holy damage; I < WEAK, dazed (save ends)
+> - **12-16:** 8 + P holy damage; I < AVERAGE, dazed (save ends)
+> - **17+:** 11 + P holy damage; I < STRONG, dazed (save ends)
 
 ###### 5-Wrath Ability
 
 Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)
 
-###### Arrest (5 Wrath)
+<!-- -->
+> ###### Arrest (5 Wrath)
+>
+> *"I got you, you son of a bitch."*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> | -------------------------------- | ------------------: |
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 6 + M holy damage; grabbed
+> - **12-16:** 9 + M holy damage; grabbed
+> - **17+:** 13 + M holy damage; grabbed
+>
+> **Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
-*"I got you, you son of a bitch."*
+<!-- -->
+> ###### Behold the Face of Justice! (5 Wrath)
+>
+> *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
+>
+> | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | ---------------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is frightened of you (save ends)
+> - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)
+> - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is frightened of you (save ends)
+>
+> **Effect:** Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Melee 1**                   | **🎯 One creature** |
+<!-- -->
+> ###### Censored (5 Wrath)
+>
+> *Judged and sentenced.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 2 + M holy damage
+> - **12-16:** 3 + M holy damage
+> - **17+:** 5 + M holy damage
+>
+> **Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
 
-**Power Roll + Might:**
-
-- **≤11:** 6 + M holy damage; grabbed
-- **12-16:** 9 + M holy damage; grabbed
-- **17+:** 13 + M holy damage; grabbed
-
-**Effect:** If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
-
-###### Behold the Face of Justice! (5 Wrath)
-
-*You attack a foe and your enemies behold a vision of the true nature of your resolve.*
-
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
-| ---------------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is frightened of you (save ends)
-- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)
-- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is frightened of you (save ends)
-
-**Effect:** Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
-
-###### Censored (5 Wrath)
-
-*Judged and sentenced.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M holy damage
-- **12-16:** 3 + M holy damage
-- **17+:** 5 + M holy damage
-
-**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
-
-###### Purifying Fire (5 Wrath)
-
-*The gods judge, fire cleanses.*
-
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
-| ---------------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
-- **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)
-- **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)
-
-**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
+<!-- -->
+> ###### Purifying Fire (5 Wrath)
+>
+> *The gods judge, fire cleanses.*
+>
+> | **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | ---------------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
+> - **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)
+> - **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)
+>
+> **Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
 
 ### 2nd-Level Features
 
@@ -528,87 +545,93 @@ Your censor order grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### It Is Justice You Fear (5 Wrath)
+<!-- -->
+> ###### It Is Justice You Fear (5 Wrath)
+>
+> *I am but a vessel. Your own deeds weigh upon you.*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 8 + M holy damage; P < WEAK, frightened (save ends)
+> - **12-16:** 12 + M holy damage; P < AVERAGE, frightened (save ends)
+> - **17+:** 15 + M holy damage; P < STRONG, frightened (save ends)
+>
+> **Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
-*I am but a vessel. Your own deeds weigh upon you.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M holy damage; P < WEAK, frightened (save ends)
-- **12-16:** 12 + M holy damage; P < AVERAGE, frightened (save ends)
-- **17+:** 15 + M holy damage; P < STRONG, frightened (save ends)
-
-**Effect:** If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
-
-###### Revelator (5 Wrath)
-
-*You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.
+<!-- -->
+> ###### Revelator (5 Wrath)
+>
+> *You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.
 
 ##### 2nd-Level Oracle Ability
 
 Choose one of the following abilities.
 
-###### Prescient Grace (5 Wrath)
+<!-- -->
+> ###### Prescient Grace (5 Wrath)
+>
+> *Gifted by a prescient vision, you warn an ally of an impending attack.*
+>
+> | **Magic, Ranged** |           **Triggered** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Trigger:** An enemy within 10 squares starts their turn.
+>
+> **Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
 
-*Gifted by a prescient vision, you warn an ally of an impending attack.*
-
-| **Magic, Ranged** |           **Triggered** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** An enemy within 10 squares starts their turn.
-
-**Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
-
-###### With My Blessing (5 Wrath)
-
-*A word in prayer, and the gods show the way.*
-
-| **Magic, Ranged** |         **Main action** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
+<!-- -->
+> ###### With My Blessing (5 Wrath)
+>
+> *A word in prayer, and the gods show the way.*
+>
+> | **Magic, Ranged** |         **Main action** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
 
 ##### 2nd-Level Paragon Ability
 
 Choose one of the following abilities.
 
-###### Blessing of the Faithful (5 Wrath)
+<!-- -->
+> ###### Blessing of the Faithful (5 Wrath)
+>
+> *The gods reward your faith.*
+>
+> | **Area, Magic** |                          **Maneuver** |
+> | --------------- | ------------------------------------: |
+> | **📏 3 aura**   | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
 
-*The gods reward your faith.*
-
-| **Area, Magic** |                          **Maneuver** |
-| --------------- | ------------------------------------: |
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
-
-###### Sentenced (5 Wrath)
-
-*The shock of your condemnation freezes your enemy in their boots.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Melee 1**                   | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P damage; P < WEAK, restrained (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, restrained (save ends)
-- **17+:** 12 + P damage; P < STRONG, restrained (save ends)
-
-**Effect:** While the target is restrained this way, your abilities that impose forced movement can still move them.
+<!-- -->
+> ###### Sentenced (5 Wrath)
+>
+> *The shock of your condemnation freezes your enemy in their boots.*
+>
+> | **Magic, Melee, Strike, Weapon** |     **Main action** |
+> | -------------------------------- | ------------------: |
+> | **📏 Melee 1**                   | **🎯 One creature** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 5 + P damage; P < WEAK, restrained (save ends)
+> - **12-16:** 9 + P damage; P < AVERAGE, restrained (save ends)
+> - **17+:** 12 + P damage; P < STRONG, restrained (save ends)
+>
+> **Effect:** While the target is restrained this way, your abilities that impose forced movement can still move them.
 
 ### 3rd-Level Features
 
@@ -622,45 +645,49 @@ Your judgment has grown in divine power, instilling fear in those you condemn. W
 
 Choose one heroic ability from the following options, each of which costs 7 wrath to use.
 
-###### Edict of Disruptive Isolation (7 Wrath)
+<!-- -->
+> ###### Edict of Disruptive Isolation (7 Wrath)
+>
+> *The evil within your foes detonates with holy fire that burns only the guilty.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 2 aura**   | **🎯 Each enemy in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
 
-*The evil within your foes detonates with holy fire that burns only the guilty.*
+<!-- -->
+> ###### Edict of Perfect Order (7 Wrath)
+>
+> *Within the area of your divine presence, your enemies will regret using their fell abilities.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 2 aura**   | **🎯 Each enemy in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
+<!-- -->
+> ###### Edict of Purifying Pacifism (7 Wrath)
+>
+> *You shed a righteous energy that punishes enemies who would harm you or your allies.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 2 aura**   | **🎯 Each enemy in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
-**Effect:** Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
-
-###### Edict of Perfect Order (7 Wrath)
-
-*Within the area of your divine presence, your enemies will regret using their fell abilities.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
-
-###### Edict of Purifying Pacifism (7 Wrath)
-
-*You shed a righteous energy that punishes enemies who would harm you or your allies.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
-
-###### Edict of Stillness (7 Wrath)
-
-*The holy aura you project makes it painful for evil-doers to leave your reach.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 2 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+<!-- -->
+> ###### Edict of Stillness (7 Wrath)
+>
+> *The holy aura you project makes it painful for evil-doers to leave your reach.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 2 aura**   | **🎯 Each enemy in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 
 ### 4th-Level Features
 
@@ -711,15 +738,16 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You have the following ability.
 
-###### Blessing of Secrets
-
-*You project an illusory aura that makes you and allies harder to notice.*
-
-| **Area, Magic** |                          **Maneuver** |
-| --------------- | ------------------------------------: |
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+<!-- -->
+> ###### Blessing of Secrets
+>
+> *You project an illusory aura that makes you and allies harder to notice.*
+>
+> | **Area, Magic** |                          **Maneuver** |
+> | --------------- | ------------------------------------: |
+> | **📏 3 aura**   | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ##### Impervious Touch
 
@@ -797,61 +825,65 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 
 Choose one heroic ability from the following options, each of which costs 9 wrath to use.
 
-###### Gods Grant Thee Strength (9 Wrath)
+<!-- -->
+> ###### Gods Grant Thee Strength (9 Wrath)
+>
+> *You channel divine force for movement that cannot be stopped.*
+>
+> | **Ranged**       |         **Main action** |
+> | ---------------- | ----------------------: |
+> | **📏 Ranged 10** | **🎯 Self or one ally** |
+>
+> **Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
 
-*You channel divine force for movement that cannot be stopped.*
+<!-- -->
+> ###### Orison of Victory (9 Wrath)
+>
+> *You channel your god's will to overcome hardship and inflict pain.*
+>
+> | **Area**       |                          **Maneuver** |
+> | -------------- | ------------------------------------: |
+> | **📏 1 burst** | **🎯 Self and each ally in the area** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** Each target gains 1 surge.
+> - **12-16:** Each target gains 2 surges.
+> - **17+:** Each target gains 3 surges.
+>
+> **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
 
-| **Ranged**       |         **Main action** |
-| ---------------- | ----------------------: |
-| **📏 Ranged 10** | **🎯 Self or one ally** |
+<!-- -->
+> ###### Righteous Judgment (9 Wrath)
+>
+> *You amplify the power of your judgment.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 10 + M damage
+> - **12-16:** 14 + M damage
+> - **17+:** 20 + M damage
+>
+> **Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
 
-**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.
-
-###### Orison of Victory (9 Wrath)
-
-*You channel your god's will to overcome hardship and inflict pain.*
-
-| **Area**       |                          **Maneuver** |
-| -------------- | ------------------------------------: |
-| **📏 1 burst** | **🎯 Self and each ally in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
-
-**Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
-
-###### Righteous Judgment (9 Wrath)
-
-*You amplify the power of your judgment.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage
-- **12-16:** 14 + M damage
-- **17+:** 20 + M damage
-
-**Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
-
-###### Shield of the Righteous (9 Wrath)
-
-*You strike a foe and create a fleet of divine shields that protect your allies.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+<!-- -->
+> ###### Shield of the Righteous (9 Wrath)
+>
+> *You strike a foe and create a fleet of divine shields that protect your allies.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
+> - **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
+> - **17+:** 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
 
 ### 6th-Level Features
 
@@ -878,91 +910,97 @@ Your censor order grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### Begone! (9 Wrath)
+<!-- -->
+> ###### Begone! (9 Wrath)
+>
+> *You terrify your enemies into retreating, creating chaos in their ranks.*
+>
+> | **Area, Magic** |               **Main action** |
+> | --------------- | ----------------------------: |
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 4 psychic damage; slide 3
+> - **12-16:** 6 psychic damage; slide 5
+> - **17+:** 8 psychic damage; slide 7
 
-*You terrify your enemies into retreating, creating chaos in their ranks.*
-
-| **Area, Magic** |               **Main action** |
-| --------------- | ----------------------------: |
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 4 psychic damage; slide 3
-- **12-16:** 6 psychic damage; slide 5
-- **17+:** 8 psychic damage; slide 7
-
-###### Pain of Your Own Making (9 Wrath)
-
-*You reverse the effects from an evildoer.*
-
-| **Magic, Ranged** |      **Free triggered** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
-
-**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
+<!-- -->
+> ###### Pain of Your Own Making (9 Wrath)
+>
+> *You reverse the effects from an evildoer.*
+>
+> | **Magic, Ranged** |      **Free triggered** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Trigger:** The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
+>
+> **Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
 
 ##### 6th-Level Oracle Abilities
 
 Choose one of the following abilities.
 
-###### Burden of Evil (9 Wrath)
+<!-- -->
+> ###### Burden of Evil (9 Wrath)
+>
+> *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
+>
+> | **Magic, Ranged, Strike** |         **Maneuver** |
+> | ------------------------- | -------------------: |
+> | **📏 Ranged 10**          | **🎯 Three enemies** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** Slide 3; I < WEAK, dazed (save ends)
+> - **12-16:** Slide 5; I < AVERAGE, dazed (save ends)
+> - **17+:** Slide 7; I < STRONG, dazed (save ends)
 
-*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
-
-| **Magic, Ranged, Strike** |         **Maneuver** |
-| ------------------------- | -------------------: |
-| **📏 Ranged 10**          | **🎯 Three enemies** |
-
-**Power Roll + Presence:**
-
-- **≤11:** Slide 3; I < WEAK, dazed (save ends)
-- **12-16:** Slide 5; I < AVERAGE, dazed (save ends)
-- **17+:** Slide 7; I < STRONG, dazed (save ends)
-
-###### Edict of Peace (9 Wrath)
-
-*You anticipate your foes' moves and deny them.*
-
-| **Area, Magic** |                  **Maneuver** |
-| --------------- | ----------------------------: |
-| **📏 3 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
+<!-- -->
+> ###### Edict of Peace (9 Wrath)
+>
+> *You anticipate your foes' moves and deny them.*
+>
+> | **Area, Magic** |                  **Maneuver** |
+> | --------------- | ----------------------------: |
+> | **📏 3 aura**   | **🎯 Each enemy in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
 
 ##### 6th-Level Paragon Abilities
 
 Choose one of the following abilities.
 
-###### Congregation (9 Wrath)
+<!-- -->
+> ###### Congregation (9 Wrath)
+>
+> *You focus your allies' wrath on a chosen foe.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability against the target
+> - **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
+> - **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
+>
+> **Effect:** Each ally can shift up to 2 squares and gains 2 surges before making the strike.
 
-*You focus your allies' wrath on a chosen foe.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability against the target
-- **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
-- **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
-
-**Effect:** Each ally can shift up to 2 squares and gains 2 surges before making the strike.
-
-###### Intercede (9 Wrath)
-
-*You take your ally's place.*
-
-| **Magic, Ranged** | **Free triggered** |
-| ----------------- | -----------------: |
-| **📏 Ranged 10**  |    **🎯 One ally** |
-
-**Trigger:** A creature makes a strike against the target.
-
-**Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
+<!-- -->
+> ###### Intercede (9 Wrath)
+>
+> *You take your ally's place.*
+>
+> | **Magic, Ranged** | **Free triggered** |
+> | ----------------- | -----------------: |
+> | **📏 Ranged 10**  |    **🎯 One ally** |
+>
+> **Trigger:** A creature makes a strike against the target.
+>
+> **Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
 
 ### 7th-Level Features
 
@@ -1001,15 +1039,16 @@ The gods send divine favor to you and your allies. While you are not dying, enem
 
 You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
-###### Guided to Your Side
-
-*You concentrate on a friend and teleport to them.*
-
-| **Magic, Ranged** |           **Main action** |
-| ----------------- | ------------------------: |
-| **📏 Ranged 10**  | **🎯 Self and each ally** |
-
-**Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
+<!-- -->
+> ###### Guided to Your Side
+>
+> *You concentrate on a friend and teleport to them.*
+>
+> | **Magic, Ranged** |           **Main action** |
+> | ----------------- | ------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and each ally** |
+>
+> **Effect:** Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
 ##### Divine Quartermaster
 
@@ -1047,15 +1086,16 @@ Lightning and thunder infuse your body. Whenever you use an ability to deal roll
 
 You have the following ability.
 
-###### Trinity of Trickery (9 Wrath)
-
-*Hey! I'm over here. No, here, numbskull.*
-
-| **Magic, Ranged** |            **Maneuver** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+<!-- -->
+> ###### Trinity of Trickery (9 Wrath)
+>
+> *Hey! I'm over here. No, here, numbskull.*
+>
+> | **Magic, Ranged** |            **Maneuver** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 10**  | **🎯 Self or one ally** |
+>
+> **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ##### Word of Death Deferred
 
@@ -1115,69 +1155,73 @@ Your words take on the power of your deity, with all the authority that entails.
 
 Choose one heroic ability from the following options, each of which costs 11 wrath to use.
 
-###### Excommunication (11 Wrath)
+<!-- -->
+> ###### Excommunication (11 Wrath)
+>
+> *You curse your foe to become a bane to their allies.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 9 + M damage; I < WEAK, weakened (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, weakened (save ends)
+> - **17+:** 18 + M damage; I < STRONG, weakened (save ends)
+>
+> **Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.
 
-*You curse your foe to become a bane to their allies.*
+<!-- -->
+> ###### Hand of the Gods (11 Wrath)
+>
+> *You use your foe as a tool against your enemies.*
+>
+> | **Ranged, Strike, Weapon** |     **Main action** |
+> | -------------------------- | ------------------: |
+> | **📏 Ranged 10**           | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 10 + M damage
+> - **12-16:** 15 + M damage
+> - **17+:** 21 + M damage
+>
+> **Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.
 
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
+<!-- -->
+> ###### Pillar of Holy Fire (11 Wrath)
+>
+> *Your enemy's guilt fuels a holy flame that burns your foes.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
+> - **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
+> - **17+:** 18 + M damage; I < STRONG, dazed (save ends)
+>
+> **Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage; I < WEAK, weakened (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, weakened (save ends)
-- **17+:** 18 + M damage; I < STRONG, weakened (save ends)
-
-**Effect:** At the end of each of your turns, a target weakened this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target weakened this way can't be targeted by their allies' abilities.
-
-###### Hand of the Gods (11 Wrath)
-
-*You use your foe as a tool against your enemies.*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-| -------------------------- | ------------------: |
-| **📏 Ranged 10**           | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage
-- **12-16:** 15 + M damage
-- **17+:** 21 + M damage
-
-**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.
-
-###### Pillar of Holy Fire (11 Wrath)
-
-*Your enemy's guilt fuels a holy flame that burns your foes.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage; I < WEAK, dazed (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, dazed (save ends)
-- **17+:** 18 + M damage; I < STRONG, dazed (save ends)
-
-**Effect:** At the end of each of your turns, a target dazed this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
-
-###### Your Allies Turn on You! (11 Wrath)
-
-*You turn your enemies' ire to the target.*
-
-| **Ranged, Strike, Weapon** |     **Main action** |
-| -------------------------- | ------------------: |
-| **📏 Ranged 10**           | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P damage; I < WEAK, slowed (save ends)
-- **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
-- **17+:** 12 + P damage; I < STRONG, slowed (save ends)
-
-**Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+<!-- -->
+> ###### Your Allies Turn on You! (11 Wrath)
+>
+> *You turn your enemies' ire to the target.*
+>
+> | **Ranged, Strike, Weapon** |     **Main action** |
+> | -------------------------- | ------------------: |
+> | **📏 Ranged 10**           | **🎯 One creature** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 5 + P damage; I < WEAK, slowed (save ends)
+> - **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
+> - **17+:** 12 + P damage; I < STRONG, slowed (save ends)
+>
+> **Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ### 9th-Level Features
 
@@ -1199,95 +1243,101 @@ Your censor order grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### Banish (11 Wrath)
+<!-- -->
+> ###### Banish (11 Wrath)
+>
+> *You sever the target's tenuous connection to the world.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 5 + M damage; P < WEAK, the target is banished (save ends)
+> - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
+> - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
+>
+> **Effect:** This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
-*You sever the target's tenuous connection to the world.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage; P < WEAK, the target is banished (save ends)
-- **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
-- **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
-
-**Effect:** This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
-
-###### Terror Manifest (11 Wrath)
-
-*"I know what you fear."*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)
-- **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)
-- **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)
-
-**Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+<!-- -->
+> ###### Terror Manifest (11 Wrath)
+>
+> *"I know what you fear."*
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature** |
+>
+> **Power Roll + Presence:**
+>
+> - **≤11:** 7 + P psychic damage; P < WEAK, frightened (save ends)
+> - **12-16:** 10 + P psychic damage; P < AVERAGE, frightened (save ends)
+> - **17+:** 13 + P psychic damage; P < STRONG, frightened (save ends)
+>
+> **Effect:** While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
 
 ##### 9th-Level Oracle Abilities
 
 Choose one of the following abilities.
 
-###### Blessing and a Curse (11 Wrath)
+<!-- -->
+> ###### Blessing and a Curse (11 Wrath)
+>
+> *The gods bless and damn in equal measure.*
+>
+> | **Magic, Ranged** |       **Triggered** |
+> | ----------------- | ------------------: |
+> | **📏 Ranged 10**  | **🎯 One creature** |
+>
+> **Trigger:** The target makes a power roll.
+>
+> **Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
 
-*The gods bless and damn in equal measure.*
-
-| **Magic, Ranged** |       **Triggered** |
-| ----------------- | ------------------: |
-| **📏 Ranged 10**  | **🎯 One creature** |
-
-**Trigger:** The target makes a power roll.
-
-**Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
-
-###### Fulfill Your Destiny (11 Wrath)
-
-*You have looked at various futures, and only this one works.*
-
-| **Magic, Ranged** |   **Triggered** |
-| ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 One ally** |
-
-**Trigger:** You or another hero ends their turn.
-
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
+<!-- -->
+> ###### Fulfill Your Destiny (11 Wrath)
+>
+> *You have looked at various futures, and only this one works.*
+>
+> | **Magic, Ranged** |   **Triggered** |
+> | ----------------- | --------------: |
+> | **📏 Ranged 10**  | **🎯 One ally** |
+>
+> **Trigger:** You or another hero ends their turn.
+>
+> **Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
 
 ##### 9th-Level Paragon Abilities
 
 Choose one of the following abilities.
 
-###### Apostate (11 Wrath)
+<!-- -->
+> ###### Apostate (11 Wrath)
+>
+> *You channel holy energy to seal an enemy's fate.*
+>
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
+>
+> **Power Roll + Might:**
+>
+> - **≤11:** 13 + M holy damage
+> - **12-16:** 19 + M holy damage
+> - **17+:** 26 + M holy damage
+>
+> **Effect:** Until the end of the encounter or until you are dying, the target has damage weakness 10.
 
-*You channel holy energy to seal an enemy's fate.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-| ------------------------- | ------------------: |
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 13 + M holy damage
-- **12-16:** 19 + M holy damage
-- **17+:** 26 + M holy damage
-
-**Effect:** Until the end of the encounter or until you are dying, the target has damage weakness 10.
-
-###### Edict of Unyielding Resolve (11 Wrath)
-
-*You and your allies are clad in shimmering armor.*
-
-| **Area, Magic** |                          **Maneuver** |
-| --------------- | ------------------------------------: |
-| **📏 2 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target who starts their turn in the area gains 10 temporary Stamina.
+<!-- -->
+> ###### Edict of Unyielding Resolve (11 Wrath)
+>
+> *You and your allies are clad in shimmering armor.*
+>
+> | **Area, Magic** |                          **Maneuver** |
+> | --------------- | ------------------------------------: |
+> | **📏 2 aura**   | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Until the end of the encounter or until you are dying, each target who starts their turn in the area gains 10 temporary Stamina.
 
 ### 10th-Level Features
 

@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Melee 1
 feature_type: ability
 file_basename: Phase Strike
-file_dpath: Null/1st-Level Features
+file_dpath: Abilities/Null/1st-Level Features
 flavor: For a moment, your foe slips out of phase with this manifold.
 item_id: phase-strike-5-discipline
 item_index: '02'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:phase-strike-5-discipline
 scdc:
-  - 1.1.1:13.2.6.1:02
+  - 1.1.1:11.2.6.1:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/1st-level-feature

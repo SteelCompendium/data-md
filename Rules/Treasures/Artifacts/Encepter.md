@@ -8,7 +8,7 @@ item_name: Encepter
 scc:
   - mcdm.heroes.v1:treasure.artifact:encepter
 scdc:
-  - 1.1.1:12.1:03
+  - 1.1.1:13.1:03
 source: mcdm.heroes.v1
 treasure_type: Treasure
 type: treasure/artifact

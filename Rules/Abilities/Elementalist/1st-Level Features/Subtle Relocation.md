@@ -4,7 +4,7 @@ class: elementalist
 distance: Ranged 10
 feature_type: ability
 file_basename: Subtle Relocation
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: You call on the void to swallow and spit out an ally.
 item_id: subtle-relocation
 item_index: '02'
@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:subtle-relocation
 scdc:
-  - 1.1.1:13.2.9.1:02
+  - 1.1.1:11.2.9.1:02
 source: mcdm.heroes.v1
 subclass: Void
 target: Self or one ally

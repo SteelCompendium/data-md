@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self; see below
 feature_type: ability
 file_basename: Phase Step
-file_dpath: Null/6th-Level Features
+file_dpath: Abilities/Null/6th-Level Features
 flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
 item_id: phase-step-9-discipline
 item_index: '06'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:phase-step-9-discipline
 scdc:
-  - 1.1.1:13.2.6.3:06
+  - 1.1.1:11.2.6.3:06
 source: mcdm.heroes.v1
 subclass: Chronokinetic
 target: Self

@@ -4,7 +4,7 @@ class: shadow
 distance: Self
 feature_type: ability
 file_basename: Defensive Roll
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: When an enemy attacks, you roll with the impact to reduce the harm.
 item_id: defensive-roll
 item_index: '13'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:defensive-roll
 scdc:
-  - 1.1.1:13.2.2.1:13
+  - 1.1.1:11.2.2.1:13
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: Self

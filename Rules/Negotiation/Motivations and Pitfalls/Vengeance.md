@@ -7,7 +7,7 @@ item_name: Vengeance
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:vengeance
 scdc:
-  - 1.1.1:11:01
+  - 1.1.1:12:01
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

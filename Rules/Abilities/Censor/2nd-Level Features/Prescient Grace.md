@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Prescient Grace
-file_dpath: Censor/2nd-Level Features
+file_dpath: Abilities/Censor/2nd-Level Features
 flavor: Gifted by a prescient vision, you warn an ally of an impending attack.
 item_id: prescient-grace-5-wrath
 item_index: '06'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:prescient-grace-5-wrath
 scdc:
-  - 1.1.1:13.2.7.5:06
+  - 1.1.1:11.2.7.5:06
 source: mcdm.heroes.v1
 subclass: Oracle
 target: Self or one ally

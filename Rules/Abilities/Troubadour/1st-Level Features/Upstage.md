@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Self; see below
 feature_type: ability
 file_basename: Upstage
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: As you bob and weave through the crowd, you can't help but leave the audience wanting more.
 item_id: upstage-3-drama
 item_index: '04'
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:upstage-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:04
+  - 1.1.1:11.2.3.1:04
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/troubadour/1st-level-feature

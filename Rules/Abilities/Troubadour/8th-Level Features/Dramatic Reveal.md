@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Self
 feature_type: ability
 file_basename: Dramatic Reveal
-file_dpath: Troubadour/8th-Level Features
+file_dpath: Abilities/Troubadour/8th-Level Features
 flavor: A little stage trickery, and where once stood a foe, now stands a friend!
 item_id: dramatic-reveal-11-drama
 item_index: '06'
@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:dramatic-reveal-11-drama
 scdc:
-  - 1.1.1:13.2.3.2:06
+  - 1.1.1:11.2.3.2:06
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/troubadour/8th-level-feature

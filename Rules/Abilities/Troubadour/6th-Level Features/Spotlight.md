@@ -4,7 +4,7 @@ class: troubadour
 distance: 5 aura
 feature_type: ability
 file_basename: Spotlight
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Abilities/Troubadour/6th-Level Features
 flavor: The audience is watching, so you'd better give them a show.
 item_id: spotlight
 item_index: '01'
@@ -17,7 +17,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:spotlight
 scdc:
-  - 1.1.1:13.2.3.3:01
+  - 1.1.1:11.2.3.3:01
 source: mcdm.heroes.v1
 target: Self and each ally in the area
 type: feature/ability/troubadour/6th-level-feature

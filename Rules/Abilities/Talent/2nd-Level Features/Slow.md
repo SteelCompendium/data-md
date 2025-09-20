@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Slow
-file_dpath: Talent/2nd-Level Features
+file_dpath: Abilities/Talent/2nd-Level Features
 flavor: Perhaps they wonder why everyone else is moving so quickly?
 item_id: slow-5-clarity
 item_index: '06'
@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:slow-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:06
+  - 1.1.1:11.2.1.5:06
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Three creatures or objects

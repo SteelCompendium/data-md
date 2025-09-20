@@ -4,7 +4,7 @@ class: shadow
 distance: Self
 feature_type: ability
 file_basename: Coat the Blade
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: A little poison goes a long way.
 item_id: coat-the-blade
 item_index: '11'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:coat-the-blade
 scdc:
-  - 1.1.1:13.2.2.1:11
+  - 1.1.1:11.2.2.1:11
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: Self

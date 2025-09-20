@@ -7,7 +7,7 @@ item_name: Legacy
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:legacy
 scdc:
-  - 1.1.1:11:09
+  - 1.1.1:12:09
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

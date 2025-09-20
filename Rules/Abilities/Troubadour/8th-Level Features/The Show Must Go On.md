@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 5 cube within 10
 feature_type: ability
 file_basename: The Show Must Go On
-file_dpath: Troubadour/8th-Level Features
+file_dpath: Abilities/Troubadour/8th-Level Features
 flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
 item_id: the-show-must-go-on-11-drama
 item_index: '04'
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:the-show-must-go-on-11-drama
 scdc:
-  - 1.1.1:13.2.3.2:04
+  - 1.1.1:11.2.3.2:04
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/8th-level-feature

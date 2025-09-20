@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Melee 1 or ranged 10
 feature_type: ability
 file_basename: Harsh Critic
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: Just one bad review will ruin their day.
 item_id: harsh-critic-3-drama
 item_index: '20'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harsh-critic-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:20
+  - 1.1.1:11.2.3.1:20
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/troubadour/1st-level-feature

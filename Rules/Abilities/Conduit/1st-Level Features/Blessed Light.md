@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: conduit
 distance: Ranged 10
 feature_type: ability
 file_basename: Blessed Light
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.
 item_id: blessed-light
 item_index: 09
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:blessed-light
 scdc:
-  - 1.1.1:13.2.8.1:09
+  - 1.1.1:11.2.8.1:09
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/conduit/1st-level-feature

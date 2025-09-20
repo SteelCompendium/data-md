@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: fury
 distance: Melee 1
 feature_type: ability
 file_basename: Brutal Slam
-file_dpath: Fury/1st-Level Features
+file_dpath: Abilities/Fury/1st-Level Features
 flavor: The heavy impact of your weapon attacks drives your foes ever back.
 item_id: brutal-slam
 item_index: '01'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:brutal-slam
 scdc:
-  - 1.1.1:13.2.5.1:01
+  - 1.1.1:11.2.5.1:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/fury/1st-level-feature

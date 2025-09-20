@@ -4,7 +4,7 @@ class: shadow
 distance: Self
 feature_type: ability
 file_basename: Black Ash Teleport
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: In a swirl of black ash, you step from one place to another.
 item_id: black-ash-teleport
 item_index: '19'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:black-ash-teleport
 scdc:
-  - 1.1.1:13.2.2.1:19
+  - 1.1.1:11.2.2.1:19
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: Self

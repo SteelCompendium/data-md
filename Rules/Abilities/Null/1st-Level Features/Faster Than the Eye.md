@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: 'null'
 distance: Melee 1
 feature_type: ability
 file_basename: Faster Than the Eye
-file_dpath: Null/1st-Level Features
+file_dpath: Abilities/Null/1st-Level Features
 flavor: You strike so quickly that your hands become a blur.
 item_id: faster-than-the-eye
 item_index: '04'
@@ -18,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:faster-than-the-eye
 scdc:
-  - 1.1.1:13.2.6.1:04
+  - 1.1.1:11.2.6.1:04
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: feature/ability/null/1st-level-feature

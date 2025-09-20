@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Self
 feature_type: ability
 file_basename: Star Power
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: Your years of practicing fencing and dancing pay off on the battlefield.
 item_id: star-power-1-drama
 item_index: '21'
@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:star-power-1-drama
 scdc:
-  - 1.1.1:13.2.3.1:21
+  - 1.1.1:11.2.3.1:21
 source: mcdm.heroes.v1
 subclass: Duelist
 target: Self

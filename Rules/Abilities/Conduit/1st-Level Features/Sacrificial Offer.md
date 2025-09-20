@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: conduit
 distance: Ranged 10
 feature_type: ability
 file_basename: Sacrificial Offer
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: Divine magic tears at your foe and defends a nearby friend.
 item_id: sacrificial-offer
 item_index: '05'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:sacrificial-offer
 scdc:
-  - 1.1.1:13.2.8.1:05
+  - 1.1.1:11.2.8.1:05
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/conduit/1st-level-feature

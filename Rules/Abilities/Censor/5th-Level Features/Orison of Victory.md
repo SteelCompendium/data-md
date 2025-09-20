@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: 1 burst
 feature_type: ability
 file_basename: Orison of Victory
-file_dpath: Censor/5th-Level Features
+file_dpath: Abilities/Censor/5th-Level Features
 flavor: You channel your god's will to overcome hardship and inflict pain.
 item_id: orison-of-victory-9-wrath
 item_index: '02'
@@ -18,7 +18,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:orison-of-victory-9-wrath
 scdc:
-  - 1.1.1:13.2.7.4:02
+  - 1.1.1:11.2.7.4:02
 source: mcdm.heroes.v1
 target: Self and each ally in the area
 type: feature/ability/censor/5th-level-feature

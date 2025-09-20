@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 2
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Stick and Robe
 scc:
   - mcdm.heroes.v1:kit-ability.stick-and-robe:where-i-want-you
 scdc:

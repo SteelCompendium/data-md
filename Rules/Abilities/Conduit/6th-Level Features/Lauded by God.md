@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Lauded by God
-file_dpath: Conduit/6th-Level Features
+file_dpath: Abilities/Conduit/6th-Level Features
 flavor: You beseech the gods to give your allies what they need to win the day, and the gods answer.
 item_id: lauded-by-god-9-piety
 item_index: '11'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:lauded-by-god-9-piety
 scdc:
-  - 1.1.1:13.2.8.3:11
+  - 1.1.1:11.2.8.3:11
 source: mcdm.heroes.v1
 subclass: Love
 target: Two allies

@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: talent
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Incinerate
-file_dpath: Talent/1st-Level Features
+file_dpath: Abilities/Talent/1st-Level Features
 flavor: The air erupts into a column of smokeless flame.
 item_id: incinerate
 item_index: '10'
@@ -19,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:incinerate
 scdc:
-  - 1.1.1:13.2.1.1:10
+  - 1.1.1:11.2.1.1:10
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/talent/1st-level-feature

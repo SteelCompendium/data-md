@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Our Hearts Your Strength
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Abilities/Conduit/2nd-Level Features
 flavor: An ally gains strength from their friends.
 item_id: our-hearts-your-strength-5-piety
 item_index: '04'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:our-hearts-your-strength-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:04
+  - 1.1.1:11.2.8.5:04
 source: mcdm.heroes.v1
 subclass: Love
 target: Self and one ally

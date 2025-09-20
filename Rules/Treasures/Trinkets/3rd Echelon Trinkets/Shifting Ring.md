@@ -8,7 +8,7 @@ item_name: Shifting Ring
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:shifting-ring
 scdc:
-  - 1.1.1:12.4.3:01
+  - 1.1.1:13.4.3:01
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/3rd-echelon

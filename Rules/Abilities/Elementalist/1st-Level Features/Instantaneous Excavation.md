@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: Instantaneous Excavation
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: The surface of the world around you opens up to swallow foes.
 item_id: instantaneous-excavation-5-essence
 item_index: '20'
@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:instantaneous-excavation-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:20
+  - 1.1.1:11.2.9.1:20
 source: mcdm.heroes.v1
 target: Special
 type: feature/ability/elementalist/1st-level-feature

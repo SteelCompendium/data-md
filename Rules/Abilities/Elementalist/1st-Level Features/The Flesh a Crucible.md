@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: The Flesh a Crucible
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Abilities/Elementalist/1st-Level Features
 flavor: Fire engulfs your target and continues to churn.
 item_id: the-flesh-a-crucible-3-essence
 item_index: '16'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:the-flesh-a-crucible-3-essence
 scdc:
-  - 1.1.1:13.2.9.1:16
+  - 1.1.1:11.2.9.1:16
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/elementalist/1st-level-feature

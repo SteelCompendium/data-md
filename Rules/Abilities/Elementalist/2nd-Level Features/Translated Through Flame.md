@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: Translated Through Flame
-file_dpath: Elementalist/2nd-Level Features
+file_dpath: Abilities/Elementalist/2nd-Level Features
 flavor: Your ally disappears, then reappears in a burst of fire.
 item_id: translated-through-flame-5-essence
 item_index: '03'
@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:translated-through-flame-5-essence
 scdc:
-  - 1.1.1:13.2.9.5:03
+  - 1.1.1:11.2.9.5:03
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/elementalist/2nd-level-feature

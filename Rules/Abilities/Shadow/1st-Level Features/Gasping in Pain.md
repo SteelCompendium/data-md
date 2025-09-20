@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: shadow
 distance: Melee 1
 feature_type: ability
 file_basename: Gasping in Pain
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: Your precise strikes let your allies take advantage of a target's agony.
 item_id: gasping-in-pain
 item_index: '01'
@@ -17,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:gasping-in-pain
 scdc:
-  - 1.1.1:13.2.2.1:01
+  - 1.1.1:11.2.2.1:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/shadow/1st-level-feature

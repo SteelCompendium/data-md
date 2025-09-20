@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Your Allies Turn on You
-file_dpath: Censor/8th-Level Features
+file_dpath: Abilities/Censor/8th-Level Features
 flavor: You turn your enemies' ire to the target.
 item_id: your-allies-turn-on-you-11-wrath
 item_index: '03'
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:your-allies-turn-on-you-11-wrath
 scdc:
-  - 1.1.1:13.2.7.2:03
+  - 1.1.1:11.2.7.2:03
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/censor/8th-level-feature

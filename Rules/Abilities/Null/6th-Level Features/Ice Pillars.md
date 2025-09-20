@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Ranged 10
 feature_type: ability
 file_basename: Ice Pillars
-file_dpath: Null/6th-Level Features
+file_dpath: Abilities/Null/6th-Level Features
 flavor: Pillars of ice erupt from the ground and launch your foes into the air.
 item_id: ice-pillars-9-discipline
 item_index: '01'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:ice-pillars-9-discipline
 scdc:
-  - 1.1.1:13.2.6.3:01
+  - 1.1.1:11.2.6.3:01
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: Three creatures or objects

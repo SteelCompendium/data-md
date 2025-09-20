@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Stink Bomb
-file_dpath: Shadow/2nd-Level Features
+file_dpath: Abilities/Shadow/2nd-Level Features
 flavor: Putrid yellow gas explodes from a bomb you toss.
 item_id: stink-bomb-5-insight
 item_index: '06'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:stink-bomb-5-insight
 scdc:
-  - 1.1.1:13.2.2.5:06
+  - 1.1.1:11.2.2.5:06
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: Each creature in the area

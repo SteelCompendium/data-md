@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Self
 feature_type: ability
 file_basename: Primordial Rage
-file_dpath: Fury/8th-Level Features
+file_dpath: Abilities/Fury/8th-Level Features
 flavor: Your ferocity manifests into primordial power.
 item_id: primordial-rage-11-ferocity
 item_index: '03'
@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:primordial-rage-11-ferocity
 scdc:
-  - 1.1.1:13.2.5.2:03
+  - 1.1.1:11.2.5.2:03
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/fury/8th-level-feature

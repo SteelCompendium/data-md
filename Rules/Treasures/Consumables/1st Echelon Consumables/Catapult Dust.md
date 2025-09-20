@@ -8,7 +8,7 @@ item_name: Catapult Dust
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:catapult-dust
 scdc:
-  - 1.1.1:12.2.1:13
+  - 1.1.1:13.2.1:13
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/1st-echelon

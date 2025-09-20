@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Purifying Fire
-file_dpath: Censor/1st-Level Features
+file_dpath: Abilities/Censor/1st-Level Features
 flavor: The gods judge, fire cleanses.
 item_id: purifying-fire-5-wrath
 item_index: '14'
@@ -22,7 +22,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:purifying-fire-5-wrath
 scdc:
-  - 1.1.1:13.2.7.1:14
+  - 1.1.1:11.2.7.1:14
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/censor/1st-level-feature

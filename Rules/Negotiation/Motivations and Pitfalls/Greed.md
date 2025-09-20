@@ -7,7 +7,7 @@ item_name: Greed
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:greed
 scdc:
-  - 1.1.1:11:10
+  - 1.1.1:12:10
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

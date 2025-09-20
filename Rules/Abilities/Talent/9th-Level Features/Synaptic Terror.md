@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: 3 burst
 feature_type: ability
 file_basename: Synaptic Terror
-file_dpath: Talent/9th-Level Features
+file_dpath: Abilities/Talent/9th-Level Features
 flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
 item_id: synaptic-terror-11-clarity
 item_index: '01'
@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:synaptic-terror-11-clarity
 scdc:
-  - 1.1.1:13.2.1.7:01
+  - 1.1.1:11.2.1.7:01
 source: mcdm.heroes.v1
 subclass: Telepathy
 target: Each ally and enemy in the area

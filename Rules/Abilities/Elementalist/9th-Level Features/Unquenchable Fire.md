@@ -7,7 +7,7 @@ cost_resource: Essence
 distance: Ranged 10
 feature_type: ability
 file_basename: Unquenchable Fire
-file_dpath: Elementalist/9th-Level Features
+file_dpath: Abilities/Elementalist/9th-Level Features
 flavor: You let fly a fiery missile braided with pure primal energy.
 item_id: unquenchable-fire-11-essence
 item_index: '04'
@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:unquenchable-fire-11-essence
 scdc:
-  - 1.1.1:13.2.9.7:04
+  - 1.1.1:11.2.9.7:04
 source: mcdm.heroes.v1
 target: One enemy or object
 type: feature/ability/elementalist/9th-level-feature

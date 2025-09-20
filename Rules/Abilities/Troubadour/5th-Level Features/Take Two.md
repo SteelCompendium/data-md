@@ -4,7 +4,7 @@ class: troubadour
 distance: 5 aura
 feature_type: ability
 file_basename: Take Two
-file_dpath: Troubadour/5th-Level Features
+file_dpath: Abilities/Troubadour/5th-Level Features
 flavor: One more, and this time make it interesting.
 item_id: take-two
 item_index: '04'
@@ -17,7 +17,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:take-two
 scdc:
-  - 1.1.1:13.2.3.4:04
+  - 1.1.1:11.2.3.4:04
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Self and each ally in the area

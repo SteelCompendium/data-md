@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Nature Judges Thee
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Abilities/Conduit/2nd-Level Features
 flavor: Mystical thorned vines appear at your bidding and bind your foes.
 item_id: nature-judges-thee-5-piety
 item_index: '11'
@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:nature-judges-thee-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:11
+  - 1.1.1:11.2.8.5:11
 source: mcdm.heroes.v1
 subclass: Nature
 target: Each enemy in the area

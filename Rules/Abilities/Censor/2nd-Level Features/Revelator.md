@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: 3 burst
 feature_type: ability
 file_basename: Revelator
-file_dpath: Censor/2nd-Level Features
+file_dpath: Abilities/Censor/2nd-Level Features
 flavor: You channel holy energy to harm unbelievers and reveal those hidden from your judgment.
 item_id: revelator-5-wrath
 item_index: '01'
@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:revelator-5-wrath
 scdc:
-  - 1.1.1:13.2.7.5:01
+  - 1.1.1:11.2.7.5:01
 source: mcdm.heroes.v1
 subclass: Exorcist
 target: Each enemy in the area

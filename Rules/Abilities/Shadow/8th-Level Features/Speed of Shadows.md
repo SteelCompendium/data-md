@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: Self
 feature_type: ability
 file_basename: Speed of Shadows
-file_dpath: Shadow/8th-Level Features
+file_dpath: Abilities/Shadow/8th-Level Features
 flavor: You make multiple strikes against a foe before they even notice they're dead.
 item_id: speed-of-shadows-11-insight
 item_index: '03'
@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:speed-of-shadows-11-insight
 scdc:
-  - 1.1.1:13.2.2.2:03
+  - 1.1.1:11.2.2.2:03
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/shadow/8th-level-feature

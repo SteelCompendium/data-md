@@ -8,7 +8,7 @@ item_name: Steeltongue
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:steeltongue
 scdc:
-  - 1.1.1:12.3.1:11
+  - 1.1.1:13.3.1:11
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

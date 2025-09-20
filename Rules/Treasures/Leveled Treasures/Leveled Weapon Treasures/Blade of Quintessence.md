@@ -8,7 +8,7 @@ item_name: Blade of Quintessence
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:blade-of-quintessence
 scdc:
-  - 1.1.1:12.3.1:08
+  - 1.1.1:13.3.1:08
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

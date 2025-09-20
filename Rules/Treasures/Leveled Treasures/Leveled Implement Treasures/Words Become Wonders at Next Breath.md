@@ -8,7 +8,7 @@ item_name: Words Become Wonders at Next Breath
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:words-become-wonders-at-next-breath
 scdc:
-  - 1.1.1:12.3.3:03
+  - 1.1.1:13.3.3:03
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/implement

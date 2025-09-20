@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 1
@@ -13,7 +14,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Warrior Priest
 scc:
   - mcdm.heroes.v1:kit-ability.warrior-priest:weakening-brand
 scdc:

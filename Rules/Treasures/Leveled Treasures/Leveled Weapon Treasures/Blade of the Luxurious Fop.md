@@ -8,7 +8,7 @@ item_name: Blade of the Luxurious Fop
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:blade-of-the-luxurious-fop
 scdc:
-  - 1.1.1:12.3.1:01
+  - 1.1.1:13.3.1:01
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Melee 1 or ranged 5
 feature_type: ability
 file_basename: Concussive Strike
-file_dpath: Tactician/1st-Level Features
+file_dpath: Abilities/Tactician/1st-Level Features
 flavor: Your precise strike leaves your foe struggling to respond.
 item_id: concussive-strike-3-focus
 item_index: '10'
@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:concussive-strike-3-focus
 scdc:
-  - 1.1.1:13.2.4.1:10
+  - 1.1.1:11.2.4.1:10
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/tactician/1st-level-feature

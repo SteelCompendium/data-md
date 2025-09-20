@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: 3 burst
 feature_type: ability
 file_basename: Begone
-file_dpath: Censor/6th-Level Features
+file_dpath: Abilities/Censor/6th-Level Features
 flavor: You terrify your enemies into retreating, creating chaos in their ranks.
 item_id: begone-9-wrath
 item_index: '01'
@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:begone-9-wrath
 scdc:
-  - 1.1.1:13.2.7.3:01
+  - 1.1.1:11.2.7.3:01
 source: mcdm.heroes.v1
 subclass: Exorcist
 target: Each enemy in the area

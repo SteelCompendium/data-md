@@ -4,7 +4,7 @@ class: troubadour
 distance: Ranged 10
 feature_type: ability
 file_basename: Dramatic Monologue
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: It doesn't need to make sense. Just say it with emotion.
 item_id: dramatic-monologue
 item_index: '18'
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-monologue
 scdc:
-  - 1.1.1:13.2.3.1:18
+  - 1.1.1:11.2.3.1:18
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Special

@@ -8,7 +8,7 @@ item_name: Authority's End
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:authoritys-end
 scdc:
-  - 1.1.1:12.3.1:06
+  - 1.1.1:13.3.1:06
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon

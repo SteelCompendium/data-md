@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Synaptic Dissipation
-file_dpath: Talent/6th-Level Features
+file_dpath: Abilities/Talent/6th-Level Features
 flavor: You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.
 item_id: synaptic-dissipation-9-clarity
 item_index: '01'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-dissipation-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:01
+  - 1.1.1:11.2.1.3:01
 source: mcdm.heroes.v1
 subclass: Telepathy
 target: Special

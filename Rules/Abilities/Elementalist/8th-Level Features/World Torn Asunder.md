@@ -7,10 +7,10 @@ cost_resource: Essence
 distance: 5 burst
 feature_type: ability
 file_basename: World Torn Asunder
-file_dpath: Elementalist/8th-Level Features
+file_dpath: Abilities/Elementalist/8th-Level Features
 flavor: You stomp your foot and quake the whole world over.
 item_id: world-torn-asunder-11-essence
-item_index: '04'
+item_index: '06'
 item_name: World Torn Asunder (11 Essence)
 keywords:
   - Area
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder-11-essence
 scdc:
-  - 1.1.1:13.2.9.2:04
+  - 1.1.1:11.2.9.2:06
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/8th-level-feature

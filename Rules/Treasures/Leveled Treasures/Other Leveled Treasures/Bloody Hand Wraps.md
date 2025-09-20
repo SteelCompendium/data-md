@@ -8,7 +8,7 @@ item_name: Bloody Hand Wraps
 scc:
   - mcdm.heroes.v1:treasure.leveled.other:bloody-hand-wraps
 scdc:
-  - 1.1.1:12.3.2:02
+  - 1.1.1:13.3.2:02
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/other

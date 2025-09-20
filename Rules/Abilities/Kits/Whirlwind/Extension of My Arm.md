@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 3
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Whirlwind
 scc:
   - mcdm.heroes.v1:kit-ability.whirlwind:extension-of-my-arm
 scdc:

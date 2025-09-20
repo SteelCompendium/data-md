@@ -8,7 +8,7 @@ item_name: Anamorphic Larva
 scc:
   - mcdm.heroes.v1:treasure.consumable.3rd-echelon:anamorphic-larva
 scdc:
-  - 1.1.1:12.2.2:01
+  - 1.1.1:13.2.2:01
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/3rd-echelon

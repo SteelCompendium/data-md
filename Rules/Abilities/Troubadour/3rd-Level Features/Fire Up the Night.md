@@ -4,7 +4,7 @@ class: troubadour
 distance: 5 aura
 feature_type: ability
 file_basename: Fire Up the Night
-file_dpath: Troubadour/3rd-Level Features
+file_dpath: Abilities/Troubadour/3rd-Level Features
 flavor: Maybe you and I ♪ We can still bring the light!♪
 item_id: fire-up-the-night
 item_index: '02'
@@ -17,7 +17,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:fire-up-the-night
 scdc:
-  - 1.1.1:13.2.3.6:02
+  - 1.1.1:11.2.3.6:02
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Self and each ally in the area

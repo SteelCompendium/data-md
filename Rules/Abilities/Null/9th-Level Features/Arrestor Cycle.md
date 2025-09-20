@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Ranged 10
 feature_type: ability
 file_basename: Arrestor Cycle
-file_dpath: Null/9th-Level Features
+file_dpath: Abilities/Null/9th-Level Features
 flavor: You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.
 item_id: arrestor-cycle-11-discipline
 item_index: '03'
@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle-11-discipline
 scdc:
-  - 1.1.1:13.2.6.7:03
+  - 1.1.1:11.2.6.7:03
 source: mcdm.heroes.v1
 subclass: Chronokinetic
 target: One creature

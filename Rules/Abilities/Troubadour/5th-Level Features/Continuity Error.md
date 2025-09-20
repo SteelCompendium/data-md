@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Ranged 10
 feature_type: ability
 file_basename: Continuity Error
-file_dpath: Troubadour/5th-Level Features
+file_dpath: Abilities/Troubadour/5th-Level Features
 flavor: Your subject is written into two places at once.
 item_id: continuity-error-9-drama
 item_index: '05'
@@ -19,7 +19,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:continuity-error-9-drama
 scdc:
-  - 1.1.1:13.2.3.4:05
+  - 1.1.1:11.2.3.4:05
 source: mcdm.heroes.v1
 target: One enemy or object
 type: feature/ability/troubadour/5th-level-feature

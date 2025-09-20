@@ -7,7 +7,7 @@ file_basename: Blessing of Secrets
 file_dpath: Abilities/Conduit/4th-Level Features
 flavor: You project an illusory aura that makes you and allies harder to notice.
 item_id: blessing-of-secrets
-item_index: '01'
+item_index: '02'
 item_name: Blessing of Secrets
 keywords:
   - Area
@@ -16,7 +16,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.4th-level-feature:blessing-of-secrets
 scdc:
-  - 1.1.1:13.2.8.9:01
+  - 1.1.1:11.2.8.9:02
 source: mcdm.heroes.v1
 subclass: Trickery
 target: Self and each ally in the area

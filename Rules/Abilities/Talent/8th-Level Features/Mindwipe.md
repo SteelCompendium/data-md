@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Melee 2
 feature_type: ability
 file_basename: Mindwipe
-file_dpath: Talent/8th-Level Features
+file_dpath: Abilities/Talent/8th-Level Features
 flavor: You attempt to make them forget all their training.
 item_id: mindwipe-11-clarity
 item_index: '03'
@@ -21,7 +21,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:mindwipe-11-clarity
 scdc:
-  - 1.1.1:13.2.1.2:03
+  - 1.1.1:11.2.1.2:03
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/8th-level-feature

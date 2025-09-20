@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: 2 aura
 feature_type: ability
 file_basename: Edict of Disruptive Isolation
-file_dpath: Censor/3rd-Level Features
+file_dpath: Abilities/Censor/3rd-Level Features
 flavor: The evil within your foes detonates with holy fire that burns only the guilty.
 item_id: edict-of-disruptive-isolation-7-wrath
 item_index: '03'
@@ -19,7 +19,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-disruptive-isolation-7-wrath
 scdc:
-  - 1.1.1:13.2.7.6:03
+  - 1.1.1:11.2.7.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/censor/3rd-level-feature

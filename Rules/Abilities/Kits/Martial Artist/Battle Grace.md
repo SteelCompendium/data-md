@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 1
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Martial Artist
 scc:
   - mcdm.heroes.v1:kit-ability.martial-artist:battle-grace
 scdc:

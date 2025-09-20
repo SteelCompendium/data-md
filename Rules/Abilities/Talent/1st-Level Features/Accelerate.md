@@ -4,7 +4,7 @@ class: talent
 distance: Ranged 10
 feature_type: ability
 file_basename: Accelerate
-file_dpath: Talent/1st-Level Features
+file_dpath: Abilities/Talent/1st-Level Features
 flavor: To your ally, it seems as though the world has slowed down.
 item_id: accelerate
 item_index: '12'
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:accelerate
 scdc:
-  - 1.1.1:13.2.1.1:12
+  - 1.1.1:11.2.1.1:12
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Self or one creature

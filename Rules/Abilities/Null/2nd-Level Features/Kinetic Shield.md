@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Kinetic Shield
-file_dpath: Null/2nd-Level Features
+file_dpath: Abilities/Null/2nd-Level Features
 flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 item_id: kinetic-shield-5-discipline
 item_index: '05'
@@ -18,7 +18,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:kinetic-shield-5-discipline
 scdc:
-  - 1.1.1:13.2.6.5:05
+  - 1.1.1:11.2.6.5:05
 source: mcdm.heroes.v1
 subclass: Metakinetic
 target: Self

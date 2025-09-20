@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Fling Through Time
-file_dpath: Talent/3rd-Level Features
+file_dpath: Abilities/Talent/3rd-Level Features
 flavor: You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.
 item_id: fling-through-time-7-clarity
 item_index: '03'
@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:fling-through-time-7-clarity
 scdc:
-  - 1.1.1:13.2.1.6:03
+  - 1.1.1:11.2.1.6:03
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/talent/3rd-level-feature

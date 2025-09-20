@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: 3 cube within 10
 feature_type: ability
 file_basename: Machinations of Sound
-file_dpath: Shadow/2nd-Level Features
+file_dpath: Abilities/Shadow/2nd-Level Features
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 item_id: machinations-of-sound-5-insight
 item_index: '05'
@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:machinations-of-sound-5-insight
 scdc:
-  - 1.1.1:13.2.2.5:05
+  - 1.1.1:11.2.2.5:05
 source: mcdm.heroes.v1
 subclass: Harlequin Mask
 target: Each creature in the area

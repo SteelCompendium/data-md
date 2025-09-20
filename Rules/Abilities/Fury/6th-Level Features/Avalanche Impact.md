@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Self
 feature_type: ability
 file_basename: Avalanche Impact
-file_dpath: Fury/6th-Level Features
+file_dpath: Abilities/Fury/6th-Level Features
 flavor: You leap and crash down, causing a shockwave that devastates foes.
 item_id: avalanche-impact-9-ferocity
 item_index: '04'
@@ -18,7 +18,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:avalanche-impact-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.3:04
+  - 1.1.1:11.2.5.3:04
 source: mcdm.heroes.v1
 subclass: Berserker
 target: Self

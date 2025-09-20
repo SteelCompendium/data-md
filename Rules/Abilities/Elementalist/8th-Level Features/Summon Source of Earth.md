@@ -4,10 +4,10 @@ class: elementalist
 distance: Ranged 10
 feature_type: ability
 file_basename: Summon Source of Earth
-file_dpath: Elementalist/8th-Level Features
+file_dpath: Abilities/Elementalist/8th-Level Features
 flavor: The ground rumbles as an elemental bursts forth, ready to serve.
 item_id: summon-source-of-earth
-item_index: '03'
+item_index: '04'
 item_name: Summon Source of Earth
 keywords:
   - Earth
@@ -17,7 +17,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:summon-source-of-earth
 scdc:
-  - 1.1.1:13.2.9.2:03
+  - 1.1.1:11.2.9.2:04
 source: mcdm.heroes.v1
 subclass: Earth
 target: Special

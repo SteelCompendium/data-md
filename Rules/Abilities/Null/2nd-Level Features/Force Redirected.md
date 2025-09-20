@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Melee 3
 feature_type: ability
 file_basename: Force Redirected
-file_dpath: Null/2nd-Level Features
+file_dpath: Abilities/Null/2nd-Level Features
 flavor: The force of your strike moves your target in a surprising direction.
 item_id: force-redirected-5-discipline
 item_index: '06'
@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:force-redirected-5-discipline
 scdc:
-  - 1.1.1:13.2.6.5:06
+  - 1.1.1:11.2.6.5:06
 source: mcdm.heroes.v1
 subclass: Chronokinetic
 target: One creature

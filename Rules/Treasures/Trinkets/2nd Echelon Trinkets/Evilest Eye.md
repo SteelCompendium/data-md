@@ -8,7 +8,7 @@ item_name: Evilest Eye
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:evilest-eye
 scdc:
-  - 1.1.1:12.4.2:04
+  - 1.1.1:13.4.2:04
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/2nd-echelon

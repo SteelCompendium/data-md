@@ -4,7 +4,7 @@ class: shadow
 distance: Self
 feature_type: ability
 file_basename: Im No Threat
-file_dpath: Shadow/1st-Level Features
+file_dpath: Abilities/Shadow/1st-Level Features
 flavor: Taking on an illusory countenance gives you an advantage on subterfuge.
 item_id: im-no-threat
 item_index: '17'
@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:im-no-threat
 scdc:
-  - 1.1.1:13.2.2.1:17
+  - 1.1.1:11.2.2.1:17
 source: mcdm.heroes.v1
 subclass: Harlequin Mask
 target: Self

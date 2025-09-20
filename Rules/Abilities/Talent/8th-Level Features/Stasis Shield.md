@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Stasis Shield
-file_dpath: Talent/8th-Level Features
+file_dpath: Abilities/Talent/8th-Level Features
 flavor: You freeze time just long enough to bring the victim to safety!
 item_id: stasis-shield-3-clarity
 item_index: '01'
@@ -19,7 +19,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:stasis-shield-3-clarity
 scdc:
-  - 1.1.1:13.2.1.2:01
+  - 1.1.1:11.2.1.2:01
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Self, or one creature or object

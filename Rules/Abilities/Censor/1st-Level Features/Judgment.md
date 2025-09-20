@@ -4,7 +4,7 @@ class: censor
 distance: Ranged 10
 feature_type: ability
 file_basename: Judgment
-file_dpath: Censor/1st-Level Features
+file_dpath: Abilities/Censor/1st-Level Features
 flavor: You utter a prayer that outlines your foe in holy energy.
 item_id: judgment
 item_index: 09
@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:judgment
 scdc:
-  - 1.1.1:13.2.7.1:09
+  - 1.1.1:11.2.7.1:09
 source: mcdm.heroes.v1
 target: One enemy
 type: feature/ability/censor/1st-level-feature

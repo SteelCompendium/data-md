@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Melee 1
 feature_type: ability
 file_basename: Overkill
-file_dpath: Fury/8th-Level Features
+file_dpath: Abilities/Fury/8th-Level Features
 flavor: You strike so no damage is wasted.
 item_id: overkill-11-ferocity
 item_index: '02'
@@ -21,7 +21,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:overkill-11-ferocity
 scdc:
-  - 1.1.1:13.2.5.2:02
+  - 1.1.1:11.2.5.2:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/fury/8th-level-feature

@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Melee 2
 feature_type: ability
 file_basename: Fate
-file_dpath: Talent/6th-Level Features
+file_dpath: Abilities/Talent/6th-Level Features
 flavor: Your foe gets a glimpse of how it will end for them.
 item_id: fate-9-clarity
 item_index: '05'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:fate-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:05
+  - 1.1.1:11.2.1.3:05
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: One enemy

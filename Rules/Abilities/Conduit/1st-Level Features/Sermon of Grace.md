@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 4 burst
 feature_type: ability
 file_basename: Sermon of Grace
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: You inspire your allies with tales of your saint's great deeds.
 item_id: sermon-of-grace-5-piety
 item_index: '23'
@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:sermon-of-grace-5-piety
 scdc:
-  - 1.1.1:13.2.8.1:23
+  - 1.1.1:11.2.8.1:23
 source: mcdm.heroes.v1
 target: Each ally in the area
 type: feature/ability/conduit/1st-level-feature

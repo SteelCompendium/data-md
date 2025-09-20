@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: 3 burst
 feature_type: ability
 file_basename: Infernal Gavotte
-file_dpath: Troubadour/3rd-Level Features
+file_dpath: Abilities/Troubadour/3rd-Level Features
 flavor: A spicy performance lights a fire under your allies' feet.
 item_id: infernal-gavotte-7-drama
 item_index: '03'
@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:infernal-gavotte-7-drama
 scdc:
-  - 1.1.1:13.2.3.6:03
+  - 1.1.1:11.2.3.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/3rd-level-feature

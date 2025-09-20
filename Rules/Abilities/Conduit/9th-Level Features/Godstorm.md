@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: 5 cube within 5
 feature_type: ability
 file_basename: Godstorm
-file_dpath: Conduit/9th-Level Features
+file_dpath: Abilities/Conduit/9th-Level Features
 flavor: You summon a divine storm that remains under your control.
 item_id: godstorm-11-piety
 item_index: '07'
@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:godstorm-11-piety
 scdc:
-  - 1.1.1:13.2.8.7:07
+  - 1.1.1:11.2.8.7:07
 source: mcdm.heroes.v1
 subclass: Storm
 target: Each enemy in the area

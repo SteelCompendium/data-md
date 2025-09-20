@@ -7,7 +7,7 @@ cost_resource: Insight
 distance: 4 burst
 feature_type: ability
 file_basename: Cinderstorm
-file_dpath: Shadow/6th-Level Features
+file_dpath: Abilities/Shadow/6th-Level Features
 flavor: You teleport your friends in a burst of ash and fire.
 item_id: cinderstorm-9-insight
 item_index: '02'
@@ -18,7 +18,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight
 scdc:
-  - 1.1.1:13.2.2.3:02
+  - 1.1.1:11.2.2.3:02
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: Self and each ally in the area

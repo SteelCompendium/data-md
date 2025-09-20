@@ -7,7 +7,7 @@ item_name: Higher Authority
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:higher-authority
 scdc:
-  - 1.1.1:11:06
+  - 1.1.1:12:06
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

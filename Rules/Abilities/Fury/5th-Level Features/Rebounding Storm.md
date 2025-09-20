@@ -7,7 +7,7 @@ cost_resource: Ferocity
 distance: Melee 1
 feature_type: ability
 file_basename: Rebounding Storm
-file_dpath: Fury/5th-Level Features
+file_dpath: Abilities/Fury/5th-Level Features
 flavor: You knock around enemies like playthings.
 item_id: rebounding-storm-9-ferocity
 item_index: '02'
@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:rebounding-storm-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.4:02
+  - 1.1.1:11.2.5.4:02
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: feature/ability/fury/5th-level-feature

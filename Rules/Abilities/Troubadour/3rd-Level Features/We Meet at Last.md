@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Ranged 10
 feature_type: ability
 file_basename: We Meet at Last
-file_dpath: Troubadour/3rd-Level Features
+file_dpath: Abilities/Troubadour/3rd-Level Features
 flavor: You magically intertwine your fate with another creature—for better or worse.
 item_id: we-meet-at-last-7-drama
 item_index: '06'
@@ -19,7 +19,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:we-meet-at-last-7-drama
 scdc:
-  - 1.1.1:13.2.3.6:06
+  - 1.1.1:11.2.3.6:06
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/troubadour/3rd-level-feature

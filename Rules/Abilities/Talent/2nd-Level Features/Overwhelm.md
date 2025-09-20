@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Overwhelm
-file_dpath: Talent/2nd-Level Features
+file_dpath: Abilities/Talent/2nd-Level Features
 flavor: You overload their senses, turning all their subconscious thoughts into conscious ones.
 item_id: overwhelm-5-clarity
 item_index: '02'
@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:overwhelm-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:02
+  - 1.1.1:11.2.1.5:02
 source: mcdm.heroes.v1
 subclass: Telepathy
 target: One creature

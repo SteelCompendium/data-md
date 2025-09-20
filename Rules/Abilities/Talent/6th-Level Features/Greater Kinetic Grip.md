@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Greater Kinetic Grip
-file_dpath: Talent/6th-Level Features
+file_dpath: Abilities/Talent/6th-Level Features
 flavor: You raise the target into the air without breaking a sweat.
 item_id: greater-kinetic-grip-9-clarity
 item_index: '02'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:greater-kinetic-grip-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:02
+  - 1.1.1:11.2.1.3:02
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: One creature or object

@@ -8,7 +8,7 @@ item_name: Gravekeeper's Lantern
 scc:
   - mcdm.heroes.v1:treasure.trinkets.4th-echelon:gravekeepers-lantern
 scdc:
-  - 1.1.1:12.4.1:02
+  - 1.1.1:13.4.1:02
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/4th-echelon

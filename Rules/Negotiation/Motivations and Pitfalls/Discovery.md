@@ -7,7 +7,7 @@ item_name: Discovery
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:discovery
 scdc:
-  - 1.1.1:11:03
+  - 1.1.1:12:03
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

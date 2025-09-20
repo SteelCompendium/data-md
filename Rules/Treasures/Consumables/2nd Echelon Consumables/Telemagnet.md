@@ -8,7 +8,7 @@ item_name: Telemagnet
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:telemagnet
 scdc:
-  - 1.1.1:12.2.3:07
+  - 1.1.1:13.2.3:07
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/2nd-echelon

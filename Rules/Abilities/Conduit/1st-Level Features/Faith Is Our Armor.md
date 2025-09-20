@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Faith Is Our Armor
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 flavor: The heroes' armor glows with golden light, granting divine protection.
 item_id: faith-is-our-armor-5-piety
 item_index: '03'
@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:faith-is-our-armor-5-piety
 scdc:
-  - 1.1.1:13.2.8.1:03
+  - 1.1.1:11.2.8.1:03
 source: mcdm.heroes.v1
 target: Four allies
 type: feature/ability/conduit/1st-level-feature

@@ -8,7 +8,7 @@ item_name: Scroll of Resurrection
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:scroll-of-resurrection
 scdc:
-  - 1.1.1:12.2.3:02
+  - 1.1.1:13.2.3:02
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/2nd-echelon

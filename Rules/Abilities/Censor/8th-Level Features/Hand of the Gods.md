@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Hand of the Gods
-file_dpath: Censor/8th-Level Features
+file_dpath: Abilities/Censor/8th-Level Features
 flavor: You use your foe as a tool against your enemies.
 item_id: hand-of-the-gods-11-wrath
 item_index: '02'
@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:hand-of-the-gods-11-wrath
 scdc:
-  - 1.1.1:13.2.7.2:02
+  - 1.1.1:11.2.7.2:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/censor/8th-level-feature

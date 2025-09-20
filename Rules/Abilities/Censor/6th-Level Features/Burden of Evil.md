@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Burden of Evil
-file_dpath: Censor/6th-Level Features
+file_dpath: Abilities/Censor/6th-Level Features
 flavor: You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.
 item_id: burden-of-evil-9-wrath
 item_index: '06'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:burden-of-evil-9-wrath
 scdc:
-  - 1.1.1:13.2.7.3:06
+  - 1.1.1:11.2.7.3:06
 source: mcdm.heroes.v1
 subclass: Oracle
 target: Three enemies

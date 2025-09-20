@@ -8,7 +8,7 @@ item_name: Scannerstone
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:scannerstone
 scdc:
-  - 1.1.1:12.4.2:06
+  - 1.1.1:13.4.2:06
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/2nd-echelon

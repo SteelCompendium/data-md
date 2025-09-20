@@ -7,7 +7,7 @@ cost_resource: Focus
 distance: Melee 1
 feature_type: ability
 file_basename: To Me Squad
-file_dpath: Tactician/6th-Level Features
+file_dpath: Abilities/Tactician/6th-Level Features
 flavor: You lead your allies in a charge.
 item_id: to-me-squad-9-focus
 item_index: '06'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:to-me-squad-9-focus
 scdc:
-  - 1.1.1:13.2.4.3:06
+  - 1.1.1:11.2.4.3:06
 source: mcdm.heroes.v1
 subclass: Vanguard
 target: One creature

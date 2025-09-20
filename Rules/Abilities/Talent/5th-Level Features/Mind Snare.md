@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Ranged 10
 feature_type: ability
 file_basename: Mind Snare
-file_dpath: Talent/5th-Level Features
+file_dpath: Abilities/Talent/5th-Level Features
 flavor: You latch onto your prey's brain and don't let go, like a song they can't get out of their head.
 item_id: mind-snare-9-clarity
 item_index: '01'
@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:mind-snare-9-clarity
 scdc:
-  - 1.1.1:13.2.1.4:01
+  - 1.1.1:11.2.1.4:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/5th-level-feature

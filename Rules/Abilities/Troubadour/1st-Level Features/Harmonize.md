@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Ranged 5
 feature_type: ability
 file_basename: Harmonize
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: Give the chorus a little punch.
 item_id: harmonize-3-drama
 item_index: '23'
@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harmonize-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:23
+  - 1.1.1:11.2.3.1:23
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: One ally

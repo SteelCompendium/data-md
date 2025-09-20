@@ -50,60 +50,64 @@ Additionally, your Defensive Roll ability now allows you to shift up to 5 square
 
 Choose one heroic ability from the following options, each of which costs 9 insight to use.
 
-###### Blackout (9 Insight)
+<!-- -->
+> ###### Blackout (9 Insight)
+>
+> *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+>
+> | **Area, Magic** |   **Maneuver** |
+> | --------------- | -------------: |
+> | **📏 3 burst**  | **🎯 Special** |
+>
+> **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
 
-*You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
+<!-- -->
+> ###### Into the Shadows (9 Insight)
+>
+> *You sweep your foe off their feet and plunge them into absolute darkness.*
+>
+> | **Magic, Melee, Strike, Weapon** |               **Main action** |
+> | -------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                   | **🎯 One creature or object** |
+>
+> **Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 8 + A corruption damage
+> - **12-16:** 13 + A corruption damage
+> - **17+:** 17 + A corruption damage
 
-| **Area, Magic** |   **Maneuver** |
-| --------------- | -------------: |
-| **📏 3 burst**  | **🎯 Special** |
+<!-- -->
+> ###### Shadowfall (9 Insight)
+>
+> *You vanish. They fall. You reappear.*
+>
+> | **Area, Melee, Weapon**     |               **Main action** |
+> | --------------------------- | ----------------------------: |
+> | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 10 damage
+> - **12-16:** 14 damage
+> - **17+:** 20 damage
+>
+> **Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.
-
-###### Into the Shadows (9 Insight)
-
-*You sweep your foe off their feet and plunge them into absolute darkness.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
-
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
-
-**Power Roll + Agility:**
-
-- **≤11:** 8 + A corruption damage
-- **12-16:** 13 + A corruption damage
-- **17+:** 17 + A corruption damage
-
-###### Shadowfall (9 Insight)
-
-*You vanish. They fall. You reappear.*
-
-| **Area, Melee, Weapon**     |               **Main action** |
-| --------------------------- | ----------------------------: |
-| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 damage
-- **12-16:** 14 damage
-- **17+:** 20 damage
-
-**Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
-
-###### You Talk Too Much (9 Insight)
-
-*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
-- **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
-- **17+:** 21 + A damage; P < STRONG, dazed (save ends)
-
-**Effect:** The target can't communicate with anyone until the end of the encounter.
+<!-- -->
+> ###### You Talk Too Much (9 Insight)
+>
+> *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
+>
+> | **Melee, Ranged, Strike, Weapon** |     **Main action** |
+> | --------------------------------- | ------------------: |
+> | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+>
+> **Power Roll + Agility:**
+>
+> - **≤11:** 10 + A damage; P < WEAK, dazed (save ends)
+> - **12-16:** 15 + A damage; P < AVERAGE, dazed (save ends)
+> - **17+:** 21 + A damage; P < STRONG, dazed (save ends)
+>
+> **Effect:** The target can't communicate with anyone until the end of the encounter.

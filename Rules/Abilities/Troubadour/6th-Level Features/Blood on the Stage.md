@@ -7,7 +7,7 @@ cost_resource: Drama
 distance: Melee 1
 feature_type: ability
 file_basename: Blood on the Stage
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Abilities/Troubadour/6th-Level Features
 flavor: It's love and blood or drama and blood. Either way, there's always blood.
 item_id: blood-on-the-stage-9-drama
 item_index: '06'
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:blood-on-the-stage-9-drama
 scdc:
-  - 1.1.1:13.2.3.3:06
+  - 1.1.1:11.2.3.3:06
 source: mcdm.heroes.v1
 subclass: Duelist
 target: One creature or object

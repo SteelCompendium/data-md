@@ -7,7 +7,7 @@ cost_resource: Piety
 distance: Ranged 10
 feature_type: ability
 file_basename: Your Story Ends Here
-file_dpath: Conduit/6th-Level Features
+file_dpath: Abilities/Conduit/6th-Level Features
 flavor: You bend the fate of a foe, willing them to die.
 item_id: your-story-ends-here-9-piety
 item_index: 09
@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:your-story-ends-here-9-piety
 scdc:
-  - 1.1.1:13.2.8.3:09
+  - 1.1.1:11.2.8.3:09
 source: mcdm.heroes.v1
 subclass: Fate
 target: One creature

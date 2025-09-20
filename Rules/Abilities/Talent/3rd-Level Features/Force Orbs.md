@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: Self; see below
 feature_type: ability
 file_basename: Force Orbs
-file_dpath: Talent/3rd-Level Features
+file_dpath: Abilities/Talent/3rd-Level Features
 flavor: Spheres of solid psionic energy float around you.
 item_id: force-orbs-7-clarity
 item_index: '01'
@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:force-orbs-7-clarity
 scdc:
-  - 1.1.1:13.2.1.6:01
+  - 1.1.1:11.2.1.6:01
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/talent/3rd-level-feature

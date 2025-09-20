@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Inertial Absorption
-file_dpath: Null/9th-Level Features
+file_dpath: Abilities/Null/9th-Level Features
 flavor: You absorb an attack to empower your body.
 item_id: inertial-absorption-11-discipline
 item_index: '02'
@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:inertial-absorption-11-discipline
 scdc:
-  - 1.1.1:13.2.6.7:02
+  - 1.1.1:11.2.6.7:02
 source: mcdm.heroes.v1
 subclass: Metakinetic
 target: Self

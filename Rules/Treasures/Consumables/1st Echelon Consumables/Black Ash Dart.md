@@ -8,7 +8,7 @@ item_name: Black Ash Dart
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:black-ash-dart
 scdc:
-  - 1.1.1:12.2.1:08
+  - 1.1.1:13.2.1:08
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/1st-echelon

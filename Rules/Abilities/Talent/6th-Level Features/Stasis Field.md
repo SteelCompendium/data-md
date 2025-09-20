@@ -7,7 +7,7 @@ cost_resource: Clarity
 distance: 4 cube within 10
 feature_type: ability
 file_basename: Stasis Field
-file_dpath: Talent/6th-Level Features
+file_dpath: Abilities/Talent/6th-Level Features
 flavor: Keep everything as it was. Ignore everything that will be.
 item_id: stasis-field-9-clarity
 item_index: '04'
@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:stasis-field-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:04
+  - 1.1.1:11.2.1.3:04
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Each creature and object in the area

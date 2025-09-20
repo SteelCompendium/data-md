@@ -1,4 +1,5 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 1
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Mountain
 scc:
   - mcdm.heroes.v1:kit-ability.mountain:pain-for-pain
 scdc:

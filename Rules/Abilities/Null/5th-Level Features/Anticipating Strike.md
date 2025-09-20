@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Melee 1
 feature_type: ability
 file_basename: Anticipating Strike
-file_dpath: Null/5th-Level Features
+file_dpath: Abilities/Null/5th-Level Features
 flavor: You suddenly strike an enemy, then grab them in a psionically enhanced grip.
 item_id: anticipating-strike-9-discipline
 item_index: '01'
@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.null.5th-level-feature:anticipating-strike-9-discipline
 scdc:
-  - 1.1.1:13.2.6.4:01
+  - 1.1.1:11.2.6.4:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/5th-level-feature
