@@ -2538,7 +2538,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 > **Effect:** The target vertical slides up to 3 squares. If the target is an ally, they can make a free strike at the end of the forced movement, then fall without taking damage.
 
 <!-- -->
-> ❗️**Juke**
+> ❗️ **Juke**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |
