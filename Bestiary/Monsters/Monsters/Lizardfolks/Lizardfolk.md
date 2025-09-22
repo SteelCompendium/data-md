@@ -14,11 +14,11 @@ type: monster/section
 
 ## Lizardfolk
 
-Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region-the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
+Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region—the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
 
 #### Homeland Protectors
 
-Lizardfolk aren't especially hostile unless they feel their territory is threatened-which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
+Lizardfolk aren't especially hostile unless they feel their territory is threatened—which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
 
 Adventurers often cross paths with lizardfolk while trekking through their homelands. The reptilian humanoids watch travelers who skirt too close to sources of food and shelter, attacking those who take more than they need. Many lizardfolk dwell in abandoned ruins and caverns for protection. Treasure seekers who delve into these places are typically given one warning before the attack begins.
 

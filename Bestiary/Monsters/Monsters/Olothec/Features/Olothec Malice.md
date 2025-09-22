@@ -39,4 +39,4 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ❇️ **Memory of Chaos (6 Malice)**
 >
-> The olothec broadcasts their memory of the universe in its primordial state-a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
+> The olothec broadcasts their memory of the universe in its primordial state—a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).

@@ -95,7 +95,7 @@ type: monster
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The basalt stone giant ignores difficult terrain
+> The basalt stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**

@@ -58,7 +58,7 @@ stamina: '57'
 <!-- -->
 > ⭐️ **True Name**
 >
-> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter
+> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -75,7 +75,7 @@ stamina: '57'
 > - **12-16:** 10 corruption damage
 > - **17+:** 14 corruption damage
 >
-> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage
+> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.
 
 ###### Level 10 Retainer Advancement Ability
 

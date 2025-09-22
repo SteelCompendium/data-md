@@ -69,4 +69,4 @@ type: monster
 <!-- -->
 > ⭐️ **Negative Nerves**
 >
-> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome
+> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome.

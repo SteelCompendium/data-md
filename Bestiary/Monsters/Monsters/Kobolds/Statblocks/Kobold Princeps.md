@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares
+> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**

@@ -34,7 +34,7 @@ Many high elves can also summon magical wisps called elemental motes. These spri
 
 #### Surround and Suppress
 
-Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits-and eventually, graveyards.
+Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits—and eventually, graveyards.
 
 #### Magical Manipulation
 
@@ -165,7 +165,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** Each ally adjacent to the target shifts up to 2 squares
+> **Effect:** Each ally adjacent to the target shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**
@@ -465,7 +465,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares
+> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares.
 
 <!-- -->
 > 👤 **Windwalk**
@@ -543,7 +543,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Otherworldly Blessing**
 >
-> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn
+> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn.
 
 <!-- -->
 > ☠️ **Fountains Roar, Now Free From the Earth (Villain Action 1)**

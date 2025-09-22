@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first
+> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first.
 
 <!-- -->
 > ⭐️ **Masking Glamor**

@@ -18,13 +18,13 @@ Edacity. The hyena-faced gnolls know only blood and hunger. These fiends carry w
 
 #### Born From Blood
 
-The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas-bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
+The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas—bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
 
 As his last act, the demon gave the fiendish hyenas a demonic cunning to match their insatiable hunger, bound his evil will to theirs, and turned their paws into hands so they could wield weapons. He called these new fiends "gnoll," an Abyssal word that has many meanings, one of which is "to consume completely." And true to their name, the gnolls immediately devoured their creator.
 
 #### Ceaseless Hunger
 
-The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh-and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
+The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh—and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
 
 #### Gnoll War
 
@@ -36,7 +36,7 @@ Stronger and smarter than their beastly counterparts, abyssal hyenas crawl out o
 
 #### Tusker Demons
 
-Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves-enemies and allies alike.
+Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves—enemies and allies alike.
 
 #### Gnoll Languages
 
@@ -426,7 +426,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Lethe**
 >
-> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge
+> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge.
 
 ###### Gnoll Carnage
 

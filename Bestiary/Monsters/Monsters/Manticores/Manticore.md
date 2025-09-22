@@ -14,11 +14,11 @@ type: monster/section
 
 ## Manticore
 
-A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge-only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
+A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge—only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
 
 #### Uncanny Appearances
 
-A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard-a talent manticores use to lure in prey.
+A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard—a talent manticores use to lure in prey.
 
 #### Heralds of Death
 
@@ -170,7 +170,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 <!-- -->
 > **Manticore Treasures**
 >
-> Although manticores have no earthly use for treasure, they tend to collect a lot of it-it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
+> Although manticores have no earthly use for treasure, they tend to collect a lot of it—it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
 >
 > The following are sample treasures from a manticore's cave, of which a manticore might have one or two. These items can be found in Draw Steel: Heroes.
 >

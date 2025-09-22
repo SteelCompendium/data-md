@@ -67,7 +67,7 @@ type: monster
 > - **12-16:** 11 damage; slide 2
 > - **17+:** 7 damage
 >
-> The area is difficult terrain
+> The area is difficult terrain.
 
 <!-- -->
 > 🔳 **Break Ground (5 Malice)**

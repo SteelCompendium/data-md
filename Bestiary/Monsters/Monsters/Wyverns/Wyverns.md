@@ -185,7 +185,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 >
 > **Trigger:** A creature within distance deals damage to the predator with a melee ability.
 >
-> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares
+> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares.
 
 <!-- -->
 > ⭐️ **Stubborn Rage**

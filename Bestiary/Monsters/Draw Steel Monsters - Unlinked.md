@@ -83,7 +83,7 @@ While many keywords are specific to a group of creatures, such as Gnoll or Human
 
 ###### Abyssal
 
-Creatures with the Abyssal keyword, such as demons and gnolls, can trace their origins back to the Abyssal Wasteland-a chaotic manifold whose denizens hunger for the souls of mortals.
+Creatures with the Abyssal keyword, such as demons and gnolls, can trace their origins back to the Abyssal Wasteland—a chaotic manifold whose denizens hunger for the souls of mortals.
 
 ###### Accursed
 
@@ -95,7 +95,7 @@ The Animal keyword is an easy one! It covers bears, wolves, and really big spide
 
 ###### Beast
 
-Creatures with the Beast keyword have animal-level sapience, but also possess supernatural abilities or traits. Basilisks and chimeras are examples of beasts. They don't have a society, but one has eye beams that can turn you into a statue, while the other has three heads-each belonging to a different species and one of which breathes fire!
+Creatures with the Beast keyword have animal-level sapience, but also possess supernatural abilities or traits. Basilisks and chimeras are examples of beasts. They don't have a society, but one has eye beams that can turn you into a statue, while the other has three heads—each belonging to a different species and one of which breathes fire!
 
 ###### Construct
 
@@ -127,7 +127,7 @@ Humanoid creatures, such as dwarves and time raiders, are size 1 creatures who h
 
 ###### Infernal
 
-Infernal creatures, such as devils and hobgoblins, can trace their origins back to the Seven Cities of Hell-an ordered manifold where the natives make plans to tempt mortals into contracts for their souls.
+Infernal creatures, such as devils and hobgoblins, can trace their origins back to the Seven Cities of Hell—an ordered manifold where the natives make plans to tempt mortals into contracts for their souls.
 
 ###### Ooze
 
@@ -435,7 +435,7 @@ If several minions in a squad make a free strike at the same target at the same 
 
 ##### Tracking Squads
 
-If you use multiple squads made up of the same type of minions in an encounter-for instance, two squads of goblin spinecleavers-it's important to make it easy for the players to tell the squads apart. You can use different miniatures for each squad, or give each squad's miniatures or tokens an indicator (a colored magnet, ring, sticker, and so forth) to help keep track of which minions are part of the same squad as they start moving around on the battlefield. Many online virtual tabletops have tools for adding colors or textures to icons that make tracking different squads easy.
+If you use multiple squads made up of the same type of minions in an encounter—for instance, two squads of goblin spinecleavers—it's important to make it easy for the players to tell the squads apart. You can use different miniatures for each squad, or give each squad's miniatures or tokens an indicator (a colored magnet, ring, sticker, and so forth) to help keep track of which minions are part of the same squad as they start moving around on the battlefield. Many online virtual tabletops have tools for adding colors or textures to icons that make tracking different squads easy.
 
 #### Attached Squad Captain
 
@@ -494,7 +494,7 @@ Building an encounter is almost like creating a character! Every encounter shoul
 - Cool monsters.
 - A motivation for the participants to be there.
 - Stakes, or consequences for failure, for all individuals involved.
-- One or more opportunities for the heroes and villains to learn more about their opponents-or themselves!
+- One or more opportunities for the heroes and villains to learn more about their opponents—or themselves!
 - An interesting map that provokes the heroes to think about their moves as a team (see Choosing a Map later in this section).
 
 #### Step 2: Choose Encounter Difficulty
@@ -527,7 +527,7 @@ A hard encounter is typically worth 2 Victories.
 
 ##### Extreme Encounters
 
-Extreme encounters feature threats of a level that the heroes aren't likely to survive if they try to fight to the bitter end. Such encounters rarely appear in most campaigns, though if the heroes are 8th level or higher, they can typically survive such encounters-or have a good chance of coming back to life afterward.
+Extreme encounters feature threats of a level that the heroes aren't likely to survive if they try to fight to the bitter end. Such encounters rarely appear in most campaigns, though if the heroes are 8th level or higher, they can typically survive such encounters—or have a good chance of coming back to life afterward.
 
 An extreme encounter is typically worth 2 or more Victories.
 
@@ -622,7 +622,7 @@ If you want a creature to stick around in a combat encounter and become the star
 
 ##### Dynamic Terrain Objects
 
-The final section of this book introduces and details dynamic terrain objects-thematic elements you can place in an encounter to challenge the heroes. You can spend your EV budget on dynamic terrain objects the same way you do on monsters. Adding one or two dynamic terrain objects to an encounter gives the heroes a challenge to overcome or resolve beyond simply exchanging blows with another creature. See Dynamic Terrain for more information.
+The final section of this book introduces and details dynamic terrain objects—thematic elements you can place in an encounter to challenge the heroes. You can spend your EV budget on dynamic terrain objects the same way you do on monsters. Adding one or two dynamic terrain objects to an encounter gives the heroes a challenge to overcome or resolve beyond simply exchanging blows with another creature. See Dynamic Terrain for more information.
 
 #### Step 6: Build Initiative Groups
 
@@ -687,7 +687,7 @@ A creature's role and organization mode helps you build interesting encounters w
 
 Ambusher creatures can hide, turn invisible, or otherwise find ways to get the drop on their enemies. They typically spend half their turn attacking, and the other half slipping away and hiding. Ambushers focus on taking down a single hero, sometimes dragging their target into the place where they hide.
 
-Encounters that include ambushers should have plenty of cover or concealment, giving them places to hide. Adding other creatures typically brutes, defenders, harriers, or minions-keeps other heroes busy while the ambusher focuses on taking down a chosen foe.
+Encounters that include ambushers should have plenty of cover or concealment, giving them places to hide. Adding other creatures—typically brutes, defenders, harriers, or minions—keeps other heroes busy while the ambusher focuses on taking down a chosen foe.
 
 ##### Artillery Creatures
 
@@ -707,7 +707,7 @@ Many controllers work best when they have brutes, defenders, harriers, and minio
 
 ##### Defender Creatures
 
-Defender creatures defend their allies by drawing the heroes' attacks. They make excellent protectors for ambushers, artillery creatures, controllers, and support creatures, as well as for leaders. Defenders don't need to stay close to the creatures they protect-and it's better if they don't. A defender who breaks away from their charge can often lock down a threat far from the rest of the fight.
+Defender creatures defend their allies by drawing the heroes' attacks. They make excellent protectors for ambushers, artillery creatures, controllers, and support creatures, as well as for leaders. Defenders don't need to stay close to the creatures they protect—and it's better if they don't. A defender who breaks away from their charge can often lock down a threat far from the rest of the fight.
 
 During combat, defenders engage heroes who are strong in melee. A defender battles as many foes as they can reach so their allies can freely move. If more than one defender is in a battle, they typically split up, each fighting a different hero.
 
@@ -858,7 +858,7 @@ When choosing a map for this type of encounter, consider the placement of the sp
 
 If the specific foe is the type of enemy who likes to strike and retreat, make sure they have areas of cover or concealment to fall back to and a map that gives them plenty of space to move around. If they or their defenders use a lot of forced movement, make sure there are fun hazards and objects to throw heroes into. If you're worried about the characters being able to teleport in to attack, find a map with lots of walls or other barriers, since you need line of effect to your destination when you teleport.
 
-It's also a good idea for the foe to have an escape route, often a choke point through which they can retreat. If the characters want to pursue, have the foe's allies hold them off-but don't make it impossible for the heroes to follow!
+It's also a good idea for the foe to have an escape route, often a choke point through which they can retreat. If the characters want to pursue, have the foe's allies hold them off—but don't make it impossible for the heroes to follow!
 
 ##### Difficulty Modifier
 
@@ -898,7 +898,7 @@ This sort of encounter is all about getting in, grabbing an item, and then getti
 
 ##### Map Advice
 
-The placement of the thing or the creature carrying it is important. Make sure the thing isn't simply hanging out in the middle of a wide-open space. Place it somewhere on a map where it's defended by hazards and choke points-and definitely not near an escape route! You'll also want to pick a big map for this type of encounter, since escaping with the thing is part of the challenge and small maps require less movement to achieve success.
+The placement of the thing or the creature carrying it is important. Make sure the thing isn't simply hanging out in the middle of a wide-open space. Place it somewhere on a map where it's defended by hazards and choke points—and definitely not near an escape route! You'll also want to pick a big map for this type of encounter, since escaping with the thing is part of the challenge and small maps require less movement to achieve success.
 
 ##### Difficulty Modifier
 
@@ -938,7 +938,7 @@ Multiple: There are multiple things, all of which must be destroyed. Divide the 
 
 ##### Monster Roles and Organization
 
-Encounters built around destroying a thing require beefy creatures to defend the thing-brutes and defenders, as well as squads of minions. It also helps to have a few artillery creatures off in the distance harassing heroes as they attempt to destroy the thing, so that melee heroes have to decide between fulfilling that goal while coming under fire or taking out the ranged attackers first. If the heroes want to use their own ranged abilities to destroy a thing from afar, a sneaky ambusher or two makes a delightful addition to the encounter, hanging back in the shadows waiting to pick opportunistic heroes off.
+Encounters built around destroying a thing require beefy creatures to defend the thing—brutes and defenders, as well as squads of minions. It also helps to have a few artillery creatures off in the distance harassing heroes as they attempt to destroy the thing, so that melee heroes have to decide between fulfilling that goal while coming under fire or taking out the ranged attackers first. If the heroes want to use their own ranged abilities to destroy a thing from afar, a sneaky ambusher or two makes a delightful addition to the encounter, hanging back in the shadows waiting to pick opportunistic heroes off.
 
 ##### Map Advice
 
@@ -966,7 +966,7 @@ No one earns the mantle of hero without saving a few lives. Sometimes the point 
 
 ##### Allies and Potential Allies
 
-Some encounters of this type feature willing allies-creatures able and willing to fight alongside the heroes. Others feature potential allies creatures who can't or won't join the heroes right away, but who might do so later in the battle. In combat, willing allies can be controlled by the heroes (and might use retainer stat blocks), while potential allies are controlled by you.
+Some encounters of this type feature willing allies—creatures able and willing to fight alongside the heroes. Others feature potential allies creatures who can't or won't join the heroes right away, but who might do so later in the battle. In combat, willing allies can be controlled by the heroes (and might use retainer stat blocks), while potential allies are controlled by you.
 
 During an encounter, potential allies must be won over and freed from any captivity before they become allies, requiring a successful hard Presence test made as a maneuver. Potential allies otherwise attempt to flee the encounter on their turns.
 
@@ -1044,7 +1044,7 @@ Sometimes the heroes just need to buy time. They might need to battle a conqueri
 
 ##### Defensive Position
 
-Often with the input of the players, you choose a defensive position-an area that must be held and controlled by the heroes. Enemies attempt to get through the defensive position or to reach a certain point in or around it, so that the fewer enemies who do so, the better the heroes' chances of success. The area can be any size, with the defensive position often blocking entry to a vulnerable area the heroes are defending.
+Often with the input of the players, you choose a defensive position—an area that must be held and controlled by the heroes. Enemies attempt to get through the defensive position or to reach a certain point in or around it, so that the fewer enemies who do so, the better the heroes' chances of success. The area can be any size, with the defensive position often blocking entry to a vulnerable area the heroes are defending.
 
 A defensive position might grant benefits to the heroes defending it. The approach to the position might be a choke point, involve crossing difficult terrain, or require climbing. Anyone inside the position might have the benefit of high ground against anyone outside it.
 
@@ -1052,7 +1052,7 @@ If you want to increase the difficulty of the encounter, you might have two or m
 
 ##### Encounter Duration
 
-An encounter focused on a defensive position has a fixed duration determined by you-the number of rounds the heroes must defend the area in order to be successful. A typical encounter duration is 3 rounds.
+An encounter focused on a defensive position has a fixed duration determined by you—the number of rounds the heroes must defend the area in order to be successful. A typical encounter duration is 3 rounds.
 
 ##### Reinforcements
 
@@ -1126,7 +1126,7 @@ Sometimes combat is complicated by the fact that the heroes need to stop the vil
 
 ##### Encounter Duration
 
-An encounter focused on stopping others' actions has a fixed duration determined by you-the number of rounds before the villains complete their plans. A typical encounter duration is 3 rounds, but events might change the encounter duration. For example, a character might succeed on a hard Reason test to dispute a wedding's legality and increase the encounter duration by 1, while failing to stop zealots from sacrificing an innocent creature as part of their ritual might decrease the duration by 1.
+An encounter focused on stopping others' actions has a fixed duration determined by you—the number of rounds before the villains complete their plans. A typical encounter duration is 3 rounds, but events might change the encounter duration. For example, a character might succeed on a hard Reason test to dispute a wedding's legality and increase the encounter duration by 1, while failing to stop zealots from sacrificing an innocent creature as part of their ritual might decrease the duration by 1.
 
 ##### Stopping the Action
 
@@ -1171,7 +1171,7 @@ This encounter objective sees the characters charged with initiating an event, p
 
 ##### Encounter Duration
 
-An encounter focused on completing a specific action has a fixed duration determined by you-the number of rounds within which the heroes must complete their plans. A typical encounter duration is 3 rounds.
+An encounter focused on completing a specific action has a fixed duration determined by you—the number of rounds within which the heroes must complete their plans. A typical encounter duration is 3 rounds.
 
 ##### Tasks and Failures
 
@@ -1211,11 +1211,11 @@ Some encounters have multiple objectives that must all be accomplished. For inst
 
 Many encounters can be completed successfully in several ways. If the heroes are fighting an evil emperor channeling the power of a magic crown, they might win by killing or capturing the emperor ("Defeat a Specific Foe"), breaking or stealing the crown ("Destroy the Thing" or "Get the Thing"), or even by negotiating a detente with the emperor's forces.
 
-If an encounter has multiple alternative objectives, you reward the heroes for the objective they completed the most successfully. For instance, if the heroes steal the emperor's crown, it doesn't matter that they didn't meet the success conditions for the other objectives-they still achieve success.
+If an encounter has multiple alternative objectives, you reward the heroes for the objective they completed the most successfully. For instance, if the heroes steal the emperor's crown, it doesn't matter that they didn't meet the success conditions for the other objectives—they still achieve success.
 
 #### Changing Objectives
 
-The heroes might start an encounter with one objective, only to have you change things up with an unexpected shot of dramatic tension. For instance, the characters are battling it out with a demon lord to end that creature's reign of terror-a "Defeat a Specific Foe" objective. Then they suddenly notice the demon's cultists preparing to sacrifice a group of innocent noncombatants, changing the objective to "Save Another." When an objective shifts, make sure the players understand there's now something else at stake. As long as the innocents are saved, it no longer matters if the demon lord lives.
+The heroes might start an encounter with one objective, only to have you change things up with an unexpected shot of dramatic tension. For instance, the characters are battling it out with a demon lord to end that creature's reign of terror—a "Defeat a Specific Foe" objective. Then they suddenly notice the demon's cultists preparing to sacrifice a group of innocent noncombatants, changing the objective to "Save Another." When an objective shifts, make sure the players understand there's now something else at stake. As long as the innocents are saved, it no longer matters if the demon lord lives.
 
 <!-- -->
 > **Changing or Adding Objectives**
@@ -1250,7 +1250,7 @@ Do you really want that foe to live for one more round? Give them a little extra
 
 It can be tough to manage a lot of creatures at once in combat, but bringing in new waves of creatures allows you to use a lot of different stat blocks in an encounter without getting overwhelmed by trying to run all of them at once. Reinforcements can also make an encounter that initially seems like a cakewalk suddenly feel much more deadly as the stakes are raised!
 
-#### Play Nice-Even If You Don't Play Fair
+#### Play Nice—Even If You Don't Play Fair
 
 It might be tempting to keep a flying monster far out of reach of the heroes, or popping that third villain action at the start of combat, or causing rocks to fall from the sky every turn. But the less the heroes can do about any specific situation, the less involved your players will feel in the game. Use any tricks you can think of to make combat exciting and challenge the players, but make sure that challenges can always be overcome.
 
@@ -1472,7 +1472,7 @@ Additional rules cover a monster's characteristics and additional modifications 
 
 "Thank you, sir. Lord Alvaro, what we just heard on the topic of Ajax's strategy was pretty chilling. In your opinion, as someone who knew him, how serious is he with his stance on non-humans in Orden? And how should we reconcile this with the treaties he signed with the elves and dwarves of Vasloria? Thank you for your time, my lord."
 
-"Ah, yes," Alvaro said, eyebrows raised theatrically. "Jack's famous 'pro-human' rhetoric." And there was a susurration among the students. For the last hour, Lord Alvaro had only referred to the subject of his lecture as "Ajax." Everyone in the city knew Ajax and Alvaro attended university together, but for the first time, the students in the lecture hall understood-they had been *friends*.
+"Ah, yes," Alvaro said, eyebrows raised theatrically. "Jack's famous 'pro-human' rhetoric." And there was a susurration among the students. For the last hour, Lord Alvaro had only referred to the subject of his lecture as "Ajax." Everyone in the city knew Ajax and Alvaro attended university together, but for the first time, the students in the lecture hall understood—they had been *friends*.
 
 "The short answer is: no. I don't believe Jack is a raving ah... 'human supremacist,' as the broadsheets put it. That's Mortum. But he does find the idea *useful*.
 
@@ -1500,13 +1500,13 @@ Additional rules cover a monster's characteristics and additional modifications 
 
 ### On Ajax
 
-He bestrides the land like one of history's great conquerors. A combination of ambition, courage, and study created a master tactician in command of a massive army collecting countless priceless treasures-and no one to stand in his way.
+He bestrides the land like one of history's great conquerors. A combination of ambition, courage, and study created a master tactician in command of a massive army collecting countless priceless treasures—and no one to stand in his way.
 
 #### By Might and Merit
 
 Ajax the Invincible has earned his title. He graduated top of his class at Capital's military academy, and then immediately launched into a campaign across his homeland of Phaedros. At his side was his advisor Mortum, a nefarious wizard who guided Ajax in the footsteps of the Caelian Empire's conquests before them.
 
-Together, Ajax and Mortum went on to subjugate and enlist hamlet after town after city after territory with little standing in their way. When they successfully returned the Chrysopolis-an ancient flying sky-elf city-to the sky, and their accomplishments literally rose above the country-no one could ignore their might any longer.
+Together, Ajax and Mortum went on to subjugate and enlist hamlet after town after city after territory with little standing in their way. When they successfully returned the Chrysopolis—an ancient flying sky-elf city—to the sky, and their accomplishments literally rose above the country—no one could ignore their might any longer.
 
 #### Treasures Abound
 
@@ -1774,11 +1774,11 @@ Found in freshwater swamps, rivers, and rainforests, angulotls (angwa-LAH-tuls) 
 
 #### Deadly Toxins
 
-Angulotls are poisonous creatures, which suits their preference to avoid aggression-because they don't need it! The contact toxin secreted by their skin gives them an edge in close combat, and they also distill this toxin into more potent forms for coating blades and tipping darts.
+Angulotls are poisonous creatures, which suits their preference to avoid aggression—because they don't need it! The contact toxin secreted by their skin gives them an edge in close combat, and they also distill this toxin into more potent forms for coating blades and tipping darts.
 
 #### Indicator Species
 
-Angulotl physiology is delicately balanced, and it doesn't take much to upset that balance. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path-even other angulotls! Runoff from magical experimentation seems to affect them the most-and sometimes grants them strange abilities.
+Angulotl physiology is delicately balanced, and it doesn't take much to upset that balance. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path—even other angulotls! Runoff from magical experimentation seems to affect them the most—and sometimes grants them strange abilities.
 
 #### Moisture Dependent
 
@@ -2149,7 +2149,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 
 ## Animals
 
-The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal-to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves-but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
+The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal—to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves—but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
 
 ### Animal Traits
 
@@ -2212,7 +2212,7 @@ The animal can automatically swim at full speed while moving.
 
 #### Defensive Traits
 
-Defensive traits help animals stay out of danger-or to set ambushes for unwary prey.
+Defensive traits help animals stay out of danger—or to set ambushes for unwary prey.
 
 ###### Camouflage (1 Point)
 
@@ -2419,7 +2419,7 @@ The following stat blocks can be used to describe everyday animals capable of ac
 
 When building an animal by adding traits to a stat block, you can use a shorthand to describe the animal. For example, a dire wolf might be denoted as "Predator B: Swiftness, Pack, Hunter" to indicate that you're using the Predator B stat block with the Swiftness, Pack, and Hunter traits.
 
-The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category-mobility, defensive, offensive, and supernatural.
+The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category—mobility, defensive, offensive, and supernatural.
 
 <!-- -->
 > **Can I Make a Harmless Animal?**
@@ -2730,7 +2730,7 @@ An arixx is a chitinous burrowing insectoid beast who stands taller than a horse
 
 #### Pastoral Pest
 
-Although arixxi can be found anywhere, they are a particular plague in settled lands. An arixx hunts alone, lurking a few feet below roadways and pastures. When their sensitive antennae detect movement above, they burst from the earth, dragging living prey into their tunnels to be devoured. These hit-and-run tactics make the arixx virtually impossible to eradicate-unless they have the bad luck to ambush a party of well-armed adventurers. Many communities pay a handsome bounty for a slain arixx.
+Although arixxi can be found anywhere, they are a particular plague in settled lands. An arixx hunts alone, lurking a few feet below roadways and pastures. When their sensitive antennae detect movement above, they burst from the earth, dragging living prey into their tunnels to be devoured. These hit-and-run tactics make the arixx virtually impossible to eradicate—unless they have the bad luck to ambush a party of well-armed adventurers. Many communities pay a handsome bounty for a slain arixx.
 
 #### Terror of the Thaw
 
@@ -2908,7 +2908,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 
 ## Ashen Hoarder
 
-Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders-hulking constructs made of magically reinforced humanoid bones.
+Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders—hulking constructs made of magically reinforced humanoid bones.
 
 ### Appendages and Spikes
 
@@ -2922,7 +2922,7 @@ These automatons are equipped to protect their cargo. If enemies corner an ashen
 
 ### Soul Shackle
 
-Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet-that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
+Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet—that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
 
 **<span class="steel-compendium-malice">Ashen Hoarder Malice (Malice Features)</span>**
 
@@ -3079,7 +3079,7 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 
 ## Basilisks
 
-With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat-even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
+With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat—even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
 
 ### Raising Young
 
@@ -3908,11 +3908,11 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 
 ## Chimera
 
-Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor-but few know this creature's origins as a divine guardian.
+Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor—but few know this creature's origins as a divine guardian.
 
 ### The First Chimera
 
-The first chimera was a gift. A deity gave a devout queen this young guardian-one with a dragon's cunning, a lion's bravery, and a ram's tenacity. The queen raised the chimera to be a strong protector not just for herself but also her people, who loved the chimera and their ruler. But neighboring lands feared the beast. As a conquering force swept into the land, slaughtering the chimera was their fell goal.
+The first chimera was a gift. A deity gave a devout queen this young guardian—one with a dragon's cunning, a lion's bravery, and a ram's tenacity. The queen raised the chimera to be a strong protector not just for herself but also her people, who loved the chimera and their ruler. But neighboring lands feared the beast. As a conquering force swept into the land, slaughtering the chimera was their fell goal.
 
 The queen's resulting fury was said to be felt by the gods. As she screamed, a nearby volcano erupted, spewing basalt and chimeras over the land. With fiery might, the chimeras destroyed the opposing army, then dispersed. Each found a new territory and claimed the role of divine protector over that place, its inhabitants, and its treasures.
 
@@ -4120,13 +4120,13 @@ Demons feast not on food or liquids, but on souls. Souls fuel their anarchic pow
 
 ### Lethe
 
-When a demon's soul energy begins to flag, they fall into a state known as lethe-a violent hunger wherein they can only lash out in a desperate search for sustenance. Demons who have fallen into lethe become single-minded and violent, seeking only to consume.
+When a demon's soul energy begins to flag, they fall into a state known as lethe—a violent hunger wherein they can only lash out in a desperate search for sustenance. Demons who have fallen into lethe become single-minded and violent, seeking only to consume.
 
 ### Demonic Hierarchy
 
 Mortal scholars have classified demons into ten categories, each increasingly more powerful. Though demons don't use these classifications themselves, this system reflects their hierarchy, as stronger demons bully the weak into service.
 
-Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt-or heroic.
+Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt—or heroic.
 
 ### Demon Languages
 
@@ -4563,7 +4563,7 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ### Demons-2nd Echelon
 
-As demons consume more souls and their mercurial forms shift into more powerful ones, they begin to evolve more distinct personalities, desires, and intelligence-often based on the souls consumed. Across categories 4 to 6, demons develop a particular taste for certain types of souls, which eventually come to define them should they survive long enough.
+As demons consume more souls and their mercurial forms shift into more powerful ones, they begin to evolve more distinct personalities, desires, and intelligence—often based on the souls consumed. Across categories 4 to 6, demons develop a particular taste for certain types of souls, which eventually come to define them should they survive long enough.
 
 **Grulqins** (GRUHL-kinz) consist of a bulbous head, two powerful arms, and a circular serrated blade of bone that runs down the middle of their head.
 
@@ -4780,7 +4780,7 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 <!-- -->
 > ⭐️ **Soulsight**
 >
-> Any creature within 2 squares of the fangling can't be hidden from them
+> Any creature within 2 squares of the fangling can't be hidden from them.
 
 **<span class="steel-compendium-statblock">Fiktin</span>**
 
@@ -5037,7 +5037,7 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 <!-- -->
 > ❇️ **Seeping Blight (5 Malice)**
 >
-> One demon acting this turn expels blight-digested soul juice onto the ground around them in a 3 burst that lingers until the start of their next turn. Any enemy who enters the area or starts their turn there takes 6 corruption damage, and has a double bane on power rolls until the start of their next turn.
+> One demon acting this turn expels blight—digested soul juice—onto the ground around them in a 3 burst that lingers until the start of their next turn. Any enemy who enters the area or starts their turn there takes 6 corruption damage, and has a double bane on power rolls until the start of their next turn.
 
 **<span class="steel-compendium-statblock">Soulraker Scout</span>**
 
@@ -5140,7 +5140,7 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 > - **12-16:** 10 corruption damage
 > - **17+:** 11 corruption damage
 >
-> **Effect:** A puddle of blight-digested soul juice-covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
+> **Effect:** A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
 
 <!-- -->
 > 🔳 **Blight Rain (3 Malice)**
@@ -5745,7 +5745,7 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ## Devils
 
-In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control-a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
+In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
 
 ### Precarious Pyramids
 
@@ -5769,7 +5769,7 @@ Winsome devils can acquire significant influence by bargaining for the souls of 
 
 ### True Names
 
-All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them-or in stripping them of their power.
+All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them—or in stripping them of their power.
 
 ### Hell's Defectors
 
@@ -5786,7 +5786,7 @@ Most devils speak Anjal and Caelian, among other languages. The more powerful a 
 >
 > Even more sinister than a prize won in a devil's hard bargain is a gift freely given by a devil. The advantages of such a gift are conditional, lasting only until the devil revokes it at some inconvenient time.
 >
-> The following are samples of the wonders that a devil can offer-to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
+> The following are samples of the wonders that a devil can offer—to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
 >
 > **Components:** An archdevil's wing, archdevil's blood, soul chalk, a wide selection of true names
 >
@@ -5931,7 +5931,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The target is slowed, takes a bane on power rolls, and can't regain Stamina (save ends).
 > - **12-16:** The target is slowed and takes a bane on power rolls (save ends).
@@ -5955,7 +5955,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The adjudicator chooses a new target for the strike.
 > - **12-16:** The adjudicator halves the triggering damage.
@@ -6034,7 +6034,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the jurist with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The jurist chooses a new target for the strike.
 > - **12-16:** The jurist halves the triggering damage.
@@ -6101,7 +6101,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the legate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The legate chooses a new target for the strike.
 > - **12-16:** The legate halves the triggering damage.
@@ -6173,7 +6173,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the magistrate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The magistrate chooses a new target for the strike.
 > - **12-16:** The magistrate halves the triggering damage.
@@ -6289,9 +6289,9 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 
 ## Draconians
 
-Draconians-wyrmwights as some call them, also known as dragon knights in Orden-are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
+Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
 
-Six individual draconians are presented in this section-not an adventuring party, but six warriors whose reputations precede them. All are likely to be found serving in various military forces as high-ranking commanders.
+Six individual draconians are presented in this section—not an adventuring party, but six warriors whose reputations precede them. All are likely to be found serving in various military forces as high-ranking commanders.
 
 ###### Aeolyxria the Uncanny
 
@@ -6963,7 +6963,7 @@ Thorn dragons cultivate their lairs in lush farmlands or flourishing forests. Th
 
 #### Natural Curators
 
-More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food even food they won't eat-alongside uncut gemstones, minerals and ore, wood, oils, and spices.
+More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food—even food they won't eat—alongside uncut gemstones, minerals and ore, wood, oils, and spices.
 
 #### Bestial Instincts
 
@@ -7298,7 +7298,7 @@ At the start of a gloom dragon's turn, you can spend Malice to activate one of t
 
 ### Crucible Dragon
 
-Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief-often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
+Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief—often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
 
 These metallic dragons are massive, heavy creatures requiring an immense release of heat to engage in flight. Their scales range from gleaming silver to blackened iron, depending on how fastidious they are about cleaning, and are occasionally gilded with more-precious metals. Their long tails terminate with a massive, hammer-like tip that can freeze over and instantly cool hot metal.
 
@@ -7484,11 +7484,11 @@ At the start of a crucible dragon's turn, you can spend Malice to activate one o
 
 ### Omen Dragon
 
-They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself-for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world-to the detriment of their surroundings.
+They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself—for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world—to the detriment of their surroundings.
 
 #### Life and Death
 
-The opposite of life isn't death-it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
+The opposite of life isn't death—it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
 
 As the embodiment of these wayward souls, the omen dragon wields them like weapons. They can send restless souls to grab creatures and pull them in, or to possess their attackers, compelling them to distraction in the middle of a fight. They even wrap themselves in the most durable of souls, creating a stifling aura.
 
@@ -7857,7 +7857,7 @@ At the start of a meteor dragon's turn, you can spend Malice to activate one of 
 
 ## Dwarves
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
+Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
 They are the children of the Elder God Ord. A common phrase among the dwarves is "Ord made the world." Their way of saying, "What will be, will be." Dwarves take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
@@ -8431,7 +8431,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 
 ## Elementals
 
-When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements-air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
+When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements—air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
 
 #### Duality of Form
 
@@ -8445,7 +8445,7 @@ When an elemental dies in the mundane world, their spirit returns to Quintessenc
 
 #### Crux of Fire
 
-Cruxes of fire, often called blazecasters, take the form of fiery lizards. They commonly live in hot zones of planar convergence or areas of volcanic activity. These territorial elementals usually question interlopers from afar-and if they don't like the answers, they rain down fire before their foes can draw near.
+Cruxes of fire, often called blazecasters, take the form of fiery lizards. They commonly live in hot zones of planar convergence or areas of volcanic activity. These territorial elementals usually question interlopers from afar—and if they don't like the answers, they rain down fire before their foes can draw near.
 
 Though many elementals weave their innate gifts into oral storytelling, cruxes of fire are particularly adroit at animating their stories in silhouettes of flame.
 
@@ -8459,7 +8459,7 @@ Galeweavers act as scouts for their handlers or for groups of elementals, and th
 
 An essence of tides looks like a shimmering blue manta ray that glides over land as easily as through water, earning them the common name of tidedrifter. Most common along coastlines, essences of tides enjoy harmless pranks, especially against folk who regularly sail or swim in their waters.
 
-Tidedrifters have a healthy sense of humor that makes it easy to win their friendship-but their relaxed demeanor evaporates if friends or family face threats.
+Tidedrifters have a healthy sense of humor that makes it easy to win their friendship—but their relaxed demeanor evaporates if friends or family face threats.
 
 #### Field of Growth
 
@@ -8793,7 +8793,7 @@ Many high elves can also summon magical wisps called elemental motes. These spri
 
 #### Surround and Suppress
 
-Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits-and eventually, graveyards.
+Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits—and eventually, graveyards.
 
 #### Magical Manipulation
 
@@ -8924,7 +8924,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** Each ally adjacent to the target shifts up to 2 squares
+> **Effect:** Each ally adjacent to the target shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**
@@ -9224,7 +9224,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares
+> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares.
 
 <!-- -->
 > 👤 **Windwalk**
@@ -9302,7 +9302,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Otherworldly Blessing**
 >
-> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn
+> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn.
 
 <!-- -->
 > ☠️ **Fountains Roar, Now Free From the Earth (Villain Action 1)**
@@ -9403,7 +9403,7 @@ The shadow elves have mastered the art of combining deep, ancient magic with cut
 
 #### Brush Stalkers
 
-When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers-quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
+When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers—quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
 
 A brush stalker's glamor allows them to look like a mundane deer. But when the glamour falls, the creature devours the light around them and plunges their surroundings into darkness.
 
@@ -9467,7 +9467,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 > - **12-16:** 4 damage
 > - **17+:** 6 damage
 >
-> **Effect:** The cloak shifts up to 2 squares
+> **Effect:** The cloak shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Of the Umbra**
@@ -9886,7 +9886,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 
 **Shadow Elf Deployments**
 
-When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious-kidnapping, assassination, theft, and general skullduggery are the order of the day.
+When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious—kidnapping, assassination, theft, and general skullduggery are the order of the day.
 
 However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation, these groups will brook no attempts to thwart their goals and are all deadly warriors.
 
@@ -10029,7 +10029,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 <!-- -->
 > ⭐️ **Wyrd Dyr**
 >
-> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened
+> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened.
 
 ## Elves, Wode
 
@@ -10063,7 +10063,7 @@ When wode elves in combat control the terrain, their primary strategy is divide 
 
 #### Warleader
 
-The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher-a mentor who scouts and soldiers regard almost as an additional parent.
+The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher—a mentor who scouts and soldiers regard almost as an additional parent.
 
 The wode elves send their warleaders into battle only if the situation is dire. Characters who encounter one should be flattered, for the presence of a warleader means the wode elves consider the heroes a formidable threat.
 
@@ -10148,7 +10148,7 @@ At the start of any wode elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first
+> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first.
 
 <!-- -->
 > ⭐️ **Masking Glamor**
@@ -10377,7 +10377,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares
+> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares.
 >
 > **2 Malice:** The distance increases to Melee 5.
 
@@ -10464,7 +10464,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 11 damage
 > - **17+:** 14 damage; A < 2 restrained (save ends)
 >
-> **Effect:** The gweiadur shifts up to 3 squares
+> **Effect:** The gweiadur shifts up to 3 squares.
 >
 > **3 Malice:** If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).
 
@@ -10663,7 +10663,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ## Fossil Cryptic
 
-The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead-and seconds later, he wound up crushed to death by a pillar of stone.
+The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead—and seconds later, he wound up crushed to death by a pillar of stone.
 
 #### Primal Sentries
 
@@ -10727,7 +10727,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 <!-- -->
 > ⭐️ **Churning Trunk**
 >
-> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage
+> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -10784,7 +10784,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 >
 > **Trigger:** The cryptic takes damage.
 >
-> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares
+> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares.
 
 <!-- -->
 > ❗️ **Shatterstone (5 Malice)**
@@ -10862,7 +10862,7 @@ Supremely well adapted to harsh environments, giants thrive in extreme condition
 
 #### Adaptable and Elemental
 
-Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain-they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
+Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain—they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
 
 #### Distant Cousins
 
@@ -10890,7 +10890,7 @@ Most hill giants spend so much time in quiet peace that sudden flashy sights and
 
 Fascinated by the act of creation, stone giants carve cities out of ancient caverns, mine precious metals and gems, and craft relics worthy of glory. To many a stone giant, artisanship is the highest calling, and all their creations are crafted with an eye to beauty and longevity.
 
-Stone giants are made of the same kinds of rocks that form their homes-sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
+Stone giants are made of the same kinds of rocks that form their homes—sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
 
 #### Giant Languages
 
@@ -11038,7 +11038,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The sand stone giant ignores difficult terrain
+> The sand stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -11111,7 +11111,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The basalt stone giant ignores difficult terrain
+> The basalt stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -11238,8 +11238,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 > | -------------- | -----------------------------: |
 > | **📏 Melee 3** | **🎯 The triggering creature** |
 >
-> **Trigger:** A creature within distance willingly moves or shifts away
-> from the red fist.
+> **Trigger:** A creature within distance willingly moves or shifts away from the red fist.
 >
 > **Effect:** The target makes a **Might test**. A target with fire immunity automatically obtains a tier 3 outcome.
 >
@@ -11712,13 +11711,13 @@ Edacity. The hyena-faced gnolls know only blood and hunger. These fiends carry w
 
 #### Born From Blood
 
-The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas-bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
+The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas—bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
 
 As his last act, the demon gave the fiendish hyenas a demonic cunning to match their insatiable hunger, bound his evil will to theirs, and turned their paws into hands so they could wield weapons. He called these new fiends "gnoll," an Abyssal word that has many meanings, one of which is "to consume completely." And true to their name, the gnolls immediately devoured their creator.
 
 #### Ceaseless Hunger
 
-The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh-and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
+The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh—and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
 
 #### Gnoll War
 
@@ -11730,7 +11729,7 @@ Stronger and smarter than their beastly counterparts, abyssal hyenas crawl out o
 
 #### Tusker Demons
 
-Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves-enemies and allies alike.
+Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves—enemies and allies alike.
 
 #### Gnoll Languages
 
@@ -12120,7 +12119,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Lethe**
 >
-> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge
+> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge.
 
 **<span class="steel-compendium-statblock">Gnoll Carnage</span>**
 
@@ -12210,7 +12209,7 @@ Their long arms and prehensile toes make goblins particularly well adapted to en
 
 #### Encountered in Groups
 
-Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
+Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident—perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
 
 **<span class="steel-compendium-malice">Goblin Malice (Malice Features)</span>**
 
@@ -12253,7 +12252,7 @@ Goblins ride enormous arachnids as mounts in battle. With blades attached to the
 
 #### Worg
 
-Some goblins form a special bond with worgs-canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
+Some goblins form a special bond with worgs—canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
 
 #### Goblin Languages
 
@@ -12283,7 +12282,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The runner doesn't provoke opportunity attacks by moving
+> The runner doesn't provoke opportunity attacks by moving.
 
 **<span class="steel-compendium-statblock">Goblin Sniper</span>**
 
@@ -12337,7 +12336,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The spinecleaver doesn't provoke opportunity attacks by moving
+> The spinecleaver doesn't provoke opportunity attacks by moving.
 
 **<span class="steel-compendium-statblock">Skitterling</span>**
 
@@ -12406,7 +12405,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Slip Away**
 >
-> The assassin can attempt to hide even while observed
+> The assassin can attempt to hide even while observed.
 
 **<span class="steel-compendium-statblock">Goblin Cursespitter</span>**
 
@@ -12482,7 +12481,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The stinker doesn't provoke opportunity attacks by moving
+> The stinker doesn't provoke opportunity attacks by moving.
 
 **<span class="steel-compendium-statblock">Goblin Underboss</span>**
 
@@ -12560,7 +12559,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The warrior doesn't provoke opportunity attacks by moving
+> The warrior doesn't provoke opportunity attacks by moving.
 
 **<span class="steel-compendium-statblock">Goblin Monarch</span>**
 
@@ -12603,7 +12602,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** A creature targets the monarch with a strike.
 >
-> **Effect:** The ally is the target of the triggering strike instead
+> **Effect:** The ally is the target of the triggering strike instead.
 
 <!-- -->
 > ⭐️ **Crafty**
@@ -12775,7 +12774,7 @@ Daring poachers sometimes attempt to steal griffon eggs from wild aeries, but su
 
 #### Inaccessible Aeries
 
-Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for three months starting in the early spring. Chicks hatch after forty days of incubation, then remain in or near the nest as their parents feed them. About forty days after hatching, a griffon chick learns to fly-and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
+Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for three months starting in the early spring. Chicks hatch after forty days of incubation, then remain in or near the nest as their parents feed them. About forty days after hatching, a griffon chick learns to fly—and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
 
 #### Rare Breeds
 
@@ -12829,7 +12828,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 damage; the griffon shifts up to 2 squares
 > - **17+:** 13 damage; the griffon shifts up to 3 squares
 >
-> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets
+> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets.
 
 <!-- -->
 > 🔳 **Crack the Earth**
@@ -12870,9 +12869,9 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** The griffon takes damage
+> **Trigger:** The griffon takes damage.
 >
-> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares
+> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Beast of Prey**
@@ -12912,7 +12911,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone
+> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone.
 
 <!-- -->
 > 🔳 **Power Wing Buffet (3 Malice)**
@@ -12934,7 +12933,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | --------------- | -----------------------------: |
 > | **📏 Ranged 5** | **🎯 The triggering creature** |
 >
-> **Trigger:** The griffon flies directly above a creature within distance
+> **Trigger:** The griffon flies directly above a creature within distance.
 >
 > **Effect:** The griffon dives down onto the target, taking no damage from falling if they reach the ground. The target takes 3 damage for each square the griffon dove, and if they have A < 2, they are grabbed or knocked prone.
 
@@ -12946,16 +12945,16 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Steady**
 >
-> Any power roll that could knock the griffon prone takes a bane
+> Any power roll that could knock the griffon prone takes a bane.
 
 <!-- -->
 > ⭐️ **Banded Predator**
 >
-> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn
+> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn.
 
 ## Hag
 
-When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag-aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
+When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag—aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
 
 #### Hiding in Plain Sight
 
@@ -12963,7 +12962,7 @@ Though hags typically appear as older humanoids, their true form is as vicious a
 
 #### Dealmakers and Heartbreakers
 
-As old age can't kill them, the oldest hags accumulate swathes of knowledge, magic, and repute over time. They are happy to share their wares... for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer-perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
+As old age can't kill them, the oldest hags accumulate swathes of knowledge, magic, and repute over time. They are happy to share their wares... for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer—perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
 
 Adding insult to injury, those who deal with hags almost always discover the product is worse than advertised. Mortals should pay close attention to the precise wording of their agreements, lest they end up with a hex they thought would be a gift. Such curses often lead to the corruption of good but desperate folk, with some getting so twisted up in fey deals that they become hags themselves.
 
@@ -13131,7 +13130,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again
+> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again.
 
 <!-- -->
 > ☠️ **Open the Oven (Villain Action 3)**
@@ -13153,18 +13152,9 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 <!-- -->
 > **Hag Goodies**
 >
-> Hags collect, craft, and trade a variety of trinkets and talismans
-> over the course of their lifetimes. Most of a hag's prized
-> possessions-a stove with living human feet, a porcelain
-> doll that cries real tears, a book that details the reader's most
-> humiliating memories-are of no apparent use to anyone
-> except perhaps for a museum of the macabre, but a few of a
-> hag's baubles are more generally useful.
+> Hags collect, craft, and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions—a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories—are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
 >
-> The following are sample treasures from a hag's hut. A hag
-> might have two or three of these goodies on hand and
-> know how to obtain the others. These items can be found in
-> Draw Steel: Heroes.
+> The following are sample treasures from a hag's hut. A hag might have two or three of these goodies on hand and know how to obtain the others. These items can be found in Draw Steel: Heroes.
 >
 > - **Treasures:** Evilest Eye, Imp's Tongue, Float Powder, Buzz Balm
 > - **Components:** Rare or extinct cooking ingredients, hairpins, gecko tails, roses, werewolf blood
@@ -13174,7 +13164,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 
 Also known as demogoblins, hobgoblins descend from ancient goblins who made a pact with an infernal power in exchange for increased size and strength. Each hobgoblin has fang-like tusks and one or more horns protruding from their head.
 
-Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands-THEN it's a problem.
+Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands—THEN it's a problem.
 
 #### Synergized Tactics
 
@@ -13190,11 +13180,11 @@ Infernal magic runs through the veins of every hobgoblin, though their gifts var
 
 #### Binding Bargains
 
-Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature-hobgoblin or otherwise-who degrades themself by breaking their word.
+Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature—hobgoblin or otherwise—who degrades themself by breaking their word.
 
 #### Grilp
 
-The grilp-a green-skinned devil about the size of a housecat-can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
+The grilp—a green-skinned devil about the size of a housecat—can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
 
 #### Slaughter Demon
 
@@ -13525,7 +13515,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **Infernal Ichor**
 >
-> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage
+> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage.
 
 **<span class="steel-compendium-statblock">Hobgoblin Hell Trooper</span>**
 
@@ -13812,7 +13802,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
+> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ☠️ **Advance! (Villain Action 1)**
@@ -13927,7 +13917,7 @@ Fortunately, many humans devote themselves to righting wrongs and reshaping the 
 
 #### Risks and Rewards
 
-Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment-knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
+Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment—knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
 
 Humans see unrealized potential everywhere, whether envisioning an untamed forest transformed into a prosperous village, or an ancient dungeon yielding chests filled with coins. Pursuing such ambitions might end in catastrophe, but for these gamblers, it's a game worth playing.
 
@@ -14248,7 +14238,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Overwhelm**
 >
-> An enemy who starts their turn adjacent to the knave can't shift
+> An enemy who starts their turn adjacent to the knave can't shift.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -14285,7 +14275,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------- | --------------: |
 > | **📏 -** |        **🎯 -** |
 >
-> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike
+> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -14589,7 +14579,7 @@ The kingfissure worm eats indiscriminately, swallowing creatures, structures, an
 
 #### Home Renovators
 
-Most worms build a den of tunnels and fissures, remaining in that lair for as long as the pickings on the surface are good and they aren't disturbed. When a kingfissure worm seeks a new home, they target areas with abundant food-occasionally leading to villagers waking up to find their surrounding lands have been terraformed overnight. Residents of such lands generally have two choices: pack up and leave or prepare for battle. If a worm is somehow defeated, all manner of creatures and communities try to lay claim to the worm's underground structures. These empty dens make wonderful war bunkers, isolated workshops, and even highly defensible villages.
+Most worms build a den of tunnels and fissures, remaining in that lair for as long as the pickings on the surface are good and they aren't disturbed. When a kingfissure worm seeks a new home, they target areas with abundant food—occasionally leading to villagers waking up to find their surrounding lands have been terraformed overnight. Residents of such lands generally have two choices: pack up and leave or prepare for battle. If a worm is somehow defeated, all manner of creatures and communities try to lay claim to the worm's underground structures. These empty dens make wonderful war bunkers, isolated workshops, and even highly defensible villages.
 
 #### Unstoppable Force
 
@@ -14597,11 +14587,11 @@ The kingfissure worm is a species determined to outrun, outlast, and out-eat eve
 
 #### Unclear Origins
 
-Kingfissure worms have no identifiable sexual characteristics and are extremely territorial. If two kingfissure worms encounter each other, the result is always a cataclysmic duel that ends in one devouring the other. Because of this, most scholars theorize that these creatures reproduce asexually-and that when a kingfissure worm dies, their tongues detach and grow into full-fledged worms. While this has yet to be confirmed, juvenile kingfissure worms have been seen in the wild, most often spotted following animal herds or traveling communities, feeding off of stragglers, refuse, remains, and vermin.
+Kingfissure worms have no identifiable sexual characteristics and are extremely territorial. If two kingfissure worms encounter each other, the result is always a cataclysmic duel that ends in one devouring the other. Because of this, most scholars theorize that these creatures reproduce asexually—and that when a kingfissure worm dies, their tongues detach and grow into full-fledged worms. While this has yet to be confirmed, juvenile kingfissure worms have been seen in the wild, most often spotted following animal herds or traveling communities, feeding off of stragglers, refuse, remains, and vermin.
 
 #### Swallowed Survivors
 
-Kingfissure worms never stop growing, and the oldest are truly immense, easily mistaken in the distance for a strangely mobile mountain range. Deep within the bowels of these behemoths, unusual biomes and oversized gut fauna may flourish. In fact, some people who have survived their trip down the gargantuan gullet of one of the great worms have been able to eke out a life-and even form thriving communities-safe inside the spacious lower abdomen of their living quarters.
+Kingfissure worms never stop growing, and the oldest are truly immense, easily mistaken in the distance for a strangely mobile mountain range. Deep within the bowels of these behemoths, unusual biomes and oversized gut fauna may flourish. In fact, some people who have survived their trip down the gargantuan gullet of one of the great worms have been able to eke out a life—and even form thriving communities—safe inside the spacious lower abdomen of their living quarters.
 
 #### Sensitive Giant
 
@@ -14734,7 +14724,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 <!-- -->
 > ⭐️ **Swallowed**
 >
-> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm
+> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm.
 
 <!-- -->
 > ⭐️ **Titanic Tunneler**
@@ -14801,7 +14791,7 @@ Relentless innovators, kobolds can easily outsmart anyone who doesn't take them 
 
 #### Tiny Dragons
 
-Most kobolds believe their ancestors were created by powerful dragons-and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
+Most kobolds believe their ancestors were created by powerful dragons—and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
 
 #### Domain Expansion
 
@@ -14817,7 +14807,7 @@ The kobolds' affinity for their terrain, creative tactics, group defenses, and i
 
 #### Cute Pets
 
-The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins-draconic pangolins-who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
+The gummy brick is a deadly ooze—a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins—draconic pangolins—who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
 
 #### Kobold Languages
 
@@ -14863,7 +14853,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares
+> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -14919,7 +14909,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage; the tiro can shift 1 square
 > - **17+:** 3 damage; the tiro shifts up to 2 squares
 >
-> **Effect:** The target can't shift until the start of the tiro's next turn
+> **Effect:** The target can't shift until the start of the tiro's next turn.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -15180,7 +15170,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 acid damage; A < 1 dazed (save ends)
 > - **17+:** 14 acid damage; A < 2 restrained (save ends)
 >
-> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space
+> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space.
 >
 > **2 Malice:** This ability targets one additional target.
 
@@ -15339,11 +15329,11 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Burrow Bond**
 >
-> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them
+> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.
 
 ## Lightbender
 
-Lightbenders prowl deserts, plains, forests-any sunbathed wilderness where they can take advantage of the adaptations that make them skilled daylight predators. This monstrous creature's fur bends and refracts light from the surrounding environment, producing mirages that distract and confuse their prey.
+Lightbenders prowl deserts, plains, forests—any sunbathed wilderness where they can take advantage of the adaptations that make them skilled daylight predators. This monstrous creature's fur bends and refracts light from the surrounding environment, producing mirages that distract and confuse their prey.
 
 #### Hidden Hunters
 
@@ -15520,11 +15510,11 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 
 ## Lizardfolk
 
-Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region-the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
+Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region—the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
 
 #### Homeland Protectors
 
-Lizardfolk aren't especially hostile unless they feel their territory is threatened-which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
+Lizardfolk aren't especially hostile unless they feel their territory is threatened—which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
 
 Adventurers often cross paths with lizardfolk while trekking through their homelands. The reptilian humanoids watch travelers who skirt too close to sources of food and shelter, attacking those who take more than they need. Many lizardfolk dwell in abandoned ruins and caverns for protection. Treasure seekers who delve into these places are typically given one warning before the attack begins.
 
@@ -15889,11 +15879,11 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 
 ## Manticore
 
-A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge-only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
+A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge—only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
 
 #### Uncanny Appearances
 
-A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard-a talent manticores use to lure in prey.
+A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard—a talent manticores use to lure in prey.
 
 #### Heralds of Death
 
@@ -16045,18 +16035,9 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 <!-- -->
 > **Manticore Treasures**
 >
-> Although manticores have no earthly use for treasure, they
-> tend to collect a lot of it-it comes attached to the humanoids
-> they prey on. Since manticores drag their victims back to their
-> cave lairs to feed, a manticore's cave is typically strewn with
-> bones, broken weapons, coins, and other relics of unfortunate
-> travelers. After a while, a manticore abandons its cluttered lair
-> in favor of a fresh one, leaving unguarded treasure for anyone
-> willing to explore manticore-infested wastes.
+> Although manticores have no earthly use for treasure, they tend to collect a lot of it—it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
 >
-> The following are sample treasures from a manticore's cave, of
-> which a manticore might have one or two. These items can be
-> found in Draw Steel: Heroes.
+> The following are sample treasures from a manticore's cave, of which a manticore might have one or two. These items can be found in Draw Steel: Heroes.
 >
 > - **Treasures:** Blade of the Luxurious Fop, Bull Shot, Stop-'n-Go Coin
 > - **Components:** Adamatine spearheads, a mirror blessed by a priest, pixie wings
@@ -16091,7 +16072,7 @@ Medusas often reside in stone gardens filled with statues of those who previousl
 
 #### Lifting the Curse
 
-Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants-and performing such a ritual might entail great sacrifice.
+Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants—and performing such a ritual might entail great sacrifice.
 
 #### Medusa Languages
 
@@ -16278,13 +16259,13 @@ Minotaurs burn with fury. Some constantly desire to unleash this destructive ene
 
 ### Labyrinthine Origins
 
-The first minotaur was once the human warrior Thesia "The Bull" Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia's mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia's anger-until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love.
+The first minotaur was once the human warrior Thesia "The Bull" Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia's mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia's anger—until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love.
 
 New minotaurs were born, and decades later, hundreds charged out of the maze together. These minotaurs reduced Kham to ruins, then they spread far and wide, fearing reprisal from neighboring lands. Even today, many minotaurs shun civilization, preferring to live in winding canyons, twisting ruins, bewildering dungeons, or other labyrinthine terrain where they can continue to hunt. However, small numbers of minotaurs can be found in nearly any terrain or settlement.
 
 ### Deep Bonds
 
-Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature's ire-but gods help them if they betray the minotaur.
+Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature's ire—but gods help them if they betray the minotaur.
 
 ### Minotaur Languages
 
@@ -16334,7 +16315,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > - **12-16:** 11 damage; push 2
 > - **17+:** 14 damage; push 3
 >
-> **Effect:** The minotaur shifts up to 3 squares
+> **Effect:** The minotaur shifts up to 3 squares.
 
 <!-- -->
 > 👤 **Primal Bay (3 Malice)**
@@ -16541,11 +16522,11 @@ Ogres who embrace good often dedicate themselves to inspiring causes, letting th
 
 ### Savory Stories
 
-Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain-from deceptive mages to talking cats-swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
+Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain—from deceptive mages to talking cats—swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
 
 ### Aristocracy of Bullies
 
-When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats-but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
+When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats—but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
 
 ### Cyclops: Ogre Progenitor
 
@@ -16642,7 +16623,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 >
 > **Trigger:** A creature or object within distance moves or shifts away from the goon.
 >
-> **Effect:** The goon slides the target up to 5 squares
+> **Effect:** The goon slides the target up to 5 squares.
 
 <!-- -->
 > ⭐️ **Defiant Anger**
@@ -16831,11 +16812,11 @@ Protean in form, beings of nearly pure intellect, the Old Ones think in alien ge
 
 ### Immortal Evil
 
-Across countless cultures and ancestries, olothec feature in nightmares and temple friezes alike. While their origins are obscure and may never be known, their hatred of the mundane world and every living thing in it is well recorded. Olothec channel psionic energy beyond any mortal power, surpassing even the voiceless talkers. To them, a living creature who can't reshape their own flesh is repugnant, an unnatural abomination requiring eradication-or transformation.
+Across countless cultures and ancestries, olothec feature in nightmares and temple friezes alike. While their origins are obscure and may never be known, their hatred of the mundane world and every living thing in it is well recorded. Olothec channel psionic energy beyond any mortal power, surpassing even the voiceless talkers. To them, a living creature who can't reshape their own flesh is repugnant, an unnatural abomination requiring eradication—or transformation.
 
 ### Agents of Chaos
 
-Olothec consider the primordial chaos that spawned them as the ideal state of existence. They have long warred against the voiceless talkers, loathing their constant manipulation and refinement of evolutionary forces. Where olothec lair in forgotten sea tunnels and beneath ancient ruins, they surround themselves with slime servants-humanoids, beasts, horrors, and others, all devolved to a perfect physical and mental state.
+Olothec consider the primordial chaos that spawned them as the ideal state of existence. They have long warred against the voiceless talkers, loathing their constant manipulation and refinement of evolutionary forces. Where olothec lair in forgotten sea tunnels and beneath ancient ruins, they surround themselves with slime servants—humanoids, beasts, horrors, and others, all devolved to a perfect physical and mental state.
 
 ### Primordial Form
 
@@ -16891,7 +16872,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ❇️ **Memory of Chaos (6 Malice)**
 >
-> The olothec broadcasts their memory of the universe in its primordial state-a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
+> The olothec broadcasts their memory of the universe in its primordial state—a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
 
 **<span class="steel-compendium-statblock">Olothec</span>**
 
@@ -17009,7 +16990,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 > - **12-16:** 14 psychic damage; P < 3 frightened (save ends)
 > - **17+:** 17 psychic damage; P < 4 frightened (save ends)
 >
-> **Effect:** While frightened this way, a target can't make saving throws to end any other effects
+> **Effect:** While frightened this way, a target can't make saving throws to end any other effects.
 
 <!-- -->
 > ☠️ **Psychic Pulse (Villain Action 2)**
@@ -17053,7 +17034,7 @@ The intense power of an orc's spirit occasionally manifests as raw magic. Orc ey
 
 #### Mohlers
 
-Mohlers are spined, pig-like animals who corkscrew through the ground as fast as they can run. Native to deserts and forests, these burrowing creatures produce shallow networks of tunnels just below the surface. Where orcs go, mohlers are sure to follow. In times of peace, orcs domesticate them to plow the earth and eat pests-and in times of war, mohlers reshape the battlefield to knock the orcs' enemies off their feet.
+Mohlers are spined, pig-like animals who corkscrew through the ground as fast as they can run. Native to deserts and forests, these burrowing creatures produce shallow networks of tunnels just below the surface. Where orcs go, mohlers are sure to follow. In times of peace, orcs domesticate them to plow the earth and eat pests—and in times of war, mohlers reshape the battlefield to knock the orcs' enemies off their feet.
 
 When an orc community has exceptional gratitude for the deeds of one of their own or an outsider, they bestow the companionship of a mohler upon the individual. Treated kindly, mohlers make steadfast companions, protecting their caregivers with their lives. If mistreated, a mohler returns to their original den, and the orcs hunt the responsible party.
 
@@ -17590,7 +17571,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > - **12-16:** 7 damage; M < 1 restrained (save ends)
 > - **17+:** 10 damage; M < 2 restrained (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -17790,11 +17771,11 @@ When the radenwights' enemies expect them to scurry away like rats, they are pai
 
 ### Bonds and Bravado
 
-It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community-as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
+It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community—as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
 
 ### The Magic of Music
 
-The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon-even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
+The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon—even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
 
 ### The Great Maclette
 
@@ -18105,7 +18086,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
-> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left
+> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left.
 
 <!-- -->
 > ❗️ **Ready Rodent**
@@ -18206,7 +18187,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 
 ## Rivals
 
-They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals-heroes just like you. Maybe even better.
+They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals—heroes just like you. Maybe even better.
 
 Rivals are NPCs built around the mechanics of seven of the classes in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)*-the conduit, elementalist, fury, null, shadow, tactician, and talent (see Chapter 5: Classes in that book). Their stat blocks are streamlined and modular, meant to be easy to adjust on the fly with ancestral traits or signature abilities. Examples of each type of rival are presented at every tier, capturing their foray into renown as they inevitably cross, clash with, and impede the player characters' own heroic journey.
 
@@ -18656,7 +18637,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -18992,7 +18973,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -19003,7 +18984,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 
 A secret society created to overthrow Capital's political and cultural structure, the Black Iron Pact draws its name from Ajax's sobriquet, the Iron Saint. Iron is a metal with deep symbolism to the tyrannical saint.
 
-The five most powerful members of the pact-the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
+The five most powerful members of the pact—the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
 
 The pact's true numbers also remain a mystery, and many citizens work for them unknowingly. Such subterfuge ensures the pact's agents can't be traced back to the High Command.
 
@@ -19011,7 +18992,7 @@ The pact's true numbers also remain a mystery, and many citizens work for them u
 
 The Black Iron Pact's primary goal is the conquest of Capital and the installation of Ajax as its ruler and god. The pact's agents are true believers of Ajax's gospel, which seeks change through force and violence. Their evil belief is that humans are the true owners of this world, and as such, only humans can join the Black Iron Pact, though the society employs nonhuman pawns when risk of capture or death is high.
 
-Additionally, many members of the pact-notably senior member Erasmus and his wife Avalla-openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
+Additionally, many members of the pact—notably senior member Erasmus and his wife Avalla—openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
 
 **Running the Black Iron Pact**
 
@@ -19703,13 +19684,13 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 
 ## Shambling Mound
 
-Rich soil squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. But by the time a hapless explorer realizes the ground is moving, it's too late-the shambling mound has devoured them.
+Rich soil squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. But by the time a hapless explorer realizes the ground is moving, it's too late—the shambling mound has devoured them.
 
 Found in overgrown swamps, stinking marshes, dense wodes, and dark, damp rainforests, the shambling mound is a wandering mass of vegetation that feeds on everything in their path.
 
 ### Noxious Origins
 
-A shambling mound is most often a byproduct of nearby hags or mages, especially evil ones or those utilizing green magic. Latent magic seeps into the surrounding land, coalescing into a nocuous creature consumed by hunger. The shambling mound knows only that they must grow, and that to grow they must feed-and thus they wander in search of a hunting ground.
+A shambling mound is most often a byproduct of nearby hags or mages, especially evil ones or those utilizing green magic. Latent magic seeps into the surrounding land, coalescing into a nocuous creature consumed by hunger. The shambling mound knows only that they must grow, and that to grow they must feed—and thus they wander in search of a hunting ground.
 
 It is believed these magical origins are what give shambling mounds their ability to produce poisons, which vary from region to region. For example, the toxins from a shambling mound along coastal beaches or swamps might appear milky white and smell sweet like manchineel trees. Meanwhile, shambling mounds found in rainforests might give off a heady, intoxicating sweet scent at night, luring victims in with beautiful pale blooms like angel's trumpets and producing intense hallucinations for those unfortunate enough to become poisoned. But while their specific effects might change, each shambling mound's toxins typically have the same aim: enervate their foes and then magically absorb that lost strength and vitality.
 
@@ -19733,7 +19714,7 @@ It is believed these magical origins are what give shambling mounds their abilit
 
 ### Hearty Eaters
 
-As a shambling mound drags their massive form through the undergrowth, they consume any organic matter they pass. What is more satisfying, however, is when they find a shadowed, overgrown place to lurk until the meal comes to them-a veritable feast for little effort. After a mound engulfs their prey, be they animal or adventurer, the meal-to-be is sealed in a sack of interwoven vines and leaves. This vegetative hunter can then sap the strength of those within to feast or empower itself.
+As a shambling mound drags their massive form through the undergrowth, they consume any organic matter they pass. What is more satisfying, however, is when they find a shadowed, overgrown place to lurk until the meal comes to them—a veritable feast for little effort. After a mound engulfs their prey, be they animal or adventurer, the meal-to-be is sealed in a sack of interwoven vines and leaves. This vegetative hunter can then sap the strength of those within to feast or empower itself.
 
 ### Verdant Core and Expansive Sprawl
 
@@ -19901,7 +19882,7 @@ Genetic rebels, the space punks known as the time raiders (called the *kuran'zoi
 
 ### Veterans of the Psychic Wars
 
-Thousands of years ago, the synlirii-those powerful and evil psionic horrors more commonly known as voiceless talkers-created the kuran'zoi as soldiers. But as the synlirii experimented with and enhanced these warriors' psionic potential, the kuran'zoi came to understand the true nature of their progenitors. They rebelled against the synlirii and fled to the Sea of Stars, becoming nomads of the timescape.
+Thousands of years ago, the synlirii—those powerful and evil psionic horrors more commonly known as voiceless talkers—created the kuran'zoi as soldiers. But as the synlirii experimented with and enhanced these warriors' psionic potential, the kuran'zoi came to understand the true nature of their progenitors. They rebelled against the synlirii and fled to the Sea of Stars, becoming nomads of the timescape.
 
 ### Hardened-Vision Hexapods
 
@@ -20038,7 +20019,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 > | ------------------- | -----------------------------: |
 > | **📏 Ranged 20**    | **🎯 The triggering creature** |
 >
-> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to
+> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to.
 >
 > **Power Roll + 2:**
 >
@@ -20123,7 +20104,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 > | --------------------------- | -------------: |
 > | **📏 4 x 2 line within 10** | **🎯 Special** |
 >
-> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide
+> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide.
 >
 > **3 Malice:** The helix creates a second kinetic lane.
 
@@ -20391,7 +20372,7 @@ A troll's constant hunger and aggression beget a life of violence. Like a grotes
 
 ### Phases of Destruction
 
-Fortunately for the ecosystems they inhabit, trolls can't be active all the time. Their natural behavior is to hunt relentlessly for a few days, then return to their dens to rest for as much as a week. Patient troll hunters can wait for this torpor and catch their quarry by surprise-though the cost of waiting can be high thanks to the damage a troll might do in the meantime.
+Fortunately for the ecosystems they inhabit, trolls can't be active all the time. Their natural behavior is to hunt relentlessly for a few days, then return to their dens to rest for as much as a week. Patient troll hunters can wait for this torpor and catch their quarry by surprise—though the cost of waiting can be high thanks to the damage a troll might do in the meantime.
 
 ### Strange Mutations
 
@@ -20406,7 +20387,7 @@ When a suitably large piece of a troll is torn off in battle, it does its very b
 >
 > At the director's discretion, a troll can mutate after consuming the flesh of any creature and gain some of their damage immunities, traits, abilities, and movement options. For instance, a troll who devours the carcass of a dead draconian might grow wings and gain their signature ability!
 >
-> Be aware that this can increase the difficulty category of an encounter while one or more of these mutated trolls are present-especially if their mutations enable them to deal more damage than normal or grant them an acid or fire damage immunity.
+> Be aware that this can increase the difficulty category of an encounter while one or more of these mutated trolls are present—especially if their mutations enable them to deal more damage than normal or grant them an acid or fire damage immunity.
 
 ### Troll Languages
 
@@ -20550,7 +20531,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Bloody Feast**
 >
-> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition
+> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition.
 
 <!-- -->
 > ⭐️ **Relentless Hunger**
@@ -20596,7 +20577,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the glutton has a double edge on strikes, and strikes made against them gain an edge
+> **Effect:** Until the start of their next turn, the glutton has a double edge on strikes, and strikes made against them gain an edge.
 
 <!-- -->
 > ❗️ **Spiteful Retort (1 Malice)**
@@ -20617,7 +20598,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The glutton dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The glutton dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 **<span class="steel-compendium-statblock">Troll Crack Trooper</span>**
 
@@ -20737,7 +20718,7 @@ Undead are often encountered in groups that include more than just a single kind
 
 ### Corporeal Undead
 
-At their most innocuous, corporeal undead are a mockery of life, a body hoisted and dragged along by unnatural strings. At their worst, they are a violent scourge hungry for slaughter, and a perverse reflection of the mortal desire to exist for eternity. Ghouls, skeletons, soulwights, and zombies number among the lesser corporeal undead. Many lack a soul, and many can't think beyond the orders of their creators-unlike more powerful corporeal undead such as liches and vampires. Those who aren't controlled by others typically have a singular focus: the destruction of all living things.
+At their most innocuous, corporeal undead are a mockery of life, a body hoisted and dragged along by unnatural strings. At their worst, they are a violent scourge hungry for slaughter, and a perverse reflection of the mortal desire to exist for eternity. Ghouls, skeletons, soulwights, and zombies number among the lesser corporeal undead. Many lack a soul, and many can't think beyond the orders of their creators—unlike more powerful corporeal undead such as liches and vampires. Those who aren't controlled by others typically have a singular focus: the destruction of all living things.
 
 The magic that animates a corpse removes the need for air, sleep, and sustenance. This magic also halts decay, preserving the undead at the stage of deterioration before they were animated. While most corporeal undead are brought to unlife by a creator, tales abound of zombies suddenly rising from graveyards during rare astronomical occurrences, skeletal soldiers emerging from mass graves on the anniversary of their death, and other seemingly spontaneous acts of necromancy.
 
@@ -20959,7 +20940,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage
 > - **17+:** 7 damage
 >
-> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn
+> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn.
 
 <!-- -->
 > ❇️ **Bone Spur (2 Malice)**
@@ -21089,7 +21070,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 3 cold damage
 > - **17+:** 4 cold damage
 >
-> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies
+> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies.
 
 <!-- -->
 > 👤 **Shadow Jump (1 Malice)**
@@ -21126,7 +21107,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage
 > - **17+:** 7 damage; grabbed
 >
-> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect
+> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect.
 
 <!-- -->
 > ❇️ **Zombie Dust (3 Malice)**
@@ -21146,7 +21127,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Endless Knight**
 >
-> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone
+> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone.
 
 **<span class="steel-compendium-statblock">Ghost</span>**
 
@@ -21330,7 +21311,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Ever So Hungry**
 >
-> Any enemy adjacent to three or more ghoul cravers can't shift
+> Any enemy adjacent to three or more ghoul cravers can't shift.
 
 <!-- -->
 > ⭐️ **Hunger**
@@ -21363,7 +21344,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Brittle Revenge**
 >
-> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature
+> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature.
 
 **<span class="steel-compendium-statblock">Flesh Mournling</span>**
 
@@ -21386,7 +21367,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target can't shift until the end of their next turn
+> **Effect:** The target can't shift until the end of their next turn.
 >
 > **1 Malice:** This ability targets one additional target.
 
@@ -21455,7 +21436,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Negative Nerves**
 >
-> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome
+> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome.
 
 **<span class="steel-compendium-statblock"> Mummy</span>**
 
@@ -21504,7 +21485,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 >
 > **Trigger:** The mummy comes within distance of a restrained creature or starts their turn within distance of one.
 >
-> **Effect:** The target takes 8 poison damage
+> **Effect:** The target takes 8 poison damage.
 
 **<span class="steel-compendium-statblock">Vampire Spawn</span>**
 
@@ -21805,7 +21786,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 7 damage; pull 1
 > - **17+:** 8 damage; pull 3
 >
-> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round
+> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round.
 
 **<span class="steel-compendium-statblock">Dirt Mournling</span>**
 
@@ -21939,7 +21920,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** Pull 5; M < 3 5 corruption damage
 > - **17+:** Pull 7; M < 4 5 corruption damage
 >
-> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the koptourok, the koptourok can fly until the end of the encounter
+> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the koptourok, the koptourok can fly until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Exhale**
@@ -21976,8 +21957,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their
-> speed before using this ability. Each target makes an **Agility test**.
+> **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**.
 >
 > - **≤11:** 10 damage
 >
@@ -22067,7 +22047,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 21 corruption damage; M < 4 bleeding (save ends)
 > - **17+:** 24 corruption damage; M < 5 bleeding (save ends)
 >
-> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw
+> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw.
 >
 > **2+ Malice:** The vampire shifts 3 after striking the last target, and can target one additional creature for every 2 malice spent.
 
@@ -22135,7 +22115,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > | --------------- | ----------------------------: |
 > | **📏 20 burst** | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action.
 >
 > - **≤11:** 11 corruption damage
 > - **12-16:** 8 corruption damage
@@ -22166,7 +22146,7 @@ The weakness of many undead minions means that necromancers at war often find th
 
 ### Lithgekh
 
-Every mage who lives long enough eventually contends with the fact that their knowledge will one day leave the world. For those who can't stomach this idea, seeking the immortality of the lich often becomes an irresistible temptation. But many of those who try and fail to achieve lichdom become lithgekh-a word in the First Language meaning "lich corpse." Having failed to create a proper soul vessel, a lithgekh suffers an eternal hunger for magic to sustain themself. Liches will sometimes trick or tempt mortal mages into pursuing lichdom, only to sabotage them and create a lithgekh under the lich's control. These servants are prized by liches for their ability to disrupt enemy magic and empower their own.
+Every mage who lives long enough eventually contends with the fact that their knowledge will one day leave the world. For those who can't stomach this idea, seeking the immortality of the lich often becomes an irresistible temptation. But many of those who try and fail to achieve lichdom become lithgekh—a word in the First Language meaning "lich corpse." Having failed to create a proper soul vessel, a lithgekh suffers an eternal hunger for magic to sustain themself. Liches will sometimes trick or tempt mortal mages into pursuing lichdom, only to sabotage them and create a lithgekh under the lich's control. These servants are prized by liches for their ability to disrupt enemy magic and empower their own.
 
 **<span class="steel-compendium-malice">Undead Malice (Level 10 Malice Features)</span>**
 
@@ -22356,11 +22336,11 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 
 ## Count Rhodar Von Glauer
 
-After falling to a vampiric curse in his early twenties, Count Rhodar the last Lord of Glauer-ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
+After falling to a vampiric curse in his early twenties, Count Rhodar—the last Lord of Glauer—ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
 
 Each new moon, when the Red Tax came due, the count would visit a young candidate, then emerge with renewed vitality. Across the land, folk feared their Dragon Count, but the witches of the wood wove a prophecy: "The land's darkest hour shall be the redemption of House von Glauer."
 
-Eventually, the conquering force of Emperor Gaius VIII came for Rhodar-not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
+Eventually, the conquering force of Emperor Gaius VIII came for Rhodar—not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
 
 Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believing their Dragon Count will return in their darkest hour to deliver them from tyranny.
 
@@ -22588,7 +22568,7 @@ The ritual to create a lich requires a sphere constructed of something personal 
 
 A lich's true appearance is ghastly. The damage to their chest never heals, and over the centuries, their body slowly decays into a skeleton. Some liches hide their appearance with an illusion that makes them even more attractive and vivacious than they were in life. Others embrace their terrifying look, proudly displaying their fell triumph to every creature they encounter.
 
-Though all liches desire eternal life, it fails to satisfy most. Liches who were once powerful adventurers seek more of everything they've always craved-more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their power.
+Though all liches desire eternal life, it fails to satisfy most. Liches who were once powerful adventurers seek more of everything they've always craved—more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their power.
 
 ### Eldritch Lairs
 
@@ -22786,7 +22766,7 @@ Abandoned autonomous machines made by the ancient steel dwarves, valok can still
 
 #### Exotic Metal Body
 
-Steel dwarves unlocked the secrets of smithing valiar-the truemetal prized not only for its strength and flexibility, but for its entrancing silvery white beauty. They could turn valiar into anything, from breathtaking weapons and exquisite buildings to hypnotic gossamer fabrics that are nearly transparent and virtually indestructible. The secrets of working with the truemetal disappeared with the steel dwarves, but not before they built the nigh-invulnerable bodies of the valok.
+Steel dwarves unlocked the secrets of smithing valiar—the truemetal prized not only for its strength and flexibility, but for its entrancing silvery white beauty. They could turn valiar into anything, from breathtaking weapons and exquisite buildings to hypnotic gossamer fabrics that are nearly transparent and virtually indestructible. The secrets of working with the truemetal disappeared with the steel dwarves, but not before they built the nigh-invulnerable bodies of the valok.
 
 #### Prismacore Power
 
@@ -22796,7 +22776,7 @@ The steel dwarves also mined iridoss, commonly known as prismacore. This rare ge
 
 The first valok were great machines made to dig, smelt, and build. Legends say these giant walkers could build entire cities in a matter of days, and could even construct other valok. As the steel dwarves learned the deep secrets of prismacore, they made machines who could speak and think more freely.
 
-While two classes of valok-servok and multivok-have been discovered, ancient steel dwarf carvings hint that a highly advanced third class was created just before their makers disappeared.
+While two classes of valok—servok and multivok—have been discovered, ancient steel dwarf carvings hint that a highly advanced third class was created just before their makers disappeared.
 
 ### Ancient and Deep
 
@@ -22823,7 +22803,7 @@ At the start of any valok's turn, you can spend Malice to activate one of the fo
 
 ### Servok
 
-Servoks, the labor and siege class of valok, are huge, slow, and built for a specific purpose-though all are designed to defend themselves when threatened. No humaniform servoks have yet been discovered. Their forms depend on their purpose, but they are never smaller than a wagon. Despite each servok's utilitarian construction and the ages of grime accumulated atop their valiar, they are impressive to behold.
+Servoks, the labor and siege class of valok, are huge, slow, and built for a specific purpose—though all are designed to defend themselves when threatened. No humaniform servoks have yet been discovered. Their forms depend on their purpose, but they are never smaller than a wagon. Despite each servok's utilitarian construction and the ages of grime accumulated atop their valiar, they are impressive to behold.
 
 Servok builders once constructed buildings, roads, and walls. Some active builders still work the caverns where they were left, clearing the ground in preparation for lost grand projects known only to their progenitors. Servok miners dug the legendary tunnels of the steel dwarves. A few miners still bore deep into the earth, searching for ore and ready to destroy anything that interferes with that function.
 
@@ -22831,7 +22811,7 @@ The quaking of earth and the boom of an arcane cannon precedes the appearance of
 
 #### Multivok
 
-Smaller than servoks, multivoks can speak and carry out commands, though their capacity for complexity is limited. While multivoks are humaniform, their masterfully crafted bodies lack the expression and fine articulation of humanoids. They were built to run and maintain ships and ore harvesters, survey dangerous or distant locations, guard nobles, and oversee servoks-tasks which many multivoks tirelessly attempt to continue today.
+Smaller than servoks, multivoks can speak and carry out commands, though their capacity for complexity is limited. While multivoks are humaniform, their masterfully crafted bodies lack the expression and fine articulation of humanoids. They were built to run and maintain ships and ore harvesters, survey dangerous or distant locations, guard nobles, and oversee servoks—tasks which many multivoks tirelessly attempt to continue today.
 
 With arms ending in axe blades and repeating crossbows mounted on their shoulders, a multivok bodyguard cuts an impressive figure. Multivok bodyguards who are still active are often found watching over the bones or possessions of their long-dead charges with unfaltering loyalty.
 
@@ -23109,7 +23089,7 @@ Most valok communicate exclusively in Rallarian.
 > - **12-16:** 11 damage; slide 2
 > - **17+:** 7 damage
 >
-> The area is difficult terrain
+> The area is difficult terrain.
 
 <!-- -->
 > 🔳 **Break Ground (5 Malice)**
@@ -23249,7 +23229,7 @@ Most valok communicate exclusively in Rallarian.
 
 ## Voiceless Talkers
 
-Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below-and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
+Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below—and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
 
 ### Uneasy Alliances
 
@@ -23269,11 +23249,11 @@ Synlirii breed mollusks that secrete plastic-like substances, using them to fash
 
 ### Creature Engineers
 
-Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks-most of them singular life forms who can't reproduce and might never die.
+Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks—most of them singular life forms who can't reproduce and might never die.
 
 ### Graywarper
 
-Graywarpers are voiceless talkers who were drained of most of their psionic abilities-and free will-as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
+Graywarpers are voiceless talkers who were drained of most of their psionic abilities—and free will—as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
 
 ### Hulking Brain
 
@@ -23580,7 +23560,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 >
 > **Trigger:** The artillerist takes damage.
 >
-> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage
+> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage.
 
 <!-- -->
 > ⭐️ **Psionic Conductor**
@@ -23947,7 +23927,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 
 ## War Dogs
 
-Ajax's war dogs-brutal patchwork soldiers-owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
+Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
 
 ##### War Dog Stat Block List
 
@@ -24030,7 +24010,7 @@ War dogs aren't undead. They still have minds, wills, and drives that separate t
 
 From the moment they are reborn, every war dog is part of Ajax's war machine. Fresh recruits undergo inspections and tests to ensure their viability and assess their capabilities, and those who are found lacking are immediately recycled.
 
-Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars-unremovable neck pieces fitted with explosive fuse-iron charges-and sent on to join a legion.
+Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars—unremovable neck pieces fitted with explosive fuse-iron charges—and sent on to join a legion.
 
 ### Chain of Command
 
@@ -24250,7 +24230,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 fire damage
 > - **17+:** 5 fire damage
 >
-> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage
+> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.
 >
 > **3 Malice:** The area becomes a 10 x 1 line, and if any ally of the crucibite is in the area when it is created, the ability deals an extra 2 damage to each target.
 
@@ -24744,7 +24724,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 9 damage
 > - **17+:** 11 damage; A < 3 bleeding (save ends)
 >
-> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic
+> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic.
 >
 > **2 Malice:** The arachnite can use this ability as if they were in the space of any ally within distance.
 
@@ -24755,7 +24735,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ----------------------- | -------------: |
 > | **📏 2 cube within 10** | **🎯 Special** |
 >
-> **Effect:** The area is difficult terrain until the end of the encounter
+> **Effect:** The area is difficult terrain until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Eight-Eyed Sight**
@@ -24793,7 +24773,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Doom Magnet**
 >
-> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target
+> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target.
 
 <!-- -->
 > 👤 **Expanding Doom (4 Malice)**
@@ -25159,7 +25139,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > - **12-16:** 13 fire damage; A < 3 slowed (save ends)
 > - **17+:** 16 fire damage; A < 4 slowed (save ends)
 >
-> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round
+> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round.
 
 <!-- -->
 > ☠️ **You Would Dare?! (Villain Action 3)**
@@ -25251,7 +25231,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 7 fire damage; push 1
 > - **17+:** 8 fire damage; push 3
 >
-> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
+> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -25322,7 +25302,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 4 acid damage; M < 3 slowed (save ends)
 > - **17+:** 6 acid damage; M < 4 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Jetwing Agility**
@@ -25446,7 +25426,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect
+> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect.
 
 <!-- -->
 > ⭐️ **Breaking Point**
@@ -25524,7 +25504,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 >
 > **Effect:** This ability ignores stability. The geomancer declares a direction for the area, and any creature pushed by this ability is pushed to the last space in the area in the chosen direction.
 >
-> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved
+> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved.
 
 <!-- -->
 > 🔳 **Siegeworks**
@@ -25817,7 +25797,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 8 damage; push 3
 > - **17+:** 10 damage; push 4
 >
-> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage
+> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -26050,7 +26030,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** A < 5 pull 3 toward the center of the area
 > - **17+:** Pull 3 toward the center of the area
 >
-> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage
+> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage.
 >
 > **2 Malice:** The area remains active and deals its damage until Vesper is reduced to 0 Stamina or until the end of the encounter. Any creature who enters the area and has A < 4 is pulled 3 squares toward the center of the area. Any creature who starts their turn in the area and has M < 4 is slowed until the end of their turn.
 
@@ -26194,7 +26174,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | ---------------- | ----------------------------: |
 > | **📏 Ranged 15** | **🎯 One creature or object** |
 >
-> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect
+> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect.
 
 <!-- -->
 > ❗️ **Artillery Enfilade (2 Malice)**
@@ -26211,7 +26191,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 13 damage; A < 5 slowed (save ends)
 > - **17+:** 16 damage; A < 6 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of the next round
+> **Effect:** The area is difficult terrain until the start of the next round.
 
 <!-- -->
 > ⭐️ **End Effect**
@@ -26326,7 +26306,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Vukenstep**
 >
-> The werewolf ignores difficult terrain
+> The werewolf ignores difficult terrain.
 
 <!-- -->
 > 🗡 **Accursed Bite (Signature Ability)**
@@ -26603,7 +26583,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 >
 > **Trigger:** A creature within distance deals damage to the predator with a melee ability.
 >
-> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares
+> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares.
 
 <!-- -->
 > ⭐️ **Stubborn Rage**
@@ -26733,7 +26713,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 <!-- -->
 > ⭐️ **Above It All**
 >
-> Xorannox can't be made frightened or knocked prone, and he can't be flanked
+> Xorannox can't be made frightened or knocked prone, and he can't be flanked.
 
 <!-- -->
 > ⭐️ **Natural Enemies**
@@ -26984,7 +26964,7 @@ Some terrain objects have a defined direction indicating how they are placed, su
 
 #### Deactivate
 
-Most terrain objects can be deactivated under certain circumstances. The Sabotage skill is generally applicable for tests made to deactivate mechanisms and siege engines, while traps might allow different skills to be used depending on their setup-Alchemy to deactivate a pool of flammable oil, Nature to deactivate a spiked pit trap in a forest, Magic or Psionics to deactivate a supernatural object, and so forth. Disabling a supernatural object requires a more intricate process detailed in each object's stat block.
+Most terrain objects can be deactivated under certain circumstances. The Sabotage skill is generally applicable for tests made to deactivate mechanisms and siege engines, while traps might allow different skills to be used depending on their setup—Alchemy to deactivate a pool of flammable oil, Nature to deactivate a spiked pit trap in a forest, Magic or Psionics to deactivate a supernatural object, and so forth. Disabling a supernatural object requires a more intricate process detailed in each object's stat block.
 
 Once a terrain object is deactivated, the Director determines what must be done to reset it and how long it takes to do so.
 
@@ -27002,7 +26982,7 @@ Each terrain object's effect entry defines what happens when the object is trigg
 
 #### Upgrades
 
-Some terrain objects can be upgraded to create additional effects. If a terrain object has a size in squares, the upgrade cost is paid on a squareby-square basis unless otherwise noted.
+Some terrain objects can be upgraded to create additional effects. If a terrain object has a size in squares, the upgrade cost is paid on a square-by-square basis unless otherwise noted.
 
 ### Hidden Terrain Objects
 
@@ -27222,7 +27202,7 @@ A patch of blisteringly hot molten rock wells up from the ground, threatening an
 
 **<span class="steel-compendium-malice">Quicksand (Level 3 Hazard Hexer)</span>**
 
-When this patch of sand is stepped on, it is revealed to be a slurry saturated by water-and ready to draw creatures down to their doom.
+When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.
 
 - **EV:** 3 per 10 x 10 patch
 - **Stamina:** -
@@ -27288,8 +27268,6 @@ Colorful mushrooms or lovely flowering plants release a cloud of spores or polle
 > | **Magic, Melee, Strike** |      **Free triggered action** |
 > | ------------------------ | -----------------------------: |
 > | **📏 Melee 0**           | **🎯 The triggering creature** |
->
-> Magic, Melee, Strike Free triggered action
 >
 > **Trigger:** A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without shifting.
 >
@@ -28145,8 +28123,6 @@ A small wooden cart uses alchemical rockets to launch up to a hundred arrows at 
 > - **12-16:** 8 damage; R < 1 dazed (save ends)
 > - **17+:** 11 damage; R < 2 frightened (save ends)
 >
-> **Effect:** This ability can't be used again until the arrow
->
 > **Effect:** This ability can't be used again until the arrow launcher is reloaded.
 
 **<span class="steel-compendium-malice">Boiling Oil Cauldron (Level 3 Fortification Defender)</span>**
@@ -28464,7 +28440,7 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 > | -------- | ----------------------------------: |
 > | **📏 -** |                            **🎯 -** |
 >
-> **Effect:** The iron dragon and the creature using this action move together up to 2 squares
+> **Effect:** The iron dragon and the creature using this action move together up to 2 squares.
 
 **<span class="steel-compendium-malice">Watchtower (Level 2 Fortification Defender)</span>**
 
@@ -28585,7 +28561,7 @@ This unnatural object twists space around it in a reflection of its own unnatura
 
 **<span class="steel-compendium-malice">The Throne of A'An (Level 4 Relic Controller)</span>**
 
-The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns-and plunge the region into eternal winter.
+The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.
 
 - **EV:** 24
 - **Stamina:** 140
@@ -28707,7 +28683,7 @@ Any hero gaining a retainer is always at your discretion. If something in the ru
 
 A retainer doesn't need to always travel with the heroes. When they're not called on to adventure, they can remain behind at the party's stronghold or otherwise live their own life. Even when they're not present, they're still considered to be a retainer and a member of the party.
 
-However, there might be cases when a retainer leaves the party permanently. Retainers aren't invulnerable, so they can be killed in battle. But they can leave under less extreme circumstances as well. If the events of an adventure set a retainer against their mentor, or if the retainer's story naturally comes to an end, you and the players can decide it's time for the retainer to ride off into the sunset. The characters might meet their former adventuring buddy again as a friendly NPC, though-or perhaps as a foe!
+However, there might be cases when a retainer leaves the party permanently. Retainers aren't invulnerable, so they can be killed in battle. But they can leave under less extreme circumstances as well. If the events of an adventure set a retainer against their mentor, or if the retainer's story naturally comes to an end, you and the players can decide it's time for the retainer to ride off into the sunset. The characters might meet their former adventuring buddy again as a friendly NPC, though—or perhaps as a foe!
 
 #### Retainers in Combat
 
@@ -28741,7 +28717,7 @@ Retainer advancement benefits are broken out as follows:
 - **Free Strike Damage Bonus:** The retainer gains a +2 damage bonus to free strikes at level 3, at level 6, and at level 9.
 - **Advancement Abilities:** A retainer gains new abilities at levels 4, 7, and 10 (unless the retainer's starting level is that level or higher). Each retainer stat block is accompanied by retainer advancement abilities specific to that retainer. Whenever a retainer would gain a new advancement ability, instead of choosing their retainer ability, the player of their mentor can instead choose a role advancement ability that matches their role and level. (Advancement abilities for each type of creature role are detailed in the next section.)
 - **Stamina Bonus:** At each level, a retainer gains a +9 bonus to Stamina.
-- **Signature Ability Damage Increase:** A retainer's signature ability is unique in that it grows stronger as the retainer advances in level. Only the retainer's signature ability improves this way! The table features two columns for a retainer's signature ability damage bonus-one for a tier 1 power roll outcome and one for a tier 2 or tier 3 outcome. A retainer's signature ability gains a +1 damage bonus every second level for a tier 1 outcome, and every level for a tier 2 or tier 3 outcome.
+- **Signature Ability Damage Increase:** A retainer's signature ability is unique in that it grows stronger as the retainer advances in level. Only the retainer's signature ability improves this way! The table features two columns for a retainer's signature ability damage bonus—one for a tier 1 power roll outcome and one for a tier 2 or tier 3 outcome. A retainer's signature ability gains a +1 damage bonus every second level for a tier 1 outcome, and every level for a tier 2 or tier 3 outcome.
 
 ##### Advancement Example
 
@@ -29002,7 +28978,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > **Trigger:** The target takes damage from a strike.
 >
-> **Effect:** The retainer pushes the target or the attacking creature up to 2 squares. If that moves the mentor out of distance of the strike, the strike has no effect
+> **Effect:** The retainer pushes the target or the attacking creature up to 2 squares. If that moves the mentor out of distance of the strike, the strike has no effect.
 
 **<span class="steel-compendium-feature">Level 7 Role Advancement Ability</span>**
 
@@ -29068,7 +29044,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 10 damage
 > - **17+:** 15 damage
 >
-> **Effect:** Before or after the strike, the retainer and their mentor can each shift up to their speed
+> **Effect:** Before or after the strike, the retainer and their mentor can each shift up to their speed.
 
 **<span class="steel-compendium-feature">Level 10 Role Advancement Ability</span>**
 
@@ -29299,7 +29275,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | -------------- | ----------------------------: |
 > | **📏 Melee 5** | **🎯 One creature or object** |
 >
-> **Trigger:** A creature moves within distance
+> **Trigger:** A creature moves within distance.
 >
 > **Effect:** If the target has M < AVERAGE, heir movement ends, they are knocked prone, and one ally within distance gains 2 surges.
 
@@ -29434,7 +29410,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > ⭐️ **True Name**
 >
-> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter
+> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.
 
 **<span class="steel-compendium-feature">Level 7 Retainer Advancement Ability</span>**
 
@@ -29451,7 +29427,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 10 corruption damage
 > - **17+:** 14 corruption damage
 >
-> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage
+> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.
 
 **<span class="steel-compendium-feature">Level 10 Retainer Advancement Ability</span>**
 
@@ -29808,7 +29784,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever the arrowswift makes a ranged strike, the strike gains an edge and the arrowswift gains 1 surge that must be used immediately. While the arrowswift's mentor is adjacent to them, the mentor also gains this benefit
+> **Effect:** Until the end of the encounter, whenever the arrowswift makes a ranged strike, the strike gains an edge and the arrowswift gains 1 surge that must be used immediately. While the arrowswift's mentor is adjacent to them, the mentor also gains this benefit.
 
 **<span class="steel-compendium-feature">Level 10 Retainer Advancement Ability</span>**
 
@@ -29935,7 +29911,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 9 damage
 > - **17+:** 12 damage
 >
-> **Effect:** The guide shifts up to their speed before and after the strike
+> **Effect:** The guide shifts up to their speed before and after the strike.
 
 **<span class="steel-compendium-feature">Level 7 Retainer Advancement Ability</span>**
 
@@ -29998,7 +29974,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level
+> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level.
 
 <!-- -->
 > ⭐️ **Infernal Ichor**
@@ -30037,7 +30013,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 12 damage; push 3
 > - **17+:** 16 damage; push 5
 >
-> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger
+> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger.
 
 **<span class="steel-compendium-statblock">Human Warrior</span>**
 
@@ -30318,7 +30294,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 18 psychic damage
 > - **17+:** 24 psychic damage
 >
-> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way
+> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way.
 
 **<span class="steel-compendium-statblock">Radenwight Sidekick</span>**
 
@@ -30499,7 +30475,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 **<span class="steel-compendium-feature">Level 7 Retainer Advancement Ability</span>**
 
@@ -30521,9 +30497,9 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** An ability deals acid or fire damage to the mercenary
+> **Trigger:** An ability deals acid or fire damage to the mercenary.
 >
-> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them
+> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them.
 
 **<span class="steel-compendium-statblock">Undead Servitor</span>**
 

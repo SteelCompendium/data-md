@@ -49,7 +49,7 @@ type: monster
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target can't shift until the end of their next turn
+> **Effect:** The target can't shift until the end of their next turn.
 >
 > **1 Malice:** This ability targets one additional target.
 

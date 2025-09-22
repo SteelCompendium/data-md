@@ -14,7 +14,7 @@ type: monster/section
 
 ## Elementals
 
-When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements-air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
+When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements—air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
 
 #### Duality of Form
 
@@ -28,7 +28,7 @@ When an elemental dies in the mundane world, their spirit returns to Quintessenc
 
 #### Crux of Fire
 
-Cruxes of fire, often called blazecasters, take the form of fiery lizards. They commonly live in hot zones of planar convergence or areas of volcanic activity. These territorial elementals usually question interlopers from afar-and if they don't like the answers, they rain down fire before their foes can draw near.
+Cruxes of fire, often called blazecasters, take the form of fiery lizards. They commonly live in hot zones of planar convergence or areas of volcanic activity. These territorial elementals usually question interlopers from afar—and if they don't like the answers, they rain down fire before their foes can draw near.
 
 Though many elementals weave their innate gifts into oral storytelling, cruxes of fire are particularly adroit at animating their stories in silhouettes of flame.
 
@@ -42,7 +42,7 @@ Galeweavers act as scouts for their handlers or for groups of elementals, and th
 
 An essence of tides looks like a shimmering blue manta ray that glides over land as easily as through water, earning them the common name of tidedrifter. Most common along coastlines, essences of tides enjoy harmless pranks, especially against folk who regularly sail or swim in their waters.
 
-Tidedrifters have a healthy sense of humor that makes it easy to win their friendship-but their relaxed demeanor evaporates if friends or family face threats.
+Tidedrifters have a healthy sense of humor that makes it easy to win their friendship—but their relaxed demeanor evaporates if friends or family face threats.
 
 #### Field of Growth
 

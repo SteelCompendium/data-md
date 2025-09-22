@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 6 damage
 > - **17+:** 7 damage
 >
-> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn
+> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn.
 
 <!-- -->
 > ❇️ **Bone Spur (2 Malice)**

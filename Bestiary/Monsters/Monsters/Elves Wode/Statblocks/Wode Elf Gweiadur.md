@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 11 damage
 > - **17+:** 14 damage; A < 2 restrained (save ends)
 >
-> **Effect:** The gweiadur shifts up to 3 squares
+> **Effect:** The gweiadur shifts up to 3 squares.
 >
 > **3 Malice:** If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).
 

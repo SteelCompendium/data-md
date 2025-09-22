@@ -24,7 +24,7 @@ Daring poachers sometimes attempt to steal griffon eggs from wild aeries, but su
 
 #### Inaccessible Aeries
 
-Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for three months starting in the early spring. Chicks hatch after forty days of incubation, then remain in or near the nest as their parents feed them. About forty days after hatching, a griffon chick learns to fly-and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
+Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for three months starting in the early spring. Chicks hatch after forty days of incubation, then remain in or near the nest as their parents feed them. About forty days after hatching, a griffon chick learns to fly—and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
 
 #### Rare Breeds
 
@@ -78,7 +78,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 damage; the griffon shifts up to 2 squares
 > - **17+:** 13 damage; the griffon shifts up to 3 squares
 >
-> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets
+> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets.
 
 <!-- -->
 > 🔳 **Crack the Earth**
@@ -119,9 +119,9 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** The griffon takes damage
+> **Trigger:** The griffon takes damage.
 >
-> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares
+> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Beast of Prey**
@@ -161,7 +161,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone
+> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone.
 
 <!-- -->
 > 🔳 **Power Wing Buffet (3 Malice)**
@@ -183,7 +183,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | --------------- | -----------------------------: |
 > | **📏 Ranged 5** | **🎯 The triggering creature** |
 >
-> **Trigger:** The griffon flies directly above a creature within distance
+> **Trigger:** The griffon flies directly above a creature within distance.
 >
 > **Effect:** The griffon dives down onto the target, taking no damage from falling if they reach the ground. The target takes 3 damage for each square the griffon dove, and if they have A < 2, they are grabbed or knocked prone.
 
@@ -195,9 +195,9 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Steady**
 >
-> Any power roll that could knock the griffon prone takes a bane
+> Any power roll that could knock the griffon prone takes a bane.
 
 <!-- -->
 > ⭐️ **Banded Predator**
 >
-> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn
+> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn.

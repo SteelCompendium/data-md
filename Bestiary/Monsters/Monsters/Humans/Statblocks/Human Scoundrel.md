@@ -59,7 +59,7 @@ type: monster
 > | -------- | --------------: |
 > | **📏 -** |        **🎯 -** |
 >
-> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike
+> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**

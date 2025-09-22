@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares
+> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares.
 >
 > **2 Malice:** The distance increases to Melee 5.
 

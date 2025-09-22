@@ -88,7 +88,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Vukenstep**
 >
-> The werewolf ignores difficult terrain
+> The werewolf ignores difficult terrain.
 
 <!-- -->
 > 🗡 **Accursed Bite (Signature Ability)**

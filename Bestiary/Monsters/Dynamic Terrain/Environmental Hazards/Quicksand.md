@@ -14,7 +14,7 @@ type: dynamic-terrain/environmental-hazard
 
 ###### Quicksand (Level 3 Hazard Hexer)
 
-When this patch of sand is stepped on, it is revealed to be a slurry saturated by water-and ready to draw creatures down to their doom.
+When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.
 
 - **EV:** 3 per 10 x 10 patch
 - **Stamina:** -

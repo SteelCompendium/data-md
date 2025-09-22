@@ -92,6 +92,6 @@ stamina: '21'
 > | -------------- | ----------------------------: |
 > | **📏 Melee 5** | **🎯 One creature or object** |
 >
-> **Trigger:** A creature moves within distance
+> **Trigger:** A creature moves within distance.
 >
 > **Effect:** If the target has M < AVERAGE, heir movement ends, they are knocked prone, and one ally within distance gains 2 surges.

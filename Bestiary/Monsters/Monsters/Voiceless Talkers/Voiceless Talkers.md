@@ -14,7 +14,7 @@ type: monster/section
 
 ## Voiceless Talkers
 
-Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below-and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
+Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below—and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
 
 ### Uneasy Alliances
 
@@ -34,11 +34,11 @@ Synlirii breed mollusks that secrete plastic-like substances, using them to fash
 
 ### Creature Engineers
 
-Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks-most of them singular life forms who can't reproduce and might never die.
+Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks—most of them singular life forms who can't reproduce and might never die.
 
 ### Graywarper
 
-Graywarpers are voiceless talkers who were drained of most of their psionic abilities-and free will-as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
+Graywarpers are voiceless talkers who were drained of most of their psionic abilities—and free will—as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
 
 ### Hulking Brain
 
@@ -345,7 +345,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 >
 > **Trigger:** The artillerist takes damage.
 >
-> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage
+> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage.
 
 <!-- -->
 > ⭐️ **Psionic Conductor**

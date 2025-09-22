@@ -28,7 +28,7 @@ Relentless innovators, kobolds can easily outsmart anyone who doesn't take them 
 
 #### Tiny Dragons
 
-Most kobolds believe their ancestors were created by powerful dragons-and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
+Most kobolds believe their ancestors were created by powerful dragons—and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
 
 #### Domain Expansion
 
@@ -44,7 +44,7 @@ The kobolds' affinity for their terrain, creative tactics, group defenses, and i
 
 #### Cute Pets
 
-The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins-draconic pangolins-who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
+The gummy brick is a deadly ooze—a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins—draconic pangolins—who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
 
 #### Kobold Languages
 
@@ -90,7 +90,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares
+> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -146,7 +146,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage; the tiro can shift 1 square
 > - **17+:** 3 damage; the tiro shifts up to 2 squares
 >
-> **Effect:** The target can't shift until the start of the tiro's next turn
+> **Effect:** The target can't shift until the start of the tiro's next turn.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -407,7 +407,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 acid damage; A < 1 dazed (save ends)
 > - **17+:** 14 acid damage; A < 2 restrained (save ends)
 >
-> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space
+> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space.
 >
 > **2 Malice:** This ability targets one additional target.
 
@@ -566,4 +566,4 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Burrow Bond**
 >
-> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them
+> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.

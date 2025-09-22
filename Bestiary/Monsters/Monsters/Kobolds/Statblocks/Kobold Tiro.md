@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 2 damage; the tiro can shift 1 square
 > - **17+:** 3 damage; the tiro shifts up to 2 squares
 >
-> **Effect:** The target can't shift until the start of the tiro's next turn
+> **Effect:** The target can't shift until the start of the tiro's next turn.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**

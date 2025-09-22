@@ -28,7 +28,7 @@ The shadow elves have mastered the art of combining deep, ancient magic with cut
 
 #### Brush Stalkers
 
-When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers-quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
+When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers—quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
 
 A brush stalker's glamor allows them to look like a mundane deer. But when the glamour falls, the creature devours the light around them and plunges their surroundings into darkness.
 
@@ -92,7 +92,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 > - **12-16:** 4 damage
 > - **17+:** 6 damage
 >
-> **Effect:** The cloak shifts up to 2 squares
+> **Effect:** The cloak shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Of the Umbra**
@@ -511,7 +511,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 
 **Shadow Elf Deployments**
 
-When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious-kidnapping, assassination, theft, and general skullduggery are the order of the day.
+When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious—kidnapping, assassination, theft, and general skullduggery are the order of the day.
 
 However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation, these groups will brook no attempts to thwart their goals and are all deadly warriors.
 
@@ -654,4 +654,4 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 <!-- -->
 > ⭐️ **Wyrd Dyr**
 >
-> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened
+> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened.

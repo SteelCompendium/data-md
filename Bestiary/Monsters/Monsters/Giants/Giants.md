@@ -18,7 +18,7 @@ Supremely well adapted to harsh environments, giants thrive in extreme condition
 
 #### Adaptable and Elemental
 
-Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain-they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
+Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain—they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
 
 #### Distant Cousins
 
@@ -46,7 +46,7 @@ Most hill giants spend so much time in quiet peace that sudden flashy sights and
 
 Fascinated by the act of creation, stone giants carve cities out of ancient caverns, mine precious metals and gems, and craft relics worthy of glory. To many a stone giant, artisanship is the highest calling, and all their creations are crafted with an eye to beauty and longevity.
 
-Stone giants are made of the same kinds of rocks that form their homes-sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
+Stone giants are made of the same kinds of rocks that form their homes—sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
 
 #### Giant Languages
 
@@ -194,7 +194,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The sand stone giant ignores difficult terrain
+> The sand stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -267,7 +267,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The basalt stone giant ignores difficult terrain
+> The basalt stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**

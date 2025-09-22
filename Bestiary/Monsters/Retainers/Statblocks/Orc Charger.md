@@ -86,4 +86,4 @@ stamina: '21'
 > - **12-16:** 18 psychic damage
 > - **17+:** 24 psychic damage
 >
-> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way
+> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way.

@@ -85,7 +85,7 @@ type: monster
 >
 > **Trigger:** A creature targets the magistrate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The magistrate chooses a new target for the strike.
 > - **12-16:** The magistrate halves the triggering damage.

@@ -65,7 +65,7 @@ type: monster
 > - **12-16:** 7 damage; M < 1 restrained (save ends)
 > - **17+:** 10 damage; M < 2 restrained (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Seismic Step**

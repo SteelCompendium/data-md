@@ -64,4 +64,4 @@ type: monster
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The stinker doesn't provoke opportunity attacks by moving
+> The stinker doesn't provoke opportunity attacks by moving.

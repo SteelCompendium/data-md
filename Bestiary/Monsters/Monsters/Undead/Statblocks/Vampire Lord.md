@@ -49,7 +49,7 @@ type: monster
 > - **12-16:** 21 corruption damage; M < 4 bleeding (save ends)
 > - **17+:** 24 corruption damage; M < 5 bleeding (save ends)
 >
-> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw
+> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw.
 >
 > **2+ Malice:** The vampire shifts 3 after striking the last target, and can target one additional creature for every 2 malice spent.
 
@@ -117,7 +117,7 @@ type: monster
 > | --------------- | ----------------------------: |
 > | **📏 20 burst** | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action.
 >
 > - **≤11:** 11 corruption damage
 > - **12-16:** 8 corruption damage

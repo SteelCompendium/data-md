@@ -59,7 +59,7 @@ type: monster
 > | ------------------- | -----------------------------: |
 > | **📏 Ranged 20**    | **🎯 The triggering creature** |
 >
-> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to
+> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to.
 >
 > **Power Roll + 2:**
 >

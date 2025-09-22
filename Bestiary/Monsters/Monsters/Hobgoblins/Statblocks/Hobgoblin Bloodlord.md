@@ -82,7 +82,7 @@ type: monster
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
+> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ☠️ **Advance! (Villain Action 1)**

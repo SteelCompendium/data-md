@@ -20,11 +20,11 @@ When the radenwights' enemies expect them to scurry away like rats, they are pai
 
 ### Bonds and Bravado
 
-It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community-as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
+It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community—as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
 
 ### The Magic of Music
 
-The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon-even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
+The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon—even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
 
 ### The Great Maclette
 
@@ -335,7 +335,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
-> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left
+> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left.
 
 <!-- -->
 > ❗️ **Ready Rodent**

@@ -14,7 +14,7 @@ type: monster/section
 
 ## Devils
 
-In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control-a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
+In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
 
 ### Precarious Pyramids
 
@@ -38,7 +38,7 @@ Winsome devils can acquire significant influence by bargaining for the souls of 
 
 ### True Names
 
-All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them-or in stripping them of their power.
+All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them—or in stripping them of their power.
 
 ### Hell's Defectors
 
@@ -55,7 +55,7 @@ Most devils speak Anjal and Caelian, among other languages. The more powerful a 
 >
 > Even more sinister than a prize won in a devil's hard bargain is a gift freely given by a devil. The advantages of such a gift are conditional, lasting only until the devil revokes it at some inconvenient time.
 >
-> The following are samples of the wonders that a devil can offer-to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
+> The following are samples of the wonders that a devil can offer—to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
 >
 > **Components:** An archdevil's wing, archdevil's blood, soul chalk, a wide selection of true names
 >
@@ -200,7 +200,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The target is slowed, takes a bane on power rolls, and can't regain Stamina (save ends).
 > - **12-16:** The target is slowed and takes a bane on power rolls (save ends).
@@ -224,7 +224,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The adjudicator chooses a new target for the strike.
 > - **12-16:** The adjudicator halves the triggering damage.
@@ -303,7 +303,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the jurist with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The jurist chooses a new target for the strike.
 > - **12-16:** The jurist halves the triggering damage.
@@ -370,7 +370,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the legate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The legate chooses a new target for the strike.
 > - **12-16:** The legate halves the triggering damage.
@@ -442,7 +442,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the magistrate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The magistrate chooses a new target for the strike.
 > - **12-16:** The magistrate halves the triggering damage.

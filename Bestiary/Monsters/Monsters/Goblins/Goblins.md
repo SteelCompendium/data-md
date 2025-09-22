@@ -20,7 +20,7 @@ Their long arms and prehensile toes make goblins particularly well adapted to en
 
 #### Encountered in Groups
 
-Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
+Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident—perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
 
 ###### Goblin Malice (Malice Features)
 
@@ -63,7 +63,7 @@ Goblins ride enormous arachnids as mounts in battle. With blades attached to the
 
 #### Worg
 
-Some goblins form a special bond with worgs-canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
+Some goblins form a special bond with worgs—canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
 
 #### Goblin Languages
 
@@ -93,7 +93,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The runner doesn't provoke opportunity attacks by moving
+> The runner doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Sniper
 
@@ -147,7 +147,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The spinecleaver doesn't provoke opportunity attacks by moving
+> The spinecleaver doesn't provoke opportunity attacks by moving.
 
 ###### Skitterling
 
@@ -216,7 +216,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Slip Away**
 >
-> The assassin can attempt to hide even while observed
+> The assassin can attempt to hide even while observed.
 
 ###### Goblin Cursespitter
 
@@ -292,7 +292,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The stinker doesn't provoke opportunity attacks by moving
+> The stinker doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Underboss
 
@@ -370,7 +370,7 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The warrior doesn't provoke opportunity attacks by moving
+> The warrior doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Monarch
 
@@ -413,7 +413,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** A creature targets the monarch with a strike.
 >
-> **Effect:** The ally is the target of the triggering strike instead
+> **Effect:** The ally is the target of the triggering strike instead.
 
 <!-- -->
 > ⭐️ **Crafty**

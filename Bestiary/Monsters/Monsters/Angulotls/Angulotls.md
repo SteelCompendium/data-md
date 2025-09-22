@@ -18,11 +18,11 @@ Found in freshwater swamps, rivers, and rainforests, angulotls (angwa-LAH-tuls) 
 
 #### Deadly Toxins
 
-Angulotls are poisonous creatures, which suits their preference to avoid aggression-because they don't need it! The contact toxin secreted by their skin gives them an edge in close combat, and they also distill this toxin into more potent forms for coating blades and tipping darts.
+Angulotls are poisonous creatures, which suits their preference to avoid aggression—because they don't need it! The contact toxin secreted by their skin gives them an edge in close combat, and they also distill this toxin into more potent forms for coating blades and tipping darts.
 
 #### Indicator Species
 
-Angulotl physiology is delicately balanced, and it doesn't take much to upset that balance. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path-even other angulotls! Runoff from magical experimentation seems to affect them the most-and sometimes grants them strange abilities.
+Angulotl physiology is delicately balanced, and it doesn't take much to upset that balance. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path—even other angulotls! Runoff from magical experimentation seems to affect them the most—and sometimes grants them strange abilities.
 
 #### Moisture Dependent
 

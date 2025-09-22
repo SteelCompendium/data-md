@@ -14,7 +14,7 @@ type: monster/section
 
 ## Dwarves
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
+Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
 They are the children of the Elder God Ord. A common phrase among the dwarves is "Ord made the world." Their way of saying, "What will be, will be." Dwarves take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 

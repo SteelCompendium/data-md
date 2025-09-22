@@ -16,7 +16,7 @@ type: monster/section
 
 Also known as demogoblins, hobgoblins descend from ancient goblins who made a pact with an infernal power in exchange for increased size and strength. Each hobgoblin has fang-like tusks and one or more horns protruding from their head.
 
-Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands-THEN it's a problem.
+Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands—THEN it's a problem.
 
 #### Synergized Tactics
 
@@ -32,11 +32,11 @@ Infernal magic runs through the veins of every hobgoblin, though their gifts var
 
 #### Binding Bargains
 
-Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature-hobgoblin or otherwise-who degrades themself by breaking their word.
+Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature—hobgoblin or otherwise—who degrades themself by breaking their word.
 
 #### Grilp
 
-The grilp-a green-skinned devil about the size of a housecat-can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
+The grilp—a green-skinned devil about the size of a housecat—can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
 
 #### Slaughter Demon
 
@@ -367,7 +367,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **Infernal Ichor**
 >
-> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage
+> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage.
 
 ###### Hobgoblin Hell Trooper
 
@@ -654,7 +654,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
+> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ☠️ **Advance! (Villain Action 1)**

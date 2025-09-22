@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 9 damage
 > - **17+:** 11 damage; A < 3 bleeding (save ends)
 >
-> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic
+> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic.
 >
 > **2 Malice:** The arachnite can use this ability as if they were in the space of any ally within distance.
 
@@ -62,7 +62,7 @@ type: monster
 > | ----------------------- | -------------: |
 > | **📏 2 cube within 10** | **🎯 Special** |
 >
-> **Effect:** The area is difficult terrain until the end of the encounter
+> **Effect:** The area is difficult terrain until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Eight-Eyed Sight**

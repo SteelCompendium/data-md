@@ -76,4 +76,4 @@ type: monster
 >
 > **Trigger:** The mummy comes within distance of a restrained creature or starts their turn within distance of one.
 >
-> **Effect:** The target takes 8 poison damage
+> **Effect:** The target takes 8 poison damage.

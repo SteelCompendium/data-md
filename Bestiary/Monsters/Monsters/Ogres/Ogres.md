@@ -24,11 +24,11 @@ Ogres who embrace good often dedicate themselves to inspiring causes, letting th
 
 ### Savory Stories
 
-Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain-from deceptive mages to talking cats-swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
+Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain—from deceptive mages to talking cats—swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
 
 ### Aristocracy of Bullies
 
-When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats-but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
+When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats—but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
 
 ### Cyclops: Ogre Progenitor
 
@@ -125,7 +125,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 >
 > **Trigger:** A creature or object within distance moves or shifts away from the goon.
 >
-> **Effect:** The goon slides the target up to 5 squares
+> **Effect:** The goon slides the target up to 5 squares.
 
 <!-- -->
 > ⭐️ **Defiant Anger**

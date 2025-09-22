@@ -28,7 +28,7 @@ Fortunately, many humans devote themselves to righting wrongs and reshaping the 
 
 #### Risks and Rewards
 
-Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment-knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
+Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment—knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
 
 Humans see unrealized potential everywhere, whether envisioning an untamed forest transformed into a prosperous village, or an ancient dungeon yielding chests filled with coins. Pursuing such ambitions might end in catastrophe, but for these gamblers, it's a game worth playing.
 
@@ -349,7 +349,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Overwhelm**
 >
-> An enemy who starts their turn adjacent to the knave can't shift
+> An enemy who starts their turn adjacent to the knave can't shift.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -386,7 +386,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------- | --------------: |
 > | **📏 -** |        **🎯 -** |
 >
-> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike
+> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**

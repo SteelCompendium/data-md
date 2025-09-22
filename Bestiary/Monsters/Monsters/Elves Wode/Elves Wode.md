@@ -44,7 +44,7 @@ When wode elves in combat control the terrain, their primary strategy is divide 
 
 #### Warleader
 
-The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher-a mentor who scouts and soldiers regard almost as an additional parent.
+The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher—a mentor who scouts and soldiers regard almost as an additional parent.
 
 The wode elves send their warleaders into battle only if the situation is dire. Characters who encounter one should be flattered, for the presence of a warleader means the wode elves consider the heroes a formidable threat.
 
@@ -129,7 +129,7 @@ At the start of any wode elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first
+> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first.
 
 <!-- -->
 > ⭐️ **Masking Glamor**
@@ -358,7 +358,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares
+> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares.
 >
 > **2 Malice:** The distance increases to Melee 5.
 
@@ -445,7 +445,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 11 damage
 > - **17+:** 14 damage; A < 2 restrained (save ends)
 >
-> **Effect:** The gweiadur shifts up to 3 squares
+> **Effect:** The gweiadur shifts up to 3 squares.
 >
 > **3 Malice:** If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).
 

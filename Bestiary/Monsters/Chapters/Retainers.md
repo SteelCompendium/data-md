@@ -41,7 +41,7 @@ Any hero gaining a retainer is always at your discretion. If something in the ru
 
 A retainer doesn't need to always travel with the heroes. When they're not called on to adventure, they can remain behind at the party's stronghold or otherwise live their own life. Even when they're not present, they're still considered to be a retainer and a member of the party.
 
-However, there might be cases when a retainer leaves the party permanently. Retainers aren't invulnerable, so they can be killed in battle. But they can leave under less extreme circumstances as well. If the events of an adventure set a retainer against their mentor, or if the retainer's story naturally comes to an end, you and the players can decide it's time for the retainer to ride off into the sunset. The characters might meet their former adventuring buddy again as a friendly NPC, though-or perhaps as a foe!
+However, there might be cases when a retainer leaves the party permanently. Retainers aren't invulnerable, so they can be killed in battle. But they can leave under less extreme circumstances as well. If the events of an adventure set a retainer against their mentor, or if the retainer's story naturally comes to an end, you and the players can decide it's time for the retainer to ride off into the sunset. The characters might meet their former adventuring buddy again as a friendly NPC, though—or perhaps as a foe!
 
 #### Retainers in Combat
 
@@ -75,7 +75,7 @@ Retainer advancement benefits are broken out as follows:
 - **Free Strike Damage Bonus:** The retainer gains a +2 damage bonus to free strikes at level 3, at level 6, and at level 9.
 - **Advancement Abilities:** A retainer gains new abilities at levels 4, 7, and 10 (unless the retainer's starting level is that level or higher). Each retainer stat block is accompanied by retainer advancement abilities specific to that retainer. Whenever a retainer would gain a new advancement ability, instead of choosing their retainer ability, the player of their mentor can instead choose a role advancement ability that matches their role and level. (Advancement abilities for each type of creature role are detailed in the next section.)
 - **Stamina Bonus:** At each level, a retainer gains a +9 bonus to Stamina.
-- **Signature Ability Damage Increase:** A retainer's signature ability is unique in that it grows stronger as the retainer advances in level. Only the retainer's signature ability improves this way! The table features two columns for a retainer's signature ability damage bonus-one for a tier 1 power roll outcome and one for a tier 2 or tier 3 outcome. A retainer's signature ability gains a +1 damage bonus every second level for a tier 1 outcome, and every level for a tier 2 or tier 3 outcome.
+- **Signature Ability Damage Increase:** A retainer's signature ability is unique in that it grows stronger as the retainer advances in level. Only the retainer's signature ability improves this way! The table features two columns for a retainer's signature ability damage bonus—one for a tier 1 power roll outcome and one for a tier 2 or tier 3 outcome. A retainer's signature ability gains a +1 damage bonus every second level for a tier 1 outcome, and every level for a tier 2 or tier 3 outcome.
 
 ##### Advancement Example
 
@@ -336,7 +336,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > **Trigger:** The target takes damage from a strike.
 >
-> **Effect:** The retainer pushes the target or the attacking creature up to 2 squares. If that moves the mentor out of distance of the strike, the strike has no effect
+> **Effect:** The retainer pushes the target or the attacking creature up to 2 squares. If that moves the mentor out of distance of the strike, the strike has no effect.
 
 ###### Level 7 Role Advancement Ability
 
@@ -402,7 +402,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 10 damage
 > - **17+:** 15 damage
 >
-> **Effect:** Before or after the strike, the retainer and their mentor can each shift up to their speed
+> **Effect:** Before or after the strike, the retainer and their mentor can each shift up to their speed.
 
 ###### Level 10 Role Advancement Ability
 
@@ -633,7 +633,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | -------------- | ----------------------------: |
 > | **📏 Melee 5** | **🎯 One creature or object** |
 >
-> **Trigger:** A creature moves within distance
+> **Trigger:** A creature moves within distance.
 >
 > **Effect:** If the target has M < AVERAGE, heir movement ends, they are knocked prone, and one ally within distance gains 2 surges.
 
@@ -768,7 +768,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > ⭐️ **True Name**
 >
-> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter
+> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -785,7 +785,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 10 corruption damage
 > - **17+:** 14 corruption damage
 >
-> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage
+> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.
 
 ###### Level 10 Retainer Advancement Ability
 
@@ -1142,7 +1142,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, whenever the arrowswift makes a ranged strike, the strike gains an edge and the arrowswift gains 1 surge that must be used immediately. While the arrowswift's mentor is adjacent to them, the mentor also gains this benefit
+> **Effect:** Until the end of the encounter, whenever the arrowswift makes a ranged strike, the strike gains an edge and the arrowswift gains 1 surge that must be used immediately. While the arrowswift's mentor is adjacent to them, the mentor also gains this benefit.
 
 ###### Level 10 Retainer Advancement Ability
 
@@ -1269,7 +1269,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 9 damage
 > - **17+:** 12 damage
 >
-> **Effect:** The guide shifts up to their speed before and after the strike
+> **Effect:** The guide shifts up to their speed before and after the strike.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -1332,7 +1332,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level
+> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level.
 
 <!-- -->
 > ⭐️ **Infernal Ichor**
@@ -1371,7 +1371,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 12 damage; push 3
 > - **17+:** 16 damage; push 5
 >
-> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger
+> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger.
 
 ###### Human Warrior
 
@@ -1652,7 +1652,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > - **12-16:** 18 psychic damage
 > - **17+:** 24 psychic damage
 >
-> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way
+> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way.
 
 ###### Radenwight Sidekick
 
@@ -1833,7 +1833,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -1855,9 +1855,9 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** An ability deals acid or fire damage to the mercenary
+> **Trigger:** An ability deals acid or fire damage to the mercenary.
 >
-> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them
+> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them.
 
 ###### Undead Servitor
 

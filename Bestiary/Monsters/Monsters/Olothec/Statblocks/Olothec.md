@@ -145,7 +145,7 @@ type: monster
 > - **12-16:** 14 psychic damage; P < 3 frightened (save ends)
 > - **17+:** 17 psychic damage; P < 4 frightened (save ends)
 >
-> **Effect:** While frightened this way, a target can't make saving throws to end any other effects
+> **Effect:** While frightened this way, a target can't make saving throws to end any other effects.
 
 <!-- -->
 > ☠️ **Psychic Pulse (Villain Action 2)**

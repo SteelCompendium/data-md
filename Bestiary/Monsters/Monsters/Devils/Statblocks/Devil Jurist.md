@@ -92,7 +92,7 @@ type: monster
 >
 > **Trigger:** A creature targets the jurist with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The jurist chooses a new target for the strike.
 > - **12-16:** The jurist halves the triggering damage.

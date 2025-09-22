@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 7 fire damage; push 1
 > - **17+:** 8 fire damage; push 3
 >
-> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
+> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**

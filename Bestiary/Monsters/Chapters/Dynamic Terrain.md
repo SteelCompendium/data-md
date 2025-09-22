@@ -39,7 +39,7 @@ Some terrain objects have a defined direction indicating how they are placed, su
 
 #### Deactivate
 
-Most terrain objects can be deactivated under certain circumstances. The Sabotage skill is generally applicable for tests made to deactivate mechanisms and siege engines, while traps might allow different skills to be used depending on their setup-Alchemy to deactivate a pool of flammable oil, Nature to deactivate a spiked pit trap in a forest, Magic or Psionics to deactivate a supernatural object, and so forth. Disabling a supernatural object requires a more intricate process detailed in each object's stat block.
+Most terrain objects can be deactivated under certain circumstances. The Sabotage skill is generally applicable for tests made to deactivate mechanisms and siege engines, while traps might allow different skills to be used depending on their setup—Alchemy to deactivate a pool of flammable oil, Nature to deactivate a spiked pit trap in a forest, Magic or Psionics to deactivate a supernatural object, and so forth. Disabling a supernatural object requires a more intricate process detailed in each object's stat block.
 
 Once a terrain object is deactivated, the Director determines what must be done to reset it and how long it takes to do so.
 
@@ -57,7 +57,7 @@ Each terrain object's effect entry defines what happens when the object is trigg
 
 #### Upgrades
 
-Some terrain objects can be upgraded to create additional effects. If a terrain object has a size in squares, the upgrade cost is paid on a squareby-square basis unless otherwise noted.
+Some terrain objects can be upgraded to create additional effects. If a terrain object has a size in squares, the upgrade cost is paid on a square-by-square basis unless otherwise noted.
 
 ### Hidden Terrain Objects
 
@@ -277,7 +277,7 @@ A patch of blisteringly hot molten rock wells up from the ground, threatening an
 
 ###### Quicksand (Level 3 Hazard Hexer)
 
-When this patch of sand is stepped on, it is revealed to be a slurry saturated by water-and ready to draw creatures down to their doom.
+When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.
 
 - **EV:** 3 per 10 x 10 patch
 - **Stamina:** -
@@ -341,8 +341,6 @@ Colorful mushrooms or lovely flowering plants release a cloud of spores or polle
 > | **Magic, Melee, Strike** |      **Free triggered action** |
 > | ------------------------ | -----------------------------: |
 > | **📏 Melee 0**           | **🎯 The triggering creature** |
->
-> Magic, Melee, Strike Free triggered action
 >
 > **Trigger:** A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without shifting.
 >
@@ -1198,8 +1196,6 @@ A small wooden cart uses alchemical rockets to launch up to a hundred arrows at 
 > - **12-16:** 8 damage; R < 1 dazed (save ends)
 > - **17+:** 11 damage; R < 2 frightened (save ends)
 >
-> **Effect:** This ability can't be used again until the arrow
->
 > **Effect:** This ability can't be used again until the arrow launcher is reloaded.
 
 ###### Boiling Oil Cauldron (Level 3 Fortification Defender)
@@ -1517,7 +1513,7 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 > | -------- | ----------------------------------: |
 > | **📏 -** |                            **🎯 -** |
 >
-> **Effect:** The iron dragon and the creature using this action move together up to 2 squares
+> **Effect:** The iron dragon and the creature using this action move together up to 2 squares.
 
 ###### Watchtower (Level 2 Fortification Defender)
 
@@ -1638,7 +1634,7 @@ This unnatural object twists space around it in a reflection of its own unnatura
 
 ###### The Throne of A'An (Level 4 Relic Controller)
 
-The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns-and plunge the region into eternal winter.
+The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.
 
 - **EV:** 24
 - **Stamina:** 140

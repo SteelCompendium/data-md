@@ -84,4 +84,4 @@ type: monster
 <!-- -->
 > ⭐️ **Burrow Bond**
 >
-> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them
+> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.

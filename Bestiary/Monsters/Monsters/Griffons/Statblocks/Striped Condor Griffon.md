@@ -57,7 +57,7 @@ type: monster
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone
+> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone.
 
 <!-- -->
 > 🔳 **Power Wing Buffet (3 Malice)**
@@ -79,7 +79,7 @@ type: monster
 > | --------------- | -----------------------------: |
 > | **📏 Ranged 5** | **🎯 The triggering creature** |
 >
-> **Trigger:** The griffon flies directly above a creature within distance
+> **Trigger:** The griffon flies directly above a creature within distance.
 >
 > **Effect:** The griffon dives down onto the target, taking no damage from falling if they reach the ground. The target takes 3 damage for each square the griffon dove, and if they have A < 2, they are grabbed or knocked prone.
 
@@ -91,9 +91,9 @@ type: monster
 <!-- -->
 > ⭐️ **Steady**
 >
-> Any power roll that could knock the griffon prone takes a bane
+> Any power roll that could knock the griffon prone takes a bane.
 
 <!-- -->
 > ⭐️ **Banded Predator**
 >
-> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn
+> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn.

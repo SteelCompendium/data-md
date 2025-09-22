@@ -50,4 +50,4 @@ type: monster
 > - **12-16:** 7 damage; pull 1
 > - **17+:** 8 damage; pull 3
 >
-> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round
+> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round.

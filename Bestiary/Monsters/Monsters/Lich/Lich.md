@@ -24,7 +24,7 @@ The ritual to create a lich requires a sphere constructed of something personal 
 
 A lich's true appearance is ghastly. The damage to their chest never heals, and over the centuries, their body slowly decays into a skeleton. Some liches hide their appearance with an illusion that makes them even more attractive and vivacious than they were in life. Others embrace their terrifying look, proudly displaying their fell triumph to every creature they encounter.
 
-Though all liches desire eternal life, it fails to satisfy most. Liches who were once powerful adventurers seek more of everything they've always craved-more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their power.
+Though all liches desire eternal life, it fails to satisfy most. Liches who were once powerful adventurers seek more of everything they've always craved—more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their power.
 
 ### Eldritch Lairs
 

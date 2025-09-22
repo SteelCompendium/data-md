@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** Each ally adjacent to the target shifts up to 2 squares
+> **Effect:** Each ally adjacent to the target shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**

@@ -27,4 +27,4 @@ type: feature/ability/role-advancement/harrier
 > - **12-16:** 10 damage
 > - **17+:** 15 damage
 >
-> **Effect:** Before or after the strike, the retainer and their mentor can each shift up to their speed
+> **Effect:** Before or after the strike, the retainer and their mentor can each shift up to their speed.

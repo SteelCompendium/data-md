@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 11 damage; push 2
 > - **17+:** 14 damage; push 3
 >
-> **Effect:** The minotaur shifts up to 3 squares
+> **Effect:** The minotaur shifts up to 3 squares.
 
 <!-- -->
 > 👤 **Primal Bay (3 Malice)**

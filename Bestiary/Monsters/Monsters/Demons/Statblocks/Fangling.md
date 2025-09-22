@@ -78,4 +78,4 @@ type: monster
 <!-- -->
 > ⭐️ **Soulsight**
 >
-> Any creature within 2 squares of the fangling can't be hidden from them
+> Any creature within 2 squares of the fangling can't be hidden from them.

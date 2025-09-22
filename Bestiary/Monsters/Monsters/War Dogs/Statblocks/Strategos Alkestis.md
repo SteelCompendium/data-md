@@ -62,7 +62,7 @@ type: monster
 > | ---------------- | ----------------------------: |
 > | **📏 Ranged 15** | **🎯 One creature or object** |
 >
-> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect
+> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect.
 
 <!-- -->
 > ❗️ **Artillery Enfilade (2 Malice)**
@@ -79,7 +79,7 @@ type: monster
 > - **12-16:** 13 damage; A < 5 slowed (save ends)
 > - **17+:** 16 damage; A < 6 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of the next round
+> **Effect:** The area is difficult terrain until the start of the next round.
 
 <!-- -->
 > ⭐️ **End Effect**

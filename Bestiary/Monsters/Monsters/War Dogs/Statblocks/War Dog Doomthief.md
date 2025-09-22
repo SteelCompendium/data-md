@@ -56,7 +56,7 @@ type: monster
 <!-- -->
 > ⭐️ **Doom Magnet**
 >
-> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target
+> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target.
 
 <!-- -->
 > 👤 **Expanding Doom (4 Malice)**

@@ -94,7 +94,7 @@ While many keywords are specific to a group of creatures, such as Gnoll or Human
 
 ###### Abyssal
 
-Creatures with the Abyssal keyword, such as demons and gnolls, can trace their origins back to the Abyssal Wasteland-a chaotic manifold whose denizens hunger for the souls of mortals.
+Creatures with the Abyssal keyword, such as demons and gnolls, can trace their origins back to the Abyssal Wasteland—a chaotic manifold whose denizens hunger for the souls of mortals.
 
 ###### Accursed
 
@@ -106,7 +106,7 @@ The Animal keyword is an easy one! It covers bears, wolves, and really big spide
 
 ###### Beast
 
-Creatures with the Beast keyword have animal-level sapience, but also possess supernatural abilities or traits. Basilisks and chimeras are examples of beasts. They don't have a society, but one has eye beams that can turn you into a statue, while the other has three heads-each belonging to a different species and one of which breathes fire!
+Creatures with the Beast keyword have animal-level sapience, but also possess supernatural abilities or traits. Basilisks and chimeras are examples of beasts. They don't have a society, but one has eye beams that can turn you into a statue, while the other has three heads—each belonging to a different species and one of which breathes fire!
 
 ###### Construct
 
@@ -138,7 +138,7 @@ Humanoid creatures, such as dwarves and time raiders, are size 1 creatures who h
 
 ###### Infernal
 
-Infernal creatures, such as devils and hobgoblins, can trace their origins back to the Seven Cities of Hell-an ordered manifold where the natives make plans to tempt mortals into contracts for their souls.
+Infernal creatures, such as devils and hobgoblins, can trace their origins back to the Seven Cities of Hell—an ordered manifold where the natives make plans to tempt mortals into contracts for their souls.
 
 ###### Ooze
 
@@ -446,7 +446,7 @@ If several minions in a squad make a free strike at the same target at the same 
 
 ##### Tracking Squads
 
-If you use multiple squads made up of the same type of minions in an encounter-for instance, two squads of goblin spinecleavers-it's important to make it easy for the players to tell the squads apart. You can use different miniatures for each squad, or give each squad's miniatures or tokens an indicator (a colored magnet, ring, sticker, and so forth) to help keep track of which minions are part of the same squad as they start moving around on the battlefield. Many online virtual tabletops have tools for adding colors or textures to icons that make tracking different squads easy.
+If you use multiple squads made up of the same type of minions in an encounter—for instance, two squads of goblin spinecleavers—it's important to make it easy for the players to tell the squads apart. You can use different miniatures for each squad, or give each squad's miniatures or tokens an indicator (a colored magnet, ring, sticker, and so forth) to help keep track of which minions are part of the same squad as they start moving around on the battlefield. Many online virtual tabletops have tools for adding colors or textures to icons that make tracking different squads easy.
 
 #### Attached Squad Captain
 
@@ -505,7 +505,7 @@ Building an encounter is almost like creating a character! Every encounter shoul
 - Cool monsters.
 - A motivation for the participants to be there.
 - Stakes, or consequences for failure, for all individuals involved.
-- One or more opportunities for the heroes and villains to learn more about their opponents-or themselves!
+- One or more opportunities for the heroes and villains to learn more about their opponents—or themselves!
 - An interesting map that provokes the heroes to think about their moves as a team (see Choosing a Map later in this section).
 
 #### Step 2: Choose Encounter Difficulty
@@ -538,7 +538,7 @@ A hard encounter is typically worth 2 Victories.
 
 ##### Extreme Encounters
 
-Extreme encounters feature threats of a level that the heroes aren't likely to survive if they try to fight to the bitter end. Such encounters rarely appear in most campaigns, though if the heroes are 8th level or higher, they can typically survive such encounters-or have a good chance of coming back to life afterward.
+Extreme encounters feature threats of a level that the heroes aren't likely to survive if they try to fight to the bitter end. Such encounters rarely appear in most campaigns, though if the heroes are 8th level or higher, they can typically survive such encounters—or have a good chance of coming back to life afterward.
 
 An extreme encounter is typically worth 2 or more Victories.
 
@@ -633,7 +633,7 @@ If you want a creature to stick around in a combat encounter and become the star
 
 ##### Dynamic Terrain Objects
 
-The final section of this book introduces and details dynamic terrain objects-thematic elements you can place in an encounter to challenge the heroes. You can spend your EV budget on dynamic terrain objects the same way you do on monsters. Adding one or two dynamic terrain objects to an encounter gives the heroes a challenge to overcome or resolve beyond simply exchanging blows with another creature. See Dynamic Terrain for more information.
+The final section of this book introduces and details dynamic terrain objects—thematic elements you can place in an encounter to challenge the heroes. You can spend your EV budget on dynamic terrain objects the same way you do on monsters. Adding one or two dynamic terrain objects to an encounter gives the heroes a challenge to overcome or resolve beyond simply exchanging blows with another creature. See Dynamic Terrain for more information.
 
 #### Step 6: Build Initiative Groups
 
@@ -698,7 +698,7 @@ A creature's role and organization mode helps you build interesting encounters w
 
 Ambusher creatures can hide, turn invisible, or otherwise find ways to get the drop on their enemies. They typically spend half their turn attacking, and the other half slipping away and hiding. Ambushers focus on taking down a single hero, sometimes dragging their target into the place where they hide.
 
-Encounters that include ambushers should have plenty of cover or concealment, giving them places to hide. Adding other creatures typically brutes, defenders, harriers, or minions-keeps other heroes busy while the ambusher focuses on taking down a chosen foe.
+Encounters that include ambushers should have plenty of cover or concealment, giving them places to hide. Adding other creatures—typically brutes, defenders, harriers, or minions—keeps other heroes busy while the ambusher focuses on taking down a chosen foe.
 
 ##### Artillery Creatures
 
@@ -718,7 +718,7 @@ Many controllers work best when they have brutes, defenders, harriers, and minio
 
 ##### Defender Creatures
 
-Defender creatures defend their allies by drawing the heroes' attacks. They make excellent protectors for ambushers, artillery creatures, controllers, and support creatures, as well as for leaders. Defenders don't need to stay close to the creatures they protect-and it's better if they don't. A defender who breaks away from their charge can often lock down a threat far from the rest of the fight.
+Defender creatures defend their allies by drawing the heroes' attacks. They make excellent protectors for ambushers, artillery creatures, controllers, and support creatures, as well as for leaders. Defenders don't need to stay close to the creatures they protect—and it's better if they don't. A defender who breaks away from their charge can often lock down a threat far from the rest of the fight.
 
 During combat, defenders engage heroes who are strong in melee. A defender battles as many foes as they can reach so their allies can freely move. If more than one defender is in a battle, they typically split up, each fighting a different hero.
 
@@ -869,7 +869,7 @@ When choosing a map for this type of encounter, consider the placement of the sp
 
 If the specific foe is the type of enemy who likes to strike and retreat, make sure they have areas of cover or concealment to fall back to and a map that gives them plenty of space to move around. If they or their defenders use a lot of forced movement, make sure there are fun hazards and objects to throw heroes into. If you're worried about the characters being able to teleport in to attack, find a map with lots of walls or other barriers, since you need line of effect to your destination when you teleport.
 
-It's also a good idea for the foe to have an escape route, often a choke point through which they can retreat. If the characters want to pursue, have the foe's allies hold them off-but don't make it impossible for the heroes to follow!
+It's also a good idea for the foe to have an escape route, often a choke point through which they can retreat. If the characters want to pursue, have the foe's allies hold them off—but don't make it impossible for the heroes to follow!
 
 ##### Difficulty Modifier
 
@@ -909,7 +909,7 @@ This sort of encounter is all about getting in, grabbing an item, and then getti
 
 ##### Map Advice
 
-The placement of the thing or the creature carrying it is important. Make sure the thing isn't simply hanging out in the middle of a wide-open space. Place it somewhere on a map where it's defended by hazards and choke points-and definitely not near an escape route! You'll also want to pick a big map for this type of encounter, since escaping with the thing is part of the challenge and small maps require less movement to achieve success.
+The placement of the thing or the creature carrying it is important. Make sure the thing isn't simply hanging out in the middle of a wide-open space. Place it somewhere on a map where it's defended by hazards and choke points—and definitely not near an escape route! You'll also want to pick a big map for this type of encounter, since escaping with the thing is part of the challenge and small maps require less movement to achieve success.
 
 ##### Difficulty Modifier
 
@@ -949,7 +949,7 @@ Multiple: There are multiple things, all of which must be destroyed. Divide the 
 
 ##### Monster Roles and Organization
 
-Encounters built around destroying a thing require beefy creatures to defend the thing-brutes and defenders, as well as squads of minions. It also helps to have a few artillery creatures off in the distance harassing heroes as they attempt to destroy the thing, so that melee heroes have to decide between fulfilling that goal while coming under fire or taking out the ranged attackers first. If the heroes want to use their own ranged abilities to destroy a thing from afar, a sneaky ambusher or two makes a delightful addition to the encounter, hanging back in the shadows waiting to pick opportunistic heroes off.
+Encounters built around destroying a thing require beefy creatures to defend the thing—brutes and defenders, as well as squads of minions. It also helps to have a few artillery creatures off in the distance harassing heroes as they attempt to destroy the thing, so that melee heroes have to decide between fulfilling that goal while coming under fire or taking out the ranged attackers first. If the heroes want to use their own ranged abilities to destroy a thing from afar, a sneaky ambusher or two makes a delightful addition to the encounter, hanging back in the shadows waiting to pick opportunistic heroes off.
 
 ##### Map Advice
 
@@ -977,7 +977,7 @@ No one earns the mantle of hero without saving a few lives. Sometimes the point 
 
 ##### Allies and Potential Allies
 
-Some encounters of this type feature willing allies-creatures able and willing to fight alongside the heroes. Others feature potential allies creatures who can't or won't join the heroes right away, but who might do so later in the battle. In combat, willing allies can be controlled by the heroes (and might use retainer stat blocks), while potential allies are controlled by you.
+Some encounters of this type feature willing allies—creatures able and willing to fight alongside the heroes. Others feature potential allies creatures who can't or won't join the heroes right away, but who might do so later in the battle. In combat, willing allies can be controlled by the heroes (and might use retainer stat blocks), while potential allies are controlled by you.
 
 During an encounter, potential allies must be won over and freed from any captivity before they become allies, requiring a successful hard Presence test made as a maneuver. Potential allies otherwise attempt to flee the encounter on their turns.
 
@@ -1055,7 +1055,7 @@ Sometimes the heroes just need to buy time. They might need to battle a conqueri
 
 ##### Defensive Position
 
-Often with the input of the players, you choose a defensive position-an area that must be held and controlled by the heroes. Enemies attempt to get through the defensive position or to reach a certain point in or around it, so that the fewer enemies who do so, the better the heroes' chances of success. The area can be any size, with the defensive position often blocking entry to a vulnerable area the heroes are defending.
+Often with the input of the players, you choose a defensive position—an area that must be held and controlled by the heroes. Enemies attempt to get through the defensive position or to reach a certain point in or around it, so that the fewer enemies who do so, the better the heroes' chances of success. The area can be any size, with the defensive position often blocking entry to a vulnerable area the heroes are defending.
 
 A defensive position might grant benefits to the heroes defending it. The approach to the position might be a choke point, involve crossing difficult terrain, or require climbing. Anyone inside the position might have the benefit of high ground against anyone outside it.
 
@@ -1063,7 +1063,7 @@ If you want to increase the difficulty of the encounter, you might have two or m
 
 ##### Encounter Duration
 
-An encounter focused on a defensive position has a fixed duration determined by you-the number of rounds the heroes must defend the area in order to be successful. A typical encounter duration is 3 rounds.
+An encounter focused on a defensive position has a fixed duration determined by you—the number of rounds the heroes must defend the area in order to be successful. A typical encounter duration is 3 rounds.
 
 ##### Reinforcements
 
@@ -1137,7 +1137,7 @@ Sometimes combat is complicated by the fact that the heroes need to stop the vil
 
 ##### Encounter Duration
 
-An encounter focused on stopping others' actions has a fixed duration determined by you-the number of rounds before the villains complete their plans. A typical encounter duration is 3 rounds, but events might change the encounter duration. For example, a character might succeed on a hard Reason test to dispute a wedding's legality and increase the encounter duration by 1, while failing to stop zealots from sacrificing an innocent creature as part of their ritual might decrease the duration by 1.
+An encounter focused on stopping others' actions has a fixed duration determined by you—the number of rounds before the villains complete their plans. A typical encounter duration is 3 rounds, but events might change the encounter duration. For example, a character might succeed on a hard Reason test to dispute a wedding's legality and increase the encounter duration by 1, while failing to stop zealots from sacrificing an innocent creature as part of their ritual might decrease the duration by 1.
 
 ##### Stopping the Action
 
@@ -1182,7 +1182,7 @@ This encounter objective sees the characters charged with initiating an event, p
 
 ##### Encounter Duration
 
-An encounter focused on completing a specific action has a fixed duration determined by you-the number of rounds within which the heroes must complete their plans. A typical encounter duration is 3 rounds.
+An encounter focused on completing a specific action has a fixed duration determined by you—the number of rounds within which the heroes must complete their plans. A typical encounter duration is 3 rounds.
 
 ##### Tasks and Failures
 
@@ -1222,11 +1222,11 @@ Some encounters have multiple objectives that must all be accomplished. For inst
 
 Many encounters can be completed successfully in several ways. If the heroes are fighting an evil emperor channeling the power of a magic crown, they might win by killing or capturing the emperor ("Defeat a Specific Foe"), breaking or stealing the crown ("Destroy the Thing" or "Get the Thing"), or even by negotiating a detente with the emperor's forces.
 
-If an encounter has multiple alternative objectives, you reward the heroes for the objective they completed the most successfully. For instance, if the heroes steal the emperor's crown, it doesn't matter that they didn't meet the success conditions for the other objectives-they still achieve success.
+If an encounter has multiple alternative objectives, you reward the heroes for the objective they completed the most successfully. For instance, if the heroes steal the emperor's crown, it doesn't matter that they didn't meet the success conditions for the other objectives—they still achieve success.
 
 #### Changing Objectives
 
-The heroes might start an encounter with one objective, only to have you change things up with an unexpected shot of dramatic tension. For instance, the characters are battling it out with a demon lord to end that creature's reign of terror-a "Defeat a Specific Foe" objective. Then they suddenly notice the demon's cultists preparing to sacrifice a group of innocent noncombatants, changing the objective to "Save Another." When an objective shifts, make sure the players understand there's now something else at stake. As long as the innocents are saved, it no longer matters if the demon lord lives.
+The heroes might start an encounter with one objective, only to have you change things up with an unexpected shot of dramatic tension. For instance, the characters are battling it out with a demon lord to end that creature's reign of terror—a "Defeat a Specific Foe" objective. Then they suddenly notice the demon's cultists preparing to sacrifice a group of innocent noncombatants, changing the objective to "Save Another." When an objective shifts, make sure the players understand there's now something else at stake. As long as the innocents are saved, it no longer matters if the demon lord lives.
 
 <!-- -->
 > **Changing or Adding Objectives**
@@ -1261,7 +1261,7 @@ Do you really want that foe to live for one more round? Give them a little extra
 
 It can be tough to manage a lot of creatures at once in combat, but bringing in new waves of creatures allows you to use a lot of different stat blocks in an encounter without getting overwhelmed by trying to run all of them at once. Reinforcements can also make an encounter that initially seems like a cakewalk suddenly feel much more deadly as the stakes are raised!
 
-#### Play Nice-Even If You Don't Play Fair
+#### Play Nice—Even If You Don't Play Fair
 
 It might be tempting to keep a flying monster far out of reach of the heroes, or popping that third villain action at the start of combat, or causing rocks to fall from the sky every turn. But the less the heroes can do about any specific situation, the less involved your players will feel in the game. Use any tricks you can think of to make combat exciting and challenge the players, but make sure that challenges can always be overcome.
 

@@ -14,7 +14,7 @@ type: monster/section
 
 ## Rivals
 
-They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals-heroes just like you. Maybe even better.
+They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals—heroes just like you. Maybe even better.
 
 Rivals are NPCs built around the mechanics of seven of the classes in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)*-the conduit, elementalist, fury, null, shadow, tactician, and talent (see Chapter 5: Classes in that book). Their stat blocks are streamlined and modular, meant to be easy to adjust on the fly with ancestral traits or signature abilities. Examples of each type of rival are presented at every tier, capturing their foray into renown as they inevitably cross, clash with, and impede the player characters' own heroic journey.
 
@@ -464,7 +464,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -800,7 +800,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -811,7 +811,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 
 A secret society created to overthrow Capital's political and cultural structure, the Black Iron Pact draws its name from Ajax's sobriquet, the Iron Saint. Iron is a metal with deep symbolism to the tyrannical saint.
 
-The five most powerful members of the pact-the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
+The five most powerful members of the pact—the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
 
 The pact's true numbers also remain a mystery, and many citizens work for them unknowingly. Such subterfuge ensures the pact's agents can't be traced back to the High Command.
 
@@ -819,7 +819,7 @@ The pact's true numbers also remain a mystery, and many citizens work for them u
 
 The Black Iron Pact's primary goal is the conquest of Capital and the installation of Ajax as its ruler and god. The pact's agents are true believers of Ajax's gospel, which seeks change through force and violence. Their evil belief is that humans are the true owners of this world, and as such, only humans can join the Black Iron Pact, though the society employs nonhuman pawns when risk of capture or death is high.
 
-Additionally, many members of the pact-notably senior member Erasmus and his wife Avalla-openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
+Additionally, many members of the pact—notably senior member Erasmus and his wife Avalla—openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
 
 **Running the Black Iron Pact**
 

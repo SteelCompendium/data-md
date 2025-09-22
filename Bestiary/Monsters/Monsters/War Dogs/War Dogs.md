@@ -14,7 +14,7 @@ type: monster/section
 
 ## War Dogs
 
-Ajax's war dogs-brutal patchwork soldiers-owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
+Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
 
 ##### War Dog Stat Block List
 
@@ -97,7 +97,7 @@ War dogs aren't undead. They still have minds, wills, and drives that separate t
 
 From the moment they are reborn, every war dog is part of Ajax's war machine. Fresh recruits undergo inspections and tests to ensure their viability and assess their capabilities, and those who are found lacking are immediately recycled.
 
-Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars-unremovable neck pieces fitted with explosive fuse-iron charges-and sent on to join a legion.
+Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars—unremovable neck pieces fitted with explosive fuse-iron charges—and sent on to join a legion.
 
 ### Chain of Command
 
@@ -317,7 +317,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 fire damage
 > - **17+:** 5 fire damage
 >
-> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage
+> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.
 >
 > **3 Malice:** The area becomes a 10 x 1 line, and if any ally of the crucibite is in the area when it is created, the ability deals an extra 2 damage to each target.
 
@@ -811,7 +811,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 9 damage
 > - **17+:** 11 damage; A < 3 bleeding (save ends)
 >
-> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic
+> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic.
 >
 > **2 Malice:** The arachnite can use this ability as if they were in the space of any ally within distance.
 
@@ -822,7 +822,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ----------------------- | -------------: |
 > | **📏 2 cube within 10** | **🎯 Special** |
 >
-> **Effect:** The area is difficult terrain until the end of the encounter
+> **Effect:** The area is difficult terrain until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Eight-Eyed Sight**
@@ -860,7 +860,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Doom Magnet**
 >
-> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target
+> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target.
 
 <!-- -->
 > 👤 **Expanding Doom (4 Malice)**
@@ -1226,7 +1226,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > - **12-16:** 13 fire damage; A < 3 slowed (save ends)
 > - **17+:** 16 fire damage; A < 4 slowed (save ends)
 >
-> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round
+> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round.
 
 <!-- -->
 > ☠️ **You Would Dare?! (Villain Action 3)**
@@ -1318,7 +1318,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 7 fire damage; push 1
 > - **17+:** 8 fire damage; push 3
 >
-> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
+> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -1389,7 +1389,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 4 acid damage; M < 3 slowed (save ends)
 > - **17+:** 6 acid damage; M < 4 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Jetwing Agility**
@@ -1513,7 +1513,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect
+> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect.
 
 <!-- -->
 > ⭐️ **Breaking Point**
@@ -1591,7 +1591,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 >
 > **Effect:** This ability ignores stability. The geomancer declares a direction for the area, and any creature pushed by this ability is pushed to the last space in the area in the chosen direction.
 >
-> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved
+> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved.
 
 <!-- -->
 > 🔳 **Siegeworks**
@@ -1884,7 +1884,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 8 damage; push 3
 > - **17+:** 10 damage; push 4
 >
-> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage
+> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -2117,7 +2117,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** A < 5 pull 3 toward the center of the area
 > - **17+:** Pull 3 toward the center of the area
 >
-> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage
+> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage.
 >
 > **2 Malice:** The area remains active and deals its damage until Vesper is reduced to 0 Stamina or until the end of the encounter. Any creature who enters the area and has A < 4 is pulled 3 squares toward the center of the area. Any creature who starts their turn in the area and has M < 4 is slowed until the end of their turn.
 
@@ -2261,7 +2261,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | ---------------- | ----------------------------: |
 > | **📏 Ranged 15** | **🎯 One creature or object** |
 >
-> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect
+> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect.
 
 <!-- -->
 > ❗️ **Artillery Enfilade (2 Malice)**
@@ -2278,7 +2278,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 13 damage; A < 5 slowed (save ends)
 > - **17+:** 16 damage; A < 6 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of the next round
+> **Effect:** The area is difficult terrain until the start of the next round.
 
 <!-- -->
 > ⭐️ **End Effect**

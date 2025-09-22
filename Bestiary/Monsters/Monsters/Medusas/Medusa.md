@@ -40,7 +40,7 @@ Medusas often reside in stone gardens filled with statues of those who previousl
 
 #### Lifting the Curse
 
-Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants-and performing such a ritual might entail great sacrifice.
+Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants—and performing such a ritual might entail great sacrifice.
 
 #### Medusa Languages
 

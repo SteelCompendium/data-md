@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 10 corruption damage
 > - **17+:** 11 corruption damage
 >
-> **Effect:** A puddle of blight-digested soul juice-covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
+> **Effect:** A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
 
 <!-- -->
 > 🔳 **Blight Rain (3 Malice)**

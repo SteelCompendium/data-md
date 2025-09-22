@@ -109,7 +109,7 @@ type: monster
 <!-- -->
 > ⭐️ **Above It All**
 >
-> Xorannox can't be made frightened or knocked prone, and he can't be flanked
+> Xorannox can't be made frightened or knocked prone, and he can't be flanked.
 
 <!-- -->
 > ⭐️ **Natural Enemies**

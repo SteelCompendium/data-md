@@ -90,7 +90,7 @@ type: monster
 <!-- -->
 > ⭐️ **Bloody Feast**
 >
-> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition
+> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition.
 
 <!-- -->
 > ⭐️ **Relentless Hunger**

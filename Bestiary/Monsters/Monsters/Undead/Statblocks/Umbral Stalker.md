@@ -62,7 +62,7 @@ type: monster
 > - **12-16:** 3 cold damage
 > - **17+:** 4 cold damage
 >
-> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies
+> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies.
 
 <!-- -->
 > 👤 **Shadow Jump (1 Malice)**

@@ -53,7 +53,7 @@ type: monster
 >
 > **Effect:** This ability ignores stability. The geomancer declares a direction for the area, and any creature pushed by this ability is pushed to the last space in the area in the chosen direction.
 >
-> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved
+> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved.
 
 <!-- -->
 > 🔳 **Siegeworks**

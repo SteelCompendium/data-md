@@ -60,7 +60,7 @@ type: monster
 <!-- -->
 > ⭐️ **Overwhelm**
 >
-> An enemy who starts their turn adjacent to the knave can't shift
+> An enemy who starts their turn adjacent to the knave can't shift.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**

@@ -187,7 +187,7 @@ Thorn dragons cultivate their lairs in lush farmlands or flourishing forests. Th
 
 #### Natural Curators
 
-More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food even food they won't eat-alongside uncut gemstones, minerals and ore, wood, oils, and spices.
+More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food—even food they won't eat—alongside uncut gemstones, minerals and ore, wood, oils, and spices.
 
 #### Bestial Instincts
 
@@ -522,7 +522,7 @@ At the start of a gloom dragon's turn, you can spend Malice to activate one of t
 
 ### Crucible Dragon
 
-Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief-often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
+Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief—often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
 
 These metallic dragons are massive, heavy creatures requiring an immense release of heat to engage in flight. Their scales range from gleaming silver to blackened iron, depending on how fastidious they are about cleaning, and are occasionally gilded with more-precious metals. Their long tails terminate with a massive, hammer-like tip that can freeze over and instantly cool hot metal.
 
@@ -708,11 +708,11 @@ At the start of a crucible dragon's turn, you can spend Malice to activate one o
 
 ### Omen Dragon
 
-They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself-for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world-to the detriment of their surroundings.
+They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself—for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world—to the detriment of their surroundings.
 
 #### Life and Death
 
-The opposite of life isn't death-it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
+The opposite of life isn't death—it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
 
 As the embodiment of these wayward souls, the omen dragon wields them like weapons. They can send restless souls to grab creatures and pull them in, or to possess their attackers, compelling them to distraction in the middle of a fight. They even wrap themselves in the most durable of souls, creating a stifling aura.
 

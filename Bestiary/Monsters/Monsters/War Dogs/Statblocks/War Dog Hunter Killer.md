@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 8 damage; push 3
 > - **17+:** 10 damage; push 4
 >
-> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage
+> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**

@@ -66,7 +66,7 @@ stamina: '21'
 > - **12-16:** 9 damage
 > - **17+:** 12 damage
 >
-> **Effect:** The guide shifts up to their speed before and after the strike
+> **Effect:** The guide shifts up to their speed before and after the strike.
 
 ###### Level 7 Retainer Advancement Ability
 

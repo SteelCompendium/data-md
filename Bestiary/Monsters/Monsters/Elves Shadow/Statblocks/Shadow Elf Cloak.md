@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 4 damage
 > - **17+:** 6 damage
 >
-> **Effect:** The cloak shifts up to 2 squares
+> **Effect:** The cloak shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Of the Umbra**

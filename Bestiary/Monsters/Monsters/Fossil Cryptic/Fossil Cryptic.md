@@ -14,7 +14,7 @@ type: monster/section
 
 ## Fossil Cryptic
 
-The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead-and seconds later, he wound up crushed to death by a pillar of stone.
+The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead—and seconds later, he wound up crushed to death by a pillar of stone.
 
 #### Primal Sentries
 
@@ -78,7 +78,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 <!-- -->
 > ⭐️ **Churning Trunk**
 >
-> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage
+> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -135,7 +135,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 >
 > **Trigger:** The cryptic takes damage.
 >
-> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares
+> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares.
 
 <!-- -->
 > ❗️ **Shatterstone (5 Malice)**

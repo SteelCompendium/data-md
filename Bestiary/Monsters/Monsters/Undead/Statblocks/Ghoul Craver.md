@@ -54,7 +54,7 @@ type: monster
 <!-- -->
 > ⭐️ **Ever So Hungry**
 >
-> Any enemy adjacent to three or more ghoul cravers can't shift
+> Any enemy adjacent to three or more ghoul cravers can't shift.
 
 <!-- -->
 > ⭐️ **Hunger**

@@ -39,8 +39,6 @@ Colorful mushrooms or lovely flowering plants release a cloud of spores or polle
 > | ------------------------ | -----------------------------: |
 > | **📏 Melee 0**           | **🎯 The triggering creature** |
 >
-> Magic, Melee, Strike Free triggered action
->
 > **Trigger:** A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without shifting.
 >
 > **Power Roll + 2:**

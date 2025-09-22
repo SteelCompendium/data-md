@@ -58,7 +58,7 @@ type: monster
 <!-- -->
 > ⭐️ **Vukenstep**
 >
-> The werewolf ignores difficult terrain
+> The werewolf ignores difficult terrain.
 
 <!-- -->
 > 🗡 **Accursed Bite (Signature Ability)**

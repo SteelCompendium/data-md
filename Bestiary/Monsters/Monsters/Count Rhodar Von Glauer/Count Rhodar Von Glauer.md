@@ -14,11 +14,11 @@ type: monster/section
 
 ## Count Rhodar Von Glauer
 
-After falling to a vampiric curse in his early twenties, Count Rhodar the last Lord of Glauer-ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
+After falling to a vampiric curse in his early twenties, Count Rhodar—the last Lord of Glauer—ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
 
 Each new moon, when the Red Tax came due, the count would visit a young candidate, then emerge with renewed vitality. Across the land, folk feared their Dragon Count, but the witches of the wood wove a prophecy: "The land's darkest hour shall be the redemption of House von Glauer."
 
-Eventually, the conquering force of Emperor Gaius VIII came for Rhodar-not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
+Eventually, the conquering force of Emperor Gaius VIII came for Rhodar—not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
 
 Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believing their Dragon Count will return in their darkest hour to deliver them from tyranny.
 

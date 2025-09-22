@@ -18,11 +18,11 @@ Protean in form, beings of nearly pure intellect, the Old Ones think in alien ge
 
 ### Immortal Evil
 
-Across countless cultures and ancestries, olothec feature in nightmares and temple friezes alike. While their origins are obscure and may never be known, their hatred of the mundane world and every living thing in it is well recorded. Olothec channel psionic energy beyond any mortal power, surpassing even the voiceless talkers. To them, a living creature who can't reshape their own flesh is repugnant, an unnatural abomination requiring eradication-or transformation.
+Across countless cultures and ancestries, olothec feature in nightmares and temple friezes alike. While their origins are obscure and may never be known, their hatred of the mundane world and every living thing in it is well recorded. Olothec channel psionic energy beyond any mortal power, surpassing even the voiceless talkers. To them, a living creature who can't reshape their own flesh is repugnant, an unnatural abomination requiring eradication—or transformation.
 
 ### Agents of Chaos
 
-Olothec consider the primordial chaos that spawned them as the ideal state of existence. They have long warred against the voiceless talkers, loathing their constant manipulation and refinement of evolutionary forces. Where olothec lair in forgotten sea tunnels and beneath ancient ruins, they surround themselves with slime servants-humanoids, beasts, horrors, and others, all devolved to a perfect physical and mental state.
+Olothec consider the primordial chaos that spawned them as the ideal state of existence. They have long warred against the voiceless talkers, loathing their constant manipulation and refinement of evolutionary forces. Where olothec lair in forgotten sea tunnels and beneath ancient ruins, they surround themselves with slime servants—humanoids, beasts, horrors, and others, all devolved to a perfect physical and mental state.
 
 ### Primordial Form
 
@@ -78,7 +78,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ❇️ **Memory of Chaos (6 Malice)**
 >
-> The olothec broadcasts their memory of the universe in its primordial state-a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
+> The olothec broadcasts their memory of the universe in its primordial state—a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
 
 ###### Olothec
 
@@ -196,7 +196,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 > - **12-16:** 14 psychic damage; P < 3 frightened (save ends)
 > - **17+:** 17 psychic damage; P < 4 frightened (save ends)
 >
-> **Effect:** While frightened this way, a target can't make saving throws to end any other effects
+> **Effect:** While frightened this way, a target can't make saving throws to end any other effects.
 
 <!-- -->
 > ☠️ **Psychic Pulse (Villain Action 2)**

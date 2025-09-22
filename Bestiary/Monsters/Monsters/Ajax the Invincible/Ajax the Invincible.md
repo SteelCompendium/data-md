@@ -18,7 +18,7 @@ type: monster/section
 
 "Thank you, sir. Lord Alvaro, what we just heard on the topic of Ajax's strategy was pretty chilling. In your opinion, as someone who knew him, how serious is he with his stance on non-humans in Orden? And how should we reconcile this with the treaties he signed with the elves and dwarves of Vasloria? Thank you for your time, my lord."
 
-"Ah, yes," Alvaro said, eyebrows raised theatrically. "Jack's famous 'pro-human' rhetoric." And there was a susurration among the students. For the last hour, Lord Alvaro had only referred to the subject of his lecture as "Ajax." Everyone in the city knew Ajax and Alvaro attended university together, but for the first time, the students in the lecture hall understood-they had been *friends*.
+"Ah, yes," Alvaro said, eyebrows raised theatrically. "Jack's famous 'pro-human' rhetoric." And there was a susurration among the students. For the last hour, Lord Alvaro had only referred to the subject of his lecture as "Ajax." Everyone in the city knew Ajax and Alvaro attended university together, but for the first time, the students in the lecture hall understood—they had been *friends*.
 
 "The short answer is: no. I don't believe Jack is a raving ah... 'human supremacist,' as the broadsheets put it. That's Mortum. But he does find the idea *useful*.
 
@@ -46,13 +46,13 @@ type: monster/section
 
 ### On Ajax
 
-He bestrides the land like one of history's great conquerors. A combination of ambition, courage, and study created a master tactician in command of a massive army collecting countless priceless treasures-and no one to stand in his way.
+He bestrides the land like one of history's great conquerors. A combination of ambition, courage, and study created a master tactician in command of a massive army collecting countless priceless treasures—and no one to stand in his way.
 
 #### By Might and Merit
 
 Ajax the Invincible has earned his title. He graduated top of his class at Capital's military academy, and then immediately launched into a campaign across his homeland of Phaedros. At his side was his advisor Mortum, a nefarious wizard who guided Ajax in the footsteps of the Caelian Empire's conquests before them.
 
-Together, Ajax and Mortum went on to subjugate and enlist hamlet after town after city after territory with little standing in their way. When they successfully returned the Chrysopolis-an ancient flying sky-elf city-to the sky, and their accomplishments literally rose above the country-no one could ignore their might any longer.
+Together, Ajax and Mortum went on to subjugate and enlist hamlet after town after city after territory with little standing in their way. When they successfully returned the Chrysopolis—an ancient flying sky-elf city—to the sky, and their accomplishments literally rose above the country—no one could ignore their might any longer.
 
 #### Treasures Abound
 

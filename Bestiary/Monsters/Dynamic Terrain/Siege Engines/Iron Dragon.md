@@ -69,4 +69,4 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 > | -------- | ----------------------------------: |
 > | **📏 -** |                            **🎯 -** |
 >
-> **Effect:** The iron dragon and the creature using this action move together up to 2 squares
+> **Effect:** The iron dragon and the creature using this action move together up to 2 squares.

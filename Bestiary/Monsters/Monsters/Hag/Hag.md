@@ -14,7 +14,7 @@ type: monster/section
 
 ## Hag
 
-When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag-aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
+When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag—aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
 
 #### Hiding in Plain Sight
 
@@ -22,7 +22,7 @@ Though hags typically appear as older humanoids, their true form is as vicious a
 
 #### Dealmakers and Heartbreakers
 
-As old age can't kill them, the oldest hags accumulate swathes of knowledge, magic, and repute over time. They are happy to share their wares... for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer-perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
+As old age can't kill them, the oldest hags accumulate swathes of knowledge, magic, and repute over time. They are happy to share their wares... for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer—perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
 
 Adding insult to injury, those who deal with hags almost always discover the product is worse than advertised. Mortals should pay close attention to the precise wording of their agreements, lest they end up with a hex they thought would be a gift. Such curses often lead to the corruption of good but desperate folk, with some getting so twisted up in fey deals that they become hags themselves.
 
@@ -190,7 +190,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again
+> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again.
 
 <!-- -->
 > ☠️ **Open the Oven (Villain Action 3)**
@@ -212,7 +212,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 <!-- -->
 > **Hag Goodies**
 >
-> Hags collect, craft, and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions-a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories-are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
+> Hags collect, craft, and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions—a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories—are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
 >
 > The following are sample treasures from a hag's hut. A hag might have two or three of these goodies on hand and know how to obtain the others. These items can be found in Draw Steel: Heroes.
 >

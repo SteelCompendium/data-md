@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 10 damage; the griffon shifts up to 2 squares
 > - **17+:** 13 damage; the griffon shifts up to 3 squares
 >
-> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets
+> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets.
 
 <!-- -->
 > 🔳 **Crack the Earth**
@@ -91,9 +91,9 @@ type: monster
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** The griffon takes damage
+> **Trigger:** The griffon takes damage.
 >
-> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares
+> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Beast of Prey**

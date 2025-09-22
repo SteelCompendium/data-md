@@ -72,7 +72,7 @@ type: monster
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**

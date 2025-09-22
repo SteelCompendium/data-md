@@ -18,7 +18,7 @@ Abandoned autonomous machines made by the ancient steel dwarves, valok can still
 
 #### Exotic Metal Body
 
-Steel dwarves unlocked the secrets of smithing valiar-the truemetal prized not only for its strength and flexibility, but for its entrancing silvery white beauty. They could turn valiar into anything, from breathtaking weapons and exquisite buildings to hypnotic gossamer fabrics that are nearly transparent and virtually indestructible. The secrets of working with the truemetal disappeared with the steel dwarves, but not before they built the nigh-invulnerable bodies of the valok.
+Steel dwarves unlocked the secrets of smithing valiar—the truemetal prized not only for its strength and flexibility, but for its entrancing silvery white beauty. They could turn valiar into anything, from breathtaking weapons and exquisite buildings to hypnotic gossamer fabrics that are nearly transparent and virtually indestructible. The secrets of working with the truemetal disappeared with the steel dwarves, but not before they built the nigh-invulnerable bodies of the valok.
 
 #### Prismacore Power
 
@@ -28,7 +28,7 @@ The steel dwarves also mined iridoss, commonly known as prismacore. This rare ge
 
 The first valok were great machines made to dig, smelt, and build. Legends say these giant walkers could build entire cities in a matter of days, and could even construct other valok. As the steel dwarves learned the deep secrets of prismacore, they made machines who could speak and think more freely.
 
-While two classes of valok-servok and multivok-have been discovered, ancient steel dwarf carvings hint that a highly advanced third class was created just before their makers disappeared.
+While two classes of valok—servok and multivok—have been discovered, ancient steel dwarf carvings hint that a highly advanced third class was created just before their makers disappeared.
 
 ### Ancient and Deep
 
@@ -55,7 +55,7 @@ At the start of any valok's turn, you can spend Malice to activate one of the fo
 
 ### Servok
 
-Servoks, the labor and siege class of valok, are huge, slow, and built for a specific purpose-though all are designed to defend themselves when threatened. No humaniform servoks have yet been discovered. Their forms depend on their purpose, but they are never smaller than a wagon. Despite each servok's utilitarian construction and the ages of grime accumulated atop their valiar, they are impressive to behold.
+Servoks, the labor and siege class of valok, are huge, slow, and built for a specific purpose—though all are designed to defend themselves when threatened. No humaniform servoks have yet been discovered. Their forms depend on their purpose, but they are never smaller than a wagon. Despite each servok's utilitarian construction and the ages of grime accumulated atop their valiar, they are impressive to behold.
 
 Servok builders once constructed buildings, roads, and walls. Some active builders still work the caverns where they were left, clearing the ground in preparation for lost grand projects known only to their progenitors. Servok miners dug the legendary tunnels of the steel dwarves. A few miners still bore deep into the earth, searching for ore and ready to destroy anything that interferes with that function.
 
@@ -63,7 +63,7 @@ The quaking of earth and the boom of an arcane cannon precedes the appearance of
 
 #### Multivok
 
-Smaller than servoks, multivoks can speak and carry out commands, though their capacity for complexity is limited. While multivoks are humaniform, their masterfully crafted bodies lack the expression and fine articulation of humanoids. They were built to run and maintain ships and ore harvesters, survey dangerous or distant locations, guard nobles, and oversee servoks-tasks which many multivoks tirelessly attempt to continue today.
+Smaller than servoks, multivoks can speak and carry out commands, though their capacity for complexity is limited. While multivoks are humaniform, their masterfully crafted bodies lack the expression and fine articulation of humanoids. They were built to run and maintain ships and ore harvesters, survey dangerous or distant locations, guard nobles, and oversee servoks—tasks which many multivoks tirelessly attempt to continue today.
 
 With arms ending in axe blades and repeating crossbows mounted on their shoulders, a multivok bodyguard cuts an impressive figure. Multivok bodyguards who are still active are often found watching over the bones or possessions of their long-dead charges with unfaltering loyalty.
 
@@ -341,7 +341,7 @@ Most valok communicate exclusively in Rallarian.
 > - **12-16:** 11 damage; slide 2
 > - **17+:** 7 damage
 >
-> The area is difficult terrain
+> The area is difficult terrain.
 
 <!-- -->
 > 🔳 **Break Ground (5 Malice)**

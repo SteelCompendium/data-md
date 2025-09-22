@@ -23,4 +23,4 @@ type: feature/ability/role-advancement/defender
 >
 > **Trigger:** The target takes damage from a strike.
 >
-> **Effect:** The retainer pushes the target or the attacking creature up to 2 squares. If that moves the mentor out of distance of the strike, the strike has no effect
+> **Effect:** The retainer pushes the target or the attacking creature up to 2 squares. If that moves the mentor out of distance of the strike, the strike has no effect.

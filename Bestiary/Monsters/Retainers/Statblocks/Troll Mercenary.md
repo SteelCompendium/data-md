@@ -60,7 +60,7 @@ stamina: '57'
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -82,6 +82,6 @@ stamina: '57'
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** An ability deals acid or fire damage to the mercenary
+> **Trigger:** An ability deals acid or fire damage to the mercenary.
 >
-> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them
+> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them.

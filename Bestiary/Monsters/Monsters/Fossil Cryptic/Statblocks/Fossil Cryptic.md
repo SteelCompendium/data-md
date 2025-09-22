@@ -46,7 +46,7 @@ type: monster
 <!-- -->
 > ⭐️ **Churning Trunk**
 >
-> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage
+> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -103,7 +103,7 @@ type: monster
 >
 > **Trigger:** The cryptic takes damage.
 >
-> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares
+> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares.
 
 <!-- -->
 > ❗️ **Shatterstone (5 Malice)**

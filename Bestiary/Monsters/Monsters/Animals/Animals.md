@@ -14,7 +14,7 @@ type: monster/section
 
 ## Animals
 
-The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal-to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves-but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
+The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal—to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves—but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
 
 ### Animal Traits
 
@@ -77,7 +77,7 @@ The animal can automatically swim at full speed while moving.
 
 #### Defensive Traits
 
-Defensive traits help animals stay out of danger-or to set ambushes for unwary prey.
+Defensive traits help animals stay out of danger—or to set ambushes for unwary prey.
 
 ###### Camouflage (1 Point)
 
@@ -284,7 +284,7 @@ The following stat blocks can be used to describe everyday animals capable of ac
 
 When building an animal by adding traits to a stat block, you can use a shorthand to describe the animal. For example, a dire wolf might be denoted as "Predator B: Swiftness, Pack, Hunter" to indicate that you're using the Predator B stat block with the Swiftness, Pack, and Hunter traits.
 
-The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category-mobility, defensive, offensive, and supernatural.
+The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category—mobility, defensive, offensive, and supernatural.
 
 <!-- -->
 > **Can I Make a Harmless Animal?**

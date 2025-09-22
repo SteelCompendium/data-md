@@ -66,13 +66,13 @@ Demons feast not on food or liquids, but on souls. Souls fuel their anarchic pow
 
 ### Lethe
 
-When a demon's soul energy begins to flag, they fall into a state known as lethe-a violent hunger wherein they can only lash out in a desperate search for sustenance. Demons who have fallen into lethe become single-minded and violent, seeking only to consume.
+When a demon's soul energy begins to flag, they fall into a state known as lethe—a violent hunger wherein they can only lash out in a desperate search for sustenance. Demons who have fallen into lethe become single-minded and violent, seeking only to consume.
 
 ### Demonic Hierarchy
 
 Mortal scholars have classified demons into ten categories, each increasingly more powerful. Though demons don't use these classifications themselves, this system reflects their hierarchy, as stronger demons bully the weak into service.
 
-Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt-or heroic.
+Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt—or heroic.
 
 ### Demon Languages
 
@@ -509,7 +509,7 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ### Demons-2nd Echelon
 
-As demons consume more souls and their mercurial forms shift into more powerful ones, they begin to evolve more distinct personalities, desires, and intelligence-often based on the souls consumed. Across categories 4 to 6, demons develop a particular taste for certain types of souls, which eventually come to define them should they survive long enough.
+As demons consume more souls and their mercurial forms shift into more powerful ones, they begin to evolve more distinct personalities, desires, and intelligence—often based on the souls consumed. Across categories 4 to 6, demons develop a particular taste for certain types of souls, which eventually come to define them should they survive long enough.
 
 **Grulqins** (GRUHL-kinz) consist of a bulbous head, two powerful arms, and a circular serrated blade of bone that runs down the middle of their head.
 
@@ -726,7 +726,7 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 <!-- -->
 > ⭐️ **Soulsight**
 >
-> Any creature within 2 squares of the fangling can't be hidden from them
+> Any creature within 2 squares of the fangling can't be hidden from them.
 
 ###### Fiktin
 
@@ -983,7 +983,7 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 <!-- -->
 > ❇️ **Seeping Blight (5 Malice)**
 >
-> One demon acting this turn expels blight-digested soul juice onto the ground around them in a 3 burst that lingers until the start of their next turn. Any enemy who enters the area or starts their turn there takes 6 corruption damage, and has a double bane on power rolls until the start of their next turn.
+> One demon acting this turn expels blight—digested soul juice—onto the ground around them in a 3 burst that lingers until the start of their next turn. Any enemy who enters the area or starts their turn there takes 6 corruption damage, and has a double bane on power rolls until the start of their next turn.
 
 ###### Soulraker Scout
 
@@ -1086,7 +1086,7 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 > - **12-16:** 10 corruption damage
 > - **17+:** 11 corruption damage
 >
-> **Effect:** A puddle of blight-digested soul juice-covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
+> **Effect:** A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
 
 <!-- -->
 > 🔳 **Blight Rain (3 Malice)**

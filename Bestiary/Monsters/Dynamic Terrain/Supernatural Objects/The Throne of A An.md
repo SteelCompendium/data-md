@@ -14,7 +14,7 @@ type: dynamic-terrain/supernatural-object
 
 ###### The Throne of A'An (Level 4 Relic Controller)
 
-The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns-and plunge the region into eternal winter.
+The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.
 
 - **EV:** 24
 - **Stamina:** 140
