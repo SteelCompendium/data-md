@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.8.9:15
 source: mcdm.heroes.v1
+subclass: Trickery
 type: feature/trait/conduit/7th-level-feature
 ---
 

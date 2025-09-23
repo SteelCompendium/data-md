@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.3.1:01
 source: mcdm.heroes.v1
+subclass: Auteur
 type: feature/trait/troubadour/1st-level-feature
 ---
 

@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.8.9:05
 source: mcdm.heroes.v1
+subclass: Knowledge
 type: feature/trait/conduit/7th-level-feature
 ---
 

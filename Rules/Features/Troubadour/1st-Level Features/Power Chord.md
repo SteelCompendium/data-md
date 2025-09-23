@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.3.1:03
 source: mcdm.heroes.v1
+subclass: Virtuoso
 type: feature/trait/troubadour/1st-level-feature
 ---
 

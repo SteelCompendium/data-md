@@ -53,7 +53,7 @@ type: index
 | [Cinder Step](../8th-Level%20Features/Cinder%20Step)                                                       | Black Ash       |      | 8     | trait        | feature     |          |        |
 | [Parkour](../8th-Level%20Features/Parkour)                                                                 | Harlequin Mask  |      | 8     | trait        | feature     |          |        |
 | [Perk](../8th-Level%20Features/Perk)                                                                       |                 |      | 8     | trait        | feature     |          |        |
-| [Time Bomb](../8th-Level%20Features/Time%20Bomb)                                                           |                 |      | 8     | trait        | feature     |          |        |
+| [Time Bomb](../8th-Level%20Features/Time%20Bomb)                                                           | Caustic Alchemy |      | 8     | trait        | feature     |          |        |
 | [9th Level Black Ash Abilities](../9th-Level%20Features/9th%20Level%20Black%20Ash%20Abilities)             |                 |      | 9     | trait        | feature     |          |        |
 | [9th Level Caustic Alchemy Abilities](../9th-Level%20Features/9th%20Level%20Caustic%20Alchemy%20Abilities) |                 |      | 9     | trait        | feature     |          |        |
 | [9th Level Harlequin Mask Abilities](../9th-Level%20Features/9th%20Level%20Harlequin%20Mask%20Abilities)   |                 |      | 9     | trait        | feature     |          |        |

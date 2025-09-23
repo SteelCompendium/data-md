@@ -20,10 +20,10 @@ type: index
 | [Creation Domain Piety and Effect](../1st-Level%20Features/Creation%20Domain%20Piety%20and%20Effect)     |            |      | 1     | trait        | feature     |          |        |
 | [Death Domain Piety and Effect](../1st-Level%20Features/Death%20Domain%20Piety%20and%20Effect)           |            |      | 1     | trait        | feature     |          |        |
 | [Deity and Domains](../1st-Level%20Features/Deity%20and%20Domains)                                       |            |      | 1     | trait        | feature     |          |        |
-| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                             |            |      | 1     | trait        | feature     |          |        |
+| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                             | Nature     |      | 1     | trait        | feature     |          |        |
 | [Fate Domain Piety and Effect](../1st-Level%20Features/Fate%20Domain%20Piety%20and%20Effect)             |            |      | 1     | trait        | feature     |          |        |
-| [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   |            |      | 1     | trait        | feature     |          |        |
-| [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                                   |            |      | 1     | trait        | feature     |          |        |
+| [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   | Death      |      | 1     | trait        | feature     |          |        |
+| [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                                   | Creation   |      | 1     | trait        | feature     |          |        |
 | [Healing Grace](../1st-Level%20Features/Healing%20Grace)                                                 |            |      | 1     | trait        | feature     |          |        |
 | [Inner Light](../1st-Level%20Features/Inner%20Light)                                                     | Sun        |      | 1     | trait        | feature     |          |        |
 | [Inspired Deception](../1st-Level%20Features/Inspired%20Deception)                                       | Trickery   |      | 1     | trait        | feature     |          |        |
@@ -42,7 +42,7 @@ type: index
 | [Protective Circle](../1st-Level%20Features/Protective%20Circle)                                         | Protection |      | 1     | trait        | feature     |          |        |
 | [Quickness Ward](../1st-Level%20Features/Quickness%20Ward)                                               |            |      | 1     | trait        | feature     |          |        |
 | [Ray of Wrath](../1st-Level%20Features/Ray%20of%20Wrath)                                                 |            |      | 1     | trait        | feature     |          |        |
-| [Revitalizing Ritual](../1st-Level%20Features/Revitalizing%20Ritual)                                     |            |      | 1     | trait        | feature     |          |        |
+| [Revitalizing Ritual](../1st-Level%20Features/Revitalizing%20Ritual)                                     | Life       |      | 1     | trait        | feature     |          |        |
 | [Sanctified Weapon](../1st-Level%20Features/Sanctified%20Weapon)                                         | War        |      | 1     | trait        | feature     |          |        |
 | [Sanctuary Ward](../1st-Level%20Features/Sanctuary%20Ward)                                               |            |      | 1     | trait        | feature     |          |        |
 | [Signature Abilities](../1st-Level%20Features/Signature%20Abilities)                                     |            |      | 1     | trait        | feature     |          |        |
@@ -58,7 +58,7 @@ type: index
 | [Minor Miracle](../3rd-Level%20Features/Minor%20Miracle)                                                 |            |      | 3     | trait        | feature     |          |        |
 | [Blessed Domain](../4th-Level%20Features/Blessed%20Domain)                                               |            |      | 4     | trait        | feature     |          |        |
 | [Blessing of Life](../4th-Level%20Features/Blessing%20of%20Life)                                         | Life       |      | 4     | trait        | feature     |          |        |
-| [Blessing of Secrets](../4th-Level%20Features/Blessing%20of%20Secrets)                                   |            |      | 4     | trait        | feature     |          |        |
+| [Blessing of Secrets](../4th-Level%20Features/Blessing%20of%20Secrets)                                   | Trickery   |      | 4     | trait        | feature     |          |        |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                             |            |      | 4     | trait        | feature     |          |        |
 | [Impervious Touch](../4th-Level%20Features/Impervious%20Touch)                                           | Protection |      | 4     | trait        | feature     |          |        |
 | [Improved Hands of the Maker](../4th-Level%20Features/Improved%20Hands%20of%20the%20Maker)               | Creation   |      | 4     | trait        | feature     |          |        |
@@ -77,17 +77,17 @@ type: index
 | [Perk](../6th-Level%20Features/Perk)                                                                     |            |      | 6     | trait        | feature     |          |        |
 | [Blessing of Iron](../7th-Level%20Features/Blessing%20of%20Iron)                                         | Protection |      | 7     | trait        | feature     |          |        |
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                             |            |      | 7     | trait        | feature     |          |        |
-| [Covenant of the Heart](../7th-Level%20Features/Covenant%20of%20the%20Heart)                             |            |      | 7     | trait        | feature     |          |        |
+| [Covenant of the Heart](../7th-Level%20Features/Covenant%20of%20the%20Heart)                             | Love       |      | 7     | trait        | feature     |          |        |
 | [Divine Quartermaster](../7th-Level%20Features/Divine%20Quartermaster)                                   | Creation   |      | 7     | trait        | feature     |          |        |
 | [Faithfuls Reward](../7th-Level%20Features/Faithfuls%20Reward)                                           |            |      | 7     | trait        | feature     |          |        |
-| [Font of Grace](../7th-Level%20Features/Font%20of%20Grace)                                               |            |      | 7     | trait        | feature     |          |        |
-| [Gods Library](../7th-Level%20Features/Gods%20Library)                                                   |            |      | 7     | trait        | feature     |          |        |
+| [Font of Grace](../7th-Level%20Features/Font%20of%20Grace)                                               | Life       |      | 7     | trait        | feature     |          |        |
+| [Gods Library](../7th-Level%20Features/Gods%20Library)                                                   | Knowledge  |      | 7     | trait        | feature     |          |        |
 | [Light of the Burning Sun](../7th-Level%20Features/Light%20of%20the%20Burning%20Sun)                     | Sun        |      | 7     | trait        | feature     |          |        |
-| [Natures Bounty](../7th-Level%20Features/Natures%20Bounty)                                               |            |      | 7     | trait        | feature     |          |        |
+| [Natures Bounty](../7th-Level%20Features/Natures%20Bounty)                                               | Nature     |      | 7     | trait        | feature     |          |        |
 | [Skill](../7th-Level%20Features/Skill)                                                                   |            |      | 7     | trait        | feature     |          |        |
 | [Thunderstruck](../7th-Level%20Features/Thunderstruck)                                                   | Storm      |      | 7     | trait        | feature     |          |        |
-| [Trinity of Trickery](../7th-Level%20Features/Trinity%20of%20Trickery)                                   |            |      | 7     | trait        | feature     |          |        |
-| [Word of Death Deferred](../7th-Level%20Features/Word%20of%20Death%20Deferred)                           |            |      | 7     | trait        | feature     |          |        |
+| [Trinity of Trickery](../7th-Level%20Features/Trinity%20of%20Trickery)                                   | Trickery   |      | 7     | trait        | feature     |          |        |
+| [Word of Death Deferred](../7th-Level%20Features/Word%20of%20Death%20Deferred)                           | Death      |      | 7     | trait        | feature     |          |        |
 | [Word of Fate Denied](../7th-Level%20Features/Word%20of%20Fate%20Denied)                                 | Fate       |      | 7     | trait        | feature     |          |        |
 | [Your Triumphs Are Remembered](../7th-Level%20Features/Your%20Triumphs%20Are%20Remembered)               | War        |      | 7     | trait        | feature     |          |        |
 | [8th Level Domain Feature](../8th-Level%20Features/8th%20Level%20Domain%20Feature)                       |            |      | 8     | trait        | feature     |          |        |

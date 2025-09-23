@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.2.2:02
 source: mcdm.heroes.v1
+subclass: Caustic Alchemy
 type: feature/trait/shadow/8th-level-feature
 ---
 

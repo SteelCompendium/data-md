@@ -9,4 +9,4 @@ type: index
 | --------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
 | [Foil](../Foil)                   | Duelist  |      | 3     | trait        | feature     |          |        |
 | [Missed Cue](../Missed%20Cue)     | Auteur   |      | 3     | trait        | feature     |          |        |
-| [Second Album](../Second%20Album) |          |      | 3     | trait        | feature     |          |        |
+| [Second Album](../Second%20Album) | Virtuoso |      | 3     | trait        | feature     |          |        |

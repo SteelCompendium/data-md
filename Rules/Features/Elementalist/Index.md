@@ -16,7 +16,7 @@ type: index
 | [Master of Void](../10th-Level%20Features/Master%20of%20Void)                                          | Void     |      | 10    | trait        | feature     |          |        |
 | [Perk](../10th-Level%20Features/Perk)                                                                  |          |      | 10    | trait        | feature     |          |        |
 | [Skill](../10th-Level%20Features/Skill)                                                                |          |      | 10    | trait        | feature     |          |        |
-| [A Beyonding of Vision](../1st-Level%20Features/A%20Beyonding%20of%20Vision)                           |          |      | 1     | trait        | feature     |          |        |
+| [A Beyonding of Vision](../1st-Level%20Features/A%20Beyonding%20of%20Vision)                           | Void     |      | 1     | trait        | feature     |          |        |
 | [Earth Acolyte of Earth](../1st-Level%20Features/Earth%20Acolyte%20of%20Earth)                         | Earth    |      | 1     | trait        | feature     |          |        |
 | [Enchantment of Battle](../1st-Level%20Features/Enchantment%20of%20Battle)                             |          |      | 1     | trait        | feature     |          |        |
 | [Enchantment of Celerity](../1st-Level%20Features/Enchantment%20of%20Celerity)                         |          |      | 1     | trait        | feature     |          |        |
@@ -46,8 +46,8 @@ type: index
 | [There Is No Space Between](../2nd-Level%20Features/There%20Is%20No%20Space%20Between)                 |          |      | 2     | trait        | feature     |          |        |
 | [A Conversation With Fire](../3rd-Level%20Features/A%20Conversation%20With%20Fire)                     | Fire     |      | 3     | trait        | feature     |          |        |
 | [Distance Is Only Memory](../3rd-Level%20Features/Distance%20Is%20Only%20Memory)                       | Void     |      | 3     | trait        | feature     |          |        |
-| [Earth Accepts Me](../3rd-Level%20Features/Earth%20Accepts%20Me)                                       |          |      | 3     | trait        | feature     |          |        |
-| [Remember Growth and Sun and Rain](../3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain) |          |      | 3     | trait        | feature     |          |        |
+| [Earth Accepts Me](../3rd-Level%20Features/Earth%20Accepts%20Me)                                       | Earth    |      | 3     | trait        | feature     |          |        |
+| [Remember Growth and Sun and Rain](../3rd-Level%20Features/Remember%20Growth%20and%20Sun%20and%20Rain) | Green    |      | 3     | trait        | feature     |          |        |
 | [Burning Grounds](../4th-Level%20Features/Burning%20Grounds)                                           | Fire     |      | 4     | trait        | feature     |          |        |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                           |          |      | 4     | trait        | feature     |          |        |
 | [Flowering Bed](../4th-Level%20Features/Flowering%20Bed)                                               | Green    |      | 4     | trait        | feature     |          |        |
@@ -70,7 +70,7 @@ type: index
 | [Black Hole Star](../8th-Level%20Features/Black%20Hole%20Star)                                         | Void     |      | 8     | trait        | feature     |          |        |
 | [Chimeric Manifestation](../8th-Level%20Features/Chimeric%20Manifestation)                             | Green    |      | 8     | trait        | feature     |          |        |
 | [Perk](../8th-Level%20Features/Perk)                                                                   |          |      | 8     | trait        | feature     |          |        |
-| [Source of Earth Statblock](../8th-Level%20Features/Source%20of%20Earth%20Statblock)                   |          |      | 8     | trait        | feature     |          |        |
+| [Source of Earth Statblock](../8th-Level%20Features/Source%20of%20Earth%20Statblock)                   | Earth    |      | 8     | trait        | feature     |          |        |
 | [The Flame Primordial](../8th-Level%20Features/The%20Flame%20Primordial)                               | Fire     |      | 8     | trait        | feature     |          |        |
 | [Grand Wyrding](../9th-Level%20Features/Grand%20Wyrding)                                               |          |      | 9     | trait        | feature     |          |        |
 | [New 11 Essence Ability](../9th-Level%20Features/New%2011%20Essence%20Ability)                         |          |      | 9     | trait        | feature     |          |        |

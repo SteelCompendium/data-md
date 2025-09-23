@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.8.1:02
 source: mcdm.heroes.v1
+subclass: Nature
 type: feature/trait/conduit/1st-level-feature
 ---
 

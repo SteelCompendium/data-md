@@ -13,6 +13,7 @@ scc:
 scdc:
   - 1.1.1:11.1.8.9:14
 source: mcdm.heroes.v1
+subclass: Life
 type: feature/trait/conduit/7th-level-feature
 ---
 

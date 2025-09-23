@@ -14,10 +14,10 @@ type: index
 | [Creation Domain Piety and Effect](../Creation%20Domain%20Piety%20and%20Effect)     |            |      | 1     | trait        | feature     |          |        |
 | [Death Domain Piety and Effect](../Death%20Domain%20Piety%20and%20Effect)           |            |      | 1     | trait        | feature     |          |        |
 | [Deity and Domains](../Deity%20and%20Domains)                                       |            |      | 1     | trait        | feature     |          |        |
-| [Faithful Friend](../Faithful%20Friend)                                             |            |      | 1     | trait        | feature     |          |        |
+| [Faithful Friend](../Faithful%20Friend)                                             | Nature     |      | 1     | trait        | feature     |          |        |
 | [Fate Domain Piety and Effect](../Fate%20Domain%20Piety%20and%20Effect)             |            |      | 1     | trait        | feature     |          |        |
-| [Grave Speech](../Grave%20Speech)                                                   |            |      | 1     | trait        | feature     |          |        |
-| [Hands of the Maker](../Hands%20of%20the%20Maker)                                   |            |      | 1     | trait        | feature     |          |        |
+| [Grave Speech](../Grave%20Speech)                                                   | Death      |      | 1     | trait        | feature     |          |        |
+| [Hands of the Maker](../Hands%20of%20the%20Maker)                                   | Creation   |      | 1     | trait        | feature     |          |        |
 | [Healing Grace](../Healing%20Grace)                                                 |            |      | 1     | trait        | feature     |          |        |
 | [Inner Light](../Inner%20Light)                                                     | Sun        |      | 1     | trait        | feature     |          |        |
 | [Inspired Deception](../Inspired%20Deception)                                       | Trickery   |      | 1     | trait        | feature     |          |        |
@@ -36,7 +36,7 @@ type: index
 | [Protective Circle](../Protective%20Circle)                                         | Protection |      | 1     | trait        | feature     |          |        |
 | [Quickness Ward](../Quickness%20Ward)                                               |            |      | 1     | trait        | feature     |          |        |
 | [Ray of Wrath](../Ray%20of%20Wrath)                                                 |            |      | 1     | trait        | feature     |          |        |
-| [Revitalizing Ritual](../Revitalizing%20Ritual)                                     |            |      | 1     | trait        | feature     |          |        |
+| [Revitalizing Ritual](../Revitalizing%20Ritual)                                     | Life       |      | 1     | trait        | feature     |          |        |
 | [Sanctified Weapon](../Sanctified%20Weapon)                                         | War        |      | 1     | trait        | feature     |          |        |
 | [Sanctuary Ward](../Sanctuary%20Ward)                                               |            |      | 1     | trait        | feature     |          |        |
 | [Signature Abilities](../Signature%20Abilities)                                     |            |      | 1     | trait        | feature     |          |        |

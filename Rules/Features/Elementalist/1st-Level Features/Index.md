@@ -7,7 +7,7 @@ type: index
 
 | File Name                                                                   | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | --------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [A Beyonding of Vision](../A%20Beyonding%20of%20Vision)                     |          |      | 1     | trait        | feature     |          |        |
+| [A Beyonding of Vision](../A%20Beyonding%20of%20Vision)                     | Void     |      | 1     | trait        | feature     |          |        |
 | [Earth Acolyte of Earth](../Earth%20Acolyte%20of%20Earth)                   | Earth    |      | 1     | trait        | feature     |          |        |
 | [Enchantment of Battle](../Enchantment%20of%20Battle)                       |          |      | 1     | trait        | feature     |          |        |
 | [Enchantment of Celerity](../Enchantment%20of%20Celerity)                   |          |      | 1     | trait        | feature     |          |        |

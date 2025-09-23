@@ -17,7 +17,7 @@ type: index
 | [Blessing of Comprehension](../1st-Level%20Features/Blessing%20of%20Comprehension)           | Knowledge  |      | 1     | trait        | feature     |          |        |
 | [Blessing of Fortunate Weather](../1st-Level%20Features/Blessing%20of%20Fortunate%20Weather) | Storm      |      | 1     | trait        | feature     |          |        |
 | [Censor Order](../1st-Level%20Features/Censor%20Order)                                       |            |      | 1     | trait        | feature     |          |        |
-| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 |            |      | 1     | trait        | feature     |          |        |
+| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 | Nature     |      | 1     | trait        | feature     |          |        |
 | [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                       |            |      | 1     | trait        | feature     |          |        |
 | [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                       |            |      | 1     | trait        | feature     |          |        |
 | [Inner Light](../1st-Level%20Features/Inner%20Light)                                         | Sun        |      | 1     | trait        | feature     |          |        |
@@ -27,7 +27,7 @@ type: index
 | [My Life for Yours](../1st-Level%20Features/My%20Life%20for%20Yours)                         |            |      | 1     | trait        | feature     |          |        |
 | [Oracular Visions](../1st-Level%20Features/Oracular%20Visions)                               | Fate       |      | 1     | trait        | feature     |          |        |
 | [Protective Circle](../1st-Level%20Features/Protective%20Circle)                             | Protection |      | 1     | trait        | feature     |          |        |
-| [Revitalizing Ritual](../1st-Level%20Features/Revitalizing%20Ritual)                         |            |      | 1     | trait        | feature     |          |        |
+| [Revitalizing Ritual](../1st-Level%20Features/Revitalizing%20Ritual)                         | Life       |      | 1     | trait        | feature     |          |        |
 | [Sanctified Weapon](../1st-Level%20Features/Sanctified%20Weapon)                             | War        |      | 1     | trait        | feature     |          |        |
 | [Signature Ability](../1st-Level%20Features/Signature%20Ability)                             |            |      | 1     | trait        | feature     |          |        |
 | [Wrath in Combat](../1st-Level%20Features/Wrath%20in%20Combat)                               |            |      | 1     | trait        | feature     |          |        |
@@ -67,21 +67,21 @@ type: index
 | [6th Level Paragon Abilities](../6th-Level%20Features/6th%20Level%20Paragon%20Abilities)     |            |      | 6     | trait        | feature     |          |        |
 | [Implement of Wrath](../6th-Level%20Features/Implement%20of%20Wrath)                         |            |      | 6     | trait        | feature     |          |        |
 | [Perk](../6th-Level%20Features/Perk)                                                         |            |      | 6     | trait        | feature     |          |        |
-| [Blessing of Iron](../7th-Level%20Features/Blessing%20of%20Iron)                             |            |      | 7     | trait        | feature     |          |        |
+| [Blessing of Iron](../7th-Level%20Features/Blessing%20of%20Iron)                             | Protection |      | 7     | trait        | feature     |          |        |
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                 |            |      | 7     | trait        | feature     |          |        |
-| [Covenant of the Heart](../7th-Level%20Features/Covenant%20of%20the%20Heart)                 |            |      | 7     | trait        | feature     |          |        |
-| [Divine Quartermaster](../7th-Level%20Features/Divine%20Quartermaster)                       |            |      | 7     | trait        | feature     |          |        |
+| [Covenant of the Heart](../7th-Level%20Features/Covenant%20of%20the%20Heart)                 | Love       |      | 7     | trait        | feature     |          |        |
+| [Divine Quartermaster](../7th-Level%20Features/Divine%20Quartermaster)                       | Creation   |      | 7     | trait        | feature     |          |        |
 | [Focused Wrath](../7th-Level%20Features/Focused%20Wrath)                                     |            |      | 7     | trait        | feature     |          |        |
 | [Font of Grace](../7th-Level%20Features/Font%20of%20Grace)                                   | Life       |      | 7     | trait        | feature     |          |        |
 | [Gods Library](../7th-Level%20Features/Gods%20Library)                                       | Knowledge  |      | 7     | trait        | feature     |          |        |
-| [Light of the Burning Sun](../7th-Level%20Features/Light%20of%20the%20Burning%20Sun)         |            |      | 7     | trait        | feature     |          |        |
+| [Light of the Burning Sun](../7th-Level%20Features/Light%20of%20the%20Burning%20Sun)         | Sun        |      | 7     | trait        | feature     |          |        |
 | [Natures Bounty](../7th-Level%20Features/Natures%20Bounty)                                   | Nature     |      | 7     | trait        | feature     |          |        |
-| [Ride the Lightning](../7th-Level%20Features/Ride%20the%20Lightning)                         |            |      | 7     | trait        | feature     |          |        |
+| [Ride the Lightning](../7th-Level%20Features/Ride%20the%20Lightning)                         | Storm      |      | 7     | trait        | feature     |          |        |
 | [Skill](../7th-Level%20Features/Skill)                                                       |            |      | 7     | trait        | feature     |          |        |
-| [Trinity of Trickery](../7th-Level%20Features/Trinity%20of%20Trickery)                       |            |      | 7     | trait        | feature     |          |        |
+| [Trinity of Trickery](../7th-Level%20Features/Trinity%20of%20Trickery)                       | Trickery   |      | 7     | trait        | feature     |          |        |
 | [Word of Death Deferred](../7th-Level%20Features/Word%20of%20Death%20Deferred)               | Death      |      | 7     | trait        | feature     |          |        |
-| [Word of Fate Denied](../7th-Level%20Features/Word%20of%20Fate%20Denied)                     |            |      | 7     | trait        | feature     |          |        |
-| [Your Triumphs Are Remembered](../7th-Level%20Features/Your%20Triumphs%20Are%20Remembered)   |            |      | 7     | trait        | feature     |          |        |
+| [Word of Fate Denied](../7th-Level%20Features/Word%20of%20Fate%20Denied)                     | Fate       |      | 7     | trait        | feature     |          |        |
+| [Your Triumphs Are Remembered](../7th-Level%20Features/Your%20Triumphs%20Are%20Remembered)   | War        |      | 7     | trait        | feature     |          |        |
 | [Demonologist](../8th-Level%20Features/Demonologist)                                         | Exorcist   |      | 8     | trait        | feature     |          |        |
 | [Perk](../8th-Level%20Features/Perk)                                                         |            |      | 8     | trait        | feature     |          |        |
 | [Their Past Revealed](../8th-Level%20Features/Their%20Past%20Revealed)                       | Oracle     |      | 8     | trait        | feature     |          |        |

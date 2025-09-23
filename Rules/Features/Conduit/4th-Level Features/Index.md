@@ -9,7 +9,7 @@ type: index
 | --------------------------------------------------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
 | [Blessed Domain](../Blessed%20Domain)                                 |            |      | 4     | trait        | feature     |          |        |
 | [Blessing of Life](../Blessing%20of%20Life)                           | Life       |      | 4     | trait        | feature     |          |        |
-| [Blessing of Secrets](../Blessing%20of%20Secrets)                     |            |      | 4     | trait        | feature     |          |        |
+| [Blessing of Secrets](../Blessing%20of%20Secrets)                     | Trickery   |      | 4     | trait        | feature     |          |        |
 | [Characteristic Increase](../Characteristic%20Increase)               |            |      | 4     | trait        | feature     |          |        |
 | [Impervious Touch](../Impervious%20Touch)                             | Protection |      | 4     | trait        | feature     |          |        |
 | [Improved Hands of the Maker](../Improved%20Hands%20of%20the%20Maker) | Creation   |      | 4     | trait        | feature     |          |        |
