@@ -94,9 +94,9 @@ type: monster
 >
 > **2+ Malice:** Each creature wracked with pain gains one of the following conditions of the lich's choice for each 2 Malice spent: bleeding, slowed, or prone and can't stand. These conditions end when a creature is no longer wracked with pain.
 
-👤 **Necrotic Form**
-
 <!-- -->
+> 👤 **Necrotic Form**
+>
 > | **-**       | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |

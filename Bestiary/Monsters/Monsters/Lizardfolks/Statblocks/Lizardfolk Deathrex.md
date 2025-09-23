@@ -110,9 +110,9 @@ type: monster
 >
 > **Effect:** The deathrex shifts up to their speed, leaving behind a shed skin duplicate in the space they started in. The duplicate acts on the deathrex's turn and has the deathrex's characteristics, but has 10 Stamina and no villain actions.
 
-☠️ **Thresher Thrasher (Villain Action 3)**
-
 <!-- -->
+> ☠️ **Thresher Thrasher (Villain Action 3)**
+>
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
 > | **📏 10 burst** | **🎯 Self and each ally in the area** |

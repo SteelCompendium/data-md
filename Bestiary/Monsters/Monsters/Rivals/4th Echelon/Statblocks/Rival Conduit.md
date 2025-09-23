@@ -57,9 +57,9 @@ type: monster
 <!-- -->
 > 🏹 **Empyrean Boon (5 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike, and that strike deals an extra 10 holy damage. Additionally, they can vertical slide each creature targeted by the strike up to 2 squares.
 

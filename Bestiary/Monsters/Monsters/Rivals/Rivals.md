@@ -501,9 +501,9 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -861,9 +861,9 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -1203,9 +1203,9 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 <!-- -->
 > 🏹 **Empyrean Boon (5 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike, and that strike deals an extra 10 holy damage. Additionally, they can vertical slide each creature targeted by the strike up to 2 squares.
 

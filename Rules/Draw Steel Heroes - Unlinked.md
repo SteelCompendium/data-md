@@ -743,9 +743,7 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule
-
-specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**

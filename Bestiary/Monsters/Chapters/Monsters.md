@@ -1283,7 +1283,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 >
 > - **≤11:** 7 damage
 > - **12-16:** 10 damage; M < 1 prone
-> - **17+:** 13 damage; M < 2 prone
+> - **17+:** 13 damage; M < 1 prone
 
 <!-- -->
 > 👤 **Ready to Strike**
@@ -1329,7 +1329,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 >
 > - **≤11:** 7 damage
 > - **12-16:** 11 damage; push 1; M < 1 prone
-> - **17+:** 14 damage; push 2; M < 2 prone
+> - **17+:** 14 damage; push 2; M < 1 prone
 
 <!-- -->
 > ❇️ **Wild Swing**
@@ -14511,9 +14511,9 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 >
 > **Effect:** The deathrex shifts up to their speed, leaving behind a shed skin duplicate in the space they started in. The duplicate acts on the deathrex's turn and has the deathrex's characteristics, but has 10 Stamina and no villain actions.
 
-☠️ **Thresher Thrasher (Villain Action 3)**
-
 <!-- -->
+> ☠️ **Thresher Thrasher (Villain Action 3)**
+>
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
 > | **📏 10 burst** | **🎯 Self and each ally in the area** |
@@ -17317,9 +17317,9 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -17677,9 +17677,9 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -18019,9 +18019,9 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 <!-- -->
 > 🏹 **Empyrean Boon (5 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike, and that strike deals an extra 10 holy damage. Additionally, they can vertical slide each creature targeted by the strike up to 2 squares.
 
@@ -21323,9 +21323,9 @@ At the start of a lich's turn, you can spend Malice to activate one of the follo
 >
 > **2+ Malice:** Each creature wracked with pain gains one of the following conditions of the lich's choice for each 2 Malice spent: bleeding, slowed, or prone and can't stand. These conditions end when a creature is no longer wracked with pain.
 
-👤 **Necrotic Form**
-
 <!-- -->
+> 👤 **Necrotic Form**
+>
 > | **-**       | **Maneuver** |
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |

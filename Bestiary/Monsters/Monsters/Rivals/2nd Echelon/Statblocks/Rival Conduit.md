@@ -55,9 +55,9 @@ type: monster
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
