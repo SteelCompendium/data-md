@@ -2,12 +2,12 @@
 file_basename: 8th Level Features
 file_dpath: Classes By Level/Tactician
 item_id: 8th-level-features
-item_index: '62'
+item_index: '61'
 item_name: 8th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:8th-level-features
 scdc:
-  - 1.1.1:2.1:62
+  - 1.1.1:2.1:61
 source: mcdm.heroes.v1
 type: class/level
 ---

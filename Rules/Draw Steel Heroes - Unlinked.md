@@ -9507,7 +9507,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.
 
-### 2nd-Level Aspect Ability
+#### 2nd-Level Aspect Ability
 
 Your primordial aspect grants your choice of one of two heroic abilities.
 

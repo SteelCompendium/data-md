@@ -2,12 +2,12 @@
 file_basename: 7th Level Features
 file_dpath: Classes By Level/Troubadour
 item_id: 7th-level-features
-item_index: '70'
+item_index: '69'
 item_name: 7th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:7th-level-features
 scdc:
-  - 1.1.1:2.1:70
+  - 1.1.1:2.1:69
 source: mcdm.heroes.v1
 type: class/level
 ---

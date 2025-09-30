@@ -2,12 +2,12 @@
 file_basename: 4th Level Features
 file_dpath: Classes By Level/Shadow
 item_id: 4th-level-features
-item_index: '85'
+item_index: '84'
 item_name: 4th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:4th-level-features
 scdc:
-  - 1.1.1:2.1:85
+  - 1.1.1:2.1:84
 source: mcdm.heroes.v1
 type: class/level
 ---

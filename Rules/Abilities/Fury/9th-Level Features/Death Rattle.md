@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-rattle-11-ferocity
 scdc:
-  - 1.1.1:11.2.5.6:05
+  - 1.1.1:11.2.5.7:05
 source: mcdm.heroes.v1
 subclass: Stormwight
 target: Each enemy in the area

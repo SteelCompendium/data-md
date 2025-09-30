@@ -2,12 +2,12 @@
 file_basename: 10th Level Features
 file_dpath: Classes By Level/Shadow
 item_id: 10th-level-features
-item_index: '82'
+item_index: '81'
 item_name: 10th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:10th-level-features
 scdc:
-  - 1.1.1:2.1:82
+  - 1.1.1:2.1:81
 source: mcdm.heroes.v1
 type: class/level
 ---

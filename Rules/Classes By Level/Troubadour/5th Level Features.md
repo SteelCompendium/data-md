@@ -2,12 +2,12 @@
 file_basename: 5th Level Features
 file_dpath: Classes By Level/Troubadour
 item_id: 5th-level-features
-item_index: '79'
+item_index: '78'
 item_name: 5th-Level Features
 scc:
   - mcdm.heroes.v1:class.level:5th-level-features
 scdc:
-  - 1.1.1:2.1:79
+  - 1.1.1:2.1:78
 source: mcdm.heroes.v1
 type: class/level
 ---

@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:demon-unleashed-7-ferocity
 scdc:
-  - 1.1.1:11.2.5.5:01
+  - 1.1.1:11.2.5.6:01
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/fury/3rd-level-feature

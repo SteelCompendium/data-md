@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:shower-of-blood-11-ferocity
 scdc:
-  - 1.1.1:11.2.5.6:03
+  - 1.1.1:11.2.5.7:03
 source: mcdm.heroes.v1
 subclass: Reaver
 target: One creature

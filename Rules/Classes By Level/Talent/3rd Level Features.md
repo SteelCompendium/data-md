@@ -2,12 +2,12 @@
 file_basename: 3rd Level Features
 file_dpath: Classes By Level/Talent
 item_id: 3rd-level-features
-item_index: '94'
+item_index: '93'
 item_name: 3rd-Level Features
 scc:
   - mcdm.heroes.v1:class.level:3rd-level-features
 scdc:
-  - 1.1.1:2.1:94
+  - 1.1.1:2.1:93
 source: mcdm.heroes.v1
 type: class/level
 ---

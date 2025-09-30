@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all-11-ferocity
 scdc:
-  - 1.1.1:11.2.5.6:02
+  - 1.1.1:11.2.5.7:02
 source: mcdm.heroes.v1
 subclass: Berserker
 target: Each enemy in the area

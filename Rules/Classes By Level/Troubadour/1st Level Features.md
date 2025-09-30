@@ -2,12 +2,12 @@
 file_basename: 1st Level Features
 file_dpath: Classes By Level/Troubadour
 item_id: 1st-level-features
-item_index: '76'
+item_index: '75'
 item_name: 1st-Level Features
 scc:
   - mcdm.heroes.v1:class.level:1st-level-features
 scdc:
-  - 1.1.1:2.1:76
+  - 1.1.1:2.1:75
 source: mcdm.heroes.v1
 type: class/level
 ---

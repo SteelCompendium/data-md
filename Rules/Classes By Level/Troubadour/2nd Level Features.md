@@ -2,12 +2,12 @@
 file_basename: 2nd Level Features
 file_dpath: Classes By Level/Troubadour
 item_id: 2nd-level-features
-item_index: '77'
+item_index: '76'
 item_name: 2nd-Level Features
 scc:
   - mcdm.heroes.v1:class.level:2nd-level-features
 scdc:
-  - 1.1.1:2.1:77
+  - 1.1.1:2.1:76
 source: mcdm.heroes.v1
 type: class/level
 ---

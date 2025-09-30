@@ -2,12 +2,12 @@
 file_basename: Basics
 file_dpath: Classes By Level/Fury
 item_id: basics
-item_index: '56'
+item_index: '55'
 item_name: Basics
 scc:
   - mcdm.heroes.v1:class.level:basics
 scdc:
-  - 1.1.1:2.1:56
+  - 1.1.1:2.1:55
 source: mcdm.heroes.v1
 type: class/level
 ---

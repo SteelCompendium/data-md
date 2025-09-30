@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:face-the-storm-7-ferocity
 scdc:
-  - 1.1.1:11.2.5.5:03
+  - 1.1.1:11.2.5.6:03
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/fury/3rd-level-feature

@@ -24,6 +24,9 @@ type: index
 | [Primordial Strength](../1st-Level%20Features/Primordial%20Strength)                                   | Berserker  |      | 1     | trait        | feature     |          |        |
 | [Relentless Hunter](../1st-Level%20Features/Relentless%20Hunter)                                       | Stormwight |      | 1     | trait        | feature     |          |        |
 | [Signature Ability](../1st-Level%20Features/Signature%20Ability)                                       |            |      | 1     | trait        | feature     |          |        |
+| [2nd Level Berserker Ability](../2nd-Level%20Features/2nd%20Level%20Berserker%20Ability)               |            |      | 2     | trait        | feature     |          |        |
+| [2nd Level Reaver Ability](../2nd-Level%20Features/2nd%20Level%20Reaver%20Ability)                     |            |      | 2     | trait        | feature     |          |        |
+| [2nd Level Stormwight Ability](../2nd-Level%20Features/2nd%20Level%20Stormwight%20Ability)             |            |      | 2     | trait        | feature     |          |        |
 | [Inescapable Wrath](../2nd-Level%20Features/Inescapable%20Wrath)                                       | Reaver     |      | 2     | trait        | feature     |          |        |
 | [Perk](../2nd-Level%20Features/Perk)                                                                   |            |      | 2     | trait        | feature     |          |        |
 | [Tooth and Claw](../2nd-Level%20Features/Tooth%20and%20Claw)                                           | Stormwight |      | 2     | trait        | feature     |          |        |
