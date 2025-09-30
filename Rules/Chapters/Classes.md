@@ -138,7 +138,7 @@ If an ability requires a triggered action or a free triggered action to use, a "
 
 #### Distance
 
-An ability's "Distance" entry, represented by this symbol e, indicates how close you need to be to a creature or object to affect that target with the ability.
+An ability's "Distance" entry, represented by this symbol 📏, indicates how close you need to be to a creature or object to affect that target with the ability.
 
 ##### Melee
 
@@ -201,7 +201,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 
 #### Target
 
-The "Target" entry of an ability, represented by this symbol x, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
+The "Target" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
 ##### Creature
 
