@@ -58,6 +58,7 @@ type: index
 | [6th Level Telekinesis Abilities](../6th-Level%20Features/6th%20Level%20Telekinesis%20Abilities) |             |      | 6     | trait        | feature     |          |        |
 | [6th Level Telepathy Abilities](../6th-Level%20Features/6th%20Level%20Telepathy%20Abilities)     |             |      | 6     | trait        | feature     |          |        |
 | [Perk](../6th-Level%20Features/Perk)                                                             |             |      | 6     | trait        | feature     |          |        |
+| [Psi Boost](../6th-Level%20Features/Psi%20Boost)                                                 |             |      | 6     | trait        | feature     |          |        |
 | [Ancestral Memory](../7th-Level%20Features/Ancestral%20Memory)                                   |             |      | 7     | trait        | feature     |          |        |
 | [Cascading Strain](../7th-Level%20Features/Cascading%20Strain)                                   |             |      | 7     | trait        | feature     |          |        |
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                     |             |      | 7     | trait        | feature     |          |        |

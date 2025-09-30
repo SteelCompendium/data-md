@@ -51,6 +51,7 @@ type: index
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                         |               |      | 7     | trait        | feature     |          |        |
 | [Discipline Mastery Improvement](../7th-Level%20Features/Discipline%20Mastery%20Improvement)         |               |      | 7     | trait        | feature     |          |        |
 | [Improved Body](../7th-Level%20Features/Improved%20Body)                                             |               |      | 7     | trait        | feature     |          |        |
+| [Psi Boost](../7th-Level%20Features/Psi%20Boost)                                                     |               |      | 7     | trait        | feature     |          |        |
 | [Skill](../7th-Level%20Features/Skill)                                                               |               |      | 7     | trait        | feature     |          |        |
 | [Inertial Dampener](../8th-Level%20Features/Inertial%20Dampener)                                     | Metakinetic   |      | 8     | trait        | feature     |          |        |
 | [Perk](../8th-Level%20Features/Perk)                                                                 |               |      | 8     | trait        | feature     |          |        |

@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: 6th Level Chronopathy Abilities
 file_dpath: Talent/6th-Level Features
 item_id: 6th-level-chronopathy-abilities
-item_index: '04'
+item_index: '05'
 item_name: 6th-Level Chronopathy Abilities
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.talent.6th-level-feature:6th-level-chronopathy-abilities
 scdc:
-  - 1.1.1:11.1.1.3:04
+  - 1.1.1:11.1.1.3:05
 source: mcdm.heroes.v1
 type: feature/trait/talent/6th-level-feature
 ---

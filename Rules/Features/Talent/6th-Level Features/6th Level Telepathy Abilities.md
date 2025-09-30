@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: 6th Level Telepathy Abilities
 file_dpath: Talent/6th-Level Features
 item_id: 6th-level-telepathy-abilities
-item_index: '03'
+item_index: '04'
 item_name: 6th-Level Telepathy Abilities
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.talent.6th-level-feature:6th-level-telepathy-abilities
 scdc:
-  - 1.1.1:11.1.1.3:03
+  - 1.1.1:11.1.1.3:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/6th-level-feature
 ---
