@@ -70,7 +70,7 @@ type: index
 | [Black Hole Star](../8th-Level%20Features/Black%20Hole%20Star)                                         | Void     |      | 8     | trait        | feature     |          |        |
 | [Chimeric Manifestation](../8th-Level%20Features/Chimeric%20Manifestation)                             | Green    |      | 8     | trait        | feature     |          |        |
 | [Perk](../8th-Level%20Features/Perk)                                                                   |          |      | 8     | trait        | feature     |          |        |
-| [Source of Earth Statblock](../8th-Level%20Features/Source%20of%20Earth%20Statblock)                   | Earth    |      | 8     | trait        | feature     |          |        |
+| [Summon Source of Earth](../8th-Level%20Features/Summon%20Source%20of%20Earth)                         |          |      | 8     | trait        | feature     |          |        |
 | [The Flame Primordial](../8th-Level%20Features/The%20Flame%20Primordial)                               | Fire     |      | 8     | trait        | feature     |          |        |
 | [Grand Wyrding](../9th-Level%20Features/Grand%20Wyrding)                                               |          |      | 9     | trait        | feature     |          |        |
 | [New 11 Essence Ability](../9th-Level%20Features/New%2011%20Essence%20Ability)                         |          |      | 9     | trait        | feature     |          |        |

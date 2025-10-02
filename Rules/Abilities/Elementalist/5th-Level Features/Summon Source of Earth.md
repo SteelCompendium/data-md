@@ -36,3 +36,41 @@ type: feature/ability/elementalist/5th-level-feature
 The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
 
 **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
+
+###### Source of Earth Statblock
+
+**Source of Earth**
+
+|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
+
+<!-- -->
+> **Earthwalk**
+>
+> Difficult terrain composed of earth and stone doesn't cost the source extra movement.
+
+<!-- -->
+> **Tunneler**
+>
+> When the source burrows, they create a size 2 tunnel.
+
+<!-- -->
+> **Earth Harness**
+>
+> A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
+
+<!-- -->
+> **Boulder Bash**
+>
+> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 5 damage; push 3
+> - **12-16:** 9 damage; push 4
+> - **17+:** 12 damage; push 5
