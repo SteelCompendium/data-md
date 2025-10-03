@@ -90,6 +90,4 @@ stamina: '21'
 > | ---------------- | ------------------------: |
 > | **📏 Ranged 10** | **🎯 Self and each ally** |
 >
-> **Power Roll + highest characteristic:**
->
 > **Effect:** Each target can spend a Recovery, and ends the dazed, frightened, and weakened conditions on themself.

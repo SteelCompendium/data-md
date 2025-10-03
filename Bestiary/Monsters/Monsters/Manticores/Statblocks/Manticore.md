@@ -9,7 +9,7 @@ file_dpath: Monsters/Manticores/Statblocks
 free_strike: 6
 intuition: 0
 item_id: manticore
-item_index: '348'
+item_index: '346'
 item_name: Manticore
 level: 4
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:manticore
 scdc:
-  - 1.1.1:2:348
+  - 1.1.1:2:346
 size: '2'
 source: mcdm.monsters.v1
 speed: 10

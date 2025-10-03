@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-saboteur
-item_index: '377'
+item_index: '375'
 item_name: War Dog Saboteur
 level: 7
 might: -1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-saboteur
 scdc:
-  - 1.1.1:2:377
+  - 1.1.1:2:375
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

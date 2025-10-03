@@ -684,7 +684,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Feature                      |
+| Domain     | Ability                      |
 | ---------- | ---------------------------- |
 | Creation   | Statue of Power              |
 | Death      | Reap                         |
@@ -934,7 +934,7 @@ As a 4th-level conduit, you gain the following features.
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain feature, you gain 1 additional piety.
+Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
 #### Characteristic Increase
 

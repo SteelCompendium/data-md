@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 4
 intuition: 2
 item_id: angulotl-daybringer
-item_index: '243'
+item_index: '241'
 item_name: Angulotl Daybringer
 level: 1
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:angulotl-daybringer
 scdc:
-  - 1.1.1:2:243
+  - 1.1.1:2:241
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

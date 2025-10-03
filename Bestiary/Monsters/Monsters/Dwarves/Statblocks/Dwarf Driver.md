@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 1
 intuition: 0
 item_id: dwarf-driver
-item_index: '397'
+item_index: '395'
 item_name: Dwarf Driver
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:dwarf-driver
 scdc:
-  - 1.1.1:2:397
+  - 1.1.1:2:395
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

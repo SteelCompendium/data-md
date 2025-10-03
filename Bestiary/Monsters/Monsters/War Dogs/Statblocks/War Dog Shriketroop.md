@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 1
 item_id: war-dog-shriketroop
-item_index: '356'
+item_index: '354'
 item_name: War Dog Shriketroop
 level: 7
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-shriketroop
 scdc:
-  - 1.1.1:2:356
+  - 1.1.1:2:354
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

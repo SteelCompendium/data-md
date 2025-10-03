@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 4
 intuition: 1
 item_id: big-animal-a
-item_index: '249'
+item_index: '247'
 item_name: Big Animal A
 level: 1
 might: 1
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:big-animal-a
 scdc:
-  - 1.1.1:2:249
+  - 1.1.1:2:247
 size: '2'
 source: mcdm.monsters.v1
 speed: 6

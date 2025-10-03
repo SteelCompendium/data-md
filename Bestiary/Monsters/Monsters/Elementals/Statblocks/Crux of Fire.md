@@ -8,7 +8,7 @@ file_dpath: Monsters/Elementals/Statblocks
 free_strike: 6
 intuition: 1
 item_id: crux-of-fire
-item_index: '327'
+item_index: '325'
 item_name: Crux of Fire
 level: 3
 might: -1
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:crux-of-fire
 scdc:
-  - 1.1.1:2:327
+  - 1.1.1:2:325
 size: 1T
 source: mcdm.monsters.v1
 speed: 6

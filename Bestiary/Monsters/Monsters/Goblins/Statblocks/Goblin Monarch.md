@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 4
 intuition: 0
 item_id: goblin-monarch
-item_index: '309'
+item_index: '307'
 item_name: Goblin Monarch
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-monarch
 scdc:
-  - 1.1.1:2:309
+  - 1.1.1:2:307
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

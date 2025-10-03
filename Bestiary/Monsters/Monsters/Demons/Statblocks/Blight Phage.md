@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: blight-phage
-item_index: '283'
+item_index: '281'
 item_name: Blight Phage
 level: 7
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:blight-phage
 scdc:
-  - 1.1.1:2:283
+  - 1.1.1:2:281
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

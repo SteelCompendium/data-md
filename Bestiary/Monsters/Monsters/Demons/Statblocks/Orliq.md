@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: orliq
-item_index: '274'
+item_index: '272'
 item_name: Orliq
 level: 4
 might: -1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:orliq
 scdc:
-  - 1.1.1:2:274
+  - 1.1.1:2:272
 size: 1T
 source: mcdm.monsters.v1
 speed: 6

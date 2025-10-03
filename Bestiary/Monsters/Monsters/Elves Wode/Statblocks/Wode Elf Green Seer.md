@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 2
 item_id: wode-elf-green-seer
-item_index: '223'
+item_index: '221'
 item_name: Wode Elf Green Seer
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-green-seer
 scdc:
-  - 1.1.1:2:223
+  - 1.1.1:2:221
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

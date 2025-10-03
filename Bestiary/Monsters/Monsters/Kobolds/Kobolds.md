@@ -276,7 +276,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
-> | **📏 Melee 5**            | **🎯 One creature or object** |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -460,8 +460,6 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > | **📏 Ranged 10** | **🎯 One enemy** |
 >
 > **Effect:** Until the start of the centurion's next turn, the centurion and their allies gain an edge on power rolls against the target.
->
-> **3+ Malice:** This ability targets one additional target for each 3 Malice spent.
 
 <!-- -->
 > ❗️ **Testudo!**

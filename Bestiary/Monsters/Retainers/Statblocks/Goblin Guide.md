@@ -94,6 +94,4 @@ stamina: '21'
 > | -------------- | --------------: |
 > | **📏 Special** |  **🎯 Special** |
 >
-> **Power Roll + highest characteristic:**
->
 > **Effect:** The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon strike, the strike deals an extra 10 poison damage, and if the target has M

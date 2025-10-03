@@ -18,4 +18,4 @@ type: feature/trait/conduit/4th-level-feature
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain feature, you gain 1 additional piety.
+Whenever you gain piety from a domain effect, you gain 1 additional piety.

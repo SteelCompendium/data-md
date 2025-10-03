@@ -44,7 +44,7 @@ type: monster
 > | -------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                   | **🎯 Two enemies or objects** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; pull 1
 > - **12-16:** 12 damage; pull 2
@@ -61,7 +61,7 @@ type: monster
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** Push 1; M < 1 prone
 > - **12-16:** Push 2; M < 2 prone

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 5
 intuition: 5
 item_id: war-dog-hunter-killer
-item_index: '361'
+item_index: '359'
 item_name: War Dog Hunter-Killer
 level: 10
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-hunter-killer
 scdc:
-  - 1.1.1:2:361
+  - 1.1.1:2:359
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

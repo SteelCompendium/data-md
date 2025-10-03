@@ -18,7 +18,7 @@ As a 4th-level conduit, you gain the following features.
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain feature, you gain 1 additional piety.
+Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
 #### Characteristic Increase
 

@@ -9,7 +9,7 @@ file_dpath: Monsters/Basilisks/Statblocks
 free_strike: 5
 intuition: -1
 item_id: basilisk
-item_index: '333'
+item_index: '331'
 item_name: Basilisk
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:basilisk
 scdc:
-  - 1.1.1:2:333
+  - 1.1.1:2:331
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

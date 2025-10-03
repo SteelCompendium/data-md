@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-tormentite
-item_index: '393'
+item_index: '391'
 item_name: War Dog Tormentite
 level: 5
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-tormentite
 scdc:
-  - 1.1.1:2:393
+  - 1.1.1:2:391
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

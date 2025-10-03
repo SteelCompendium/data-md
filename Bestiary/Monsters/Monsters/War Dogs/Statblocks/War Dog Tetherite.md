@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-tetherite
-item_index: '386'
+item_index: '384'
 item_name: War Dog Tetherite
 level: 1
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-tetherite
 scdc:
-  - 1.1.1:2:386
+  - 1.1.1:2:384
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -8,7 +8,7 @@ file_dpath: Monsters/Elementals/Statblocks
 free_strike: 5
 intuition: -1
 item_id: essence-of-tides
-item_index: '323'
+item_index: '321'
 item_name: Essence of Tides
 level: 3
 might: 2
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:essence-of-tides
 scdc:
-  - 1.1.1:2:323
+  - 1.1.1:2:321
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

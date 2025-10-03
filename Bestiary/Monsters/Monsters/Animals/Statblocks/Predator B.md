@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 5
 intuition: 1
 item_id: predator-b
-item_index: '248'
+item_index: '246'
 item_name: Predator B
 level: 3
 might: 2
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:predator-b
 scdc:
-  - 1.1.1:2:248
+  - 1.1.1:2:246
 size: '3'
 source: mcdm.monsters.v1
 speed: 5

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 7
 intuition: 1
 item_id: shadow-elf-eclipse
-item_index: '219'
+item_index: '217'
 item_name: Shadow Elf Eclipse
 level: 6
 might: 4
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-eclipse
 scdc:
-  - 1.1.1:2:219
+  - 1.1.1:2:217
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

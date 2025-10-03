@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-sneak
-item_index: '288'
+item_index: '286'
 item_name: Bugbear Sneak
 level: 2
 might: 2
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bugbear-sneak
 scdc:
-  - 1.1.1:2:288
+  - 1.1.1:2:286
 size: 1L
 source: mcdm.monsters.v1
 speed: 7

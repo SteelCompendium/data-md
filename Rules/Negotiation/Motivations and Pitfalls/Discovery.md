@@ -20,6 +20,5 @@ An NPC with the discovery pitfall has no interest in finding new places, peoples
 
 Arguments that appeal to a discovery motivation contend that striking a deal with the heroes will allow the NPC to gain new knowledge or acquire unique property. Example arguments include the following:
 
-"Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
-
-"We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
+- "Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
+- "We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."

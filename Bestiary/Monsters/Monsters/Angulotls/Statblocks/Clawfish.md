@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: -2
 item_id: clawfish
-item_index: '245'
+item_index: '243'
 item_name: Clawfish
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:clawfish
 scdc:
-  - 1.1.1:2:245
+  - 1.1.1:2:243
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

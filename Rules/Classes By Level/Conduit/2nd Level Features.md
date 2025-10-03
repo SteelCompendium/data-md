@@ -34,7 +34,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Feature                      |
+| Domain     | Ability                      |
 | ---------- | ---------------------------- |
 | Creation   | Statue of Power              |
 | Death      | Reap                         |

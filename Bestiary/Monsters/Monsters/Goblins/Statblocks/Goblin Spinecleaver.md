@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: goblin-spinecleaver
-item_index: '308'
+item_index: '306'
 item_name: Goblin Spinecleaver
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-spinecleaver
 scdc:
-  - 1.1.1:2:308
+  - 1.1.1:2:306
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

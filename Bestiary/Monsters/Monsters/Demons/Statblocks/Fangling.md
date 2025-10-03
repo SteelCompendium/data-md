@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: fangling
-item_index: '262'
+item_index: '260'
 item_name: Fangling
 level: 4
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:fangling
 scdc:
-  - 1.1.1:2:262
+  - 1.1.1:2:260
 size: 1L
 source: mcdm.monsters.v1
 speed: 8

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 4
 item_id: war-dog-iron-priest
-item_index: '351'
+item_index: '349'
 item_name: War Dog Iron Priest
 level: 8
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-iron-priest
 scdc:
-  - 1.1.1:2:351
+  - 1.1.1:2:349
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

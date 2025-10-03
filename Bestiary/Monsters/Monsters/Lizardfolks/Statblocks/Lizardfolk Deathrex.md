@@ -59,7 +59,7 @@ type: monster
 > | ------------------------- | ------------------------------------: |
 > | **📏 Melee 1**            | **🎯 One grabbed creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; M < 1 dazed (save ends)
 > - **12-16:** 12 damage; M < 2 dazed (save ends)

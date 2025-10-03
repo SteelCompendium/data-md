@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 5
 item_id: strategos-alkestis
-item_index: '359'
+item_index: '357'
 item_name: Strategos Alkestis
 level: 10
 might: 4
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:strategos-alkestis
 scdc:
-  - 1.1.1:2:359
+  - 1.1.1:2:357
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

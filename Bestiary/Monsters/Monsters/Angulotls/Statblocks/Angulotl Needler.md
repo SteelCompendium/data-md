@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: angulotl-needler
-item_index: '244'
+item_index: '242'
 item_name: Angulotl Needler
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:angulotl-needler
 scdc:
-  - 1.1.1:2:244
+  - 1.1.1:2:242
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

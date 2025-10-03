@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: worg
-item_index: '306'
+item_index: '304'
 item_name: Worg
 level: 1
 might: 1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:worg
 scdc:
-  - 1.1.1:2:306
+  - 1.1.1:2:304
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

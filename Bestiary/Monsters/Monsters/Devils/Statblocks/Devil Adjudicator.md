@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 7
 intuition: 1
 item_id: devil-adjudicator
-item_index: '297'
+item_index: '295'
 item_name: Devil Adjudicator
 level: 6
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:devil-adjudicator
 scdc:
-  - 1.1.1:2:297
+  - 1.1.1:2:295
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 1
 intuition: 0
 item_id: wode-elf-lookout
-item_index: '230'
+item_index: '228'
 item_name: Wode Elf Lookout
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-lookout
 scdc:
-  - 1.1.1:2:230
+  - 1.1.1:2:228
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

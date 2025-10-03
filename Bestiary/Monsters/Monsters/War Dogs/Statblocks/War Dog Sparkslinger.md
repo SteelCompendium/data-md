@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 0
 item_id: war-dog-sparkslinger
-item_index: '371'
+item_index: '369'
 item_name: War Dog Sparkslinger
 level: 4
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-sparkslinger
 scdc:
-  - 1.1.1:2:371
+  - 1.1.1:2:369
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

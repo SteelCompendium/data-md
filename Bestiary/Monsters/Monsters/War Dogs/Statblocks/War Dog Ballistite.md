@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-ballistite
-item_index: '360'
+item_index: '358'
 item_name: War Dog Ballistite
 level: 8
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-ballistite
 scdc:
-  - 1.1.1:2:360
+  - 1.1.1:2:358
 size: 1L
 source: mcdm.monsters.v1
 speed: 0

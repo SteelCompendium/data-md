@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 2
 item_id: war-dog-blackcap
-item_index: '375'
+item_index: '373'
 item_name: War Dog Blackcap
 level: 7
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-blackcap
 scdc:
-  - 1.1.1:2:375
+  - 1.1.1:2:373
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

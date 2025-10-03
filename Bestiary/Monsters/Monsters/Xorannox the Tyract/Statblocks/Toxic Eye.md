@@ -10,7 +10,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 3
 intuition: 1
 item_id: toxic-eye
-item_index: '320'
+item_index: '318'
 item_name: Toxic Eye
 level: 6
 might: -1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:toxic-eye
 scdc:
-  - 1.1.1:2:320
+  - 1.1.1:2:318
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

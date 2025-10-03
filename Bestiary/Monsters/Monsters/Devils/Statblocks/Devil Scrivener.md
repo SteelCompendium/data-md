@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 3
 intuition: 1
 item_id: devil-scrivener
-item_index: '296'
+item_index: '294'
 item_name: Devil Scrivener
 level: 5
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:devil-scrivener
 scdc:
-  - 1.1.1:2:296
+  - 1.1.1:2:294
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

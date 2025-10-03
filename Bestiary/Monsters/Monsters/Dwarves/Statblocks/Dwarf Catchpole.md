@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 2
 intuition: 0
 item_id: dwarf-catchpole
-item_index: '400'
+item_index: '398'
 item_name: Dwarf Catchpole
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:dwarf-catchpole
 scdc:
-  - 1.1.1:2:400
+  - 1.1.1:2:398
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wode-elf-greenskeeper
-item_index: '231'
+item_index: '229'
 item_name: Wode Elf Greenskeeper
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-greenskeeper
 scdc:
-  - 1.1.1:2:231
+  - 1.1.1:2:229
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 3
 item_id: tyburaki
-item_index: '259'
+item_index: '257'
 item_name: Tyburaki
 level: 10
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:tyburaki
 scdc:
-  - 1.1.1:2:259
+  - 1.1.1:2:257
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

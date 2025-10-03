@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-runner
-item_index: '311'
+item_index: '309'
 item_name: Goblin Runner
 level: 1
 might: -2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-runner
 scdc:
-  - 1.1.1:2:311
+  - 1.1.1:2:309
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

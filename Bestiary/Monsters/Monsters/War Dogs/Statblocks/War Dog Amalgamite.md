@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 0
 item_id: war-dog-amalgamite
-item_index: '380'
+item_index: '378'
 item_name: War Dog Amalgamite
 level: 2
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-amalgamite
 scdc:
-  - 1.1.1:2:380
+  - 1.1.1:2:378
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 1
 intuition: 2
 item_id: angulotl-wave
-item_index: '241'
+item_index: '239'
 item_name: Angulotl Wave
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:angulotl-wave
 scdc:
-  - 1.1.1:2:241
+  - 1.1.1:2:239
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

@@ -8,7 +8,7 @@ file_dpath: Monsters/Elementals/Statblocks
 free_strike: 6
 intuition: 2
 item_id: field-of-growth
-item_index: '324'
+item_index: '322'
 item_name: Field of Growth
 level: 3
 might: 2
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:field-of-growth
 scdc:
-  - 1.1.1:2:324
+  - 1.1.1:2:322
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

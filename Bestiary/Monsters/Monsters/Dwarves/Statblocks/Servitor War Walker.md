@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 4
 intuition: 0
 item_id: servitor-war-walker
-item_index: '396'
+item_index: '394'
 item_name: Servitor War Walker
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:servitor-war-walker
 scdc:
-  - 1.1.1:2:396
+  - 1.1.1:2:394
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

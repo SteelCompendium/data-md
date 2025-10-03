@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: angulotl-dart
-item_index: '239'
+item_index: '237'
 item_name: Angulotl Dart
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:angulotl-dart
 scdc:
-  - 1.1.1:2:239
+  - 1.1.1:2:237
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

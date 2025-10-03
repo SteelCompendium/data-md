@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-roughneck
-item_index: '291'
+item_index: '289'
 item_name: Bugbear Roughneck
 level: 2
 might: 2
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bugbear-roughneck
 scdc:
-  - 1.1.1:2:291
+  - 1.1.1:2:289
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

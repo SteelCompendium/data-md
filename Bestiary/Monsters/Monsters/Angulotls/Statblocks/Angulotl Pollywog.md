@@ -8,7 +8,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 1
 intuition: -2
 item_id: angulotl-pollywog
-item_index: '242'
+item_index: '240'
 item_name: Angulotl Pollywog
 level: 1
 might: 0
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:angulotl-pollywog
 scdc:
-  - 1.1.1:2:242
+  - 1.1.1:2:240
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

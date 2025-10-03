@@ -215,7 +215,7 @@ Whenever hero tokens are available, you can spend them in the following ways:
 - You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](#page-83-2).)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
-- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your Recovery value before taking the damage.
+- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
 
 You can use only one hero token benefit per turn or per test. Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
 

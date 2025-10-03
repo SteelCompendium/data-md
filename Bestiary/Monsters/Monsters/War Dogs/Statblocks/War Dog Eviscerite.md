@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-eviscerite
-item_index: '354'
+item_index: '352'
 item_name: War Dog Eviscerite
 level: 1
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-eviscerite
 scdc:
-  - 1.1.1:2:354
+  - 1.1.1:2:352
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

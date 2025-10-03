@@ -46,7 +46,7 @@ type: monster
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 2 damage;
+> - **≤11:** 2 damage
 > - **12-16:** 4 damage; push 3
 > - **17+:** 5 damage; push 3 or prone
 >

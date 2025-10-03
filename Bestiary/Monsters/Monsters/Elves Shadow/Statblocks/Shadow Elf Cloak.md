@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 2
 intuition: 0
 item_id: shadow-elf-cloak
-item_index: '212'
+item_index: '210'
 item_name: Shadow Elf Cloak
 level: 4
 might: 3
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-cloak
 scdc:
-  - 1.1.1:2:212
+  - 1.1.1:2:210
 size: 1M
 source: mcdm.monsters.v1
 speed: 8

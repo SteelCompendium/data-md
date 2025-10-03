@@ -445,7 +445,7 @@ Some abilities and other effects apply specific negative effects called conditio
 
 ##### Bleeding
 
-While a creature is bleeding, whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way.
+While a creature is bleeding, whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
 
 You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the tactician's Strike Now ability triggers the damage from the bleeding condition.
 
@@ -2539,7 +2539,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Feature                      |
+| Domain     | Ability                      |
 | ---------- | ---------------------------- |
 | Creation   | Statue of Power              |
 | Death      | Reap                         |
@@ -2789,7 +2789,7 @@ As a 4th-level conduit, you gain the following features.
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain feature, you gain 1 additional piety.
+Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
 #### Characteristic Increase
 
@@ -6915,7 +6915,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 8 + A damage
 > - **17+:** 12 + A damage
 >
-> **Effect:** Until the start of your next turn, whenever the target moves or is force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
+> **Effect:** Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
 
 <!-- -->
 > ###### Stunning Blow (3 Discipline)
@@ -10139,7 +10139,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability.
+Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
 When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as Minor Telekinesis, you can use it as if you had spent an amount of clarity equal to your Victories.
 

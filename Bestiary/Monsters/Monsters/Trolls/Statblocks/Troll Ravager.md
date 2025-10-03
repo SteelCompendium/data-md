@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 4
 intuition: 1
 item_id: troll-ravager
-item_index: '413'
+item_index: '411'
 item_name: Troll Ravager
 level: 9
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:troll-ravager
 scdc:
-  - 1.1.1:2:413
+  - 1.1.1:2:411
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

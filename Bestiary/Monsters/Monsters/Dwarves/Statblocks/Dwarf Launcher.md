@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 4
 intuition: 2
 item_id: dwarf-launcher
-item_index: '398'
+item_index: '396'
 item_name: Dwarf Launcher
 level: 1
 might: 1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:dwarf-launcher
 scdc:
-  - 1.1.1:2:398
+  - 1.1.1:2:396
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

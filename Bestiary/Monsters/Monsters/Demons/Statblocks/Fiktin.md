@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 1
 item_id: fiktin
-item_index: '265'
+item_index: '263'
 item_name: Fiktin
 level: 5
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:fiktin
 scdc:
-  - 1.1.1:2:265
+  - 1.1.1:2:263
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 1
 intuition: 0
 item_id: ruinant
-item_index: '285'
+item_index: '283'
 item_name: Ruinant
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:ruinant
 scdc:
-  - 1.1.1:2:285
+  - 1.1.1:2:283
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

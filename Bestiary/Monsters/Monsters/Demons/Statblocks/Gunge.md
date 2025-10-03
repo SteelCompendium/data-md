@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 2
 item_id: gunge
-item_index: '272'
+item_index: '270'
 item_name: Gunge
 level: 4
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:gunge
 scdc:
-  - 1.1.1:2:272
+  - 1.1.1:2:270
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

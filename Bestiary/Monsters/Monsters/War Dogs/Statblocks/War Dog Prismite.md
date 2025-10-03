@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-prismite
-item_index: '367'
+item_index: '365'
 item_name: War Dog Prismite
 level: 8
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-prismite
 scdc:
-  - 1.1.1:2:367
+  - 1.1.1:2:365
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

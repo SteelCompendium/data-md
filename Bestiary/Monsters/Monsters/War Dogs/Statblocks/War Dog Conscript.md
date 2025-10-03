@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-conscript
-item_index: '365'
+item_index: '363'
 item_name: War Dog Conscript
 level: 1
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-conscript
 scdc:
-  - 1.1.1:2:365
+  - 1.1.1:2:363
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

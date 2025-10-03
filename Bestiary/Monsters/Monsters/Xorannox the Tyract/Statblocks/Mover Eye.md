@@ -10,7 +10,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 3
 intuition: 1
 item_id: mover-eye
-item_index: '317'
+item_index: '315'
 item_name: Mover Eye
 level: 6
 might: -1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:mover-eye
 scdc:
-  - 1.1.1:2:317
+  - 1.1.1:2:315
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

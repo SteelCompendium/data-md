@@ -8,7 +8,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 3
 intuition: -1
 item_id: troll-limbjumble
-item_index: '414'
+item_index: '412'
 item_name: Troll Limbjumble
 level: 5
 might: 3
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:troll-limbjumble
 scdc:
-  - 1.1.1:2:414
+  - 1.1.1:2:412
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

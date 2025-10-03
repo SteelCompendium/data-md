@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 2
 item_id: shadow-elf-moondancer
-item_index: '211'
+item_index: '209'
 item_name: Shadow Elf Moondancer
 level: 5
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-moondancer
 scdc:
-  - 1.1.1:2:211
+  - 1.1.1:2:209
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

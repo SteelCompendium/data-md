@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-war-frog
-item_index: '391'
+item_index: '389'
 item_name: War Dog War Frog
 level: 4
 might: -1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-war-frog
 scdc:
-  - 1.1.1:2:391
+  - 1.1.1:2:389
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

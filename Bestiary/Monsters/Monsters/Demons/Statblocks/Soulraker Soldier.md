@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: -1
 item_id: soulraker-soldier
-item_index: '273'
+item_index: '271'
 item_name: Soulraker Soldier
 level: 7
 might: 4
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:soulraker-soldier
 scdc:
-  - 1.1.1:2:273
+  - 1.1.1:2:271
 size: '2'
 source: mcdm.monsters.v1
 speed: 6

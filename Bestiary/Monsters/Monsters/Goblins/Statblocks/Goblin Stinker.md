@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-stinker
-item_index: '312'
+item_index: '310'
 item_name: Goblin Stinker
 level: 1
 might: -2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-stinker
 scdc:
-  - 1.1.1:2:312
+  - 1.1.1:2:310
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

@@ -17,7 +17,7 @@ type: feature/ability/role-advancement/support
 <!-- -->
 > 🗡 **Battlefield Medic**
 >
-> | **Melee**      |            **Manuever** |
+> | **Melee**      |            **Maneuver** |
 > | -------------- | ----------------------: |
 > | **📏 Melee 1** | **🎯 Self or one ally** |
 >

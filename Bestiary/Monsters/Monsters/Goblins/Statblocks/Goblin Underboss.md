@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-underboss
-item_index: '313'
+item_index: '311'
 item_name: Goblin Underboss
 level: 1
 might: -1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-underboss
 scdc:
-  - 1.1.1:2:313
+  - 1.1.1:2:311
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

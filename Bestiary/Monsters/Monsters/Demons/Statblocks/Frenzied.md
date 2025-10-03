@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 1
 intuition: -1
 item_id: frenzied
-item_index: '275'
+item_index: '273'
 item_name: Frenzied
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:frenzied
 scdc:
-  - 1.1.1:2:275
+  - 1.1.1:2:273
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

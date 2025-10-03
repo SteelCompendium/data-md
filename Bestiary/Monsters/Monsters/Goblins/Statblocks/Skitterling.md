@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: skitterling
-item_index: '310'
+item_index: '308'
 item_name: Skitterling
 level: 1
 might: -5
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:skitterling
 scdc:
-  - 1.1.1:2:310
+  - 1.1.1:2:308
 size: 1T
 source: mcdm.monsters.v1
 speed: 5

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: wobalas
-item_index: '255'
+item_index: '253'
 item_name: Wobalas
 level: 4
 might: 1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wobalas
 scdc:
-  - 1.1.1:2:255
+  - 1.1.1:2:253
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

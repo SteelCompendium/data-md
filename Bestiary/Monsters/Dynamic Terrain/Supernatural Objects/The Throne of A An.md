@@ -61,7 +61,7 @@ The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, 
 > | ------------------------- | ----------------------------: |
 > | **📏 Ranged 20**          | **🎯 One creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 fire damage
 > - **12-16:** 11 fire damage

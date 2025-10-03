@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 5
 intuition: 0
 item_id: wode-elf-guerrilla
-item_index: '232'
+item_index: '230'
 item_name: Wode Elf Guerrilla
 level: 3
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-guerrilla
 scdc:
-  - 1.1.1:2:232
+  - 1.1.1:2:230
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

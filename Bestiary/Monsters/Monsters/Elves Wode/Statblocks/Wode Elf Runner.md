@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 1
 intuition: 0
 item_id: wode-elf-runner
-item_index: '225'
+item_index: '223'
 item_name: Wode Elf Runner
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-runner
 scdc:
-  - 1.1.1:2:225
+  - 1.1.1:2:223
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

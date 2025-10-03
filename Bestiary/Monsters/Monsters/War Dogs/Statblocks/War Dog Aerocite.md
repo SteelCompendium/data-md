@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-aerocite
-item_index: '368'
+item_index: '366'
 item_name: War Dog Aerocite
 level: 8
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-aerocite
 scdc:
-  - 1.1.1:2:368
+  - 1.1.1:2:366
 size: 1M
 source: mcdm.monsters.v1
 speed: 8

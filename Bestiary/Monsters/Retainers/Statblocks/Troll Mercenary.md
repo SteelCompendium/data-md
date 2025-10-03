@@ -53,6 +53,8 @@ stamina: '57'
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + highest characteristic:**
+>
 > - **≤11:** P < WEAK frightened (save ends)
 > - **12-16:** P < AVERAGE frightened (save ends)
 > - **17+:** P < STRONG frightened (save ends), push 3, prone

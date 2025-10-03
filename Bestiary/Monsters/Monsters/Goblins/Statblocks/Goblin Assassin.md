@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: goblin-assassin
-item_index: '307'
+item_index: '305'
 item_name: Goblin Assassin
 level: 1
 might: -2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-assassin
 scdc:
-  - 1.1.1:2:307
+  - 1.1.1:2:305
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: -1
 item_id: grulqin
-item_index: '269'
+item_index: '267'
 item_name: Grulqin
 level: 4
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:grulqin
 scdc:
-  - 1.1.1:2:269
+  - 1.1.1:2:267
 size: 1L
 source: mcdm.monsters.v1
 speed: 8

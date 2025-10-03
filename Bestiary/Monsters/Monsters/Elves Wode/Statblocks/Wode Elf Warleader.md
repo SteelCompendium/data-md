@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 5
 intuition: 2
 item_id: wode-elf-warleader
-item_index: '234'
+item_index: '232'
 item_name: Wode Elf Warleader
 level: 3
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-warleader
 scdc:
-  - 1.1.1:2:234
+  - 1.1.1:2:232
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

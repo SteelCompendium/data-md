@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 5
 intuition: 3
 item_id: shadow-elf-knightfell
-item_index: '210'
+item_index: '208'
 item_name: Shadow Elf Knightfell
 level: 4
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-knightfell
 scdc:
-  - 1.1.1:2:210
+  - 1.1.1:2:208
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

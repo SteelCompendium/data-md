@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-sharpshooter
-item_index: '392'
+item_index: '390'
 item_name: War Dog Sharpshooter
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-sharpshooter
 scdc:
-  - 1.1.1:2:392
+  - 1.1.1:2:390
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

@@ -44,7 +44,7 @@ type: monster
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 3 damage; M < 1 slowed (save ends)
 > - **12-16:** 6 damage; M < 2 slowed (save ends)

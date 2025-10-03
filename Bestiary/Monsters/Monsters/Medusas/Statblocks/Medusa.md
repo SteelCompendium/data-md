@@ -10,7 +10,7 @@ file_dpath: Monsters/Medusas/Statblocks
 free_strike: 8
 intuition: 0
 item_id: medusa
-item_index: '246'
+item_index: '244'
 item_name: Medusa
 level: 5
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:medusa
 scdc:
-  - 1.1.1:2:246
+  - 1.1.1:2:244
 size: 1M
 source: mcdm.monsters.v1
 speed: 10

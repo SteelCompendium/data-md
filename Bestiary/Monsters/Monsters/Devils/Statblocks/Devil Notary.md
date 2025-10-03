@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 3
 intuition: 1
 item_id: devil-notary
-item_index: '302'
+item_index: '300'
 item_name: Devil Notary
 level: 5
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:devil-notary
 scdc:
-  - 1.1.1:2:302
+  - 1.1.1:2:300
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

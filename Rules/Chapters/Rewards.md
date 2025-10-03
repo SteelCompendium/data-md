@@ -500,7 +500,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 - **Size 2:** vertical pull 3
 - **Size 3:** vertical pull 1
 
-If you pull a size 1T object adjacent to you, you can catch it.
+If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
 
 ##### Vial of Ethereal Attack
 

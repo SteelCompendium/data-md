@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 7
 intuition: 1
 item_id: shadow-elf-assassin
-item_index: '220'
+item_index: '218'
 item_name: Shadow Elf Assassin
 level: 6
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-assassin
 scdc:
-  - 1.1.1:2:220
+  - 1.1.1:2:218
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

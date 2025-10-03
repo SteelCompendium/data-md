@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-subcommander
-item_index: '370'
+item_index: '368'
 item_name: War Dog Subcommander
 level: 2
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-subcommander
 scdc:
-  - 1.1.1:2:370
+  - 1.1.1:2:368
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

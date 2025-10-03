@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 7
 intuition: 2
 item_id: shadow-elf-mournblade
-item_index: '222'
+item_index: '220'
 item_name: Shadow Elf Mournblade
 level: 6
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-mournblade
 scdc:
-  - 1.1.1:2:222
+  - 1.1.1:2:220
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

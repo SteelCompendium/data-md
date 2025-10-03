@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 4
 intuition: 0
 item_id: wode-elf-chirurgeon
-item_index: '235'
+item_index: '233'
 item_name: Wode Elf Chirurgeon
 level: 2
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-chirurgeon
 scdc:
-  - 1.1.1:2:235
+  - 1.1.1:2:233
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 2
 item_id: soulraker-handmaiden
-item_index: '270'
+item_index: '268'
 item_name: Soulraker Handmaiden
 level: 8
 might: 3
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:soulraker-handmaiden
 scdc:
-  - 1.1.1:2:270
+  - 1.1.1:2:268
 size: 1M
 source: mcdm.monsters.v1
 speed: 0

@@ -49,6 +49,8 @@ type: monster
 > - **≤11:** 2 damage
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
+>
+> **Effect:** One ally of the redeye within 2 squares of the target shifts up to 2 squares.
 
 <!-- -->
 > ❗️ **Ready Rodent**

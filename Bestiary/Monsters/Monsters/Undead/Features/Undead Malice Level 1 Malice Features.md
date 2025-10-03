@@ -30,7 +30,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > 🔳 **The Grasping, the Hungry (5 Malice)**
 >
-> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an Agility test.
+> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an **Agility test**.
 >
 > - **≤11:** 5 damage; restrained (save ends)
 > - **12-16:** 5 damage; restrained (EoT)

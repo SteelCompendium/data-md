@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: styrich
-item_index: '260'
+item_index: '258'
 item_name: Styrich
 level: 8
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:styrich
 scdc:
-  - 1.1.1:2:260
+  - 1.1.1:2:258
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

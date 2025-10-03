@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: soulraker-praetorian
-item_index: '263'
+item_index: '261'
 item_name: Soulraker Praetorian
 level: 7
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:soulraker-praetorian
 scdc:
-  - 1.1.1:2:263
+  - 1.1.1:2:261
 size: 1L
 source: mcdm.monsters.v1
 speed: 8

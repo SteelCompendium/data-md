@@ -9,7 +9,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 7
 intuition: 3
 item_id: xorannox-the-tyract
-item_index: '319'
+item_index: '317'
 item_name: Xorannox the Tyract
 level: 6
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:xorannox-the-tyract
 scdc:
-  - 1.1.1:2:319
+  - 1.1.1:2:317
 size: '3'
 source: mcdm.monsters.v1
 speed: 5

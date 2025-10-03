@@ -9,7 +9,7 @@ file_dpath: Monsters/Shambling Mound/Statblocks
 free_strike: 7
 intuition: 1
 item_id: shambling-mound
-item_index: '350'
+item_index: '348'
 item_name: Shambling Mound
 level: 5
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shambling-mound
 scdc:
-  - 1.1.1:2:350
+  - 1.1.1:2:348
 size: '3'
 source: mcdm.monsters.v1
 speed: 3

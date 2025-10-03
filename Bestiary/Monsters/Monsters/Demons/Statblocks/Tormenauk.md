@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 1
 item_id: tormenauk
-item_index: '281'
+item_index: '279'
 item_name: Tormenauk
 level: 6
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:tormenauk
 scdc:
-  - 1.1.1:2:281
+  - 1.1.1:2:279
 size: '2'
 source: mcdm.monsters.v1
 speed: 6

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 0
 item_id: muceron
-item_index: '278'
+item_index: '276'
 item_name: Muceron
 level: 3
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:muceron
 scdc:
-  - 1.1.1:2:278
+  - 1.1.1:2:276
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

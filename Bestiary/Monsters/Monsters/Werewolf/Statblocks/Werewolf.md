@@ -10,7 +10,7 @@ file_dpath: Monsters/Werewolf/Statblocks
 free_strike: 5
 intuition: 1
 item_id: werewolf
-item_index: '335'
+item_index: '333'
 item_name: Werewolf
 level: 1
 might: 3
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:werewolf
 scdc:
-  - 1.1.1:2:335
+  - 1.1.1:2:333
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

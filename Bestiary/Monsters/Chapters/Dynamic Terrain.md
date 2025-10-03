@@ -1075,9 +1075,9 @@ A massive humming crystal makes the air around it feel thick.
 <!-- -->
 > ❗️ **Psionic Pulse**
 >
-> | **-**    | **Free triggered action** |
-> | -------- | ------------------------: |
-> | **📏 -** |                  **🎯 -** |
+> | **-**          | **Free triggered action** |
+> | -------------- | ------------------------: |
+> | **📏 Special** |            **🎯 Special** |
 >
 > **Trigger:** The shard is destroyed.
 >
@@ -1482,9 +1482,9 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 6 damage; A < 0 the target is burning (save ends)
-> - **12-16:** 10 damage; A < 1 the target is burning (save ends)
-> - **17+:** 13 damage; A < 2 the target is burning (save ends)
+> - **≤11:** 6 fire damage; A < 0 the target is burning (save ends)
+> - **12-16:** 10 fire damage; A < 1 the target is burning (save ends)
+> - **17+:** 13 fire damage; A < 2 the target is burning (save ends)
 >
 > **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the iron dragon is reloaded.
 
@@ -1681,7 +1681,7 @@ The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, 
 > | ------------------------- | ----------------------------: |
 > | **📏 Ranged 20**          | **🎯 One creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 fire damage
 > - **12-16:** 11 fire damage

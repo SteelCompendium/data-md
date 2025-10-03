@@ -36,7 +36,7 @@ Stronger and smarter than their beastly counterparts, abyssal hyenas crawl out o
 
 #### Tusker Demons
 
-Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves—enemies and allies alike.
+Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the [Demons](#demons) section) are prone to violent outbursts and charge at anything that moves—enemies and allies alike.
 
 #### Gnoll Languages
 

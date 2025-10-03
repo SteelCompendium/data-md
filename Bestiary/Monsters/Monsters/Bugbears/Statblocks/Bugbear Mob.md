@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 3
 intuition: 1
 item_id: bugbear-mob
-item_index: '289'
+item_index: '287'
 item_name: Bugbear Mob
 level: 5
 might: 3
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bugbear-mob
 scdc:
-  - 1.1.1:2:289
+  - 1.1.1:2:287
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

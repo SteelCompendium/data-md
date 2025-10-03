@@ -340,7 +340,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > | **Melee, Psionic, Strike, Weapon** |               **Main action** |
 > | ---------------------------------- | ----------------------------: |
-> | **📏 Ranged 10**                   | **🎯 One creature or object** |
+> | **📏 Melee 2**                     | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >

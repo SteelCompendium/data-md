@@ -10,7 +10,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 3
 intuition: 1
 item_id: compulsion-eye
-item_index: '318'
+item_index: '316'
 item_name: Compulsion Eye
 level: 6
 might: -1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:compulsion-eye
 scdc:
-  - 1.1.1:2:318
+  - 1.1.1:2:316
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

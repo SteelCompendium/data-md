@@ -402,7 +402,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 8 + A damage
 > - **17+:** 12 + A damage
 >
-> **Effect:** Until the start of your next turn, whenever the target moves or is force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
+> **Effect:** Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
 
 <!-- -->
 > ###### Stunning Blow (3 Discipline)

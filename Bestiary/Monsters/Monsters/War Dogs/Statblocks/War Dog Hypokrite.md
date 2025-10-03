@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 0
 item_id: war-dog-hypokrite
-item_index: '385'
+item_index: '383'
 item_name: War Dog Hypokrite
 level: 4
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-hypokrite
 scdc:
-  - 1.1.1:2:385
+  - 1.1.1:2:383
 size: 1M
 source: mcdm.monsters.v1
 speed: 8

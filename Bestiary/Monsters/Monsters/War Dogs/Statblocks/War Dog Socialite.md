@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-socialite
-item_index: '369'
+item_index: '367'
 item_name: War Dog Socialite
 level: 10
 might: 2
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-socialite
 scdc:
-  - 1.1.1:2:369
+  - 1.1.1:2:367
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

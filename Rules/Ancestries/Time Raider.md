@@ -102,7 +102,7 @@ The hakaan burst into action and sped past him like a blur.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
-At the sound, the orc dashed forward into a knot of wardog commandos, her axe already hewing about her.
+At the sound, the orc dashed forward into a knot of war dog commandos, her axe already hewing about her.
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 

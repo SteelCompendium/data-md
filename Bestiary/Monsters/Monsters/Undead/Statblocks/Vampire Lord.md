@@ -2,6 +2,7 @@
 agility: 5
 ancestry:
   - Undead
+  - Vampire
 ev: '36'
 file_basename: Vampire Lord
 file_dpath: Monsters/Undead/Statblocks
@@ -30,7 +31,7 @@ type: monster
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
+|             Undead, Vampire              |                    -                     |       Level 7        |         Leader          |         EV 36          |
 | :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
 | **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |

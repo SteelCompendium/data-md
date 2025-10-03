@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-crucibite
-item_index: '355'
+item_index: '353'
 item_name: War Dog Crucibite
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-crucibite
 scdc:
-  - 1.1.1:2:355
+  - 1.1.1:2:353
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

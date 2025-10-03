@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: -2
 item_id: pitling
-item_index: '256'
+item_index: '254'
 item_name: Pitling
 level: 1
 might: -2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:pitling
 scdc:
-  - 1.1.1:2:256
+  - 1.1.1:2:254
 size: 1T
 source: mcdm.monsters.v1
 speed: 5

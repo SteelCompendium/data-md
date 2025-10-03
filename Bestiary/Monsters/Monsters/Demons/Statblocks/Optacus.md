@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 5
 item_id: optacus
-item_index: '282'
+item_index: '280'
 item_name: Optacus
 level: 10
 might: 1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:optacus
 scdc:
-  - 1.1.1:2:282
+  - 1.1.1:2:280
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

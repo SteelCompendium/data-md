@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-blood-jumper
-item_index: '358'
+item_index: '356'
 item_name: War Dog Blood Jumper
 level: 10
 might: 5
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-blood-jumper
 scdc:
-  - 1.1.1:2:358
+  - 1.1.1:2:356
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

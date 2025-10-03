@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-commander
-item_index: '292'
+item_index: '290'
 item_name: Bugbear Commander
 level: 2
 might: 2
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bugbear-commander
 scdc:
-  - 1.1.1:2:292
+  - 1.1.1:2:290
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

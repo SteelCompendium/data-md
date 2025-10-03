@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 9
 intuition: 4
 item_id: war-dog-taxiarch
-item_index: '374'
+item_index: '372'
 item_name: War Dog Taxiarch
 level: 9
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-taxiarch
 scdc:
-  - 1.1.1:2:374
+  - 1.1.1:2:372
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

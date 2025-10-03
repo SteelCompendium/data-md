@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wode-elf-druid
-item_index: '229'
+item_index: '227'
 item_name: Wode Elf Druid
 level: 2
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-druid
 scdc:
-  - 1.1.1:2:229
+  - 1.1.1:2:227
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

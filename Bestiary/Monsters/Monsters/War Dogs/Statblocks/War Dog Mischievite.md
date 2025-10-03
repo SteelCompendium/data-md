@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-mischievite
-item_index: '383'
+item_index: '381'
 item_name: War Dog Mischievite
 level: 5
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-mischievite
 scdc:
-  - 1.1.1:2:383
+  - 1.1.1:2:381
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

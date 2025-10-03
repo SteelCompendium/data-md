@@ -8,7 +8,7 @@ file_dpath: Monsters/Fossil Cryptic/Statblocks
 free_strike: 5
 intuition: 1
 item_id: fossil-cryptic
-item_index: '415'
+item_index: '413'
 item_name: Fossil Cryptic
 level: 2
 might: 3
@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:fossil-cryptic
 scdc:
-  - 1.1.1:2:415
+  - 1.1.1:2:413
 size: 1L
 source: mcdm.monsters.v1
 speed: 8

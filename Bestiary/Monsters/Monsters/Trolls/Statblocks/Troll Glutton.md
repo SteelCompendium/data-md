@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 7
 intuition: 0
 item_id: troll-glutton
-item_index: '411'
+item_index: '409'
 item_name: Troll Glutton
 level: 5
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:troll-glutton
 scdc:
-  - 1.1.1:2:411
+  - 1.1.1:2:409
 size: '2'
 source: mcdm.monsters.v1
 speed: 6

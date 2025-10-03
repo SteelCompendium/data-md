@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 7
 intuition: 3
 item_id: war-dog-tetrarch
-item_index: '363'
+item_index: '361'
 item_name: War Dog Tetrarch
 level: 6
 might: 4
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-tetrarch
 scdc:
-  - 1.1.1:2:363
+  - 1.1.1:2:361
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

@@ -94,4 +94,4 @@ stamina: '21'
 >
 > **Trigger:** A creature moves within distance.
 >
-> **Effect:** If the target has M < AVERAGE, heir movement ends, they are knocked prone, and one ally within distance gains 2 surges.
+> **Effect:** If the target has M < AVERAGE, their movement ends, they are knocked prone, and one ally within distance gains 2 surges.

@@ -528,7 +528,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 <!-- -->
 > 🗡 **Battlefield Medic**
 >
-> | **Melee**      |            **Manuever** |
+> | **Melee**      |            **Maneuver** |
 > | -------------- | ----------------------: |
 > | **📏 Melee 1** | **🎯 Self or one ally** |
 >
@@ -635,7 +635,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > **Trigger:** A creature moves within distance.
 >
-> **Effect:** If the target has M < AVERAGE, heir movement ends, they are knocked prone, and one ally within distance gains 2 surges.
+> **Effect:** If the target has M < AVERAGE, their movement ends, they are knocked prone, and one ally within distance gains 2 surges.
 
 ###### Bugbear Commando
 
@@ -1297,8 +1297,6 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | -------------- | --------------: |
 > | **📏 Special** |  **🎯 Special** |
 >
-> **Power Roll + highest characteristic:**
->
 > **Effect:** The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon strike, the strike deals an extra 10 poison damage, and if the target has M
 
 ###### Hobgoblin Flameslinger
@@ -1721,8 +1719,6 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | ---------------- | ------------------------: |
 > | **📏 Ranged 10** | **🎯 Self and each ally** |
 >
-> **Power Roll + highest characteristic:**
->
 > **Effect:** Each target can spend a Recovery, and ends the dazed, frightened, and weakened conditions on themself.
 
 ###### Time Raider Mind Healer
@@ -1825,6 +1821,8 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > | **Area**       |                  **Maneuver** |
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + highest characteristic:**
 >
 > - **≤11:** P < WEAK frightened (save ends)
 > - **12-16:** P < AVERAGE frightened (save ends)

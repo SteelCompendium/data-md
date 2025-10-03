@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 6
 intuition: 0
 item_id: troll-butcher
-item_index: '409'
+item_index: '407'
 item_name: Troll Butcher
 level: 5
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:troll-butcher
 scdc:
-  - 1.1.1:2:409
+  - 1.1.1:2:407
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

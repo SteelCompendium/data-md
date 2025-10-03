@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wode-elf-sentry
-item_index: '226'
+item_index: '224'
 item_name: Wode Elf Sentry
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-sentry
 scdc:
-  - 1.1.1:2:226
+  - 1.1.1:2:224
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

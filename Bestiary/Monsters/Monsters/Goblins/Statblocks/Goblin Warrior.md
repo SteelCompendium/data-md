@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-warrior
-item_index: '304'
+item_index: '302'
 item_name: Goblin Warrior
 level: 1
 might: -2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:goblin-warrior
 scdc:
-  - 1.1.1:2:304
+  - 1.1.1:2:302
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

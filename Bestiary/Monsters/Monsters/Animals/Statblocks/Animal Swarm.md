@@ -9,7 +9,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 4
 intuition: 2
 item_id: animal-swarm
-item_index: '250'
+item_index: '248'
 item_name: Animal Swarm
 level: 1
 might: -2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:animal-swarm
 scdc:
-  - 1.1.1:2:250
+  - 1.1.1:2:248
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 3
 intuition: 0
 item_id: bugbear-snare
-item_index: '294'
+item_index: '292'
 item_name: Bugbear Snare
 level: 5
 might: 2
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bugbear-snare
 scdc:
-  - 1.1.1:2:294
+  - 1.1.1:2:292
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

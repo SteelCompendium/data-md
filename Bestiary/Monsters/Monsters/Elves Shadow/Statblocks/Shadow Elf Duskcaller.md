@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 2
 item_id: shadow-elf-duskcaller
-item_index: '215'
+item_index: '213'
 item_name: Shadow Elf Duskcaller
 level: 5
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-duskcaller
 scdc:
-  - 1.1.1:2:215
+  - 1.1.1:2:213
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

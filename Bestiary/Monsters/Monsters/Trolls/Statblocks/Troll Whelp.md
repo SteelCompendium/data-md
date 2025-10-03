@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: troll-whelp
-item_index: '410'
+item_index: '408'
 item_name: Troll Whelp
 level: 5
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:troll-whelp
 scdc:
-  - 1.1.1:2:410
+  - 1.1.1:2:408
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

@@ -38,9 +38,9 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 6 damage; A < 0 the target is burning (save ends)
-> - **12-16:** 10 damage; A < 1 the target is burning (save ends)
-> - **17+:** 13 damage; A < 2 the target is burning (save ends)
+> - **≤11:** 6 fire damage; A < 0 the target is burning (save ends)
+> - **12-16:** 10 fire damage; A < 1 the target is burning (save ends)
+> - **17+:** 13 fire damage; A < 2 the target is burning (save ends)
 >
 > **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the iron dragon is reloaded.
 

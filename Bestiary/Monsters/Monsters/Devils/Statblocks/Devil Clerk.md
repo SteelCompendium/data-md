@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 3
 intuition: 1
 item_id: devil-clerk
-item_index: '299'
+item_index: '297'
 item_name: Devil Clerk
 level: 5
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:devil-clerk
 scdc:
-  - 1.1.1:2:299
+  - 1.1.1:2:297
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

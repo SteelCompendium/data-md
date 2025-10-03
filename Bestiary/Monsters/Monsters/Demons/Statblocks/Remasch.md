@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 0
 item_id: remasch
-item_index: '279'
+item_index: '277'
 item_name: Remasch
 level: 2
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:remasch
 scdc:
-  - 1.1.1:2:279
+  - 1.1.1:2:277
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

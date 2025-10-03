@@ -473,9 +473,7 @@ He felt the high command of Hell's armies fought battles on outdated principles.
 
 This first game was played on a board of sixty-four squares arranged in an eight-by-eight grid. There were two armies each with sixteen pieces. Eight serfs, two soldiers, two prelates, two towers, a king and queen. The game was superficially simple but held hidden depths. It taught the principles of sacrifice and territory control, of thinking like your enemy.
 
-The game evolved into the game of *Shere*, played throughout the timescape. But while the game was immediately popular far outside its intended audience, Thellasko grew dissatisfied with it, and began work on his masterpiece simply called *The Game of War*. It was complex, using hexagonal tiles to build modular terrain boards, and featuring dozens of different unit types with extensive tables that factored
-
-supplies, morale, visibility. Unlike Shere, which was an abstraction, The Game of War was a true simulation.
+The game evolved into the game of *Shere*, played throughout the timescape. But while the game was immediately popular far outside its intended audience, Thellasko grew dissatisfied with it, and began work on his masterpiece simply called *The Game of War*. It was complex, using hexagonal tiles to build modular terrain boards, and featuring dozens of different unit types with extensive tables that factored supplies, morale, visibility. Unlike Shere, which was an abstraction, The Game of War was a true simulation.
 
 Expensive to produce, *The Game of War* was never very popular outside the Academy of Dis, but Thellasko used it to train a generation of lieutenants on the art of war. His students and best players led the armies of Dis from victory to victory. Thellasko taught his students that an army must fight. All other things being equal, the army with the most experience wins.
 

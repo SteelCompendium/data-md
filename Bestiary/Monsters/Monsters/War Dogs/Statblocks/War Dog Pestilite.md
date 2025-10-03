@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-pestilite
-item_index: '366'
+item_index: '364'
 item_name: War Dog Pestilite
 level: 3
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-pestilite
 scdc:
-  - 1.1.1:2:366
+  - 1.1.1:2:364
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

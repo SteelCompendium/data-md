@@ -10,7 +10,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 3
 intuition: 1
 item_id: zapper-eye
-item_index: '316'
+item_index: '314'
 item_name: Zapper Eye
 level: 6
 might: -1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:zapper-eye
 scdc:
-  - 1.1.1:2:316
+  - 1.1.1:2:314
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

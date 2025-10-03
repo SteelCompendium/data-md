@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 1
 item_id: voiceless-talker-evolutionist
-item_index: '339'
+item_index: '337'
 item_name: Voiceless Talker Evolutionist
 level: 6
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:voiceless-talker-evolutionist
 scdc:
-  - 1.1.1:2:339
+  - 1.1.1:2:337
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

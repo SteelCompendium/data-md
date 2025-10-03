@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: -1
 item_id: ensnarer
-item_index: '257'
+item_index: '255'
 item_name: Ensnarer
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:ensnarer
 scdc:
-  - 1.1.1:2:257
+  - 1.1.1:2:255
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

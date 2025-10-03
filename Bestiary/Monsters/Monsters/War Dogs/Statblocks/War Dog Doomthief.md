@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-doomthief
-item_index: '390'
+item_index: '388'
 item_name: War Dog Doomthief
 level: 5
 might: 3
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-doomthief
 scdc:
-  - 1.1.1:2:390
+  - 1.1.1:2:388
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

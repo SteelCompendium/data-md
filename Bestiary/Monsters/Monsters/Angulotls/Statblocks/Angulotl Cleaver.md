@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 1
 item_id: angulotl-cleaver
-item_index: '240'
+item_index: '238'
 item_name: Angulotl Cleaver
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:angulotl-cleaver
 scdc:
-  - 1.1.1:2:240
+  - 1.1.1:2:238
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

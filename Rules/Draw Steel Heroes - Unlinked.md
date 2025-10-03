@@ -785,7 +785,7 @@ Whenever hero tokens are available, you can spend them in the following ways:
 - You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](#page-83-2).)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
-- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your Recovery value before taking the damage.
+- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
 
 You can use only one hero token benefit per turn or per test. Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
 
@@ -2102,7 +2102,7 @@ You have the following signature ability. Signature abilities can be used at wil
 
 - **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, slowed (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)
 
 ## High Elf
 
@@ -3096,7 +3096,7 @@ The hakaan burst into action and sped past him like a blur.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
-At the sound, the orc dashed forward into a knot of wardog commandos, her axe already hewing about her.
+At the sound, the orc dashed forward into a knot of war dog commandos, her axe already hewing about her.
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 
@@ -4449,7 +4449,7 @@ Some abilities and other effects apply specific negative effects called conditio
 
 ##### Bleeding
 
-While a creature is bleeding, whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way.
+While a creature is bleeding, whenever they use a main action, use a triggered action, or make a test or ability roll using Might or Agility, they lose Stamina equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This Stamina loss can't be prevented in any way, and only happens once per action.
 
 You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the tactician's Strike Now ability triggers the damage from the bleeding condition.
 
@@ -6543,7 +6543,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### 2nd-Level Conduit Domain Abilities Table
 
-| Domain     | Feature                      |
+| Domain     | Ability                      |
 | ---------- | ---------------------------- |
 | Creation   | Statue of Power              |
 | Death      | Reap                         |
@@ -6793,7 +6793,7 @@ As a 4th-level conduit, you gain the following features.
 
 #### Blessed Domain
 
-Whenever you gain piety from a domain feature, you gain 1 additional piety.
+Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
 #### Characteristic Increase
 
@@ -10919,7 +10919,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 > - **12-16:** 8 + A damage
 > - **17+:** 12 + A damage
 >
-> **Effect:** Until the start of your next turn, whenever the target moves or is force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
+> **Effect:** Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
 
 <!-- -->
 > ######## Stunning Blow (3 Discipline)
@@ -12390,7 +12390,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 <!-- -->
 > ######## Staggering Blow (7 Insight)
 >
-> *There’s no recovering from this.*
+> *There's no recovering from this.*
 >
 > | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 > | --------------------------------- | ------------------: |
@@ -12878,7 +12878,7 @@ Choose one of the following abilities.
 <!-- -->
 > ######## To the Stars (11 Insight)
 >
-> *You attach your most potent explosive to your foe. Under less pressing circumstances, you’re sure you could launch them into orbit.*
+> *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 >
 > | **Melee, Ranged, Strike**   |               **Main action** |
 > | --------------------------- | ----------------------------: |
@@ -13362,7 +13362,7 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ##### Goaded
 
-You have learned to leverage your marked foes’ psychology and goad them into acting before they’re tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
+You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
 
 ##### Infiltration Tactics
 
@@ -14143,7 +14143,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability.
+Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
 
 When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as Minor Telekinesis, you can use it as if you had spent an amount of clarity equal to your Victories.
 
@@ -16094,7 +16094,7 @@ Choose one of the following abilities.
 <!-- -->
 > ######## Guest Star (5 Drama)
 >
-> *We offered them a percentage of the gross. So they’re working for free!*
+> *We offered them a percentage of the gross. So they're working for free!*
 >
 > | **Magic, Ranged** | **Main action** |
 > | ----------------- | --------------: |
@@ -17383,7 +17383,7 @@ You wear light armor and wield a shield and a light weapon.
 
 #### Ranger
 
-The Ranger kit outfits you with light armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+The Ranger kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
 
 ##### Equipment
 
@@ -19120,7 +19120,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > **Effect:** The target can use a triggered action to take a main action, a maneuver, or a move action.
 >
-> **Special:** If you have the Stike Now tactician ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
+> **Special:** If you have the Strike Now tactician ability, the target can use a free triggered action instead of a triggered action to gain the benefit of this ability.
 
 **Drawback:** Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when your Renown reaches 4, 8, 12, and 16. See [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1).
 
@@ -20082,7 +20082,7 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or Disengage move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the Advance move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
 
 All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
@@ -20823,9 +20823,8 @@ An NPC with the discovery pitfall has no interest in finding new places, peoples
 
 Arguments that appeal to a discovery motivation contend that striking a deal with the heroes will allow the NPC to gain new knowledge or acquire unique property. Example arguments include the following:
 
-"Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
-
-"We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
+- "Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
+- "We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
 
 ##### Freedom
 
@@ -20886,9 +20885,7 @@ Arguments that appeal to a legacy motivation contend that striking a deal with t
 
 ##### Peace
 
-An NPC with the peace motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don't have peace and
-
-need help obtaining it, while others want their peaceful status quo to be maintained.
+An NPC with the peace motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don't have peace and need help obtaining it, while others want their peaceful status quo to be maintained.
 
 An NPC with the peace pitfall hates being bored. They want excitement, drama, and danger in their life. For them, there's nothing worse than the status quo.
 
@@ -21952,7 +21949,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become grabbed or res trained, each target in the area is instead slowed until the end of their next turn.
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become grabbed or restrained, each target in the area is instead slowed until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 
@@ -22160,7 +22157,7 @@ You sharpen the effectiveness of one of your abilities of your choice. Choose be
 
 ##### Improve Control
 
-You learn to use one of your heroic abilities more efficiently, reducing its baseline Heroic Resource cost by 1 (to a minimum of 1). You can gain this benefit only once for any ability.
+You learn to use one of your heroic abilities more efficiently, reducing its baseline Heroic Resource cost by 1 (to a minimum of 1). An ability can only be improved this way once.
 
 #### Learn New Language
 
@@ -22278,18 +22275,18 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 
 ###### Fishing Events Table
 
-| d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | While fishing, the hero reels in a talking fish. The fish informs the hero of any events that have occurred within 10 squares of the body of water where they were caught over the last week, or provides one piece of Forbidden Knowledge (see the Discover Lore project), as the Director determines.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 2   | While fishing, the hero reels in a note in a bottle. The note is written in Anjali and binds the reader into a deal with a powerful devil if read out loud. This gives the devil ownership of the reader's soul in exchange for rolling an additional d10 on all future Fishing project rolls.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 3   | While the hero is fishing, passersby inform them of a rumor of a magic fishing rod that allows the fisher to double the size of the fish they reel in. The Director can decide whether the rumor is true, and if so, where the rod might be found.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 4   | While fishing, the hero reels in an **angulotl day bringer** (see *[Draw Steel:](https://mcdm.gg/DS-Monsters) [Monsters](https://mcdm.gg/DS-Monsters)*). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their Recoveries by 1 until the end of their next respite, and gains 25 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
-| 5   | While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 6   | While fishing, the hero is energized by fond memories of their life up to that point. They gain an edge on Presence tests until the end of their next respite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also force moved, you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 8   | While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a revenant knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | While fishing, the hero reels in a talking fish. The fish informs the hero of any events that have occurred within 10 squares of the body of water where they were caught over the last week, or provides one piece of Forbidden Knowledge (see the Discover Lore project), as the Director determines.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 2   | While fishing, the hero reels in a note in a bottle. The note is written in Anjali and binds the reader into a deal with a powerful devil if read out loud. This gives the devil ownership of the reader's soul in exchange for rolling an additional d10 on all future Fishing project rolls.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 3   | While the hero is fishing, passersby inform them of a rumor of a magic fishing rod that allows the fisher to double the size of the fish they reel in. The Director can decide whether the rumor is true, and if so, where the rod might be found.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 4   | While fishing, the hero reels in an **angulotl daybringer** (see *[Draw Steel:](https://mcdm.gg/DS-Monsters) [Monsters](https://mcdm.gg/DS-Monsters)*). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their Recoveries by 1 until the end of their next respite, and gains 25 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
+| 5   | While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 6   | While fishing, the hero is energized by fond memories of their life up to that point. They gain an edge on Presence tests until the end of their next respite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also force moved, you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 8   | While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a revenant knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 #### Spend Time With Loved Ones
 
@@ -22804,7 +22801,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 - **Size 2:** vertical pull 3
 - **Size 3:** vertical pull 1
 
-If you pull a size 1T object adjacent to you, you can catch it.
+If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
 
 ##### Vial of Ethereal Attack
 
@@ -25833,9 +25830,7 @@ He felt the high command of Hell's armies fought battles on outdated principles.
 
 This first game was played on a board of sixty-four squares arranged in an eight-by-eight grid. There were two armies each with sixteen pieces. Eight serfs, two soldiers, two prelates, two towers, a king and queen. The game was superficially simple but held hidden depths. It taught the principles of sacrifice and territory control, of thinking like your enemy.
 
-The game evolved into the game of *Shere*, played throughout the timescape. But while the game was immediately popular far outside its intended audience, Thellasko grew dissatisfied with it, and began work on his masterpiece simply called *The Game of War*. It was complex, using hexagonal tiles to build modular terrain boards, and featuring dozens of different unit types with extensive tables that factored
-
-supplies, morale, visibility. Unlike Shere, which was an abstraction, The Game of War was a true simulation.
+The game evolved into the game of *Shere*, played throughout the timescape. But while the game was immediately popular far outside its intended audience, Thellasko grew dissatisfied with it, and began work on his masterpiece simply called *The Game of War*. It was complex, using hexagonal tiles to build modular terrain boards, and featuring dozens of different unit types with extensive tables that factored supplies, morale, visibility. Unlike Shere, which was an abstraction, The Game of War was a true simulation.
 
 Expensive to produce, *The Game of War* was never very popular outside the Academy of Dis, but Thellasko used it to train a generation of lieutenants on the art of war. His students and best players led the armies of Dis from victory to victory. Thellasko taught his students that an army must fight. All other things being equal, the army with the most experience wins.
 

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 2
 item_id: war-dog-sweeper
-item_index: '384'
+item_index: '382'
 item_name: War Dog Sweeper
 level: 4
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-sweeper
 scdc:
-  - 1.1.1:2:384
+  - 1.1.1:2:382
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

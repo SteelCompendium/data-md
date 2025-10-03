@@ -114,7 +114,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > 🔳 **The Grasping, the Hungry (5 Malice)**
 >
-> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an Agility test.
+> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an **Agility test**.
 >
 > - **≤11:** 5 damage; restrained (save ends)
 > - **12-16:** 5 damage; restrained (EoT)
@@ -1384,7 +1384,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |       Level 7        |         Leader          |         EV 36          |
+|             Undead, Vampire              |                    -                     |       Level 7        |         Leader          |         EV 36          |
 | :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
 | **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |

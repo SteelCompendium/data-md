@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 3
 intuition: 1
 item_id: dwarf-trapper
-item_index: '404'
+item_index: '402'
 item_name: Dwarf Trapper
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:dwarf-trapper
 scdc:
-  - 1.1.1:2:404
+  - 1.1.1:2:402
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

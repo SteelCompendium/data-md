@@ -42,7 +42,7 @@ type: monster
 >
 > | **Melee, Psionic, Strike, Weapon** |               **Main action** |
 > | ---------------------------------- | ----------------------------: |
-> | **📏 Ranged 10**                   | **🎯 One creature or object** |
+> | **📏 Melee 2**                     | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >

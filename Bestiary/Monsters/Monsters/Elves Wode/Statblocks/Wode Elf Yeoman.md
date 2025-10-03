@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 2
 intuition: 0
 item_id: wode-elf-yeoman
-item_index: '233'
+item_index: '231'
 item_name: Wode Elf Yeoman
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-yeoman
 scdc:
-  - 1.1.1:2:233
+  - 1.1.1:2:231
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

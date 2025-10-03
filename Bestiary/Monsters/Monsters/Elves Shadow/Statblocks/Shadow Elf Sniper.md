@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 3
 intuition: 0
 item_id: shadow-elf-sniper
-item_index: '218'
+item_index: '216'
 item_name: Shadow Elf Sniper
 level: 4
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-sniper
 scdc:
-  - 1.1.1:2:218
+  - 1.1.1:2:216
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

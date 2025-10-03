@@ -3,7 +3,7 @@ agility: -1
 ancestry:
   - Horror
   - Olothec
-ev: '84'
+ev: '96'
 file_basename: Olothec
 file_dpath: Monsters/Olothec/Statblocks
 free_strike: 7
@@ -31,7 +31,7 @@ type: monster
 
 ###### Olothec
 
-|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 84          |
+|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 96          |
 | :-------------------------: | :-------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |      **7**<br/> Speed       | **450**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
 | **Psychic 6**<br/> Immunity | **Fly, swim**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |

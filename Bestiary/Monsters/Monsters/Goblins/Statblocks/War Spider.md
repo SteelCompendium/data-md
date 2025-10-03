@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 4
 intuition: 0
 item_id: war-spider
-item_index: '314'
+item_index: '312'
 item_name: War Spider
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-spider
 scdc:
-  - 1.1.1:2:314
+  - 1.1.1:2:312
 size: '3'
 source: mcdm.monsters.v1
 speed: 7

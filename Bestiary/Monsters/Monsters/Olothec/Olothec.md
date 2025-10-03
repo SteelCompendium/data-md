@@ -82,7 +82,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 
 ###### Olothec
 
-|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 84          |
+|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 96          |
 | :-------------------------: | :-------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |      **7**<br/> Speed       | **450**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
 | **Psychic 6**<br/> Immunity | **Fly, swim**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |

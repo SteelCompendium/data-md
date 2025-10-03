@@ -33,9 +33,9 @@ A massive humming crystal makes the air around it feel thick.
 <!-- -->
 > ❗️ **Psionic Pulse**
 >
-> | **-**    | **Free triggered action** |
-> | -------- | ------------------------: |
-> | **📏 -** |                  **🎯 -** |
+> | **-**          | **Free triggered action** |
+> | -------------- | ------------------------: |
+> | **📏 Special** |            **🎯 Special** |
 >
 > **Trigger:** The shard is destroyed.
 >

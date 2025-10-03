@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 2
 item_id: izyak
-item_index: '271'
+item_index: '269'
 item_name: Izyak
 level: 10
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:izyak
 scdc:
-  - 1.1.1:2:271
+  - 1.1.1:2:269
 size: '2'
 source: mcdm.monsters.v1
 speed: 6

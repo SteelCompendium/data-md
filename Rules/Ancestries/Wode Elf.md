@@ -144,4 +144,4 @@ You have the following signature ability. Signature abilities can be used at wil
 
 - **≤11:** 2 + M or A damage; A < WEAK, slowed (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, slowed (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, slowed (save ends)
+- **17+:** 5 + M or A damage; A < STRONG, restrained (save ends)

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 1
 item_id: shadow-elf-panther
-item_index: '217'
+item_index: '215'
 item_name: Shadow Elf Panther
 level: 4
 might: 3
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-panther
 scdc:
-  - 1.1.1:2:217
+  - 1.1.1:2:215
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 2
 intuition: 0
 item_id: wode-elf-scout
-item_index: '224'
+item_index: '222'
 item_name: Wode Elf Scout
 level: 1
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wode-elf-scout
 scdc:
-  - 1.1.1:2:224
+  - 1.1.1:2:222
 size: 1M
 source: mcdm.monsters.v1
 speed: 10

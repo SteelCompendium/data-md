@@ -9,7 +9,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wodenelg
-item_index: '227'
+item_index: '225'
 item_name: Wodenelg
 level: 1
 might: 2
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:wodenelg
 scdc:
-  - 1.1.1:2:227
+  - 1.1.1:2:225
 size: '2'
 source: mcdm.monsters.v1
 speed: 10

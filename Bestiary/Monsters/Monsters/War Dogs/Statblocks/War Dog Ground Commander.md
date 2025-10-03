@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 5
 intuition: 2
 item_id: war-dog-ground-commander
-item_index: '357'
+item_index: '355'
 item_name: War Dog Ground Commander
 level: 3
 might: 3
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-ground-commander
 scdc:
-  - 1.1.1:2:357
+  - 1.1.1:2:355
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

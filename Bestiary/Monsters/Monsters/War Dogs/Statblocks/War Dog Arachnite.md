@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 2
 item_id: war-dog-arachnite
-item_index: '382'
+item_index: '380'
 item_name: War Dog Arachnite
 level: 6
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:war-dog-arachnite
 scdc:
-  - 1.1.1:2:382
+  - 1.1.1:2:380
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

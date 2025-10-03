@@ -9,7 +9,7 @@ file_dpath: Monsters/Count Rhodar Von Glauer/Statblocks
 free_strike: 10
 intuition: 2
 item_id: count-rhodar-von-glauer
-item_index: '287'
+item_index: '285'
 item_name: Count Rhodar von Glauer
 level: 10
 might: 3
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:count-rhodar-von-glauer
 scdc:
-  - 1.1.1:2:287
+  - 1.1.1:2:285
 size: 1M
 source: mcdm.monsters.v1
 speed: 12

@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 10
 intuition: -1
 item_id: servok-war-engine
-item_index: '329'
+item_index: '327'
 item_name: Servok War Engine
 level: 10
 might: 5
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:servok-war-engine
 scdc:
-  - 1.1.1:2:329
+  - 1.1.1:2:327
 size: '3'
 source: mcdm.monsters.v1
 speed: 5

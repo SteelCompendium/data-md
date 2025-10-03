@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: -2
 item_id: vicisitator
-item_index: '264'
+item_index: '262'
 item_name: Vicisitator
 level: 10
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:vicisitator
 scdc:
-  - 1.1.1:2:264
+  - 1.1.1:2:262
 size: 1M
 source: mcdm.monsters.v1
 speed: 9

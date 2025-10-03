@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 2
 item_id: voiceless-talker-artillerist
-item_index: '342'
+item_index: '340'
 item_name: Voiceless Talker Artillerist
 level: 6
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:voiceless-talker-artillerist
 scdc:
-  - 1.1.1:2:342
+  - 1.1.1:2:340
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

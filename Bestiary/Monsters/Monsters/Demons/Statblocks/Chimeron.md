@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: chimeron
-item_index: '268'
+item_index: '266'
 item_name: Chimeron
 level: 9
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:chimeron
 scdc:
-  - 1.1.1:2:268
+  - 1.1.1:2:266
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

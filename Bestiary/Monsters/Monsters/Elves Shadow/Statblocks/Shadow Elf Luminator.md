@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 5
 intuition: 3
 item_id: shadow-elf-luminator
-item_index: '213'
+item_index: '211'
 item_name: Shadow Elf Luminator
 level: 4
 might: 0
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-luminator
 scdc:
-  - 1.1.1:2:213
+  - 1.1.1:2:211
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 3
 item_id: bale-eye
-item_index: '284'
+item_index: '282'
 item_name: Bale Eye
 level: 5
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bale-eye
 scdc:
-  - 1.1.1:2:284
+  - 1.1.1:2:282
 size: '4'
 source: mcdm.monsters.v1
 speed: 6

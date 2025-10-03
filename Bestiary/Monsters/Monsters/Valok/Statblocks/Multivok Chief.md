@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 9
 intuition: 1
 item_id: multivok-chief
-item_index: '332'
+item_index: '330'
 item_name: Multivok Chief
 level: 9
 might: 4
@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:multivok-chief
 scdc:
-  - 1.1.1:2:332
+  - 1.1.1:2:330
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

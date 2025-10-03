@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 7
 intuition: 3
 item_id: crucible-dragon
-item_index: '345'
+item_index: '343'
 item_name: Crucible Dragon
 level: 6
 might: 4
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:crucible-dragon
 scdc:
-  - 1.1.1:2:345
+  - 1.1.1:2:343
 size: '4'
 source: mcdm.monsters.v1
 speed: 8

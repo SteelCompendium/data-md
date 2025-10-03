@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 4
 item_id: soulbinder-psyche
-item_index: '389'
+item_index: '387'
 item_name: Soulbinder Psyche
 level: 10
 might: 1
@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:soulbinder-psyche
 scdc:
-  - 1.1.1:2:389
+  - 1.1.1:2:387
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

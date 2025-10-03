@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 10
 intuition: 3
 item_id: aurumvas
-item_index: '267'
+item_index: '265'
 item_name: Aurumvas
 level: 10
 might: 5
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:aurumvas
 scdc:
-  - 1.1.1:2:267
+  - 1.1.1:2:265
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

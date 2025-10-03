@@ -9,7 +9,7 @@ file_dpath: Monsters/Kingfissure Worm/Statblocks
 free_strike: 8
 intuition: 2
 item_id: kingfissure-worm
-item_index: '247'
+item_index: '245'
 item_name: Kingfissure Worm
 level: 7
 might: 5
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:kingfissure-worm
 scdc:
-  - 1.1.1:2:247
+  - 1.1.1:2:245
 size: '5'
 source: mcdm.monsters.v1
 speed: 10

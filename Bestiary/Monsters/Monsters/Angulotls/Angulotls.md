@@ -303,7 +303,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 > **Angulotl Sample Encounters**
 >
 > - **Clawfish Ranchers, 18 EV:** Twelve clawfish, four pollywogs, two needlers
-> - **Homeguard Scouts, 24 EV:** Sixteen cleavers, eight darts, one needler, two slinks
+> - **Homeguard Scouts, 27 EV:** Sixteen cleavers, eight darts, one needler, two slinks
 > - **Corrupted Clutch, 34 EV:** Eight clawfish, twelve cleavers, eight pollywogs, one needler, two slinks, one wave
 > - **Angulotl Assault Squad, 48 EV:** Eight clawfish, twelve cleavers, twelve darts, two needlers, two slinks, one daybringer
 

@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 7
 intuition: 1
 item_id: devil-magistrate
-item_index: '300'
+item_index: '298'
 item_name: Devil Magistrate
 level: 6
 might: 1
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:devil-magistrate
 scdc:
-  - 1.1.1:2:300
+  - 1.1.1:2:298
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: bendrak
-item_index: '280'
+item_index: '278'
 item_name: Bendrak
 level: 2
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:bendrak
 scdc:
-  - 1.1.1:2:280
+  - 1.1.1:2:278
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

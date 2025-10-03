@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 4
 intuition: 1
 item_id: dwarf-gunner
-item_index: '406'
+item_index: '404'
 item_name: Dwarf Gunner
 level: 1
 might: 0
@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster:dwarf-gunner
 scdc:
-  - 1.1.1:2:406
+  - 1.1.1:2:404
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
