@@ -17794,7 +17794,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > 🗡 **Trouser Cut (3 Malice)**
 >
-> | \**Melee, Strike, Weapon* |     **Main action** |
+> | **Melee, Strike, Weapon** |     **Main action** |
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >

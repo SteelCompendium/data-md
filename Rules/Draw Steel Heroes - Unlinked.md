@@ -19306,7 +19306,7 @@ You make an Intuition test whenever you attempt a risky task that requires the u
 
 ##### Presence Tests
 
-You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.hough it's easier than easy, then
+You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.
 
 <!-- -->
 > **Influencing Player Characters With Tests**
