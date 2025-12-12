@@ -68,9 +68,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
-Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of
-
-weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
+Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
 
 "Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
 

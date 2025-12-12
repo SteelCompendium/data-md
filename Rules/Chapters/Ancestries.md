@@ -1375,9 +1375,7 @@ John smiled. "My sister liked fishing too."
 
 "Why not talk to my brother?"
 
-"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The orc's brown eyes burned and it
-
-seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for humans. "A war against Lord Saxton and his priest."
+"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The orc's brown eyes burned and it seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for humans. "A war against Lord Saxton and his priest."
 
 Khorva turned to John. "How is this your matter?"
 
@@ -1421,9 +1419,7 @@ Khorva shook her head. "Orcs have no great love for battle. We love trees and gr
 
 "It's about living with yourself. Sleeping at night."
 
-"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John
-
-felt like he learned something about the dwarf in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
+"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John felt like he learned something about the dwarf in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
 
 "War makes only one thing. Corpses." Khorva looked down at the high theochron, who nodded. Test passed.
 
@@ -1687,9 +1683,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
-Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of
-
-weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
+Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
 
 "Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
 
