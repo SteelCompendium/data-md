@@ -1446,11 +1446,11 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 
 ###### Kobold Shieldbearer
 
-|  Humanoid, Kobold   |          -          |       Level 1        |    Defender Retainer    |          EV -          |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **5**<br/> Speed   | **300**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
-|  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+|  Humanoid, Kobold   |          -          |       Level 1       |    Defender Retainer    |          EV -          |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Gladius (Signature Ability)**

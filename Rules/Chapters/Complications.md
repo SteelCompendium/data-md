@@ -811,9 +811,9 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 >
 > *Psionic energy bursts from your body in an iridescent shimmer.*
 >
-> | **Area, Psionic** |               **Main action** |
-> | ----------------- | ----------------------------: |
-> | **📏 3 burst**    | **🎯 Each enemy in the area** |
+> | **Area, Psionic** |                  **Main action** |
+> | ----------------- | -------------------------------: |
+> | **📏 3 burst**    | **🎯 Each creature in the area** |
 >
 > **Effect:** Using this ability costs all your Heroic Resource.
 >

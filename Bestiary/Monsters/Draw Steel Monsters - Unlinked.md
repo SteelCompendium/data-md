@@ -27463,20 +27463,21 @@ A reinforced metal shield embedded in the ground acts as cover for the creature 
 - **Stamina:** 9
 - **Size:** 1M
 
-🌀 **Deactivate**
-
-As a maneuver, a creature adjacent to a pavise shield controlled by another creature can make a **Might test**.
-
-- **≤11:** The creature controlling the shield retains control of it and can make an opportunity attack against the creature making the test.
-- **12-16:** The creature controlling the shield retains control of it.
-- **17+:** The creature making the test grabs the shield and takes control of it.
+<!-- -->
+> 🌀 **Deactivate**
+>
+> As a maneuver, a creature adjacent to a pavise shield controlled by another creature can make a **Might test**.
+>
+> - **≤11:** The creature controlling the shield retains control of it and can make an opportunity attack against the creature making the test.
+> - **12-16:** The creature controlling the shield retains control of it.
+> - **17+:** The creature making the test grabs the shield and takes control of it.
 
 <!-- -->
-> ❕ **Activate**
+> ⭐️ **Controlling the Shield**
 >
-> **Effect:** While a creature has the pavise shield grabbed, they have cover and take half damage from abilities whose line of effect extends through the shield. The pavise shield takes the other half of the damage.
+> While a creature has the pavise shield grabbed, they have cover and take half damage from abilities whose line of effect extends through the shield. The pavise shield takes the other half of the damage.
 >
-> **Movement:** While a creature has a pavise shield grabbed, their speed is halved and they move the shield like a grabbed creature.
+> While a creature has a pavise shield grabbed, their speed is halved and they move the shield like a grabbed creature.
 
 **<span class="steel-compendium-malice">Snare Trap (Level 1 Trap Ambusher)</span>**
 
@@ -30090,11 +30091,11 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 
 **<span class="steel-compendium-statblock">Kobold Shieldbearer</span>**
 
-| Humanoid, Kobold  |         -         |      Level 1       |   Defender Retainer   |         EV -         |
-| :---------------: | :---------------: | :----------------: | :-------------------: | :------------------: |
-|   **2**<br>Size   |  **5**<br>Speed   | **300**<br>Stamina |  **4**<br>Stability   | **6**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+1**<br>Agility |  **0**<br>Reason   |  **0**<br>Intuition   |  **0**<br>Presence   |
+| Humanoid, Kobold  |         -         |      Level 1      |   Defender Retainer   |         EV -         |
+| :---------------: | :---------------: | :---------------: | :-------------------: | :------------------: |
+|   **2**<br>Size   |  **5**<br>Speed   | **21**<br>Stamina |  **4**<br>Stability   | **6**<br>Free Strike |
+| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
+|  **+2**<br>Might  | **+1**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
 
 <!-- -->
 > 🗡 **Gladius (Signature Ability)**

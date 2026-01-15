@@ -37,6 +37,6 @@ type: feature/ability/shadow/1st-level-feature
 
 **Power Roll + Agility:**
 
-- **≤11:** 4 + A damage; R < WEAK, bleeding (save ends)
-- **12-16:** 6 + A damage; R < AVERAGE, bleeding (save ends)
-- **17+:** 10 + A damage; R < STRONG, bleeding (save ends)
+- **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)
+- **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)
+- **17+:** 10 + A damage; A < STRONG, bleeding (save ends)

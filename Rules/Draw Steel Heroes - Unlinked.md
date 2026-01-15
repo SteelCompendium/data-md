@@ -2838,9 +2838,9 @@ You have the following ability.
 
 *You become an actual shadow.*
 
-| **Magic**   | **Main action** |
-| ----------- | --------------: |
-| **📏 Self** |     **🎯 Self** |
+| **Magic**   | **Maneuver** |
+| ----------- | -----------: |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
@@ -12077,9 +12077,9 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; R < WEAK, bleeding (save ends)
-> - **12-16:** 6 + A damage; R < AVERAGE, bleeding (save ends)
-> - **17+:** 10 + A damage; R < STRONG, bleeding (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, bleeding (save ends)
+> - **12-16:** 6 + A damage; A < AVERAGE, bleeding (save ends)
+> - **17+:** 10 + A damage; A < STRONG, bleeding (save ends)
 
 <!-- -->
 > ######## Get In Get Out (3 Insight)
@@ -18918,9 +18918,9 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 >
 > *Psionic energy bursts from your body in an iridescent shimmer.*
 >
-> | **Area, Psionic** |               **Main action** |
-> | ----------------- | ----------------------------: |
-> | **📏 3 burst**    | **🎯 Each enemy in the area** |
+> | **Area, Psionic** |                  **Main action** |
+> | ----------------- | -------------------------------: |
+> | **📏 3 burst**    | **🎯 Each creature in the area** |
 >
 > **Effect:** Using this ability costs all your Heroic Resource.
 >
