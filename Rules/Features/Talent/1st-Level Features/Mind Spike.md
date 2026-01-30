@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Mind Spike
 file_dpath: Talent/1st-Level Features
 item_id: mind-spike
-item_index: '16'
+item_index: '17'
 item_name: Mind Spike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:mind-spike
 scdc:
-  - 1.1.1:11.1.1.1:16
+  - 1.1.1:11.1.1.1:17
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Quickness Ward
 file_dpath: Conduit/1st-Level Features
 item_id: quickness-ward
-item_index: '26'
+item_index: '27'
 item_name: Quickness Ward
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:quickness-ward
 scdc:
-  - 1.1.1:11.1.8.1:26
+  - 1.1.1:11.1.8.1:27
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

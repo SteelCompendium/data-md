@@ -10,6 +10,7 @@ type: index
 | [Accelerate](../Accelerate)                                     |          |      | 1     | trait        | feature     |          |        |
 | [Again](../Again)                                               |          |      | 1     | trait        | feature     |          |        |
 | [Battle Augmentation](../Battle%20Augmentation)                 |          |      | 1     | trait        | feature     |          |        |
+| [Clarity in Combat](../Clarity%20in%20Combat)                   |          |      | 1     | trait        | feature     |          |        |
 | [Clarity Outside of Combat](../Clarity%20Outside%20of%20Combat) |          |      | 1     | trait        | feature     |          |        |
 | [Density Augmentation](../Density%20Augmentation)               |          |      | 1     | trait        | feature     |          |        |
 | [Distance Augmentation](../Distance%20Augmentation)             |          |      | 1     | trait        | feature     |          |        |

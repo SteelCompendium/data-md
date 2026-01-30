@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Ray of Wrath
 file_dpath: Conduit/1st-Level Features
 item_id: ray-of-wrath
-item_index: '35'
+item_index: '36'
 item_name: Ray of Wrath
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:ray-of-wrath
 scdc:
-  - 1.1.1:11.1.8.1:35
+  - 1.1.1:11.1.8.1:36
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

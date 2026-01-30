@@ -21,6 +21,7 @@ type: index
 | [Insight in Combat](../1st-Level%20Features/Insight%20in%20Combat)                                         |                 |      | 1     | trait        | feature     |          |        |
 | [Insight Outside of Combat](../1st-Level%20Features/Insight%20Outside%20of%20Combat)                       |                 |      | 1     | trait        | feature     |          |        |
 | [Kit](../1st-Level%20Features/Kit)                                                                         |                 |      | 1     | trait        | feature     |          |        |
+| [Shadow College](../1st-Level%20Features/Shadow%20College)                                                 |                 |      | 1     | trait        | feature     |          |        |
 | [Signature Ability](../1st-Level%20Features/Signature%20Ability)                                           |                 |      | 1     | trait        | feature     |          |        |
 | [Smoke Bomb](../1st-Level%20Features/Smoke%20Bomb)                                                         | Caustic Alchemy |      | 1     | trait        | feature     |          |        |
 | [2nd Level Black Ash Ability](../2nd-Level%20Features/2nd%20Level%20Black%20Ash%20Ability)                 |                 |      | 2     | trait        | feature     |          |        |

@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Density Augmentation
 file_dpath: Talent/1st-Level Features
 item_id: density-augmentation
-item_index: '20'
+item_index: '21'
 item_name: Density Augmentation
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:density-augmentation
 scdc:
-  - 1.1.1:11.1.1.1:20
+  - 1.1.1:11.1.1.1:21
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

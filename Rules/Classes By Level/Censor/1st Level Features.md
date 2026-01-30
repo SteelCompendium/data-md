@@ -32,21 +32,6 @@ Choose a god or saint who your character reveres from Chapter 14: Gods and Relig
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* Cavall as deity and War as domain.)
 
-###### Censor Advancement Table
-
-| Level | Features                                                                                                   | Abilities                 | Order<br/> Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------- |
-| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                    |
-| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                    |
-| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                    |
-| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                    |
-| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                    |
-| 6th   | Implement of Wrath, Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                              | Signature, 3, 5, 7, 9     | 5, 9                 |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9                 |
-| 9th   | Improved Implement of Wrath, Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11             |
-
 #### Wrath
 
 The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you censor those your church deems to be heretics.

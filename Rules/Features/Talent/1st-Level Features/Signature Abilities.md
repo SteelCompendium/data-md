@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Signature Abilities
 file_dpath: Talent/1st-Level Features
 item_id: signature-abilities
-item_index: '07'
+item_index: 08
 item_name: Signature Abilities
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:signature-abilities
 scdc:
-  - 1.1.1:11.1.1.1:07
+  - 1.1.1:11.1.1.1:08
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

@@ -28,21 +28,6 @@ You graduated from a shadow college chosen from the following options, each of w
 
 Your shadow college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
-###### Shadow Advancement Table
-
-| Level | Features                                                                                                            | Abilities                 | College Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
-| 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
-| 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
-| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
-| 5th   | College Feature, 9-Insight Ability                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, Umbral Form, College Ability                                                                                  | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                        | Signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | College Feature, Perk, 11-Insight Ability                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | Gloom Squad, College Ability                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-
 #### Insight
 
 By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.

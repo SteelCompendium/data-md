@@ -26,6 +26,7 @@ type: index
 | [Love Domain Piety and Effect](../Love%20Domain%20Piety%20and%20Effect)             |            |      | 1     | trait        | feature     |          |        |
 | [Nature Domain Piety and Effect](../Nature%20Domain%20Piety%20and%20Effect)         |            |      | 1     | trait        | feature     |          |        |
 | [Oracular Visions](../Oracular%20Visions)                                           | Fate       |      | 1     | trait        | feature     |          |        |
+| [Piety in Combat](../Piety%20in%20Combat)                                           |            |      | 1     | trait        | feature     |          |        |
 | [Piety Outside of Combat](../Piety%20Outside%20of%20Combat)                         |            |      | 1     | trait        | feature     |          |        |
 | [Prayer of Destruction](../Prayer%20of%20Destruction)                               |            |      | 1     | trait        | feature     |          |        |
 | [Prayer of Distance](../Prayer%20of%20Distance)                                     |            |      | 1     | trait        | feature     |          |        |

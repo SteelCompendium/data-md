@@ -14,5 +14,6 @@ type: index
 | [Insight in Combat](../Insight%20in%20Combat)                   |                 |      | 1     | trait        | feature     |          |        |
 | [Insight Outside of Combat](../Insight%20Outside%20of%20Combat) |                 |      | 1     | trait        | feature     |          |        |
 | [Kit](../Kit)                                                   |                 |      | 1     | trait        | feature     |          |        |
+| [Shadow College](../Shadow%20College)                           |                 |      | 1     | trait        | feature     |          |        |
 | [Signature Ability](../Signature%20Ability)                     |                 |      | 1     | trait        | feature     |          |        |
 | [Smoke Bomb](../Smoke%20Bomb)                                   | Caustic Alchemy |      | 1     | trait        | feature     |          |        |

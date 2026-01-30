@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Sanctified Weapon
 file_dpath: Conduit/1st-Level Features
 item_id: sanctified-weapon
-item_index: '33'
+item_index: '34'
 item_name: Sanctified Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon
 scdc:
-  - 1.1.1:11.1.8.1:33
+  - 1.1.1:11.1.8.1:34
 source: mcdm.heroes.v1
 subclass: War
 type: feature/trait/conduit/1st-level-feature

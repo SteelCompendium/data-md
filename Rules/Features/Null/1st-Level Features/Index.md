@@ -8,6 +8,7 @@ type: index
 | File Name                                                             | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | --------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
 | [Density Augmentation](../Density%20Augmentation)                     |          |      | 1     | trait        | feature     |          |        |
+| [Discipline in Combat](../Discipline%20in%20Combat)                   |          |      | 1     | trait        | feature     |          |        |
 | [Discipline Outside of Combat](../Discipline%20Outside%20of%20Combat) |          |      | 1     | trait        | feature     |          |        |
 | [Force Augmentation](../Force%20Augmentation)                         |          |      | 1     | trait        | feature     |          |        |
 | [Inertial Shield](../Inertial%20Shield)                               |          |      | 1     | trait        | feature     |          |        |

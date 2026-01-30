@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Null Tradition
 file_dpath: Null/1st-Level Features
 item_id: null-tradition
-item_index: '02'
+item_index: '03'
 item_name: Null Tradition
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-tradition
 scdc:
-  - 1.1.1:11.1.6.1:02
+  - 1.1.1:11.1.6.1:03
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

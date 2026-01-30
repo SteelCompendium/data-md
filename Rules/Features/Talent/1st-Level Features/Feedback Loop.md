@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Feedback Loop
 file_dpath: Talent/1st-Level Features
 item_id: feedback-loop
-item_index: '14'
+item_index: '15'
 item_name: Feedback Loop
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:feedback-loop
 scdc:
-  - 1.1.1:11.1.1.1:14
+  - 1.1.1:11.1.1.1:15
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

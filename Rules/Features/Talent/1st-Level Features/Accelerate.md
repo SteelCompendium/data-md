@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Accelerate
 file_dpath: Talent/1st-Level Features
 item_id: accelerate
-item_index: 09
+item_index: '10'
 item_name: Accelerate
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:accelerate
 scdc:
-  - 1.1.1:11.1.1.1:09
+  - 1.1.1:11.1.1.1:10
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

@@ -17,6 +17,7 @@ type: index
 | [Blessing of Comprehension](../1st-Level%20Features/Blessing%20of%20Comprehension)           | Knowledge  |      | 1     | trait        | feature     |          |        |
 | [Blessing of Fortunate Weather](../1st-Level%20Features/Blessing%20of%20Fortunate%20Weather) | Storm      |      | 1     | trait        | feature     |          |        |
 | [Censor Order](../1st-Level%20Features/Censor%20Order)                                       |            |      | 1     | trait        | feature     |          |        |
+| [Deity and Domains](../1st-Level%20Features/Deity%20and%20Domains)                           |            |      | 1     | trait        | feature     |          |        |
 | [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 | Nature     |      | 1     | trait        | feature     |          |        |
 | [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                       |            |      | 1     | trait        | feature     |          |        |
 | [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                       |            |      | 1     | trait        | feature     |          |        |

@@ -4539,6 +4539,21 @@ As a censor, you're at your best against the strongest foes. Your judgment terri
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups (see [Skills](#page-268-0) in Chapter 9: Tests). (*Quick Build:* Intimidate, Religion.)
 
+###### Censor Advancement Table
+
+| Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
+| ----- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------ |
+| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                  |
+| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
+| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
+| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                  |
+| 6th   | Implement of Wrath, Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                              | Signature, 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | Improved Implement of Wrath, Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
+
 ### 1st-Level Features
 
 As a 1st-level censor, you gain the following features.
@@ -4558,21 +4573,6 @@ Your censor order is your subclass, and your choice of order determines many of 
 Choose a god or saint who your character reveres from Chapter 14: Gods and Religion, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* Cavall as deity and War as domain.)
-
-###### Censor Advancement Table
-
-| Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
-| ----- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------ |
-| 1st   | Censor Order, Deity and Domains, Wrath, Judgment, Kit, My Life for Yours, Domain Feature, Censor Abilities | Signature, 3, 5           | -                  |
-| 2nd   | Perk, Order Features, Order Ability                                                                        | Signature, 3, 5           | 5                  |
-| 3rd   | Look On My Work and Despair, 7-Wrath Ability                                                               | Signature, 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Perk, Skill, Wrath Beyond Wrath, Domain Feature                                   | Signature, 3, 5, 7        | 5                  |
-| 5th   | Order Feature, 9-Wrath Ability                                                                             | Signature, 3, 5, 7, 9     | 5                  |
-| 6th   | Implement of Wrath, Perk, Order Ability                                                                    | Signature, 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Domain Feature, Focused Wrath, Skill                                              | Signature, 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Order Feature, 11-Wrath Ability                                                                      | Signature, 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Improved Implement of Wrath, Order Ability                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Perk, Skill, Templar, Virtue, Wrath of the Gods                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 #### Wrath
 
@@ -5899,6 +5899,21 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: Tests). (*Quick Build:* Read Person, Religion.)
 
+###### Conduit Advancement Table
+
+| Level | Features                                                                                                                         | Abilities                     | Domain Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
+| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                        | Two signature, 3, 5           | 5                |
+| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                   | Two signature, 3, 5, 7        | 5                |
+| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                   | Two signature, 3, 5, 7        | 5                |
+| 5th   | Domain Feature, 9-Piety Ability                                                                                                  | Two signature, 3, 5, 7, 9     | 5                |
+| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                           | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                          | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+
 ### 1st-Level Features
 
 As a conduit, you gain the following features.
@@ -5924,21 +5939,6 @@ Additionally, you can gain more piety by praying to the gods—but beware! Doing
 - If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
 
 You lose any remaining piety at the end of the encounter.
-
-###### Conduit Advancement Table
-
-| Level | Features                                                                                                                         | Abilities                     | Domain Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
-| 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                        | Two signature, 3, 5           | 5                |
-| 3rd   | Minor Miracle, 7-Piety Ability                                                                                                   | Two signature, 3, 5, 7        | 5                |
-| 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                   | Two signature, 3, 5, 7        | 5                |
-| 5th   | Domain Feature, 9-Piety Ability                                                                                                  | Two signature, 3, 5, 7, 9     | 5                |
-| 6th   | Burgeoning Saint, Perk, Domain Ability                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Domain Feature, Faithful's Reward, Skill Increase                                                       | Two signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Domain Feature, Perk, 11-Piety Ability                                                                                           | Two signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Domain Ability, Faith's Sword, Ordained                                                                                          | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ##### Piety Outside of Combat
 
@@ -7609,6 +7609,21 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Skills:** You gain the Magic skill (see Skills in Chapter 9: Tests). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
+###### Elementalist Advancement Table
+
+| Level | Features                                                                                                                                                                                            | Abilities                           |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
+| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
+| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+
 ### 1st-Level Features
 
 As a 1st-level elementalist, you gain the following features.
@@ -7626,21 +7641,6 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
-
-###### Elementalist Advancement Table
-
-| Level | Features                                                                                                                                                                                            | Abilities                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Elementalist Ward, Elementalist Abilities | Two signature, 3, 5                 |
-| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                                                                 | Two signature, 3, 5, 5              |
-| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 4th   | Characteristic Increase, Font of Essence, Mantle of Essence, Perk, Skill Increase                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 5th   | Specialization Feature, 9-Essence Ability                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
-| 6th   | Perk, Wyrding, New 9-Essence Ability                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th   | Characteristic Increase, Mantle of Quintessence, Surging Essence, Skill Increase                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ##### Earth: Acolyte of Earth
 
@@ -9074,6 +9074,21 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Skills:** You gain the Nature skill (see Skills in Chapter 9: Tests). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
+###### Fury Advancement Table
+
+| Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities           | Signature, 3, 5           | -                |
+| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                            | Signature, 3, 5           | 5                |
+| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                              | Signature, 3, 5, 7        | 5                |
+| 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill | Signature, 3, 5, 7        | 5                |
+| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                |
+| 6th   | Marauder of the Primordial Chaos, Perk, Aspect Ability                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
+| 7th   | Characteristic Increase, Elemental Form, Greater Ferocity, Growing Ferocity Improvement, Skill                                  | Signature, 3, 5, 7, 9     | 5, 9             |
+| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
+| 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+| 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
+
 ### 1st-Level Features
 
 As a 1st-level fury, you gain the following features.
@@ -9096,21 +9111,6 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 > **Where's My Maneuver?**
 >
 > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
-
-###### Fury Advancement Table
-
-| Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 1st   | Primordial Aspect, Ferocity, Growing Ferocity, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities           | Signature, 3, 5           | -                |
-| 2nd   | Perk, Aspect Feature, Aspect Ability                                                                                            | Signature, 3, 5           | 5                |
-| 3rd   | Aspect Feature, 7-Ferocity Ability                                                                                              | Signature, 3, 5, 7        | 5                |
-| 4th   | Characteristic Increase, Damaging Ferocity, Growing Ferocity Improvement, Perk, Primordial Attunement, Primordial Strike, Skill | Signature, 3, 5, 7        | 5                |
-| 5th   | Aspect Feature, 9-Ferocity Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                |
-| 6th   | Marauder of the Primordial Chaos, Perk, Aspect Ability                                                                          | Signature, 3, 5, 7, 9     | 5, 9             |
-| 7th   | Characteristic Increase, Elemental Form, Greater Ferocity, Growing Ferocity Improvement, Skill                                  | Signature, 3, 5, 7, 9     | 5, 9             |
-| 8th   | Perk, Aspect Feature, 11-Ferocity Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9             |
-| 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
-| 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
 ##### Ferocity in Combat
 
@@ -10556,6 +10556,21 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **Skills:** You gain the Psionics skill (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Timescape.)
 
+###### Null Advancement Table
+
+| Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
+| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced Null Field, Perk, Regenerative Field, Skill                                       | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | I Am the Weapon, Tradition Ability                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+
 ### 1st-Level Features
 
 As a 1st-level null, you gain the following features.
@@ -10581,21 +10596,6 @@ At the start of a combat encounter or some other stressful situation tracked in 
 Additionally, the first time each combat round that an enemy in the area of your Null Field ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
-
-###### Null Advancement Table
-
-| Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
-| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced Null Field, Perk, Regenerative Field, Skill                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | I Am the Weapon, Tradition Ability                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ##### Discipline Outside of Combat
 
@@ -11769,6 +11769,21 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: Tests). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:* Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
+###### Shadow Advancement Table
+
+| Level | Features                                                                                                            | Abilities                 | College Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
+| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
+| 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
+| 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
+| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
+| 5th   | College Feature, 9-Insight Ability                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
+| 6th   | Perk, Umbral Form, College Ability                                                                                  | Signature, 3, 5, 7, 9     | 5, 9              |
+| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                        | Signature, 3, 5, 7, 9     | 5, 9              |
+| 8th   | College Feature, Perk, 11-Insight Ability                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
+| 9th   | Gloom Squad, College Ability                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
+
 ### 1st-Level Features
 
 As a 1st-level shadow, you gain the following features.
@@ -11784,21 +11799,6 @@ You graduated from a shadow college chosen from the following options, each of w
 - College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the Lie skill.
 
 Your shadow college is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
-
-###### Shadow Advancement Table
-
-| Level | Features                                                                                                            | Abilities                 | College Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
-| 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
-| 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
-| 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
-| 5th   | College Feature, 9-Insight Ability                                                                                  | Signature, 3, 5, 7, 9     | 5                 |
-| 6th   | Perk, Umbral Form, College Ability                                                                                  | Signature, 3, 5, 7, 9     | 5, 9              |
-| 7th   | Characteristic Increase, Keen Insight, Skill, Careful Observation Improvement, Ventriloquist                        | Signature, 3, 5, 7, 9     | 5, 9              |
-| 8th   | College Feature, Perk, 11-Insight Ability                                                                           | Signature, 3, 5, 7, 9, 11 | 5, 9              |
-| 9th   | Gloom Squad, College Ability                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
-| 10th  | Characteristic Increase, Death Pool, Perk, Skill, Careful Observation Improvement, Improved Umbral Form, Subterfuge | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
 #### Insight
 
@@ -12991,6 +12991,21 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Skills:** You gain the Lead skill (see Skills in Chapter 9: Tests). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
 
+###### Tactician Advancement Table
+
+| Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
+| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | -                  |
+| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
+| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
+| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
+| 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
+| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
+| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
+| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
+| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
+
 ### 1st-Level Features
 
 As a 1st-level tactician, you gain the following features.
@@ -13008,21 +13023,6 @@ Your tactical doctrine is your subclass, and your choice of doctrine determines 
 #### Focus
 
 The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
-
-###### Tactician Advancement Table
-
-| Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | -                  |
-| 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
-| 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
-| 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
-| 5th   | Doctrine Feature, 9-Focus Ability                                                                                           | 3, 5, 7, 9     | 5                  |
-| 6th   | Master of Arms, Perk, Doctrine Ability                                                                                      | 3, 5, 7, 9     | 5, 9               |
-| 7th   | Characteristic Increase, Heightened Focus, Seize the Initiative, Skill, Doctrine Feature                                    | 3, 5, 7, 9     | 5, 9               |
-| 8th   | Perk, Doctrine Feature, 11-Focus Ability                                                                                    | 3, 5, 7, 9, 11 | 5, 9               |
-| 9th   | Grandmaster of Arms, Doctrine Ability                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
-| 10th  | Characteristic Increase, Command, Perk, Skill, True Focus, Warmaster                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
 ##### Focus in Combat
 
@@ -14085,6 +14085,21 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **Skills:** You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, Read Person, Timescape.)
 
+###### Talent Advancement Table
+
+| Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
+| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
+| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
+| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
+| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+
 ### 1st-Level Features
 
 As a 1st-level talent, you gain the following features.
@@ -14119,21 +14134,6 @@ You can spend clarity you don't have, pushing that Heroic Resource into negative
 Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
 
 You lose any remaining clarity or reset any negative clarity at the end of the encounter.
-
-###### Talent Advancement Table
-
-| Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ##### Clarity Outside of Combat
 
@@ -15540,6 +15540,21 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
+###### Troubadour Advancement Table
+
+| Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | -                   |
+| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
+| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
+| 6th   | Perk, Spotlight, Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
+| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 9th   | Roar of the Crowd, Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+
 ### 1st-Level Features
 
 As a 1st-level troubadour, you gain the following features.
@@ -15557,21 +15572,6 @@ Your troubadour class act is your subclass, and your choice of class act determi
 #### Drama
 
 During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
-
-###### Troubadour Advancement Table
-
-| Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | -                   |
-| 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
-| 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
-| 5th   | Class Act Feature, 9-Drama Ability                                                                                              | Signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Spotlight, Class Act Ability                                                                                              | Signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, A Muse's Muse, Equal Billing, Skill                                                                    | Signature, 5, 7, 9        | 5, 9                |
-| 8th   | Perk, Class Act Feature, 11-Drama Ability                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 9th   | Roar of the Crowd, Class Act Ability                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Applause, Characteristic Increase, Dramaturgy, Greatest of All Time, Perk, Skill                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ##### Drama in Combat
 

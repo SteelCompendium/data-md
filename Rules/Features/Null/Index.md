@@ -15,6 +15,7 @@ type: index
 | [Perk](../10th-Level%20Features/Perk)                                                                |               |      | 10    | trait        | feature     |          |        |
 | [Skill](../10th-Level%20Features/Skill)                                                              |               |      | 10    | trait        | feature     |          |        |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                               |               |      | 1     | trait        | feature     |          |        |
+| [Discipline in Combat](../1st-Level%20Features/Discipline%20in%20Combat)                             |               |      | 1     | trait        | feature     |          |        |
 | [Discipline Outside of Combat](../1st-Level%20Features/Discipline%20Outside%20of%20Combat)           |               |      | 1     | trait        | feature     |          |        |
 | [Force Augmentation](../1st-Level%20Features/Force%20Augmentation)                                   |               |      | 1     | trait        | feature     |          |        |
 | [Inertial Shield](../1st-Level%20Features/Inertial%20Shield)                                         |               |      | 1     | trait        | feature     |          |        |

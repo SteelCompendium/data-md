@@ -47,21 +47,6 @@ Whenever you have clarity below 0, you are strained. Some psionic abilities have
 
 You lose any remaining clarity or reset any negative clarity at the end of the encounter.
 
-###### Talent Advancement Table
-
-| Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Clarity Ability                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Perk, Psi Boost, Tradition Ability                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Skill, Vision                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-
 ##### Clarity Outside of Combat
 
 Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.

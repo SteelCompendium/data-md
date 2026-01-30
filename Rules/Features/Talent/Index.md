@@ -17,6 +17,7 @@ type: index
 | [Accelerate](../1st-Level%20Features/Accelerate)                                                 |             |      | 1     | trait        | feature     |          |        |
 | [Again](../1st-Level%20Features/Again)                                                           |             |      | 1     | trait        | feature     |          |        |
 | [Battle Augmentation](../1st-Level%20Features/Battle%20Augmentation)                             |             |      | 1     | trait        | feature     |          |        |
+| [Clarity in Combat](../1st-Level%20Features/Clarity%20in%20Combat)                               |             |      | 1     | trait        | feature     |          |        |
 | [Clarity Outside of Combat](../1st-Level%20Features/Clarity%20Outside%20of%20Combat)             |             |      | 1     | trait        | feature     |          |        |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                           |             |      | 1     | trait        | feature     |          |        |
 | [Distance Augmentation](../1st-Level%20Features/Distance%20Augmentation)                         |             |      | 1     | trait        | feature     |          |        |

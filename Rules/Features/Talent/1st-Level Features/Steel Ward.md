@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Steel Ward
 file_dpath: Talent/1st-Level Features
 item_id: steel-ward
-item_index: '15'
+item_index: '16'
 item_name: Steel Ward
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:steel-ward
 scdc:
-  - 1.1.1:11.1.1.1:15
+  - 1.1.1:11.1.1.1:16
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

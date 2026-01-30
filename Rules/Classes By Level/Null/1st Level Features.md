@@ -38,21 +38,6 @@ Additionally, the first time each combat round that an enemy in the area of your
 
 You lose any remaining discipline at the end of the encounter.
 
-###### Null Advancement Table
-
-| Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | -                   |
-| 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
-| 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced Null Field, Perk, Regenerative Field, Skill                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | Tradition Feature, 9-Discipline Ability                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | Elemental Absorption, Elemental Buffer, Perk, Tradition Ability                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | Characteristic Increase, Discipline Mastery Improvement, Psi Boost, Improved Body, Skill                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | Perk, Tradition Feature, 11-Discipline Ability                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | I Am the Weapon, Tradition Ability                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | Characteristic Increase, Discipline Mastery Improvement, Manifold Body, Manifold Resonance, Order, Perk, Skill                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-
 ##### Discipline Outside of Combat
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.

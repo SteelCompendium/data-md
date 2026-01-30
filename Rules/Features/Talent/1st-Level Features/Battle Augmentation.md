@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Battle Augmentation
 file_dpath: Talent/1st-Level Features
 item_id: battle-augmentation
-item_index: '06'
+item_index: '07'
 item_name: Battle Augmentation
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:battle-augmentation
 scdc:
-  - 1.1.1:11.1.1.1:06
+  - 1.1.1:11.1.1.1:07
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

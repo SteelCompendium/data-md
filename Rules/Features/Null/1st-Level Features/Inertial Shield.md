@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Inertial Shield
 file_dpath: Null/1st-Level Features
 item_id: inertial-shield
-item_index: '01'
+item_index: '02'
 item_name: Inertial Shield
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:inertial-shield
 scdc:
-  - 1.1.1:11.1.6.1:01
+  - 1.1.1:11.1.6.1:02
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

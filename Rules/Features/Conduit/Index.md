@@ -32,6 +32,7 @@ type: index
 | [Love Domain Piety and Effect](../1st-Level%20Features/Love%20Domain%20Piety%20and%20Effect)             |            |      | 1     | trait        | feature     |          |        |
 | [Nature Domain Piety and Effect](../1st-Level%20Features/Nature%20Domain%20Piety%20and%20Effect)         |            |      | 1     | trait        | feature     |          |        |
 | [Oracular Visions](../1st-Level%20Features/Oracular%20Visions)                                           | Fate       |      | 1     | trait        | feature     |          |        |
+| [Piety in Combat](../1st-Level%20Features/Piety%20in%20Combat)                                           |            |      | 1     | trait        | feature     |          |        |
 | [Piety Outside of Combat](../1st-Level%20Features/Piety%20Outside%20of%20Combat)                         |            |      | 1     | trait        | feature     |          |        |
 | [Prayer of Destruction](../1st-Level%20Features/Prayer%20of%20Destruction)                               |            |      | 1     | trait        | feature     |          |        |
 | [Prayer of Distance](../1st-Level%20Features/Prayer%20of%20Distance)                                     |            |      | 1     | trait        | feature     |          |        |

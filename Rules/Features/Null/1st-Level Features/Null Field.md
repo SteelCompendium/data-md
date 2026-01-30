@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Null Field
 file_dpath: Null/1st-Level Features
 item_id: null-field
-item_index: '05'
+item_index: '06'
 item_name: Null Field
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-field
 scdc:
-  - 1.1.1:11.1.6.1:05
+  - 1.1.1:11.1.6.1:06
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---
