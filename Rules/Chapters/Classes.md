@@ -8097,6 +8097,8 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 > - **≤11:** 5 + A damage
 > - **12-16:** 8 + A damage
 > - **17+:** 11 + A damage
+>
+> **Effect:** You can shift up to your speed, dividing that movement before or after your strike as desired.
 
 <!-- -->
 > ###### Two Throats at Once (3 Insight)

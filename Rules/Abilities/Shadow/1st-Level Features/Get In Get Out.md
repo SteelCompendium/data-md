@@ -39,3 +39,5 @@ type: feature/ability/shadow/1st-level-feature
 - **≤11:** 5 + A damage
 - **12-16:** 8 + A damage
 - **17+:** 11 + A damage
+
+**Effect:** You can shift up to your speed, dividing that movement before or after your strike as desired.
