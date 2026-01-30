@@ -17,6 +17,7 @@ type: index
 | [Beast Shape](../1st-Level%20Features/Beast%20Shape)                                                   | Stormwight |      | 1     | trait        | feature     |          |        |
 | [Ferocity in Combat](../1st-Level%20Features/Ferocity%20in%20Combat)                                   |            |      | 1     | trait        | feature     |          |        |
 | [Ferocity Outside of Combat](../1st-Level%20Features/Ferocity%20Outside%20of%20Combat)                 |            |      | 1     | trait        | feature     |          |        |
+| [Growing Ferocity](../1st-Level%20Features/Growing%20Ferocity)                                         |            |      | 1     | trait        | feature     |          |        |
 | [Kit](../1st-Level%20Features/Kit)                                                                     |            |      | 1     | trait        | feature     |          |        |
 | [Mighty Leaps](../1st-Level%20Features/Mighty%20Leaps)                                                 |            |      | 1     | trait        | feature     |          |        |
 | [Primordial Aspect](../1st-Level%20Features/Primordial%20Aspect)                                       |            |      | 1     | trait        | feature     |          |        |
