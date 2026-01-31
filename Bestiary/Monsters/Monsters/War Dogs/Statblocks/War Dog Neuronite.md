@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-neuronite
-item_index: '379'
+item_index: '31'
 item_name: War Dog Neuronite
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:war-dog-neuronite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-neuronite
 scdc:
-  - 1.1.1:2:379
+  - 1.1.1:2.49.1:31
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '20'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Neuronite

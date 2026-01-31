@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: gnoll-bonesplitter
-item_index: '40'
+item_index: '06'
 item_name: Gnoll Bonesplitter
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:gnoll-bonesplitter
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-bonesplitter
 scdc:
-  - 1.1.1:2:40
+  - 1.1.1:2.6.1:06
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '25'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Bonesplitter

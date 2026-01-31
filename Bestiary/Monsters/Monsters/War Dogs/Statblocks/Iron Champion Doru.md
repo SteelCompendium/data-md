@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 4
 item_id: iron-champion-doru
-item_index: '377'
+item_index: '29'
 item_name: Iron Champion Doru
 level: 10
 might: 5
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:iron-champion-doru
+  - mcdm.monsters.v1:monster.war-dogs.statblock:iron-champion-doru
 scdc:
-  - 1.1.1:2:377
+  - 1.1.1:2.49.1:29
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '260'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### Iron Champion Doru

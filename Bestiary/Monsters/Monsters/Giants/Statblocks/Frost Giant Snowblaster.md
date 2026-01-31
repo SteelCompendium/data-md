@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 4
 intuition: 4
 item_id: frost-giant-snowblaster
-item_index: '195'
+item_index: '04'
 item_name: Frost Giant Snowblaster
 level: 8
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:frost-giant-snowblaster
+  - mcdm.monsters.v1:monster.giants.statblock:frost-giant-snowblaster
 scdc:
-  - 1.1.1:2:195
+  - 1.1.1:2.22.1:04
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
 stability: 5
 stamina: '12'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Frost Giant Snowblaster

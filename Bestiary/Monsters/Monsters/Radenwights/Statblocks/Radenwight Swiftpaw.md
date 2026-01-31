@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 1
 intuition: 0
 item_id: radenwight-swiftpaw
-item_index: '156'
+item_index: 08
 item_name: Radenwight Swiftpaw
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:radenwight-swiftpaw
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-swiftpaw
 scdc:
-  - 1.1.1:2:156
+  - 1.1.1:2.18.1:08
 size: 1S
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Swiftpaw

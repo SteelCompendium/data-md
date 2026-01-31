@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 1
 intuition: -1
 item_id: crawling-claw
-item_index: '75'
+item_index: '23'
 item_name: Crawling Claw
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -5
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:crawling-claw
+  - mcdm.monsters.v1:monster.undead.statblock:crawling-claw
 scdc:
-  - 1.1.1:2:75
+  - 1.1.1:2.8.1:23
 size: 1T
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Crawling Claw

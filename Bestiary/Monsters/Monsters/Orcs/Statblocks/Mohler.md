@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 2
 intuition: 1
 item_id: mohler
-item_index: '123'
+item_index: '01'
 item_name: Mohler
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -4
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:mohler
+  - mcdm.monsters.v1:monster.orcs.statblock:mohler
 scdc:
-  - 1.1.1:2:123
+  - 1.1.1:2.15.1:01
 size: 1S
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '4'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Mohler

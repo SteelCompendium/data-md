@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: gnoll-abyssal-archer
-item_index: '35'
+item_index: '01'
 item_name: Gnoll Abyssal Archer
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:gnoll-abyssal-archer
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-abyssal-archer
 scdc:
-  - 1.1.1:2:35
+  - 1.1.1:2.6.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '15'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Abyssal Archer

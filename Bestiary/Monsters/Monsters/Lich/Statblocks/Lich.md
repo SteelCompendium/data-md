@@ -8,7 +8,7 @@ file_dpath: Monsters/Lich/Statblocks
 free_strike: 10
 intuition: 5
 item_id: lich
-item_index: '347'
+item_index: '01'
 item_name: Lich
 level: 10
 might: 2
@@ -17,15 +17,15 @@ reason: 5
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:lich
+  - mcdm.monsters.v1:monster.lich.statblock:lich
 scdc:
-  - 1.1.1:2:347
+  - 1.1.1:2.47.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 10
 stability: 1
 stamina: '650'
-type: monster
+type: monster/lich/statblock
 ---
 
 ###### Lich

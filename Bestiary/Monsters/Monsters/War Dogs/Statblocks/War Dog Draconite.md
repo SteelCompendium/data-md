@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: -1
 item_id: war-dog-draconite
-item_index: '362'
+item_index: '14'
 item_name: War Dog Draconite
 level: 7
 might: 4
@@ -19,15 +19,15 @@ reason: -2
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-draconite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-draconite
 scdc:
-  - 1.1.1:2:362
+  - 1.1.1:2.49.1:14
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '13'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Draconite

@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 4
 intuition: 3
 item_id: cyclops
-item_index: '05'
+item_index: '04'
 item_name: Cyclops
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Controller
 scc:
-  - mcdm.monsters.v1:monster:cyclops
+  - mcdm.monsters.v1:monster.ogres.statblock:cyclops
 scdc:
-  - 1.1.1:2:05
+  - 1.1.1:2.4.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 5
 stamina: '14'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Cyclops

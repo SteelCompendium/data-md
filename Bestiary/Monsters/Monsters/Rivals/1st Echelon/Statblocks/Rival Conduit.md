@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/1st Echelon/Statblocks
 free_strike: 5
 intuition: 2
 item_id: rival-conduit
-item_index: '10'
+item_index: '04'
 item_name: Rival Conduit
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Support
 scc:
-  - mcdm.monsters.v1:monster:rival-conduit
+  - mcdm.monsters.v1:monster.rivals.1st echelon.statblock:rival-conduit
 scdc:
-  - 1.1.1:2:10
+  - 1.1.1:2.5.1.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '80'
-type: monster
+type: monster/rivals/1st echelon/statblock
 ---
 
 ###### Rival Conduit

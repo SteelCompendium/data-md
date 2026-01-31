@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 9
 intuition: -1
 item_id: servok-miner
-item_index: '329'
+item_index: '04'
 item_name: Servok Miner
 level: 9
 might: 4
@@ -20,15 +20,15 @@ reason: -4
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:servok-miner
+  - mcdm.monsters.v1:monster.valok.statblock:servok-miner
 scdc:
-  - 1.1.1:2:329
+  - 1.1.1:2.41.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 6
 stamina: '200'
-type: monster
+type: monster/valok/statblock
 ---
 
 ###### Servok Miner

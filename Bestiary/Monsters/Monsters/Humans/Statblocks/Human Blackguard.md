@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 4
 intuition: 0
 item_id: human-blackguard
-item_index: '166'
+item_index: '10'
 item_name: Human Blackguard
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:human-blackguard
+  - mcdm.monsters.v1:monster.humans.statblock:human-blackguard
 scdc:
-  - 1.1.1:2:166
+  - 1.1.1:2.19.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '80'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Blackguard

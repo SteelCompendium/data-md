@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: -2
 item_id: war-dog-equivite
-item_index: '360'
+item_index: '12'
 item_name: War Dog Equivite
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-equivite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-equivite
 scdc:
-  - 1.1.1:2:360
+  - 1.1.1:2.49.1:12
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '53'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Equivite

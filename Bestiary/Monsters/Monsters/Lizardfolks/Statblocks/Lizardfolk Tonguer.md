@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 2
 intuition: 1
 item_id: lizardfolk-tonguer
-item_index: '49'
+item_index: '04'
 item_name: Lizardfolk Tonguer
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-tonguer
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-tonguer
 scdc:
-  - 1.1.1:2:49
+  - 1.1.1:2.7.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Tonguer

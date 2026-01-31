@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-aerocite
-item_index: '366'
+item_index: '18'
 item_name: War Dog Aerocite
 level: 8
 might: 0
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-aerocite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-aerocite
 scdc:
-  - 1.1.1:2:366
+  - 1.1.1:2.49.1:18
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '50'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Aerocite

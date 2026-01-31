@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-runner
-item_index: '309'
+item_index: 08
 item_name: Goblin Runner
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:goblin-runner
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-runner
 scdc:
-  - 1.1.1:2:309
+  - 1.1.1:2.38.1:08
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Runner

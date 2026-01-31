@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 0
 item_id: fleshflayed-shambler-zombie
-item_index: '81'
+item_index: '29'
 item_name: Fleshflayed Shambler Zombie
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:fleshflayed-shambler-zombie
+  - mcdm.monsters.v1:monster.undead.statblock:fleshflayed-shambler-zombie
 scdc:
-  - 1.1.1:2:81
+  - 1.1.1:2.8.1:29
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '9'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Fleshflayed Shambler Zombie

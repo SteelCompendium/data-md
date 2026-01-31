@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 1
 item_id: fiktin
-item_index: '263'
+item_index: '12'
 item_name: Fiktin
 level: 5
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:fiktin
+  - mcdm.monsters.v1:monster.demons.statblock:fiktin
 scdc:
-  - 1.1.1:2:263
+  - 1.1.1:2.33.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '35'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Fiktin

@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 2
 intuition: 0
 item_id: kobold-venator
-item_index: '93'
+item_index: '05'
 item_name: Kobold Venator
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:kobold-venator
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-venator
 scdc:
-  - 1.1.1:2:93
+  - 1.1.1:2.10.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Venator

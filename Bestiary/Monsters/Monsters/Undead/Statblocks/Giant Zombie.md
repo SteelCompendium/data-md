@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 6
 intuition: 1
 item_id: giant-zombie
-item_index: '67'
+item_index: '15'
 item_name: Giant Zombie
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:giant-zombie
+  - mcdm.monsters.v1:monster.undead.statblock:giant-zombie
 scdc:
-  - 1.1.1:2:67
+  - 1.1.1:2.8.1:15
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '140'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Giant Zombie

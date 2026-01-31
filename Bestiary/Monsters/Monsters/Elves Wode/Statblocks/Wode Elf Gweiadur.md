@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 5
 intuition: 1
 item_id: wode-elf-gweiadur
-item_index: '226'
+item_index: '06'
 item_name: Wode Elf Gweiadur
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:wode-elf-gweiadur
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-gweiadur
 scdc:
-  - 1.1.1:2:226
+  - 1.1.1:2.26.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '40'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wode Elf Gweiadur

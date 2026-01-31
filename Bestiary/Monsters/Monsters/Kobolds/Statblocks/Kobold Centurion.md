@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 2
 intuition: 0
 item_id: kobold-centurion
-item_index: '99'
+item_index: '11'
 item_name: Kobold Centurion
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:kobold-centurion
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-centurion
 scdc:
-  - 1.1.1:2:99
+  - 1.1.1:2.10.1:11
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '80'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Centurion

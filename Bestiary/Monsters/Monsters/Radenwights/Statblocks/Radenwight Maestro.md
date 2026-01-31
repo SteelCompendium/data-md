@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 4
 intuition: 0
 item_id: radenwight-maestro
-item_index: '151'
+item_index: '03'
 item_name: Radenwight Maestro
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:radenwight-maestro
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-maestro
 scdc:
-  - 1.1.1:2:151
+  - 1.1.1:2.18.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '80'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Maestro

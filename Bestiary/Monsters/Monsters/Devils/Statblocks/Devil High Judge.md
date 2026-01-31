@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 6
 intuition: 1
 item_id: devil-high-judge
-item_index: '296'
+item_index: '03'
 item_name: Devil High Judge
 level: 6
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:devil-high-judge
+  - mcdm.monsters.v1:monster.devils.statblock:devil-high-judge
 scdc:
-  - 1.1.1:2:296
+  - 1.1.1:2.37.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '181'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil High Judge

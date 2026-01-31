@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 2
 item_id: gunge
-item_index: '270'
+item_index: '19'
 item_name: Gunge
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:gunge
+  - mcdm.monsters.v1:monster.demons.statblock:gunge
 scdc:
-  - 1.1.1:2:270
+  - 1.1.1:2.33.1:19
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '25'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Gunge

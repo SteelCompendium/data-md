@@ -5,11 +5,11 @@ item_id: 8th-level-features
 item_index: '05'
 item_name: 8th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:8th-level-features
+  - mcdm.heroes.v1:class.elementalist.level:8th-level-features
 scdc:
-  - 1.1.1:2.1:05
+  - 1.1.1:2.1.1:05
 source: mcdm.heroes.v1
-type: class/level
+type: class/elementalist/level
 ---
 
 ### 8th-Level Features

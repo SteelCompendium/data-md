@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 0
 item_id: phrrygalax-the-subduer
-item_index: '103'
+item_index: '03'
 item_name: Phrrygalax the Subduer
 level: 6
 might: 3
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:phrrygalax-the-subduer
+  - mcdm.monsters.v1:monster.draconians.statblock:phrrygalax-the-subduer
 scdc:
-  - 1.1.1:2:103
+  - 1.1.1:2.11.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '180'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Phrrygalax the Subduer

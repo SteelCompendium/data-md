@@ -10,7 +10,7 @@ file_dpath: Monsters/Minotaurs/Statblocks
 free_strike: 3
 intuition: 1
 item_id: minotaur-lackey
-item_index: '172'
+item_index: '01'
 item_name: Minotaur Lackey
 level: 8
 might: 3
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:minotaur-lackey
+  - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur-lackey
 scdc:
-  - 1.1.1:2:172
+  - 1.1.1:2.20.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '13'
-type: monster
+type: monster/minotaurs/statblock
 ---
 
 ###### Minotaur Lackey

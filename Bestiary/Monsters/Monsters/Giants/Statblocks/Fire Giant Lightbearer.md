@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 9
 intuition: 4
 item_id: fire-giant-lightbearer
-item_index: '193'
+item_index: '02'
 item_name: Fire Giant Lightbearer
 level: 9
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Support
 scc:
-  - mcdm.monsters.v1:monster:fire-giant-lightbearer
+  - mcdm.monsters.v1:monster.giants.statblock:fire-giant-lightbearer
 scdc:
-  - 1.1.1:2:193
+  - 1.1.1:2.22.1:02
 size: '4'
 source: mcdm.monsters.v1
 speed: 8
 stability: 5
 stamina: '200'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Fire Giant Lightbearer

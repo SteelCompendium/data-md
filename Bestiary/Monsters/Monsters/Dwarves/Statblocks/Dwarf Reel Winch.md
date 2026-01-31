@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 3
 intuition: 1
 item_id: dwarf-reel-winch
-item_index: '406'
+item_index: '13'
 item_name: Dwarf Reel Winch
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:dwarf-reel-winch
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-reel-winch
 scdc:
-  - 1.1.1:2:406
+  - 1.1.1:2.50.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '36'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Reel Winch

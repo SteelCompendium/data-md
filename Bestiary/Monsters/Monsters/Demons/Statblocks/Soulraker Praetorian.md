@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: soulraker-praetorian
-item_index: '261'
+item_index: '10'
 item_name: Soulraker Praetorian
 level: 7
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:soulraker-praetorian
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-praetorian
 scdc:
-  - 1.1.1:2:261
+  - 1.1.1:2.33.1:10
 size: 1L
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '45'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Praetorian

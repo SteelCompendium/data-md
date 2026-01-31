@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 1
 intuition: 0
 item_id: torlas
-item_index: '284'
+item_index: '33'
 item_name: Torlas
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:torlas
+  - mcdm.monsters.v1:monster.demons.statblock:torlas
 scdc:
-  - 1.1.1:2:284
+  - 1.1.1:2.33.1:33
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Torlas

@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 1
 item_id: mummy-rotwrap
-item_index: '85'
+item_index: '33'
 item_name: Mummy Rotwrap
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:mummy-rotwrap
+  - mcdm.monsters.v1:monster.undead.statblock:mummy-rotwrap
 scdc:
-  - 1.1.1:2:85
+  - 1.1.1:2.8.1:33
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '15'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Mummy Rotwrap

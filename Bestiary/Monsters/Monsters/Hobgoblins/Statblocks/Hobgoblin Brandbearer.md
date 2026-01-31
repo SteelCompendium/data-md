@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: hobgoblin-brandbearer
-item_index: '187'
+item_index: '11'
 item_name: Hobgoblin Brandbearer
 level: 4
 might: 0
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-brandbearer
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-brandbearer
 scdc:
-  - 1.1.1:2:187
+  - 1.1.1:2.21.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '7'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Brandbearer

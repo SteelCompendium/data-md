@@ -10,7 +10,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 4
 intuition: 0
 item_id: trained-gummy-brick
-item_index: '94'
+item_index: '06'
 item_name: Trained Gummy Brick
 level: 1
 might: 2
@@ -19,15 +19,15 @@ reason: -3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:trained-gummy-brick
+  - mcdm.monsters.v1:monster.kobolds.statblock:trained-gummy-brick
 scdc:
-  - 1.1.1:2:94
+  - 1.1.1:2.10.1:06
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '40'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Trained Gummy Brick

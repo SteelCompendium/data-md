@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 1
 intuition: 2
 item_id: angulotl-wave
-item_index: '239'
+item_index: '04'
 item_name: Angulotl Wave
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:angulotl-wave
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-wave
 scdc:
-  - 1.1.1:2:239
+  - 1.1.1:2.29.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Wave

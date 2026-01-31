@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: 0
 item_id: high-elf-deathtouch
-item_index: '120'
+item_index: '13'
 item_name: High Elf Deathtouch
 level: 2
 might: 2
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:high-elf-deathtouch
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-deathtouch
 scdc:
-  - 1.1.1:2:120
+  - 1.1.1:2.13.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Deathtouch

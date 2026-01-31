@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 2
 item_id: mindkiller
-item_index: '338'
+item_index: '05'
 item_name: Mindkiller
 level: 6
 might: -1
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:mindkiller
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:mindkiller
 scdc:
-  - 1.1.1:2:338
+  - 1.1.1:2.44.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '140'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Mindkiller

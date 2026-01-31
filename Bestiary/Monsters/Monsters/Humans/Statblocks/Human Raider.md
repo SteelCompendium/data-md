@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 1
 intuition: 0
 item_id: human-raider
-item_index: '159'
+item_index: '03'
 item_name: Human Raider
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:human-raider
+  - mcdm.monsters.v1:monster.humans.statblock:human-raider
 scdc:
-  - 1.1.1:2:159
+  - 1.1.1:2.19.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Raider

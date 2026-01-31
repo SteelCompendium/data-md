@@ -2,14 +2,14 @@
 file_basename: 10th Level Features
 file_dpath: Classes By Level/Tactician
 item_id: 10th-level-features
-item_index: '59'
+item_index: '03'
 item_name: 10th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:10th-level-features
+  - mcdm.heroes.v1:class.tactician.level:10th-level-features
 scdc:
-  - 1.1.1:2.1:59
+  - 1.1.1:2.6.1:03
 source: mcdm.heroes.v1
-type: class/level
+type: class/tactician/level
 ---
 
 ### 10th-Level Features

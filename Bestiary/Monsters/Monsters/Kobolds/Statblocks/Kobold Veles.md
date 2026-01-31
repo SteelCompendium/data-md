@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 1
 intuition: 0
 item_id: kobold-veles
-item_index: '95'
+item_index: '07'
 item_name: Kobold Veles
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:kobold-veles
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-veles
 scdc:
-  - 1.1.1:2:95
+  - 1.1.1:2.10.1:07
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Veles

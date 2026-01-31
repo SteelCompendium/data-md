@@ -2,14 +2,14 @@
 file_basename: Basics
 file_dpath: Classes By Level/Censor
 item_id: basics
-item_index: '32'
+item_index: '10'
 item_name: Basics
 scc:
-  - mcdm.heroes.v1:class.level:basics
+  - mcdm.heroes.v1:class.censor.level:basics
 scdc:
-  - 1.1.1:2.1:32
+  - 1.1.1:2.3.1:10
 source: mcdm.heroes.v1
-type: class/level
+type: class/censor/level
 ---
 
 ### Basics

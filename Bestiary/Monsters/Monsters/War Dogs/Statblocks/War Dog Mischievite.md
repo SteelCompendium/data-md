@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-mischievite
-item_index: '381'
+item_index: '33'
 item_name: War Dog Mischievite
 level: 5
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-mischievite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-mischievite
 scdc:
-  - 1.1.1:2:381
+  - 1.1.1:2.49.1:33
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '35'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Mischievite

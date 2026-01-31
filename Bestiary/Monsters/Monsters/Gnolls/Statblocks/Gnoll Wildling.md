@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: gnoll-wildling
-item_index: '43'
+item_index: 09
 item_name: Gnoll Wildling
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:gnoll-wildling
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-wildling
 scdc:
-  - 1.1.1:2:43
+  - 1.1.1:2.6.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '5'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Wildling

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 7
 intuition: 2
 item_id: shadow-elf-mournblade
-item_index: '220'
+item_index: '14'
 item_name: Shadow Elf Mournblade
 level: 6
 might: 2
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-mournblade
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-mournblade
 scdc:
-  - 1.1.1:2:220
+  - 1.1.1:2.25.1:14
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '80'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Mournblade

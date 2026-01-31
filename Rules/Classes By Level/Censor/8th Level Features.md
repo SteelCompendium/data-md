@@ -2,14 +2,14 @@
 file_basename: 8th Level Features
 file_dpath: Classes By Level/Censor
 item_id: 8th-level-features
-item_index: '27'
+item_index: '05'
 item_name: 8th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:8th-level-features
+  - mcdm.heroes.v1:class.censor.level:8th-level-features
 scdc:
-  - 1.1.1:2.1:27
+  - 1.1.1:2.3.1:05
 source: mcdm.heroes.v1
-type: class/level
+type: class/censor/level
 ---
 
 ### 8th-Level Features

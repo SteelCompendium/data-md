@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: styrich
-item_index: '258'
+item_index: '07'
 item_name: Styrich
 level: 8
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:styrich
+  - mcdm.monsters.v1:monster.demons.statblock:styrich
 scdc:
-  - 1.1.1:2:258
+  - 1.1.1:2.33.1:07
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '45'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Styrich

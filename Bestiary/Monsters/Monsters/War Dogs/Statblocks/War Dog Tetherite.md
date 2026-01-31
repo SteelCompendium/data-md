@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-tetherite
-item_index: '384'
+item_index: '36'
 item_name: War Dog Tetherite
 level: 1
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-tetherite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-tetherite
 scdc:
-  - 1.1.1:2:384
+  - 1.1.1:2.49.1:36
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '5'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Tetherite

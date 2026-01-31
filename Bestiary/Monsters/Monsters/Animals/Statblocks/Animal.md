@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 4
 intuition: 1
 item_id: animal
-item_index: '249'
+item_index: '04'
 item_name: Animal
 level: 1
 might: 0
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:animal
+  - mcdm.monsters.v1:monster.animals.statblock:animal
 scdc:
-  - 1.1.1:2:249
+  - 1.1.1:2.32.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '60'
-type: monster
+type: monster/animals/statblock
 ---
 
 ###### Animal

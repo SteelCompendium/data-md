@@ -9,7 +9,7 @@ file_dpath: Monsters/Griffons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: griffon
-item_index: '87'
+item_index: '01'
 item_name: Griffon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:griffon
+  - mcdm.monsters.v1:monster.griffons.statblock:griffon
 scdc:
-  - 1.1.1:2:87
+  - 1.1.1:2.9.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 9
 stability: 2
 stamina: '80'
-type: monster
+type: monster/griffons/statblock
 ---
 
 ###### Griffon

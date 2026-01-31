@@ -10,7 +10,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 3
 intuition: 1
 item_id: demolition
-item_index: '319'
+item_index: '06'
 item_name: Demolition
 level: 6
 might: -1
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Artillery
 scc:
-  - mcdm.monsters.v1:monster:demolition
+  - mcdm.monsters.v1:monster.xorannox the tyract.statblock:demolition
 scdc:
-  - 1.1.1:2:319
+  - 1.1.1:2.39.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/xorannox the tyract/statblock
 ---
 
 ###### Demolition

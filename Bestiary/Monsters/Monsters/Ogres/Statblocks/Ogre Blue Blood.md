@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 4
 intuition: 0
 item_id: ogre-blue-blood
-item_index: '04'
+item_index: '03'
 item_name: Ogre Blue Blood
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:ogre-blue-blood
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-blue-blood
 scdc:
-  - 1.1.1:2:04
+  - 1.1.1:2.4.1:03
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '13'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Blue Blood

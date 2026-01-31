@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: decrepit-skeleton
-item_index: '82'
+item_index: '30'
 item_name: Decrepit Skeleton
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:decrepit-skeleton
+  - mcdm.monsters.v1:monster.undead.statblock:decrepit-skeleton
 scdc:
-  - 1.1.1:2:82
+  - 1.1.1:2.8.1:30
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Decrepit Skeleton

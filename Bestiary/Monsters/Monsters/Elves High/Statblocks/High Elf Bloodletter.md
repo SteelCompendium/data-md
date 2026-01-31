@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 4
 intuition: 1
 item_id: high-elf-bloodletter
-item_index: '115'
+item_index: 08
 item_name: High Elf Bloodletter
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:high-elf-bloodletter
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-bloodletter
 scdc:
-  - 1.1.1:2:115
+  - 1.1.1:2.13.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Bloodletter

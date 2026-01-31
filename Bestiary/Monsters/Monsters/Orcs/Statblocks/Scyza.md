@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 5
 intuition: 0
 item_id: scyza
-item_index: '131'
+item_index: 09
 item_name: Scyza
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: -4
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:scyza
+  - mcdm.monsters.v1:monster.orcs.statblock:scyza
 scdc:
-  - 1.1.1:2:131
+  - 1.1.1:2.15.1:09
 size: '4'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '100'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Scyza

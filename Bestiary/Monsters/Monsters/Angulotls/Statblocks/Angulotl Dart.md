@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: angulotl-dart
-item_index: '237'
+item_index: '02'
 item_name: Angulotl Dart
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:angulotl-dart
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-dart
 scdc:
-  - 1.1.1:2:237
+  - 1.1.1:2.29.1:02
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Dart

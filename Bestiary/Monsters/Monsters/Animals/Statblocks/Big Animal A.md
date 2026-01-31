@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 4
 intuition: 1
 item_id: big-animal-a
-item_index: '247'
+item_index: '02'
 item_name: Big Animal A
 level: 1
 might: 1
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:big-animal-a
+  - mcdm.monsters.v1:monster.animals.statblock:big-animal-a
 scdc:
-  - 1.1.1:2:247
+  - 1.1.1:2.32.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '60'
-type: monster
+type: monster/animals/statblock
 ---
 
 ###### Big Animal A

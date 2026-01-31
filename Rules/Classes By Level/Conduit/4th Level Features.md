@@ -2,14 +2,14 @@
 file_basename: 4th Level Features
 file_dpath: Classes By Level/Conduit
 item_id: 4th-level-features
-item_index: '17'
+item_index: '06'
 item_name: 4th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:4th-level-features
+  - mcdm.heroes.v1:class.conduit.level:4th-level-features
 scdc:
-  - 1.1.1:2.1:17
+  - 1.1.1:2.2.1:06
 source: mcdm.heroes.v1
-type: class/level
+type: class/conduit/level
 ---
 
 ### 4th-Level Features

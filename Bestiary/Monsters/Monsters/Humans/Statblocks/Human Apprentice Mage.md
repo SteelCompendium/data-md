@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 2
 intuition: 0
 item_id: human-apprentice-mage
-item_index: '164'
+item_index: 08
 item_name: Human Apprentice Mage
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Controller
 scc:
-  - mcdm.monsters.v1:monster:human-apprentice-mage
+  - mcdm.monsters.v1:monster.humans.statblock:human-apprentice-mage
 scdc:
-  - 1.1.1:2:164
+  - 1.1.1:2.19.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '4'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Apprentice Mage

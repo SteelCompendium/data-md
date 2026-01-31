@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-stinker
-item_index: '310'
+item_index: 09
 item_name: Goblin Stinker
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:goblin-stinker
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-stinker
 scdc:
-  - 1.1.1:2:310
+  - 1.1.1:2.38.1:09
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Stinker

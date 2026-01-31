@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 5
 intuition: 1
 item_id: dwarf-warden
-item_index: '399'
+item_index: '06'
 item_name: Dwarf Warden
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Brute
 scc:
-  - mcdm.monsters.v1:monster:dwarf-warden
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-warden
 scdc:
-  - 1.1.1:2:399
+  - 1.1.1:2.50.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '59'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Warden

@@ -5,11 +5,11 @@ item_id: 5th-level-features
 item_index: '11'
 item_name: 5th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:5th-level-features
+  - mcdm.heroes.v1:class.elementalist.level:5th-level-features
 scdc:
-  - 1.1.1:2.1:11
+  - 1.1.1:2.1.1:11
 source: mcdm.heroes.v1
-type: class/level
+type: class/elementalist/level
 ---
 
 ### 5th-Level Features

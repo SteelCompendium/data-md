@@ -2,14 +2,14 @@
 file_basename: 8th Level Features
 file_dpath: Classes By Level/Troubadour
 item_id: 8th-level-features
-item_index: '72'
+item_index: '05'
 item_name: 8th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:8th-level-features
+  - mcdm.heroes.v1:class.troubadour.level:8th-level-features
 scdc:
-  - 1.1.1:2.1:72
+  - 1.1.1:2.7.1:05
 source: mcdm.heroes.v1
-type: class/level
+type: class/troubadour/level
 ---
 
 ### 8th-Level Features

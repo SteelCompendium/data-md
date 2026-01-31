@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 2
 item_id: gnoll-cackler
-item_index: '41'
+item_index: '07'
 item_name: Gnoll Cackler
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:gnoll-cackler
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-cackler
 scdc:
-  - 1.1.1:2:41
+  - 1.1.1:2.6.1:07
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '15'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Cackler

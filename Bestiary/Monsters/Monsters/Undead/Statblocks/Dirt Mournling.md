@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 1
 item_id: dirt-mournling
-item_index: '74'
+item_index: '22'
 item_name: Dirt Mournling
 level: 7
 might: 4
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:dirt-mournling
+  - mcdm.monsters.v1:monster.undead.statblock:dirt-mournling
 scdc:
-  - 1.1.1:2:74
+  - 1.1.1:2.8.1:22
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '64'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Dirt Mournling

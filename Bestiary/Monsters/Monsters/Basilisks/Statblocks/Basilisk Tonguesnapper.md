@@ -9,7 +9,7 @@ file_dpath: Monsters/Basilisks/Statblocks
 free_strike: 4
 intuition: -1
 item_id: basilisk-tonguesnapper
-item_index: '332'
+item_index: '02'
 item_name: Basilisk Tonguesnapper
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:basilisk-tonguesnapper
+  - mcdm.monsters.v1:monster.basilisks.statblock:basilisk-tonguesnapper
 scdc:
-  - 1.1.1:2:332
+  - 1.1.1:2.42.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '40'
-type: monster
+type: monster/basilisks/statblock
 ---
 
 ###### Basilisk Tonguesnapper

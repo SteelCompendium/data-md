@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: angulotl-slink
-item_index: '236'
+item_index: '01'
 item_name: Angulotl Slink
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:angulotl-slink
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-slink
 scdc:
-  - 1.1.1:2:236
+  - 1.1.1:2.29.1:01
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Slink

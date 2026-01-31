@@ -2,14 +2,14 @@
 file_basename: 1st Level Features
 file_dpath: Classes By Level/Tactician
 item_id: 1st-level-features
-item_index: '64'
+item_index: 08
 item_name: 1st-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:1st-level-features
+  - mcdm.heroes.v1:class.tactician.level:1st-level-features
 scdc:
-  - 1.1.1:2.1:64
+  - 1.1.1:2.6.1:08
 source: mcdm.heroes.v1
-type: class/level
+type: class/tactician/level
 ---
 
 ### 1st-Level Features

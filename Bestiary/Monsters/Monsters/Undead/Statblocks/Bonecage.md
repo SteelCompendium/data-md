@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 3
 item_id: bonecage
-item_index: '55'
+item_index: '03'
 item_name: Bonecage
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:bonecage
+  - mcdm.monsters.v1:monster.undead.statblock:bonecage
 scdc:
-  - 1.1.1:2:55
+  - 1.1.1:2.8.1:03
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 5
 stamina: '55'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Bonecage

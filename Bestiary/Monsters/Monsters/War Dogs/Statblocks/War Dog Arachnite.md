@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 2
 item_id: war-dog-arachnite
-item_index: '380'
+item_index: '32'
 item_name: War Dog Arachnite
 level: 6
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:war-dog-arachnite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-arachnite
 scdc:
-  - 1.1.1:2:380
+  - 1.1.1:2.49.1:32
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '35'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Arachnite

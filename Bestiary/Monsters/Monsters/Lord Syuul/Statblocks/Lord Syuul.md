@@ -9,7 +9,7 @@ file_dpath: Monsters/Lord Syuul/Statblocks
 free_strike: 7
 intuition: 4
 item_id: lord-syuul
-item_index: '234'
+item_index: '01'
 item_name: Lord Syuul
 level: 6
 might: 1
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:lord-syuul
+  - mcdm.monsters.v1:monster.lord-syuul.statblock:lord-syuul
 scdc:
-  - 1.1.1:2:234
+  - 1.1.1:2.27.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '450'
-type: monster
+type: monster/lord-syuul/statblock
 ---
 
 ###### Lord Syuul

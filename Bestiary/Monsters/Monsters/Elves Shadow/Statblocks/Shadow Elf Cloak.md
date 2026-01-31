@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 2
 intuition: 0
 item_id: shadow-elf-cloak
-item_index: '210'
+item_index: '04'
 item_name: Shadow Elf Cloak
 level: 4
 might: 3
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-cloak
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-cloak
 scdc:
-  - 1.1.1:2:210
+  - 1.1.1:2.25.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '8'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Cloak

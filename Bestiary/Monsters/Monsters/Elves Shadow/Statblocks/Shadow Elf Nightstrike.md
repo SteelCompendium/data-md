@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 3
 intuition: 1
 item_id: shadow-elf-nightstrike
-item_index: '214'
+item_index: 08
 item_name: Shadow Elf Nightstrike
 level: 4
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-nightstrike
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-nightstrike
 scdc:
-  - 1.1.1:2:214
+  - 1.1.1:2.25.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '8'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Nightstrike

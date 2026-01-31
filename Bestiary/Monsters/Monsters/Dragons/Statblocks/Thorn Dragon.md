@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: thorn-dragon
-item_index: '345'
+item_index: '05'
 item_name: Thorn Dragon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:thorn-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:thorn-dragon
 scdc:
-  - 1.1.1:2:345
+  - 1.1.1:2.45.1:05
 size: '3'
 source: mcdm.monsters.v1
 speed: 8
 stability: 6
 stamina: '250'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Thorn Dragon

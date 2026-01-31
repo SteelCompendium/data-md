@@ -8,7 +8,7 @@ file_dpath: Monsters/Elementals/Statblocks
 free_strike: 6
 intuition: 1
 item_id: force-of-earth
-item_index: '324'
+item_index: '04'
 item_name: Force of Earth
 level: 3
 might: 2
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:force-of-earth
+  - mcdm.monsters.v1:monster.elementals.statblock:force-of-earth
 scdc:
-  - 1.1.1:2:324
+  - 1.1.1:2.40.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '132'
-type: monster
+type: monster/elementals/statblock
 ---
 
 ###### Force of Earth

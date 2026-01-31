@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 2
 item_id: bugbear-channeler
-item_index: '288'
+item_index: '03'
 item_name: Bugbear Channeler
 level: 2
 might: 1
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:bugbear-channeler
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-channeler
 scdc:
-  - 1.1.1:2:288
+  - 1.1.1:2.35.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '60'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Channeler

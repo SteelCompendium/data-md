@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: goblin-assassin
-item_index: '305'
+item_index: '04'
 item_name: Goblin Assassin
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:goblin-assassin
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-assassin
 scdc:
-  - 1.1.1:2:305
+  - 1.1.1:2.38.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '15'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Assassin

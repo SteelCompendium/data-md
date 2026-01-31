@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 2
 item_id: war-dog-sweeper
-item_index: '382'
+item_index: '34'
 item_name: War Dog Sweeper
 level: 4
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-sweeper
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-sweeper
 scdc:
-  - 1.1.1:2:382
+  - 1.1.1:2.49.1:34
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '8'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Sweeper

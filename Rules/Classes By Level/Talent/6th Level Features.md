@@ -2,14 +2,14 @@
 file_basename: 6th Level Features
 file_dpath: Classes By Level/Talent
 item_id: 6th-level-features
-item_index: '96'
+item_index: '07'
 item_name: 6th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:6th-level-features
+  - mcdm.heroes.v1:class.talent.level:6th-level-features
 scdc:
-  - 1.1.1:2.1:96
+  - 1.1.1:2.9.1:07
 source: mcdm.heroes.v1
-type: class/level
+type: class/talent/level
 ---
 
 ### 6th-Level Features

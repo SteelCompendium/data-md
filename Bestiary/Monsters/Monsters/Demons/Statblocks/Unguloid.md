@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: -1
 item_id: unguloid
-item_index: '252'
+item_index: '01'
 item_name: Unguloid
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:unguloid
+  - mcdm.monsters.v1:monster.demons.statblock:unguloid
 scdc:
-  - 1.1.1:2:252
+  - 1.1.1:2.33.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 3
 stamina: '17'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Unguloid

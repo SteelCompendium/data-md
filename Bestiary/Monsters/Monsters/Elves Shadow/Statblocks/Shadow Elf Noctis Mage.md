@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 1
 item_id: shadow-elf-noctis-mage
-item_index: '219'
+item_index: '13'
 item_name: Shadow Elf Noctis Mage
 level: 6
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-noctis-mage
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-noctis-mage
 scdc:
-  - 1.1.1:2:219
+  - 1.1.1:2.25.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '70'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Noctis Mage

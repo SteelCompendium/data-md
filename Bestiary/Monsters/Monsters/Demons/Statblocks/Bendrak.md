@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: bendrak
-item_index: '278'
+item_index: '27'
 item_name: Bendrak
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:bendrak
+  - mcdm.monsters.v1:monster.demons.statblock:bendrak
 scdc:
-  - 1.1.1:2:278
+  - 1.1.1:2.33.1:27
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Bendrak

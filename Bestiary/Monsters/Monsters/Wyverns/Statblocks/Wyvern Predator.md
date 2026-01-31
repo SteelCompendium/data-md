@@ -9,7 +9,7 @@ file_dpath: Monsters/Wyverns/Statblocks
 free_strike: 6
 intuition: 1
 item_id: wyvern-predator
-item_index: '122'
+item_index: '02'
 item_name: Wyvern Predator
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:wyvern-predator
+  - mcdm.monsters.v1:monster.wyverns.statblock:wyvern-predator
 scdc:
-  - 1.1.1:2:122
+  - 1.1.1:2.14.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '140'
-type: monster
+type: monster/wyverns/statblock
 ---
 
 ###### Wyvern Predator

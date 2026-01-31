@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 3
 intuition: 1
 item_id: devil-scrivener
-item_index: '294'
+item_index: '01'
 item_name: Devil Scrivener
 level: 5
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:devil-scrivener
+  - mcdm.monsters.v1:monster.devils.statblock:devil-scrivener
 scdc:
-  - 1.1.1:2:294
+  - 1.1.1:2.37.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '9'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Scrivener

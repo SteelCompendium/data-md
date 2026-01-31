@@ -9,7 +9,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wodenelg
-item_index: '225'
+item_index: '05'
 item_name: Wodenelg
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Platoon Mount
 scc:
-  - mcdm.monsters.v1:monster:wodenelg
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wodenelg
 scdc:
-  - 1.1.1:2:225
+  - 1.1.1:2.26.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 1
 stamina: '30'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wodenelg

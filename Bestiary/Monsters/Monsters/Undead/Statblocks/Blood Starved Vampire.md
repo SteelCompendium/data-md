@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 1
 item_id: blood-starved-vampire
-item_index: '53'
+item_index: '01'
 item_name: Blood-Starved Vampire
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:blood-starved-vampire
+  - mcdm.monsters.v1:monster.undead.statblock:blood-starved-vampire
 scdc:
-  - 1.1.1:2:53
+  - 1.1.1:2.8.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '12'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Blood-Starved Vampire

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 2
 intuition: 0
 item_id: high-elf-quiver
-item_index: '108'
+item_index: '01'
 item_name: High Elf Quiver
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:high-elf-quiver
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-quiver
 scdc:
-  - 1.1.1:2:108
+  - 1.1.1:2.13.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Quiver

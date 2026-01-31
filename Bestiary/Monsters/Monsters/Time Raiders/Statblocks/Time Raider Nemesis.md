@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: time-raider-nemesis
-item_index: '142'
+item_index: '04'
 item_name: Time Raider Nemesis
 level: 3
 might: 1
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:time-raider-nemesis
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-nemesis
 scdc:
-  - 1.1.1:2:142
+  - 1.1.1:2.17.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '50'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Nemesis

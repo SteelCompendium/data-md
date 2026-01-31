@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 1
 intuition: 0
 item_id: ruinant
-item_index: '283'
+item_index: '32'
 item_name: Ruinant
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:ruinant
+  - mcdm.monsters.v1:monster.demons.statblock:ruinant
 scdc:
-  - 1.1.1:2:283
+  - 1.1.1:2.33.1:32
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '15'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Ruinant

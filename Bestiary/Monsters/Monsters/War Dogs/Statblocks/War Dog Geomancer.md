@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 4
 item_id: war-dog-geomancer
-item_index: '351'
+item_index: '03'
 item_name: War Dog Geomancer
 level: 8
 might: 2
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:war-dog-geomancer
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-geomancer
 scdc:
-  - 1.1.1:2:351
+  - 1.1.1:2.49.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '45'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Geomancer

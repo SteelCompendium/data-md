@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 8
 intuition: 0
 item_id: frost-giant-wind-sprinter
-item_index: '202'
+item_index: '11'
 item_name: Frost Giant Wind Sprinter
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:frost-giant-wind-sprinter
+  - mcdm.monsters.v1:monster.giants.statblock:frost-giant-wind-sprinter
 scdc:
-  - 1.1.1:2:202
+  - 1.1.1:2.22.1:11
 size: '4'
 source: mcdm.monsters.v1
 speed: 10
 stability: 5
 stamina: '200'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Frost Giant Wind Sprinter

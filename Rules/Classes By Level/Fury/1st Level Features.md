@@ -2,14 +2,14 @@
 file_basename: 1st Level Features
 file_dpath: Classes By Level/Fury
 item_id: 1st-level-features
-item_index: '53'
+item_index: 09
 item_name: 1st-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:1st-level-features
+  - mcdm.heroes.v1:class.fury.level:1st-level-features
 scdc:
-  - 1.1.1:2.1:53
+  - 1.1.1:2.5.1:09
 source: mcdm.heroes.v1
-type: class/level
+type: class/fury/level
 ---
 
 ### 1st-Level Features

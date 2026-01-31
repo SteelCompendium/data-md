@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 1
 intuition: 0
 item_id: elemental-mote
-item_index: '110'
+item_index: '03'
 item_name: Elemental Mote
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:elemental-mote
+  - mcdm.monsters.v1:monster.elves-high.statblock:elemental-mote
 scdc:
-  - 1.1.1:2:110
+  - 1.1.1:2.13.1:03
 size: 1T
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### Elemental Mote

@@ -10,7 +10,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 1
 item_id: slaughter-demon
-item_index: '190'
+item_index: '14'
 item_name: Slaughter Demon
 level: 4
 might: 3
@@ -19,15 +19,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:slaughter-demon
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:slaughter-demon
 scdc:
-  - 1.1.1:2:190
+  - 1.1.1:2.21.1:14
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '140'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Slaughter Demon

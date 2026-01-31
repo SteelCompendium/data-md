@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 2
 intuition: 0
 item_id: human-archer
-item_index: '169'
+item_index: '13'
 item_name: Human Archer
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:human-archer
+  - mcdm.monsters.v1:monster.humans.statblock:human-archer
 scdc:
-  - 1.1.1:2:169
+  - 1.1.1:2.19.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Archer

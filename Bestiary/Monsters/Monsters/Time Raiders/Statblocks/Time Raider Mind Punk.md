@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 2
 item_id: time-raider-mind-punk
-item_index: '148'
+item_index: '10'
 item_name: Time Raider Mind Punk
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:time-raider-mind-punk
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-mind-punk
 scdc:
-  - 1.1.1:2:148
+  - 1.1.1:2.17.1:10
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '40'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Mind Punk

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 4
 intuition: 0
 item_id: wode-elf-chirurgeon
-item_index: '233'
+item_index: '13'
 item_name: Wode Elf Chirurgeon
 level: 2
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:wode-elf-chirurgeon
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-chirurgeon
 scdc:
-  - 1.1.1:2:233
+  - 1.1.1:2.26.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '40'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wode Elf Chirurgeon

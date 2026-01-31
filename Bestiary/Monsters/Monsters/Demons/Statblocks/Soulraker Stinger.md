@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 4
 item_id: soulraker-stinger
-item_index: '259'
+item_index: 08
 item_name: Soulraker Stinger
 level: 7
 might: 0
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:soulraker-stinger
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-stinger
 scdc:
-  - 1.1.1:2:259
+  - 1.1.1:2.33.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '10'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Stinger

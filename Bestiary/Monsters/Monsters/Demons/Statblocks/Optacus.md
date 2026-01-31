@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 5
 item_id: optacus
-item_index: '280'
+item_index: '29'
 item_name: Optacus
 level: 10
 might: 1
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:optacus
+  - mcdm.monsters.v1:monster.demons.statblock:optacus
 scdc:
-  - 1.1.1:2:280
+  - 1.1.1:2.33.1:29
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '14'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Optacus

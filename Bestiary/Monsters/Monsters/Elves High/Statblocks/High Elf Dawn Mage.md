@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 1
 intuition: -1
 item_id: high-elf-dawn-mage
-item_index: '112'
+item_index: '05'
 item_name: High Elf Dawn Mage
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Minion Controller
 scc:
-  - mcdm.monsters.v1:monster:high-elf-dawn-mage
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-dawn-mage
 scdc:
-  - 1.1.1:2:112
+  - 1.1.1:2.13.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Dawn Mage

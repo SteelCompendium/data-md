@@ -10,7 +10,7 @@ file_dpath: Monsters/Minotaurs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: minotaur-bully
-item_index: '176'
+item_index: '05'
 item_name: Minotaur Bully
 level: 8
 might: 4
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:minotaur-bully
+  - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur-bully
 scdc:
-  - 1.1.1:2:176
+  - 1.1.1:2.20.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '14'
-type: monster
+type: monster/minotaurs/statblock
 ---
 
 ###### Minotaur Bully

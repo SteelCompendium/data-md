@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 5
 intuition: 5
 item_id: war-dog-hunter-killer
-item_index: '359'
+item_index: '11'
 item_name: War Dog Hunter-Killer
 level: 10
 might: 1
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:war-dog-hunter-killer
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-hunter-killer
 scdc:
-  - 1.1.1:2:359
+  - 1.1.1:2.49.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '14'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Hunter-Killer

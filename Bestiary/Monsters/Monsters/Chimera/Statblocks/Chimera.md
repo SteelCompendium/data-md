@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:chimera
+  - mcdm.monsters.v1:monster.chimera.statblock:chimera
 scdc:
-  - 1.1.1:2:01
+  - 1.1.1:2.3.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 1
 stamina: '300'
-type: monster
+type: monster/chimera/statblock
 ---
 
 ###### Chimera

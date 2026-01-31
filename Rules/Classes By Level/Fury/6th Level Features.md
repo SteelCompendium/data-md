@@ -2,14 +2,14 @@
 file_basename: 6th Level Features
 file_dpath: Classes By Level/Fury
 item_id: 6th-level-features
-item_index: '52'
+item_index: 08
 item_name: 6th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:6th-level-features
+  - mcdm.heroes.v1:class.fury.level:6th-level-features
 scdc:
-  - 1.1.1:2.1:52
+  - 1.1.1:2.5.1:08
 source: mcdm.heroes.v1
-type: class/level
+type: class/fury/level
 ---
 
 ### 6th-Level Features

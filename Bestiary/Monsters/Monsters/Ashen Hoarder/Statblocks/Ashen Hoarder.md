@@ -9,7 +9,7 @@ file_dpath: Monsters/Ashen Hoarder/Statblocks
 free_strike: 6
 intuition: 0
 item_id: ashen-hoarder
-item_index: '206'
+item_index: '01'
 item_name: Ashen Hoarder
 level: 4
 might: 4
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:ashen-hoarder
+  - mcdm.monsters.v1:monster.ashen-hoarder.statblock:ashen-hoarder
 scdc:
-  - 1.1.1:2:206
+  - 1.1.1:2.24.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 8
 stability: 3
 stamina: '350'
-type: monster
+type: monster/ashen-hoarder/statblock
 ---
 
 ###### Ashen Hoarder

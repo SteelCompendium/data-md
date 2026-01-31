@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 3
 intuition: 2
 item_id: lizardfolk-bloodeye
-item_index: '47'
+item_index: '02'
 item_name: Lizardfolk Bloodeye
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-bloodeye
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-bloodeye
 scdc:
-  - 1.1.1:2:47
+  - 1.1.1:2.7.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '20'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Bloodeye

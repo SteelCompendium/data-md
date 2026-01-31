@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 3
 item_id: aeolyxria-the-uncanny
-item_index: '104'
+item_index: '04'
 item_name: Aeolyxria the Uncanny
 level: 6
 might: -1
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:aeolyxria-the-uncanny
+  - mcdm.monsters.v1:monster.draconians.statblock:aeolyxria-the-uncanny
 scdc:
-  - 1.1.1:2:104
+  - 1.1.1:2.11.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '140'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Aeolyxria the Uncanny

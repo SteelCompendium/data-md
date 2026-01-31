@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 2
 item_id: goblin-cursespitter
-item_index: '303'
+item_index: '02'
 item_name: Goblin Cursespitter
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:goblin-cursespitter
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-cursespitter
 scdc:
-  - 1.1.1:2:303
+  - 1.1.1:2.38.1:02
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Cursespitter

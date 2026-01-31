@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 0
 item_id: hollowbone-launcher
-item_index: '57'
+item_index: '05'
 item_name: Hollowbone Launcher
 level: 4
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:hollowbone-launcher
+  - mcdm.monsters.v1:monster.undead.statblock:hollowbone-launcher
 scdc:
-  - 1.1.1:2:57
+  - 1.1.1:2.8.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '7'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Hollowbone Launcher

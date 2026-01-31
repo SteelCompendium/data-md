@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 7
 intuition: 1
 item_id: war-dog-breaker
-item_index: '374'
+item_index: '26'
 item_name: War Dog Breaker
 level: 7
 might: 4
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-breaker
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-breaker
 scdc:
-  - 1.1.1:2:374
+  - 1.1.1:2.49.1:26
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '200'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Breaker

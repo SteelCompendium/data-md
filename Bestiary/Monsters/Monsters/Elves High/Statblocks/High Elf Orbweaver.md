@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: 2
 item_id: high-elf-orbweaver
-item_index: '109'
+item_index: '02'
 item_name: High Elf Orbweaver
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:high-elf-orbweaver
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-orbweaver
 scdc:
-  - 1.1.1:2:109
+  - 1.1.1:2.13.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '40'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Orbweaver

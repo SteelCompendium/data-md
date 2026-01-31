@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: fangling
-item_index: '260'
+item_index: 09
 item_name: Fangling
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:fangling
+  - mcdm.monsters.v1:monster.demons.statblock:fangling
 scdc:
-  - 1.1.1:2:260
+  - 1.1.1:2.33.1:09
 size: 1L
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '30'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Fangling

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: -2
 item_id: pitling
-item_index: '254'
+item_index: '03'
 item_name: Pitling
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:pitling
+  - mcdm.monsters.v1:monster.demons.statblock:pitling
 scdc:
-  - 1.1.1:2:254
+  - 1.1.1:2.33.1:03
 size: 1T
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Pitling

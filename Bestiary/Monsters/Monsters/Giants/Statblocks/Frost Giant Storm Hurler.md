@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 9
 intuition: 0
 item_id: frost-giant-storm-hurler
-item_index: '200'
+item_index: 09
 item_name: Frost Giant Storm Hurler
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Artillery
 scc:
-  - mcdm.monsters.v1:monster:frost-giant-storm-hurler
+  - mcdm.monsters.v1:monster.giants.statblock:frost-giant-storm-hurler
 scdc:
-  - 1.1.1:2:200
+  - 1.1.1:2.22.1:09
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
 stability: 5
 stamina: '180'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Frost Giant Storm Hurler

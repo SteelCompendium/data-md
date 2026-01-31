@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 1
 item_id: waxen
-item_index: '64'
+item_index: '12'
 item_name: Waxen
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -4
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:waxen
+  - mcdm.monsters.v1:monster.undead.statblock:waxen
 scdc:
-  - 1.1.1:2:64
+  - 1.1.1:2.8.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 4
 stability: 2
 stamina: '40'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Waxen

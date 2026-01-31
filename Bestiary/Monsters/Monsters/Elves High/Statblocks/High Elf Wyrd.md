@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: -1
 item_id: high-elf-wyrd
-item_index: '113'
+item_index: '06'
 item_name: High Elf Wyrd
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:high-elf-wyrd
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-wyrd
 scdc:
-  - 1.1.1:2:113
+  - 1.1.1:2.13.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '40'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Wyrd

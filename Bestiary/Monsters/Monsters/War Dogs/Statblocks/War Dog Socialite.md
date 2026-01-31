@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-socialite
-item_index: '367'
+item_index: '19'
 item_name: War Dog Socialite
 level: 10
 might: 2
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:war-dog-socialite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-socialite
 scdc:
-  - 1.1.1:2:367
+  - 1.1.1:2.49.1:19
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '14'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Socialite

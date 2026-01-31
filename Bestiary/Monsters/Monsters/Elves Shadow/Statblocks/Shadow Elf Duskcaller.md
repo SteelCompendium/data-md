@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 2
 item_id: shadow-elf-duskcaller
-item_index: '213'
+item_index: '07'
 item_name: Shadow Elf Duskcaller
 level: 5
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-duskcaller
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-duskcaller
 scdc:
-  - 1.1.1:2:213
+  - 1.1.1:2.25.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '60'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Duskcaller

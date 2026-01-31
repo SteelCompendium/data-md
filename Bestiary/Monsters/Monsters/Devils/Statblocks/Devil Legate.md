@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 6
 intuition: 1
 item_id: devil-legate
-item_index: '301'
+item_index: 08
 item_name: Devil Legate
 level: 5
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:devil-legate
+  - mcdm.monsters.v1:monster.devils.statblock:devil-legate
 scdc:
-  - 1.1.1:2:301
+  - 1.1.1:2.37.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '160'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Legate

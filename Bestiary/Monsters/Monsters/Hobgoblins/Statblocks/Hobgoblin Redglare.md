@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 3
 item_id: hobgoblin-redglare
-item_index: '185'
+item_index: 09
 item_name: Hobgoblin Redglare
 level: 6
 might: 0
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-redglare
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-redglare
 scdc:
-  - 1.1.1:2:185
+  - 1.1.1:2.21.1:09
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '70'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Redglare

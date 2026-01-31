@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 5
 intuition: 0
 item_id: hobgoblin-death-captain
-item_index: '189'
+item_index: '13'
 item_name: Hobgoblin Death Captain
 level: 4
 might: 3
@@ -20,15 +20,15 @@ reason: 1
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-death-captain
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-death-captain
 scdc:
-  - 1.1.1:2:189
+  - 1.1.1:2.21.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '60'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Death Captain

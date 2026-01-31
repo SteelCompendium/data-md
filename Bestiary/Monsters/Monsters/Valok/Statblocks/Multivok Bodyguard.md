@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 9
 intuition: 1
 item_id: multivok-bodyguard
-item_index: '326'
+item_index: '01'
 item_name: Multivok Bodyguard
 level: 9
 might: 4
@@ -20,15 +20,15 @@ reason: -2
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:multivok-bodyguard
+  - mcdm.monsters.v1:monster.valok.statblock:multivok-bodyguard
 scdc:
-  - 1.1.1:2:326
+  - 1.1.1:2.41.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 5
 stamina: '240'
-type: monster
+type: monster/valok/statblock
 ---
 
 ###### Multivok Bodyguard

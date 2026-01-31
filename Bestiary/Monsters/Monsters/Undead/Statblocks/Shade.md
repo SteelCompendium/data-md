@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: shade
-item_index: '65'
+item_index: '13'
 item_name: Shade
 level: 1
 might: -5
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:shade
+  - mcdm.monsters.v1:monster.undead.statblock:shade
 scdc:
-  - 1.1.1:2:65
+  - 1.1.1:2.8.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '4'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Shade

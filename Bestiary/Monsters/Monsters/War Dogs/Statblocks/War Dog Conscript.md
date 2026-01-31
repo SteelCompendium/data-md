@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-conscript
-item_index: '363'
+item_index: '15'
 item_name: War Dog Conscript
 level: 1
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-conscript
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-conscript
 scdc:
-  - 1.1.1:2:363
+  - 1.1.1:2.49.1:15
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Conscript

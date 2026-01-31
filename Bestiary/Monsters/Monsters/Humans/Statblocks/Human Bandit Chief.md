@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 5
 intuition: 3
 item_id: human-bandit-chief
-item_index: '165'
+item_index: 09
 item_name: Human Bandit Chief
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:human-bandit-chief
+  - mcdm.monsters.v1:monster.humans.statblock:human-bandit-chief
 scdc:
-  - 1.1.1:2:165
+  - 1.1.1:2.19.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '120'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Bandit Chief

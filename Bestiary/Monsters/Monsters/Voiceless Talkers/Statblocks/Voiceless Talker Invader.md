@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 2
 item_id: voiceless-talker-invader
-item_index: '339'
+item_index: '06'
 item_name: Voiceless Talker Invader
 level: 6
 might: -1
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:voiceless-talker-invader
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-invader
 scdc:
-  - 1.1.1:2:339
+  - 1.1.1:2.44.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '140'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Voiceless Talker Invader

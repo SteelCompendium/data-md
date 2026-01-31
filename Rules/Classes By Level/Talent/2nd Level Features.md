@@ -2,14 +2,14 @@
 file_basename: 2nd Level Features
 file_dpath: Classes By Level/Talent
 item_id: 2nd-level-features
-item_index: '98'
+item_index: 09
 item_name: 2nd-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:2nd-level-features
+  - mcdm.heroes.v1:class.talent.level:2nd-level-features
 scdc:
-  - 1.1.1:2.1:98
+  - 1.1.1:2.9.1:09
 source: mcdm.heroes.v1
-type: class/level
+type: class/talent/level
 ---
 
 ### 2nd-Level Features

@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 3
 intuition: 1
 item_id: bugbear-knightmare
-item_index: '291'
+item_index: '06'
 item_name: Bugbear Knightmare
 level: 8
 might: 4
@@ -20,15 +20,15 @@ reason: 1
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:bugbear-knightmare
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-knightmare
 scdc:
-  - 1.1.1:2:291
+  - 1.1.1:2.35.1:06
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '12'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Knightmare

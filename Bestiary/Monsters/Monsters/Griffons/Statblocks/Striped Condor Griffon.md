@@ -9,7 +9,7 @@ file_dpath: Monsters/Griffons/Statblocks
 free_strike: 5
 intuition: 2
 item_id: striped-condor-griffon
-item_index: '88'
+item_index: '02'
 item_name: Striped Condor Griffon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:striped-condor-griffon
+  - mcdm.monsters.v1:monster.griffons.statblock:striped-condor-griffon
 scdc:
-  - 1.1.1:2:88
+  - 1.1.1:2.9.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '100'
-type: monster
+type: monster/griffons/statblock
 ---
 
 ###### Striped Condor Griffon

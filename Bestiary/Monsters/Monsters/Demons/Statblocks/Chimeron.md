@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: chimeron
-item_index: '266'
+item_index: '15'
 item_name: Chimeron
 level: 9
 might: 4
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:chimeron
+  - mcdm.monsters.v1:monster.demons.statblock:chimeron
 scdc:
-  - 1.1.1:2:266
+  - 1.1.1:2.33.1:15
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '90'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Chimeron

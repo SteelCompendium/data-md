@@ -9,7 +9,7 @@ file_dpath: Monsters/Arixx/Statblocks
 free_strike: 5
 intuition: 1
 item_id: arixx
-item_index: '235'
+item_index: '01'
 item_name: Arixx
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:arixx
+  - mcdm.monsters.v1:monster.arixx.statblock:arixx
 scdc:
-  - 1.1.1:2:235
+  - 1.1.1:2.28.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '200'
-type: monster
+type: monster/arixx/statblock
 ---
 
 ###### Arixx

@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: goblin-spinecleaver
-item_index: '306'
+item_index: '05'
 item_name: Goblin Spinecleaver
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:goblin-spinecleaver
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-spinecleaver
 scdc:
-  - 1.1.1:2:306
+  - 1.1.1:2.38.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Spinecleaver

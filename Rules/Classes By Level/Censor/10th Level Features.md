@@ -2,14 +2,14 @@
 file_basename: 10th Level Features
 file_dpath: Classes By Level/Censor
 item_id: 10th-level-features
-item_index: '25'
+item_index: '03'
 item_name: 10th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:10th-level-features
+  - mcdm.heroes.v1:class.censor.level:10th-level-features
 scdc:
-  - 1.1.1:2.1:25
+  - 1.1.1:2.3.1:03
 source: mcdm.heroes.v1
-type: class/level
+type: class/censor/level
 ---
 
 ### 10th-Level Features

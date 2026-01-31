@@ -5,11 +5,11 @@ item_id: 10th-level-features
 item_index: '03'
 item_name: 10th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:10th-level-features
+  - mcdm.heroes.v1:class.elementalist.level:10th-level-features
 scdc:
-  - 1.1.1:2.1:03
+  - 1.1.1:2.1.1:03
 source: mcdm.heroes.v1
-type: class/level
+type: class/elementalist/level
 ---
 
 ### 10th-Level Features

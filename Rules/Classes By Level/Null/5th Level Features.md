@@ -2,14 +2,14 @@
 file_basename: 5th Level Features
 file_dpath: Classes By Level/Null
 item_id: 5th-level-features
-item_index: '44'
+item_index: '11'
 item_name: 5th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:5th-level-features
+  - mcdm.heroes.v1:class.null.level:5th-level-features
 scdc:
-  - 1.1.1:2.1:44
+  - 1.1.1:2.4.1:11
 source: mcdm.heroes.v1
-type: class/level
+type: class/null/level
 ---
 
 ### 5th-Level Features

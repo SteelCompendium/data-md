@@ -10,7 +10,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 3
 intuition: 1
 item_id: grilp
-item_index: '180'
+item_index: '04'
 item_name: Grilp
 level: 4
 might: -1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:grilp
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:grilp
 scdc:
-  - 1.1.1:2:180
+  - 1.1.1:2.21.1:04
 size: 1T
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '8'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Grilp

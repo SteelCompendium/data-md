@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 7
 intuition: 2
 item_id: lumbering-egress
-item_index: '264'
+item_index: '13'
 item_name: Lumbering Egress
 level: 6
 might: 4
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:lumbering-egress
+  - mcdm.monsters.v1:monster.demons.statblock:lumbering-egress
 scdc:
-  - 1.1.1:2:264
+  - 1.1.1:2.33.1:13
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '180'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Lumbering Egress

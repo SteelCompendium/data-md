@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 0
 item_id: soulraker-scout
-item_index: '274'
+item_index: '23'
 item_name: Soulraker Scout
 level: 7
 might: 2
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:soulraker-scout
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-scout
 scdc:
-  - 1.1.1:2:274
+  - 1.1.1:2.33.1:23
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '12'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Scout

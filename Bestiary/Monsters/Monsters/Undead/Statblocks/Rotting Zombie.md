@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: -2
 item_id: rotting-zombie
-item_index: '76'
+item_index: '24'
 item_name: Rotting Zombie
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -5
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:rotting-zombie
+  - mcdm.monsters.v1:monster.undead.statblock:rotting-zombie
 scdc:
-  - 1.1.1:2:76
+  - 1.1.1:2.8.1:24
 size: 1M
 source: mcdm.monsters.v1
 speed: 4
 stability: 0
 stamina: '5'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Rotting Zombie

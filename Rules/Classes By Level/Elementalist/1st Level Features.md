@@ -5,11 +5,11 @@ item_id: 1st-level-features
 item_index: 08
 item_name: 1st-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:1st-level-features
+  - mcdm.heroes.v1:class.elementalist.level:1st-level-features
 scdc:
-  - 1.1.1:2.1:08
+  - 1.1.1:2.1.1:08
 source: mcdm.heroes.v1
-type: class/level
+type: class/elementalist/level
 ---
 
 ### 1st-Level Features

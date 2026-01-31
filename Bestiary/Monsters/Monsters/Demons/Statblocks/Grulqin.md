@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: -1
 item_id: grulqin
-item_index: '267'
+item_index: '16'
 item_name: Grulqin
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:grulqin
+  - mcdm.monsters.v1:monster.demons.statblock:grulqin
 scdc:
-  - 1.1.1:2:267
+  - 1.1.1:2.33.1:16
 size: 1L
 source: mcdm.monsters.v1
 speed: 8
 stability: 1
 stamina: '9'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Grulqin

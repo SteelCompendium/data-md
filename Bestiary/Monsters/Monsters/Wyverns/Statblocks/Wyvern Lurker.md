@@ -9,7 +9,7 @@ file_dpath: Monsters/Wyverns/Statblocks
 free_strike: 6
 intuition: 1
 item_id: wyvern-lurker
-item_index: '121'
+item_index: '01'
 item_name: Wyvern Lurker
 level: 4
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Ambusher
 scc:
-  - mcdm.monsters.v1:monster:wyvern-lurker
+  - mcdm.monsters.v1:monster.wyverns.statblock:wyvern-lurker
 scdc:
-  - 1.1.1:2:121
+  - 1.1.1:2.14.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 9
 stability: 2
 stamina: '120'
-type: monster
+type: monster/wyverns/statblock
 ---
 
 ###### Wyvern Lurker

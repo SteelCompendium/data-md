@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 3
 intuition: 0
 item_id: hobgoblin-recruit
-item_index: '177'
+item_index: '01'
 item_name: Hobgoblin Recruit
 level: 4
 might: 3
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-recruit
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-recruit
 scdc:
-  - 1.1.1:2:177
+  - 1.1.1:2.21.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '9'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Recruit

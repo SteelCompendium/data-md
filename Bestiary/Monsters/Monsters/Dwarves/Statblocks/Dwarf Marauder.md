@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 5
 intuition: 1
 item_id: dwarf-marauder
-item_index: '397'
+item_index: '04'
 item_name: Dwarf Marauder
 level: 3
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:dwarf-marauder
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-marauder
 scdc:
-  - 1.1.1:2:397
+  - 1.1.1:2.50.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '132'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Marauder

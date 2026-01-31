@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wode-elf-sentry
-item_index: '224'
+item_index: '04'
 item_name: Wode Elf Sentry
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:wode-elf-sentry
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-sentry
 scdc:
-  - 1.1.1:2:224
+  - 1.1.1:2.26.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wode Elf Sentry

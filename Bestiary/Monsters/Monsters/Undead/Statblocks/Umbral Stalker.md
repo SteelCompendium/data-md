@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: umbral-stalker
-item_index: '58'
+item_index: '06'
 item_name: Umbral Stalker
 level: 1
 might: 0
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:umbral-stalker
+  - mcdm.monsters.v1:monster.undead.statblock:umbral-stalker
 scdc:
-  - 1.1.1:2:58
+  - 1.1.1:2.8.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '15'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Umbral Stalker

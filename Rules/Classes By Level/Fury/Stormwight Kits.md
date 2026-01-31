@@ -2,14 +2,14 @@
 file_basename: Stormwight Kits
 file_dpath: Classes By Level/Fury
 item_id: stormwight-kits
-item_index: '51'
+item_index: '07'
 item_name: Stormwight Kits
 scc:
-  - mcdm.heroes.v1:class.level:stormwight-kits
+  - mcdm.heroes.v1:class.fury.level:stormwight-kits
 scdc:
-  - 1.1.1:2.1:51
+  - 1.1.1:2.5.1:07
 source: mcdm.heroes.v1
-type: class/level
+type: class/fury/level
 ---
 
 ### Stormwight Kits

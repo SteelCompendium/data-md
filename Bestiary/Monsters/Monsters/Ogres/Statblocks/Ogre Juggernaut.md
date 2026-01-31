@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 5
 intuition: 0
 item_id: ogre-juggernaut
-item_index: '06'
+item_index: '05'
 item_name: Ogre Juggernaut
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:ogre-juggernaut
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-juggernaut
 scdc:
-  - 1.1.1:2:06
+  - 1.1.1:2.4.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '80'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Juggernaut

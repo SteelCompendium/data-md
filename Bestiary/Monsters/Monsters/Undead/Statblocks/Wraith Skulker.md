@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 1
 item_id: wraith-skulker
-item_index: '86'
+item_index: '34'
 item_name: Wraith Skulker
 level: 10
 might: -2
@@ -17,15 +17,15 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:wraith-skulker
+  - mcdm.monsters.v1:monster.undead.statblock:wraith-skulker
 scdc:
-  - 1.1.1:2:86
+  - 1.1.1:2.8.1:34
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '15'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Wraith Skulker

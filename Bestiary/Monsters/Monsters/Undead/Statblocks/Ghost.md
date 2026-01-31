@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 0
 item_id: ghost
-item_index: '80'
+item_index: '28'
 item_name: Ghost
 level: 1
 might: -2
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:ghost
+  - mcdm.monsters.v1:monster.undead.statblock:ghost
 scdc:
-  - 1.1.1:2:80
+  - 1.1.1:2.8.1:28
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '80'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Ghost

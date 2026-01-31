@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-sharpshooter
-item_index: '390'
+item_index: '42'
 item_name: War Dog Sharpshooter
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:war-dog-sharpshooter
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-sharpshooter
 scdc:
-  - 1.1.1:2:390
+  - 1.1.1:2.49.1:42
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '3'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Sharpshooter

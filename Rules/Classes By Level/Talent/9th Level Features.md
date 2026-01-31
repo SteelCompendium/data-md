@@ -2,14 +2,14 @@
 file_basename: 9th Level Features
 file_dpath: Classes By Level/Talent
 item_id: 9th-level-features
-item_index: '90'
+item_index: '01'
 item_name: 9th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:9th-level-features
+  - mcdm.heroes.v1:class.talent.level:9th-level-features
 scdc:
-  - 1.1.1:2.1:90
+  - 1.1.1:2.9.1:01
 source: mcdm.heroes.v1
-type: class/level
+type: class/talent/level
 ---
 
 ### 9th-Level Features

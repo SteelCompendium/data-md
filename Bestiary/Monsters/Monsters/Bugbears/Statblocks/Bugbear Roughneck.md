@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-roughneck
-item_index: '289'
+item_index: '04'
 item_name: Bugbear Roughneck
 level: 2
 might: 2
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:bugbear-roughneck
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-roughneck
 scdc:
-  - 1.1.1:2:289
+  - 1.1.1:2.35.1:04
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '109'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Roughneck

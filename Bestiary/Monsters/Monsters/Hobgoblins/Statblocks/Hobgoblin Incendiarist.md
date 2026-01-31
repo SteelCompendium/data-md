@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 2
 item_id: hobgoblin-incendiarist
-item_index: '188'
+item_index: '12'
 item_name: Hobgoblin Incendiarist
 level: 5
 might: 1
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-incendiarist
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-incendiarist
 scdc:
-  - 1.1.1:2:188
+  - 1.1.1:2.21.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '60'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Incendiarist

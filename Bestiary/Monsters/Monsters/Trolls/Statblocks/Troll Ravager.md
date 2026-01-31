@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 4
 intuition: 1
 item_id: troll-ravager
-item_index: '411'
+item_index: '05'
 item_name: Troll Ravager
 level: 9
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:troll-ravager
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-ravager
 scdc:
-  - 1.1.1:2:411
+  - 1.1.1:2.51.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '15'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Ravager

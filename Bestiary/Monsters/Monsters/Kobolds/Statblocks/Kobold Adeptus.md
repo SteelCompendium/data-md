@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 2
 intuition: 0
 item_id: kobold-adeptus
-item_index: '90'
+item_index: '02'
 item_name: Kobold Adeptus
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:kobold-adeptus
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-adeptus
 scdc:
-  - 1.1.1:2:90
+  - 1.1.1:2.10.1:02
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Adeptus

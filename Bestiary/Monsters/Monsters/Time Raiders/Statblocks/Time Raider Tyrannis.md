@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: time-raider-tyrannis
-item_index: '139'
+item_index: '01'
 item_name: Time Raider Tyrannis
 level: 3
 might: 0
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:time-raider-tyrannis
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-tyrannis
 scdc:
-  - 1.1.1:2:139
+  - 1.1.1:2.17.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 2
 stamina: '120'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Tyrannis

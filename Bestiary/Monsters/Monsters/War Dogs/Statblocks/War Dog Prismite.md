@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-prismite
-item_index: '365'
+item_index: '17'
 item_name: War Dog Prismite
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:war-dog-prismite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-prismite
 scdc:
-  - 1.1.1:2:365
+  - 1.1.1:2.49.1:17
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '82'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Prismite

@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 3
 intuition: 1
 item_id: voiceless-talker-graywarper
-item_index: '334'
+item_index: '01'
 item_name: Voiceless Talker Graywarper
 level: 6
 might: -1
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Minion Controller
 scc:
-  - mcdm.monsters.v1:monster:voiceless-talker-graywarper
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-graywarper
 scdc:
-  - 1.1.1:2:334
+  - 1.1.1:2.44.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '9'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Voiceless Talker Graywarper

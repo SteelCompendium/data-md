@@ -2,14 +2,14 @@
 file_basename: 7th Level Features
 file_dpath: Classes By Level/Shadow
 item_id: 7th-level-features
-item_index: '80'
+item_index: '02'
 item_name: 7th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:7th-level-features
+  - mcdm.heroes.v1:class.shadow.level:7th-level-features
 scdc:
-  - 1.1.1:2.1:80
+  - 1.1.1:2.8.1:02
 source: mcdm.heroes.v1
-type: class/level
+type: class/shadow/level
 ---
 
 ### 7th-Level Features

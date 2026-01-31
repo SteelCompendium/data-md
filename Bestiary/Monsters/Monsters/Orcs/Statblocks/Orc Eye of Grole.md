@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 4
 intuition: 0
 item_id: orc-eye-of-grole
-item_index: '129'
+item_index: '07'
 item_name: Orc Eye of Grole
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:orc-eye-of-grole
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-eye-of-grole
 scdc:
-  - 1.1.1:2:129
+  - 1.1.1:2.15.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '20'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Eye of Grole

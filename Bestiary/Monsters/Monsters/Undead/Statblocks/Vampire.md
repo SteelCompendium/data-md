@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 1
 item_id: vampire
-item_index: '71'
+item_index: '19'
 item_name: Vampire
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:vampire
+  - mcdm.monsters.v1:monster.undead.statblock:vampire
 scdc:
-  - 1.1.1:2:71
+  - 1.1.1:2.8.1:19
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '40'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Vampire

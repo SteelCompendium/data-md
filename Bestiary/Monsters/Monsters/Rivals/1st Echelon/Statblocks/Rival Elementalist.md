@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/1st Echelon/Statblocks
 free_strike: 5
 intuition: 1
 item_id: rival-elementalist
-item_index: 09
+item_index: '03'
 item_name: Rival Elementalist
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:rival-elementalist
+  - mcdm.monsters.v1:monster.rivals.1st echelon.statblock:rival-elementalist
 scdc:
-  - 1.1.1:2:09
+  - 1.1.1:2.5.1.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '60'
-type: monster
+type: monster/rivals/1st echelon/statblock
 ---
 
 ###### Rival Elementalist

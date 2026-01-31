@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 1
 intuition: 0
 item_id: ghoul
-item_index: '77'
+item_index: '25'
 item_name: Ghoul
 level: 1
 might: 0
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:ghoul
+  - mcdm.monsters.v1:monster.undead.statblock:ghoul
 scdc:
-  - 1.1.1:2:77
+  - 1.1.1:2.8.1:25
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '15'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Ghoul

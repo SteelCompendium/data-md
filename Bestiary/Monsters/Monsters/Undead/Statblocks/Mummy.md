@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 3
 item_id: mummy
-item_index: '61'
+item_index: 09
 item_name: Mummy
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:mummy
+  - mcdm.monsters.v1:monster.undead.statblock:mummy
 scdc:
-  - 1.1.1:2:61
+  - 1.1.1:2.8.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '50'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Mummy

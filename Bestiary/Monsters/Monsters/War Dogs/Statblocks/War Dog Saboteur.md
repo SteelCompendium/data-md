@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-saboteur
-item_index: '375'
+item_index: '27'
 item_name: War Dog Saboteur
 level: 7
 might: -1
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:war-dog-saboteur
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-saboteur
 scdc:
-  - 1.1.1:2:375
+  - 1.1.1:2.49.1:27
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '12'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Saboteur

@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 1
 intuition: 0
 item_id: kobold-signifer
-item_index: '89'
+item_index: '01'
 item_name: Kobold Signifer
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:kobold-signifer
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-signifer
 scdc:
-  - 1.1.1:2:89
+  - 1.1.1:2.10.1:01
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Signifer

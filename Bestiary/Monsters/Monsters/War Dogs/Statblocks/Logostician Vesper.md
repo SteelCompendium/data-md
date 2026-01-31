@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 4
 item_id: logostician-vesper
-item_index: '392'
+item_index: '44'
 item_name: Logostician Vesper
 level: 10
 might: 2
@@ -18,15 +18,15 @@ reason: 5
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:logostician-vesper
+  - mcdm.monsters.v1:monster.war-dogs.statblock:logostician-vesper
 scdc:
-  - 1.1.1:2:392
+  - 1.1.1:2.49.1:44
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 3
 stamina: '253'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### Logostician Vesper

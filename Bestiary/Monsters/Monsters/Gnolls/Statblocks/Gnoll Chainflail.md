@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: gnoll-chainflail
-item_index: '38'
+item_index: '04'
 item_name: Gnoll Chainflail
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:gnoll-chainflail
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-chainflail
 scdc:
-  - 1.1.1:2:38
+  - 1.1.1:2.6.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '4'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Chainflail

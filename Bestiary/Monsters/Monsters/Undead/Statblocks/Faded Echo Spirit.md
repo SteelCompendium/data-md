@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 1
 item_id: faded-echo-spirit
-item_index: '56'
+item_index: '04'
 item_name: Faded Echo Spirit
 level: 7
 might: -3
@@ -17,15 +17,15 @@ reason: -5
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:faded-echo-spirit
+  - mcdm.monsters.v1:monster.undead.statblock:faded-echo-spirit
 scdc:
-  - 1.1.1:2:56
+  - 1.1.1:2.8.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '10'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Faded Echo Spirit

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: -1
 item_id: ensnarer
-item_index: '255'
+item_index: '04'
 item_name: Ensnarer
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:ensnarer
+  - mcdm.monsters.v1:monster.demons.statblock:ensnarer
 scdc:
-  - 1.1.1:2:255
+  - 1.1.1:2.33.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Ensnarer

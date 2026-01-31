@@ -9,7 +9,7 @@ file_dpath: Monsters/Ajax the Invincible/Statblocks
 free_strike: 11
 intuition: 5
 item_id: ajax-the-invincible
-item_index: '138'
+item_index: '01'
 item_name: Ajax the Invincible
 level: 11
 might: 5
@@ -18,15 +18,15 @@ reason: 5
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:ajax-the-invincible
+  - mcdm.monsters.v1:monster.ajax-the-invincible.statblock:ajax-the-invincible
 scdc:
-  - 1.1.1:2:138
+  - 1.1.1:2.16.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '700'
-type: monster
+type: monster/ajax-the-invincible/statblock
 ---
 
 ###### Ajax the Invincible

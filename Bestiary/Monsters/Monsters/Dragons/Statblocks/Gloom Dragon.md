@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 6
 intuition: 3
 item_id: gloom-dragon
-item_index: '342'
+item_index: '02'
 item_name: Gloom Dragon
 level: 4
 might: 2
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:gloom-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:gloom-dragon
 scdc:
-  - 1.1.1:2:342
+  - 1.1.1:2.45.1:02
 size: '4'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '350'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Gloom Dragon

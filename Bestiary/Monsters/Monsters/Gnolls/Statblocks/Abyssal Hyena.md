@@ -10,7 +10,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: abyssal-hyena
-item_index: '45'
+item_index: '11'
 item_name: Abyssal Hyena
 level: 2
 might: 2
@@ -19,15 +19,15 @@ reason: -3
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:abyssal-hyena
+  - mcdm.monsters.v1:monster.gnolls.statblock:abyssal-hyena
 scdc:
-  - 1.1.1:2:45
+  - 1.1.1:2.6.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 1
 stamina: '7'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Abyssal Hyena

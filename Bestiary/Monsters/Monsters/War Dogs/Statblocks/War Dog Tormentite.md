@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-tormentite
-item_index: '391'
+item_index: '43'
 item_name: War Dog Tormentite
 level: 5
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:war-dog-tormentite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-tormentite
 scdc:
-  - 1.1.1:2:391
+  - 1.1.1:2.49.1:43
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Tormentite

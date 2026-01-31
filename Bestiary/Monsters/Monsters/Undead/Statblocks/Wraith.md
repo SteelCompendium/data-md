@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 1
 item_id: wraith
-item_index: '73'
+item_index: '21'
 item_name: Wraith
 level: 4
 might: -2
@@ -17,15 +17,15 @@ reason: 1
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:wraith
+  - mcdm.monsters.v1:monster.undead.statblock:wraith
 scdc:
-  - 1.1.1:2:73
+  - 1.1.1:2.8.1:21
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 1
 stamina: '25'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Wraith

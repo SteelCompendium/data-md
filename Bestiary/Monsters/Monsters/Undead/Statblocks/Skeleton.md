@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: skeleton
-item_index: '84'
+item_index: '32'
 item_name: Skeleton
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:skeleton
+  - mcdm.monsters.v1:monster.undead.statblock:skeleton
 scdc:
-  - 1.1.1:2:84
+  - 1.1.1:2.8.1:32
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Skeleton

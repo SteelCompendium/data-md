@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 1
 item_id: hobgoblin-smokebinder
-item_index: '181'
+item_index: '05'
 item_name: Hobgoblin Smokebinder
 level: 5
 might: 1
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-smokebinder
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-smokebinder
 scdc:
-  - 1.1.1:2:181
+  - 1.1.1:2.21.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '70'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Smokebinder

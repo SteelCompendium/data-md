@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 1
 intuition: 0
 item_id: dwarf-hunter
-item_index: '403'
+item_index: '10'
 item_name: Dwarf Hunter
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Support
 scc:
-  - mcdm.monsters.v1:monster:dwarf-hunter
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-hunter
 scdc:
-  - 1.1.1:2:403
+  - 1.1.1:2.50.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '6'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Hunter

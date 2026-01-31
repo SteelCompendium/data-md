@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: gnoll-mage-mauler
-item_index: '44'
+item_index: '10'
 item_name: Gnoll Mage Mauler
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:gnoll-mage-mauler
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-mage-mauler
 scdc:
-  - 1.1.1:2:44
+  - 1.1.1:2.6.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '4'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Mage Mauler

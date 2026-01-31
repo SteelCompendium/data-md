@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: time-raider-vertex
-item_index: '146'
+item_index: 08
 item_name: Time Raider Vertex
 level: 3
 might: 1
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:time-raider-vertex
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-vertex
 scdc:
-  - 1.1.1:2:146
+  - 1.1.1:2.17.1:08
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '62'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Vertex

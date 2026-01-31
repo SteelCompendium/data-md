@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 1
 item_id: angulotl-cleaver
-item_index: '238'
+item_index: '03'
 item_name: Angulotl Cleaver
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:angulotl-cleaver
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-cleaver
 scdc:
-  - 1.1.1:2:238
+  - 1.1.1:2.29.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Cleaver

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 4
 item_id: war-dog-firestarter
-item_index: '393'
+item_index: '45'
 item_name: War Dog Firestarter
 level: 8
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:war-dog-firestarter
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-firestarter
 scdc:
-  - 1.1.1:2:393
+  - 1.1.1:2.49.1:45
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '45'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Firestarter

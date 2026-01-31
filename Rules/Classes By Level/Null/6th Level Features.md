@@ -2,14 +2,14 @@
 file_basename: 6th Level Features
 file_dpath: Classes By Level/Null
 item_id: 6th-level-features
-item_index: '40'
+item_index: '07'
 item_name: 6th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:6th-level-features
+  - mcdm.heroes.v1:class.null.level:6th-level-features
 scdc:
-  - 1.1.1:2.1:40
+  - 1.1.1:2.4.1:07
 source: mcdm.heroes.v1
-type: class/level
+type: class/null/level
 ---
 
 ### 6th-Level Features

@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: ghoul-craver
-item_index: '70'
+item_index: '18'
 item_name: Ghoul Craver
 level: 4
 might: 3
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:ghoul-craver
+  - mcdm.monsters.v1:monster.undead.statblock:ghoul-craver
 scdc:
-  - 1.1.1:2:70
+  - 1.1.1:2.8.1:18
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '8'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Ghoul Craver

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: orliq
-item_index: '272'
+item_index: '21'
 item_name: Orliq
 level: 4
 might: -1
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:orliq
+  - mcdm.monsters.v1:monster.demons.statblock:orliq
 scdc:
-  - 1.1.1:2:272
+  - 1.1.1:2.33.1:21
 size: 1T
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '8'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Orliq

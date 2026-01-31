@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 3
 intuition: 0
 item_id: lizardfolk-skyterror
-item_index: '48'
+item_index: '03'
 item_name: Lizardfolk Skyterror
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-skyterror
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-skyterror
 scdc:
-  - 1.1.1:2:48
+  - 1.1.1:2.7.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Skyterror

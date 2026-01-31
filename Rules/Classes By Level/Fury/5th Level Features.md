@@ -2,14 +2,14 @@
 file_basename: 5th Level Features
 file_dpath: Classes By Level/Fury
 item_id: 5th-level-features
-item_index: '56'
+item_index: '12'
 item_name: 5th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:5th-level-features
+  - mcdm.heroes.v1:class.fury.level:5th-level-features
 scdc:
-  - 1.1.1:2.1:56
+  - 1.1.1:2.5.1:12
 source: mcdm.heroes.v1
-type: class/level
+type: class/fury/level
 ---
 
 ### 5th-Level Features

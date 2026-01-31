@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-ballistite
-item_index: '358'
+item_index: '10'
 item_name: War Dog Ballistite
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:war-dog-ballistite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-ballistite
 scdc:
-  - 1.1.1:2:358
+  - 1.1.1:2.49.1:10
 size: 1L
 source: mcdm.monsters.v1
 speed: 0
 stability: 5
 stamina: '72'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Ballistite

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-eviscerite
-item_index: '352'
+item_index: '04'
 item_name: War Dog Eviscerite
 level: 1
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-eviscerite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-eviscerite
 scdc:
-  - 1.1.1:2:352
+  - 1.1.1:2.49.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '15'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Eviscerite

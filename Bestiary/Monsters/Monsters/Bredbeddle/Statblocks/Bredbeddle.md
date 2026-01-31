@@ -9,7 +9,7 @@ file_dpath: Monsters/Bredbeddle/Statblocks
 free_strike: 6
 intuition: 2
 item_id: bredbeddle
-item_index: '205'
+item_index: '01'
 item_name: Bredbeddle
 level: 3
 might: 3
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:bredbeddle
+  - mcdm.monsters.v1:monster.bredbeddle.statblock:bredbeddle
 scdc:
-  - 1.1.1:2:205
+  - 1.1.1:2.23.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '300'
-type: monster
+type: monster/bredbeddle/statblock
 ---
 
 ###### Bredbeddle

@@ -9,7 +9,7 @@ file_dpath: Monsters/Olothec/Statblocks
 free_strike: 7
 intuition: 2
 item_id: olothec
-item_index: '107'
+item_index: '01'
 item_name: Olothec
 level: 6
 might: 4
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:olothec
+  - mcdm.monsters.v1:monster.olothec.statblock:olothec
 scdc:
-  - 1.1.1:2:107
+  - 1.1.1:2.12.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '450'
-type: monster
+type: monster/olothec/statblock
 ---
 
 ###### Olothec

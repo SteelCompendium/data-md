@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-sneak
-item_index: '286'
+item_index: '01'
 item_name: Bugbear Sneak
 level: 2
 might: 2
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Elite Ambusher
 scc:
-  - mcdm.monsters.v1:monster:bugbear-sneak
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-sneak
 scdc:
-  - 1.1.1:2:286
+  - 1.1.1:2.35.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '80'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Sneak

@@ -10,7 +10,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 5
 intuition: 0
 item_id: tusker-demon
-item_index: '42'
+item_index: 08
 item_name: Tusker Demon
 level: 2
 might: 2
@@ -19,15 +19,15 @@ reason: -3
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:tusker-demon
+  - mcdm.monsters.v1:monster.gnolls.statblock:tusker-demon
 scdc:
-  - 1.1.1:2:42
+  - 1.1.1:2.6.1:08
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '100'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Tusker Demon

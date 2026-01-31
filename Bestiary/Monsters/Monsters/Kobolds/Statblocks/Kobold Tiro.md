@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 1
 intuition: 0
 item_id: kobold-tiro
-item_index: '96'
+item_index: 08
 item_name: Kobold Tiro
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Defender
 scc:
-  - mcdm.monsters.v1:monster:kobold-tiro
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-tiro
 scdc:
-  - 1.1.1:2:96
+  - 1.1.1:2.10.1:08
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Tiro

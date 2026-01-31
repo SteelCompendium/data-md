@@ -9,7 +9,7 @@ file_dpath: Monsters/Hag/Statblocks
 free_strike: 6
 intuition: 3
 item_id: wode-hag
-item_index: '293'
+item_index: '01'
 item_name: Wode Hag
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:wode-hag
+  - mcdm.monsters.v1:monster.hag.statblock:wode-hag
 scdc:
-  - 1.1.1:2:293
+  - 1.1.1:2.36.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '300'
-type: monster
+type: monster/hag/statblock
 ---
 
 ###### Wode Hag

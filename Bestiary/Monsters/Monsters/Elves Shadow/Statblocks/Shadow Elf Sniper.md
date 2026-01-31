@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 3
 intuition: 0
 item_id: shadow-elf-sniper
-item_index: '216'
+item_index: '10'
 item_name: Shadow Elf Sniper
 level: 4
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-sniper
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-sniper
 scdc:
-  - 1.1.1:2:216
+  - 1.1.1:2.25.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '7'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Sniper

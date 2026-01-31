@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 10
 intuition: -1
 item_id: servok-builder
-item_index: '328'
+item_index: '03'
 item_name: Servok Builder
 level: 9
 might: 4
@@ -20,15 +20,15 @@ reason: -4
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:servok-builder
+  - mcdm.monsters.v1:monster.valok.statblock:servok-builder
 scdc:
-  - 1.1.1:2:328
+  - 1.1.1:2.41.1:03
 size: '3'
 source: mcdm.monsters.v1
 speed: 5
 stability: 8
 stamina: '240'
-type: monster
+type: monster/valok/statblock
 ---
 
 ###### Servok Builder

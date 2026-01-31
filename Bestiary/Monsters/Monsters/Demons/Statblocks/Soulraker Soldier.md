@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: -1
 item_id: soulraker-soldier
-item_index: '271'
+item_index: '20'
 item_name: Soulraker Soldier
 level: 7
 might: 4
@@ -19,15 +19,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:soulraker-soldier
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-soldier
 scdc:
-  - 1.1.1:2:271
+  - 1.1.1:2.33.1:20
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '13'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Soldier

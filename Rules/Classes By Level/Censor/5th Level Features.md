@@ -2,14 +2,14 @@
 file_basename: 5th Level Features
 file_dpath: Classes By Level/Censor
 item_id: 5th-level-features
-item_index: '33'
+item_index: '11'
 item_name: 5th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:5th-level-features
+  - mcdm.heroes.v1:class.censor.level:5th-level-features
 scdc:
-  - 1.1.1:2.1:33
+  - 1.1.1:2.3.1:11
 source: mcdm.heroes.v1
-type: class/level
+type: class/censor/level
 ---
 
 ### 5th-Level Features

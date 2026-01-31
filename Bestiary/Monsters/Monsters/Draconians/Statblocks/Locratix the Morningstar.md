@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 2
 item_id: locratix-the-morningstar
-item_index: '105'
+item_index: '05'
 item_name: Locratix the Morningstar
 level: 6
 might: 1
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:locratix-the-morningstar
+  - mcdm.monsters.v1:monster.draconians.statblock:locratix-the-morningstar
 scdc:
-  - 1.1.1:2:105
+  - 1.1.1:2.11.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '160'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Locratix the Morningstar

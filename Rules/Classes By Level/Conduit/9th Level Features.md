@@ -2,14 +2,14 @@
 file_basename: 9th Level Features
 file_dpath: Classes By Level/Conduit
 item_id: 9th-level-features
-item_index: '12'
+item_index: '01'
 item_name: 9th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:9th-level-features
+  - mcdm.heroes.v1:class.conduit.level:9th-level-features
 scdc:
-  - 1.1.1:2.1:12
+  - 1.1.1:2.2.1:01
 source: mcdm.heroes.v1
-type: class/level
+type: class/conduit/level
 ---
 
 ### 9th-Level Features

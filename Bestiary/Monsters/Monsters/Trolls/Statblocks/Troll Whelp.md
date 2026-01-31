@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: troll-whelp
-item_index: '408'
+item_index: '02'
 item_name: Troll Whelp
 level: 5
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:troll-whelp
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-whelp
 scdc:
-  - 1.1.1:2:408
+  - 1.1.1:2.51.1:02
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '10'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Whelp

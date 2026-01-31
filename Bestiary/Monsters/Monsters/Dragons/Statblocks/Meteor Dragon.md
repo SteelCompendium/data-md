@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 10
 intuition: 3
 item_id: meteor-dragon
-item_index: '344'
+item_index: '04'
 item_name: Meteor Dragon
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:meteor-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:meteor-dragon
 scdc:
-  - 1.1.1:2:344
+  - 1.1.1:2.45.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 15
 stability: 6
 stamina: '650'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Meteor Dragon

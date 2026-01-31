@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 5
 intuition: 2
 item_id: orc-warleader
-item_index: '128'
+item_index: '06'
 item_name: Orc Warleader
 level: 3
 might: 3
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:orc-warleader
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-warleader
 scdc:
-  - 1.1.1:2:128
+  - 1.1.1:2.15.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '120'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Warleader

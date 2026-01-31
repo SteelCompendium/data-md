@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 3
 item_id: tyburaki
-item_index: '257'
+item_index: '06'
 item_name: Tyburaki
 level: 10
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:tyburaki
+  - mcdm.monsters.v1:monster.demons.statblock:tyburaki
 scdc:
-  - 1.1.1:2:257
+  - 1.1.1:2.33.1:06
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '15'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Tyburaki

@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 2
 item_id: myxovidan-the-sintaker
-item_index: '102'
+item_index: '02'
 item_name: Myxovidan the Sintaker
 level: 6
 might: -1
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:myxovidan-the-sintaker
+  - mcdm.monsters.v1:monster.draconians.statblock:myxovidan-the-sintaker
 scdc:
-  - 1.1.1:2:102
+  - 1.1.1:2.11.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '140'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Myxovidan the Sintaker

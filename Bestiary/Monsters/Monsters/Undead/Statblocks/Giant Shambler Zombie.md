@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 5
 intuition: 1
 item_id: giant-shambler-zombie
-item_index: '69'
+item_index: '17'
 item_name: Giant Shambler Zombie
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:giant-shambler-zombie
+  - mcdm.monsters.v1:monster.undead.statblock:giant-shambler-zombie
 scdc:
-  - 1.1.1:2:69
+  - 1.1.1:2.8.1:17
 size: '3'
 source: mcdm.monsters.v1
 speed: 4
 stability: 5
 stamina: '17'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Giant Shambler Zombie

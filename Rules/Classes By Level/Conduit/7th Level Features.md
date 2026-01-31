@@ -2,14 +2,14 @@
 file_basename: 7th Level Features
 file_dpath: Classes By Level/Conduit
 item_id: 7th-level-features
-item_index: '13'
+item_index: '02'
 item_name: 7th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:7th-level-features
+  - mcdm.heroes.v1:class.conduit.level:7th-level-features
 scdc:
-  - 1.1.1:2.1:13
+  - 1.1.1:2.2.1:02
 source: mcdm.heroes.v1
-type: class/level
+type: class/conduit/level
 ---
 
 ### 7th-Level Features

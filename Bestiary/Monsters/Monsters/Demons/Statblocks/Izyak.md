@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 2
 item_id: izyak
-item_index: '269'
+item_index: '18'
 item_name: Izyak
 level: 10
 might: 0
@@ -18,15 +18,15 @@ reason: 5
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:izyak
+  - mcdm.monsters.v1:monster.demons.statblock:izyak
 scdc:
-  - 1.1.1:2:269
+  - 1.1.1:2.33.1:18
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '55'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Izyak

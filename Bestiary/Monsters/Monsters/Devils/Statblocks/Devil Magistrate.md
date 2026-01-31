@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 7
 intuition: 1
 item_id: devil-magistrate
-item_index: '298'
+item_index: '05'
 item_name: Devil Magistrate
 level: 6
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:devil-magistrate
+  - mcdm.monsters.v1:monster.devils.statblock:devil-magistrate
 scdc:
-  - 1.1.1:2:298
+  - 1.1.1:2.37.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '160'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Magistrate

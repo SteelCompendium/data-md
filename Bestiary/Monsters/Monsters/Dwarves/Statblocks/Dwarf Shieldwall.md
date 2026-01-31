@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 5
 intuition: 0
 item_id: dwarf-shieldwall
-item_index: '405'
+item_index: '12'
 item_name: Dwarf Shieldwall
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Defender
 scc:
-  - mcdm.monsters.v1:monster:dwarf-shieldwall
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-shieldwall
 scdc:
-  - 1.1.1:2:405
+  - 1.1.1:2.50.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '72'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Shieldwall

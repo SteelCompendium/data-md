@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: worg
-item_index: '304'
+item_index: '03'
 item_name: Worg
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Horde Mount
 scc:
-  - mcdm.monsters.v1:monster:worg
+  - mcdm.monsters.v1:monster.goblins.statblock:worg
 scdc:
-  - 1.1.1:2:304
+  - 1.1.1:2.38.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '15'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Worg

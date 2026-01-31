@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 3
 item_id: lydixavus-the-deadeye
-item_index: '106'
+item_index: '06'
 item_name: Lydixavus the Deadeye
 level: 6
 might: -1
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Elite Artillery
 scc:
-  - mcdm.monsters.v1:monster:lydixavus-the-deadeye
+  - mcdm.monsters.v1:monster.draconians.statblock:lydixavus-the-deadeye
 scdc:
-  - 1.1.1:2:106
+  - 1.1.1:2.11.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '140'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Lydixavus the Deadeye

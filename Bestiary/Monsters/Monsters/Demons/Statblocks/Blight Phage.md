@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: blight-phage
-item_index: '281'
+item_index: '30'
 item_name: Blight Phage
 level: 7
 might: 0
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:blight-phage
+  - mcdm.monsters.v1:monster.demons.statblock:blight-phage
 scdc:
-  - 1.1.1:2:281
+  - 1.1.1:2.33.1:30
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '40'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Blight Phage

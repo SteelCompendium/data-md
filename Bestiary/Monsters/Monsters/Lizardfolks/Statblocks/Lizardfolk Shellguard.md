@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 1
 intuition: 0
 item_id: lizardfolk-shellguard
-item_index: '51'
+item_index: '06'
 item_name: Lizardfolk Shellguard
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Defender
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-shellguard
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-shellguard
 scdc:
-  - 1.1.1:2:51
+  - 1.1.1:2.7.1:06
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '6'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Shellguard

@@ -5,11 +5,11 @@ item_id: 2nd-level-features
 item_index: 09
 item_name: 2nd-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:2nd-level-features
+  - mcdm.heroes.v1:class.elementalist.level:2nd-level-features
 scdc:
-  - 1.1.1:2.1:09
+  - 1.1.1:2.1.1:09
 source: mcdm.heroes.v1
-type: class/level
+type: class/elementalist/level
 ---
 
 ### 2nd-Level Features

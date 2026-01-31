@@ -9,7 +9,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 4
 intuition: 2
 item_id: animal-swarm
-item_index: '248'
+item_index: '03'
 item_name: Animal Swarm
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:animal-swarm
+  - mcdm.monsters.v1:monster.animals.statblock:animal-swarm
 scdc:
-  - 1.1.1:2:248
+  - 1.1.1:2.32.1:03
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '40'
-type: monster
+type: monster/animals/statblock
 ---
 
 ###### Animal Swarm

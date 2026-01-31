@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 1
 intuition: 2
 item_id: dwarf-axethrower
-item_index: '401'
+item_index: 08
 item_name: Dwarf Axethrower
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Defender
 scc:
-  - mcdm.monsters.v1:monster:dwarf-axethrower
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-axethrower
 scdc:
-  - 1.1.1:2:401
+  - 1.1.1:2.50.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '7'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Axethrower

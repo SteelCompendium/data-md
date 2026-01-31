@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/1st Echelon/Statblocks
 free_strike: 5
 intuition: 0
 item_id: rival-shadow
-item_index: '13'
+item_index: '07'
 item_name: Rival Shadow
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Ambusher
 scc:
-  - mcdm.monsters.v1:monster:rival-shadow
+  - mcdm.monsters.v1:monster.rivals.1st echelon.statblock:rival-shadow
 scdc:
-  - 1.1.1:2:13
+  - 1.1.1:2.5.1.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '80'
-type: monster
+type: monster/rivals/1st echelon/statblock
 ---
 
 ###### Rival Shadow

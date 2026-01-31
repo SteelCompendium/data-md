@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: 2
 item_id: high-elf-ordinator
-item_index: '114'
+item_index: '07'
 item_name: High Elf Ordinator
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:high-elf-ordinator
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-ordinator
 scdc:
-  - 1.1.1:2:114
+  - 1.1.1:2.13.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '120'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Ordinator

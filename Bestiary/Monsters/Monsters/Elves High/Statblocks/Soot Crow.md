@@ -9,7 +9,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 1
 intuition: 0
 item_id: soot-crow
-item_index: '117'
+item_index: '10'
 item_name: Soot Crow
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:soot-crow
+  - mcdm.monsters.v1:monster.elves-high.statblock:soot-crow
 scdc:
-  - 1.1.1:2:117
+  - 1.1.1:2.13.1:10
 size: 1T
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### Soot Crow

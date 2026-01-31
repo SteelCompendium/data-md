@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 9
 intuition: 2
 item_id: fire-giant-chief
-item_index: '192'
+item_index: '01'
 item_name: Fire Giant Chief
 level: 9
 might: 5
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:fire-giant-chief
+  - mcdm.monsters.v1:monster.giants.statblock:fire-giant-chief
 scdc:
-  - 1.1.1:2:192
+  - 1.1.1:2.22.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10
 stability: 10
 stamina: '240'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Fire Giant Chief

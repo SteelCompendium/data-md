@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 1
 item_id: tormenauk
-item_index: '279'
+item_index: '28'
 item_name: Tormenauk
 level: 6
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:tormenauk
+  - mcdm.monsters.v1:monster.demons.statblock:tormenauk
 scdc:
-  - 1.1.1:2:279
+  - 1.1.1:2.33.1:28
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '45'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Tormenauk

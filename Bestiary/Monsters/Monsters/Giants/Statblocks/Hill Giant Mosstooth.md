@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 4
 intuition: -1
 item_id: hill-giant-mosstooth
-item_index: '197'
+item_index: '06'
 item_name: Hill Giant Mosstooth
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:hill-giant-mosstooth
+  - mcdm.monsters.v1:monster.giants.statblock:hill-giant-mosstooth
 scdc:
-  - 1.1.1:2:197
+  - 1.1.1:2.22.1:06
 size: '4'
 source: mcdm.monsters.v1
 speed: 6
 stability: 5
 stamina: '13'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Hill Giant Mosstooth

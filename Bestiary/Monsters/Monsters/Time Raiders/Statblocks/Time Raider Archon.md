@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 2
 intuition: 1
 item_id: time-raider-archon
-item_index: '143'
+item_index: '05'
 item_name: Time Raider Archon
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:time-raider-archon
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-archon
 scdc:
-  - 1.1.1:2:143
+  - 1.1.1:2.17.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '7'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Archon

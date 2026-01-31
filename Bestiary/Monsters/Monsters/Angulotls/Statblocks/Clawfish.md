@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: -2
 item_id: clawfish
-item_index: '243'
+item_index: 08
 item_name: Clawfish
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:clawfish
+  - mcdm.monsters.v1:monster.angulotls.statblock:clawfish
 scdc:
-  - 1.1.1:2:243
+  - 1.1.1:2.29.1:08
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Clawfish

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 0
 item_id: muceron
-item_index: '276'
+item_index: '25'
 item_name: Muceron
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:muceron
+  - mcdm.monsters.v1:monster.demons.statblock:muceron
 scdc:
-  - 1.1.1:2:276
+  - 1.1.1:2.33.1:25
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Muceron

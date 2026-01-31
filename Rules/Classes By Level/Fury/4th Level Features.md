@@ -2,14 +2,14 @@
 file_basename: 4th Level Features
 file_dpath: Classes By Level/Fury
 item_id: 4th-level-features
-item_index: '50'
+item_index: '06'
 item_name: 4th-Level Features
 scc:
-  - mcdm.heroes.v1:class.level:4th-level-features
+  - mcdm.heroes.v1:class.fury.level:4th-level-features
 scdc:
-  - 1.1.1:2.1:50
+  - 1.1.1:2.5.1:06
 source: mcdm.heroes.v1
-type: class/level
+type: class/fury/level
 ---
 
 ### 4th-Level Features

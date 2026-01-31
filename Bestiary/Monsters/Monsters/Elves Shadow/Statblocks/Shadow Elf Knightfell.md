@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 5
 intuition: 3
 item_id: shadow-elf-knightfell
-item_index: '208'
+item_index: '02'
 item_name: Shadow Elf Knightfell
 level: 4
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Defender
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-knightfell
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-knightfell
 scdc:
-  - 1.1.1:2:208
+  - 1.1.1:2.25.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '70'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Knightfell

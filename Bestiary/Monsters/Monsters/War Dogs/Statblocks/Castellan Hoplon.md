@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 3
 item_id: castellan-hoplon
-item_index: '385'
+item_index: '37'
 item_name: Castellan Hoplon
 level: 10
 might: 5
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:castellan-hoplon
+  - mcdm.monsters.v1:monster.war-dogs.statblock:castellan-hoplon
 scdc:
-  - 1.1.1:2:385
+  - 1.1.1:2.49.1:37
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '260'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### Castellan Hoplon

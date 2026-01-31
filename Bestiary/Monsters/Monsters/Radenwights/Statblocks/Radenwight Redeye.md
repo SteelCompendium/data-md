@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 2
 intuition: 0
 item_id: radenwight-redeye
-item_index: '155'
+item_index: '07'
 item_name: Radenwight Redeye
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:radenwight-redeye
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-redeye
 scdc:
-  - 1.1.1:2:155
+  - 1.1.1:2.18.1:07
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Redeye

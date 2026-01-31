@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 5
 intuition: 0
 item_id: ogre-goon
-item_index: '02'
+item_index: '01'
 item_name: Ogre Goon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:ogre-goon
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-goon
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:2.4.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '100'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Goon

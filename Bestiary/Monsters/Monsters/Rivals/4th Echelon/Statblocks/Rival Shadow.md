@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/4th Echelon/Statblocks
 free_strike: 10
 intuition: 2
 item_id: rival-shadow
-item_index: '34'
+item_index: '07'
 item_name: Rival Shadow
 level: 10
 might: 0
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Elite Ambusher
 scc:
-  - mcdm.monsters.v1:monster:rival-shadow
+  - mcdm.monsters.v1:monster.rivals.4th echelon.statblock:rival-shadow
 scdc:
-  - 1.1.1:2:34
+  - 1.1.1:2.5.4.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '240'
-type: monster
+type: monster/rivals/4th echelon/statblock
 ---
 
 ###### Rival Shadow

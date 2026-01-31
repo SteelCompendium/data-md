@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 2
 item_id: chorogaunt
-item_index: '256'
+item_index: '05'
 item_name: Chorogaunt
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:chorogaunt
+  - mcdm.monsters.v1:monster.demons.statblock:chorogaunt
 scdc:
-  - 1.1.1:2:256
+  - 1.1.1:2.33.1:05
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '120'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Chorogaunt

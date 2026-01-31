@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 2
 intuition: 1
 item_id: radenwight-mischiever
-item_index: '153'
+item_index: '05'
 item_name: Radenwight Mischiever
 level: 1
 might: -1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:radenwight-mischiever
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-mischiever
 scdc:
-  - 1.1.1:2:153
+  - 1.1.1:2.18.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Mischiever

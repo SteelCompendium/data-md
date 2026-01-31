@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-war-frog
-item_index: '389'
+item_index: '41'
 item_name: War Dog War Frog
 level: 4
 might: -1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:war-dog-war-frog
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-war-frog
 scdc:
-  - 1.1.1:2:389
+  - 1.1.1:2.49.1:41
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '8'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog War Frog

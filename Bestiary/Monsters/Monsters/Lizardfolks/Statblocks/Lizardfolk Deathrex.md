@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 4
 intuition: 1
 item_id: lizardfolk-deathrex
-item_index: '46'
+item_index: '01'
 item_name: Lizardfolk Deathrex
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-deathrex
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-deathrex
 scdc:
-  - 1.1.1:2:46
+  - 1.1.1:2.7.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '80'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Deathrex

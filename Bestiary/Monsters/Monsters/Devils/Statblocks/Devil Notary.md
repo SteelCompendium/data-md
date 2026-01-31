@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 3
 intuition: 1
 item_id: devil-notary
-item_index: '300'
+item_index: '07'
 item_name: Devil Notary
 level: 5
 might: 0
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:devil-notary
+  - mcdm.monsters.v1:monster.devils.statblock:devil-notary
 scdc:
-  - 1.1.1:2:300
+  - 1.1.1:2.37.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '8'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Notary

@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: -2
 item_id: hulking-brain
-item_index: '335'
+item_index: '02'
 item_name: Hulking Brain
 level: 6
 might: 3
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:hulking-brain
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:hulking-brain
 scdc:
-  - 1.1.1:2:335
+  - 1.1.1:2.44.1:02
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '180'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Hulking Brain

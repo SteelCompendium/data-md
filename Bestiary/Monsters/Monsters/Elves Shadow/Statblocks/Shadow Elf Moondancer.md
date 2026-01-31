@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 2
 item_id: shadow-elf-moondancer
-item_index: '209'
+item_index: '03'
 item_name: Shadow Elf Moondancer
 level: 5
 might: 1
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-moondancer
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-moondancer
 scdc:
-  - 1.1.1:2:209
+  - 1.1.1:2.25.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '70'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Moondancer

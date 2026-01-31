@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/4th Echelon/Statblocks
 free_strike: 10
 intuition: 5
 item_id: rival-null
-item_index: '28'
+item_index: '01'
 item_name: Rival Null
 level: 10
 might: 3
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:rival-null
+  - mcdm.monsters.v1:monster.rivals.4th echelon.statblock:rival-null
 scdc:
-  - 1.1.1:2:28
+  - 1.1.1:2.5.4.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '240'
-type: monster
+type: monster/rivals/4th echelon/statblock
 ---
 
 ###### Rival Null

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 4
 item_id: soulbinder-psyche
-item_index: '387'
+item_index: '39'
 item_name: Soulbinder Psyche
 level: 10
 might: 1
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:soulbinder-psyche
+  - mcdm.monsters.v1:monster.war-dogs.statblock:soulbinder-psyche
 scdc:
-  - 1.1.1:2:387
+  - 1.1.1:2.49.1:39
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '220'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### Soulbinder Psyche

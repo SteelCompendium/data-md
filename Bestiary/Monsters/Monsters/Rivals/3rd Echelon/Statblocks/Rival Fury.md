@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/3rd Echelon/Statblocks
 free_strike: 9
 intuition: 1
 item_id: rival-fury
-item_index: '22'
+item_index: '02'
 item_name: Rival Fury
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:rival-fury
+  - mcdm.monsters.v1:monster.rivals.3rd echelon.statblock:rival-fury
 scdc:
-  - 1.1.1:2:22
+  - 1.1.1:2.5.3.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '220'
-type: monster
+type: monster/rivals/3rd echelon/statblock
 ---
 
 ###### Rival Fury

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 4
 item_id: war-dog-iron-priest
-item_index: '349'
+item_index: '01'
 item_name: War Dog Iron Priest
 level: 8
 might: 2
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:war-dog-iron-priest
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-iron-priest
 scdc:
-  - 1.1.1:2:349
+  - 1.1.1:2.49.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '50'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Iron Priest

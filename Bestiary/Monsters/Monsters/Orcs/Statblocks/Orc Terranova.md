@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 4
 intuition: 1
 item_id: orc-terranova
-item_index: '130'
+item_index: 08
 item_name: Orc Terranova
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:orc-terranova
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-terranova
 scdc:
-  - 1.1.1:2:130
+  - 1.1.1:2.15.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '30'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Terranova

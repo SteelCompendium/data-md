@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 3
 intuition: 0
 item_id: bugbear-snare
-item_index: '292'
+item_index: '07'
 item_name: Bugbear Snare
 level: 5
 might: 2
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:bugbear-snare
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-snare
 scdc:
-  - 1.1.1:2:292
+  - 1.1.1:2.35.1:07
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '9'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Snare

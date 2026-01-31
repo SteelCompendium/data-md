@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 9
 intuition: 3
 item_id: omen-dragon
-item_index: '341'
+item_index: '01'
 item_name: Omen Dragon
 level: 8
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:omen-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:omen-dragon
 scdc:
-  - 1.1.1:2:341
+  - 1.1.1:2.45.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10
 stability: 6
 stamina: '550'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Omen Dragon

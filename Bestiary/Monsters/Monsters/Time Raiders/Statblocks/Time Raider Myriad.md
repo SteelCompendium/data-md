@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 3
 intuition: 1
 item_id: time-raider-myriad
-item_index: '144'
+item_index: '06'
 item_name: Time Raider Myriad
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:time-raider-myriad
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-myriad
 scdc:
-  - 1.1.1:2:144
+  - 1.1.1:2.17.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '8'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Myriad

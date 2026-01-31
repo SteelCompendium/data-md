@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 5
 intuition: 1
 item_id: brush-stalker
-item_index: '212'
+item_index: '06'
 item_name: Brush Stalker
 level: 4
 might: 3
@@ -19,15 +19,15 @@ reason: -1
 roles:
   - Platoon Mount
 scc:
-  - mcdm.monsters.v1:monster:brush-stalker
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:brush-stalker
 scdc:
-  - 1.1.1:2:212
+  - 1.1.1:2.25.1:06
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 3
 stamina: '60'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Brush Stalker

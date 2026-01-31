@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 9
 intuition: 3
 item_id: soulraker-hivequeen
-item_index: '275'
+item_index: '24'
 item_name: Soulraker Hivequeen
 level: 9
 might: 5
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:soulraker-hivequeen
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-hivequeen
 scdc:
-  - 1.1.1:2:275
+  - 1.1.1:2.33.1:24
 size: '5'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '240'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Hivequeen

@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 3
 intuition: 1
 item_id: mindkiller-whelp
-item_index: '336'
+item_index: '03'
 item_name: Mindkiller Whelp
 level: 6
 might: -1
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:mindkiller-whelp
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:mindkiller-whelp
 scdc:
-  - 1.1.1:2:336
+  - 1.1.1:2.44.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 4
 stability: 0
 stamina: '9'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Mindkiller Whelp
