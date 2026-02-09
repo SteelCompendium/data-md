@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.trolls.statblock:troll-butcher
 scdc:
-  - 1.1.1:2.51.1:01
+  - 1.1.1:2.52.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

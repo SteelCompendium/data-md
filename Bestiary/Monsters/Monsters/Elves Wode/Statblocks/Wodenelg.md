@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-wode.statblock:wodenelg
 scdc:
-  - 1.1.1:2.26.1:05
+  - 1.1.1:2.27.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 10

@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-gweiadur
 scdc:
-  - 1.1.1:2.26.1:06
+  - 1.1.1:2.27.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

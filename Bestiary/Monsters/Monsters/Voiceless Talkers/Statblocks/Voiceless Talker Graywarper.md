@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-graywarper
 scdc:
-  - 1.1.1:2.44.1:01
+  - 1.1.1:2.45.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

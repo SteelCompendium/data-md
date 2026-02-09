@@ -297,7 +297,10 @@ type: index
 | [Lich Malice](Lich/Features/Lich%20Malice)                                                                         |
 | [Lich](Lich/Lich)                                                                                                  |
 | [Lich](Lich/Statblocks/Lich)                                                                                       |
-| [Lightbender](Lightbenders/Lightbender)                                                                            |
+| [Lightbender Malice](Lightbenders/Features/Lightbender%20Malice)                                                   |
+| [Lightbenders](Lightbenders/Lightbenders)                                                                          |
+| [Lightbender](Lightbenders/Statblocks/Lightbender)                                                                 |
+| [Lightbender Pouncer](Lightbenders/Statblocks/Lightbender%20Pouncer)                                               |
 | [Lizardfolk Malice](Lizardfolks/Features/Lizardfolk%20Malice)                                                      |
 | [Lizardfolk](Lizardfolks/Lizardfolk)                                                                               |
 | [Lizardfolk Bloodeye](Lizardfolks/Statblocks/Lizardfolk%20Bloodeye)                                                |

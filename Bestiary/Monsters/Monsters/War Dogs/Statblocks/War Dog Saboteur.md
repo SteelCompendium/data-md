@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-saboteur
 scdc:
-  - 1.1.1:2.49.1:27
+  - 1.1.1:2.50.1:27
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

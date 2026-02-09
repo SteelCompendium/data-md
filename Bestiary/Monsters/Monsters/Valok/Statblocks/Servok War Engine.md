@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.valok.statblock:servok-war-engine
 scdc:
-  - 1.1.1:2.41.1:02
+  - 1.1.1:2.42.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 5

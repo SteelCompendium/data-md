@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-amalgamite
 scdc:
-  - 1.1.1:2.49.1:30
+  - 1.1.1:2.50.1:30
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

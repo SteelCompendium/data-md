@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elementals.statblock:force-of-earth
 scdc:
-  - 1.1.1:2.40.1:04
+  - 1.1.1:2.41.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

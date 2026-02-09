@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-breaker
 scdc:
-  - 1.1.1:2.49.1:26
+  - 1.1.1:2.50.1:26
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.manticores.statblock:manticore
 scdc:
-  - 1.1.1:2.46.1:01
+  - 1.1.1:2.47.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 10

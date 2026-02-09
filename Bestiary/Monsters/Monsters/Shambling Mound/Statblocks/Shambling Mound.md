@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.shambling-mound.statblock:shambling-mound
 scdc:
-  - 1.1.1:2.48.1:01
+  - 1.1.1:2.49.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 3

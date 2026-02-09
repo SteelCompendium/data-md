@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.kingfissure-worm.statblock:kingfissure-worm
 scdc:
-  - 1.1.1:2.31.1:01
+  - 1.1.1:2.32.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10

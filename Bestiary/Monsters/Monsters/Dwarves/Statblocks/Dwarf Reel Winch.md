@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-reel-winch
 scdc:
-  - 1.1.1:2.50.1:13
+  - 1.1.1:2.51.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

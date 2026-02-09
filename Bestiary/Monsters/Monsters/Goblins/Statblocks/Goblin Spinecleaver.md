@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.goblins.statblock:goblin-spinecleaver
 scdc:
-  - 1.1.1:2.38.1:05
+  - 1.1.1:2.39.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

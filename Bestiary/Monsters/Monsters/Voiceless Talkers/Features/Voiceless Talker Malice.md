@@ -2,12 +2,12 @@
 file_basename: Voiceless Talker Malice
 file_dpath: Monsters/Voiceless Talkers/Features
 item_id: voiceless-talker-malice-malice-features
-item_index: '48'
+item_index: '49'
 item_name: Voiceless Talker Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:voiceless-talker-malice-malice-features
 scdc:
-  - 1.1.1:2.2:48
+  - 1.1.1:2.2:49
 source: mcdm.monsters.v1
 type: monster/feature
 ---

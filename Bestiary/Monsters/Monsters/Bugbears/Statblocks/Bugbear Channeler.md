@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-channeler
 scdc:
-  - 1.1.1:2.35.1:03
+  - 1.1.1:2.36.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.xorannox the tyract.statblock:toxic-eye
 scdc:
-  - 1.1.1:2.39.1:05
+  - 1.1.1:2.40.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

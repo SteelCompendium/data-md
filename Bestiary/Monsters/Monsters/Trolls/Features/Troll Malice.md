@@ -2,12 +2,12 @@
 file_basename: Troll Malice
 file_dpath: Monsters/Trolls/Features
 item_id: troll-malice-malice-features
-item_index: '62'
+item_index: '63'
 item_name: Troll Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:troll-malice-malice-features
 scdc:
-  - 1.1.1:2.2:62
+  - 1.1.1:2.2:63
 source: mcdm.monsters.v1
 type: monster/feature
 ---

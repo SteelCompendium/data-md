@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.arixx.statblock:arixx
 scdc:
-  - 1.1.1:2.28.1:01
+  - 1.1.1:2.29.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

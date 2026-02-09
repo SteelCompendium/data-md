@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.count rhodar von glauer.statblock:count-rhodar-von-glauer
 scdc:
-  - 1.1.1:2.34.1:01
+  - 1.1.1:2.35.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 12

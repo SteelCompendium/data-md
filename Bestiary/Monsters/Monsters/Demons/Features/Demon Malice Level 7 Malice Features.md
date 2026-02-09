@@ -3,12 +3,12 @@ file_basename: Demon Malice Level 7 Malice Features
 file_dpath: Monsters/Demons/Features
 include_parens_in_filename: 'true'
 item_id: demon-malice-level-7-malice-features
-item_index: '37'
+item_index: '38'
 item_name: Demon Malice (Level 7+ Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:demon-malice-level-7-malice-features
 scdc:
-  - 1.1.1:2.2:37
+  - 1.1.1:2.2:38
 source: mcdm.monsters.v1
 type: monster/feature
 ---

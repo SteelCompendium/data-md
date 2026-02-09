@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:tormenauk
 scdc:
-  - 1.1.1:2.33.1:28
+  - 1.1.1:2.34.1:28
 size: '2'
 source: mcdm.monsters.v1
 speed: 6

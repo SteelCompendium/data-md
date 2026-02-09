@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.ashen-hoarder.statblock:ashen-hoarder
 scdc:
-  - 1.1.1:2.24.1:01
+  - 1.1.1:2.25.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

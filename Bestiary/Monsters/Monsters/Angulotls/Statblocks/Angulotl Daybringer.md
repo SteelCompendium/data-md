@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-daybringer
 scdc:
-  - 1.1.1:2.29.1:06
+  - 1.1.1:2.30.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

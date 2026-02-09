@@ -2,12 +2,12 @@
 file_basename: Basilisk Malice
 file_dpath: Monsters/Basilisks/Features
 item_id: basilisk-malice-malice-features
-item_index: '46'
+item_index: '47'
 item_name: Basilisk Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:basilisk-malice-malice-features
 scdc:
-  - 1.1.1:2.2:46
+  - 1.1.1:2.2:47
 source: mcdm.monsters.v1
 type: monster/feature
 ---

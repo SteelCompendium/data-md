@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elementals.statblock:essence-of-storms
 scdc:
-  - 1.1.1:2.40.1:03
+  - 1.1.1:2.41.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 8

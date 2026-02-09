@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.goblins.statblock:skitterling
 scdc:
-  - 1.1.1:2.38.1:07
+  - 1.1.1:2.39.1:07
 size: 1T
 source: mcdm.monsters.v1
 speed: 5

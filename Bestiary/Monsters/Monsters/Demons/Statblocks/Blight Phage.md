@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:blight-phage
 scdc:
-  - 1.1.1:2.33.1:30
+  - 1.1.1:2.34.1:30
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

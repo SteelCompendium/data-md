@@ -2,12 +2,12 @@
 file_basename: Werewolf Malice
 file_dpath: Monsters/Werewolf/Features
 item_id: werewolf-malice-malice-features
-item_index: '47'
+item_index: '48'
 item_name: Werewolf Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:werewolf-malice-malice-features
 scdc:
-  - 1.1.1:2.2:47
+  - 1.1.1:2.2:48
 source: mcdm.monsters.v1
 type: monster/feature
 ---

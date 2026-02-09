@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.voiceless-talkers.statblock:hulking-brain
 scdc:
-  - 1.1.1:2.44.1:02
+  - 1.1.1:2.45.1:02
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

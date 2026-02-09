@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:lumbering-egress
 scdc:
-  - 1.1.1:2.33.1:13
+  - 1.1.1:2.34.1:13
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-evolutionist
 scdc:
-  - 1.1.1:2.44.1:04
+  - 1.1.1:2.45.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-pollywog
 scdc:
-  - 1.1.1:2.29.1:05
+  - 1.1.1:2.30.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

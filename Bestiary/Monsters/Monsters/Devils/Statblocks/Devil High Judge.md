@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.devils.statblock:devil-high-judge
 scdc:
-  - 1.1.1:2.37.1:03
+  - 1.1.1:2.38.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

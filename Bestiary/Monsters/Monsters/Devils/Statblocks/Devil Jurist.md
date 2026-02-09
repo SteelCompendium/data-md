@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.devils.statblock:devil-jurist
 scdc:
-  - 1.1.1:2.37.1:06
+  - 1.1.1:2.38.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

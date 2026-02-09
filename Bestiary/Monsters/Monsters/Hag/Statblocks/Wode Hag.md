@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.hag.statblock:wode-hag
 scdc:
-  - 1.1.1:2.36.1:01
+  - 1.1.1:2.37.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

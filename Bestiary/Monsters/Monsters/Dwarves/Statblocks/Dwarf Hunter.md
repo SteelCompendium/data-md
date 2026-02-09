@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-hunter
 scdc:
-  - 1.1.1:2.50.1:10
+  - 1.1.1:2.51.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

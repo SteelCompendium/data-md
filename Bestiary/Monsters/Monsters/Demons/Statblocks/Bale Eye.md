@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:bale-eye
 scdc:
-  - 1.1.1:2.33.1:31
+  - 1.1.1:2.34.1:31
 size: '4'
 source: mcdm.monsters.v1
 speed: 6

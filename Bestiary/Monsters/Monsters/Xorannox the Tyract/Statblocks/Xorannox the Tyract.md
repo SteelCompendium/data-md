@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.xorannox the tyract.statblock:xorannox-the-tyract
 scdc:
-  - 1.1.1:2.39.1:04
+  - 1.1.1:2.40.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 5

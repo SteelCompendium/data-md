@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elementals.statblock:essence-of-tides
 scdc:
-  - 1.1.1:2.40.1:01
+  - 1.1.1:2.41.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

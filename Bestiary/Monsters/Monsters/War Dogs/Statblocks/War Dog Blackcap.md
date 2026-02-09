@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-blackcap
 scdc:
-  - 1.1.1:2.49.1:25
+  - 1.1.1:2.50.1:25
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

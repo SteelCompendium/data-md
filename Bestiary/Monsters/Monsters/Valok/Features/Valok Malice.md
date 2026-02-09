@@ -2,12 +2,12 @@
 file_basename: Valok Malice
 file_dpath: Monsters/Valok/Features
 item_id: valok-malice-malice-features
-item_index: '45'
+item_index: '46'
 item_name: Valok Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:valok-malice-malice-features
 scdc:
-  - 1.1.1:2.2:45
+  - 1.1.1:2.2:46
 source: mcdm.monsters.v1
 type: monster/feature
 ---

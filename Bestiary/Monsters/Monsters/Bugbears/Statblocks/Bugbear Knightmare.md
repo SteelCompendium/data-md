@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-knightmare
 scdc:
-  - 1.1.1:2.35.1:06
+  - 1.1.1:2.36.1:06
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

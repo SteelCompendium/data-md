@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-invader
 scdc:
-  - 1.1.1:2.44.1:06
+  - 1.1.1:2.45.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

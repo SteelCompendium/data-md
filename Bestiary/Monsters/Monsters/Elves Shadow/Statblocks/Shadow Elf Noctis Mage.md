@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-noctis-mage
 scdc:
-  - 1.1.1:2.25.1:13
+  - 1.1.1:2.26.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:gunge
 scdc:
-  - 1.1.1:2.33.1:19
+  - 1.1.1:2.34.1:19
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

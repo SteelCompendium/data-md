@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-warden
 scdc:
-  - 1.1.1:2.50.1:06
+  - 1.1.1:2.51.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

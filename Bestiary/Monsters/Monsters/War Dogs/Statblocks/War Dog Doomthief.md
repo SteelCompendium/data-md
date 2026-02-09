@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-doomthief
 scdc:
-  - 1.1.1:2.49.1:40
+  - 1.1.1:2.50.1:40
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

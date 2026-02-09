@@ -2,12 +2,12 @@
 file_basename: Lich Malice
 file_dpath: Monsters/Lich/Features
 item_id: lich-malice-malice-features
-item_index: '55'
+item_index: '56'
 item_name: Lich Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:lich-malice-malice-features
 scdc:
-  - 1.1.1:2.2:55
+  - 1.1.1:2.2:56
 source: mcdm.monsters.v1
 type: monster/feature
 ---

@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-arachnite
 scdc:
-  - 1.1.1:2.49.1:32
+  - 1.1.1:2.50.1:32
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

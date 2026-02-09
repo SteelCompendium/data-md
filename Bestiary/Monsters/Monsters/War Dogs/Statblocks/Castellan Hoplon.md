@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:castellan-hoplon
 scdc:
-  - 1.1.1:2.49.1:37
+  - 1.1.1:2.50.1:37
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

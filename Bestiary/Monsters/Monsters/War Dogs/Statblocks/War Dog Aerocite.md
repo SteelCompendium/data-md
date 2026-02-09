@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-aerocite
 scdc:
-  - 1.1.1:2.49.1:18
+  - 1.1.1:2.50.1:18
 size: 1M
 source: mcdm.monsters.v1
 speed: 8

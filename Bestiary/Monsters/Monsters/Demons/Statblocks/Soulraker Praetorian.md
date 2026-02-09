@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:soulraker-praetorian
 scdc:
-  - 1.1.1:2.33.1:10
+  - 1.1.1:2.34.1:10
 size: 1L
 source: mcdm.monsters.v1
 speed: 8

@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-iron-priest
 scdc:
-  - 1.1.1:2.49.1:01
+  - 1.1.1:2.50.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

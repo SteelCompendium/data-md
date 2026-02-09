@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-prismite
 scdc:
-  - 1.1.1:2.49.1:17
+  - 1.1.1:2.50.1:17
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

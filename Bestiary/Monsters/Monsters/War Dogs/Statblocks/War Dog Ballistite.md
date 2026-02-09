@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-ballistite
 scdc:
-  - 1.1.1:2.49.1:10
+  - 1.1.1:2.50.1:10
 size: 1L
 source: mcdm.monsters.v1
 speed: 0

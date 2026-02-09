@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.lich.statblock:lich
 scdc:
-  - 1.1.1:2.47.1:01
+  - 1.1.1:2.48.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 10

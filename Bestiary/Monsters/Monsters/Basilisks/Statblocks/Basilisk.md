@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.basilisks.statblock:basilisk
 scdc:
-  - 1.1.1:2.42.1:01
+  - 1.1.1:2.43.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

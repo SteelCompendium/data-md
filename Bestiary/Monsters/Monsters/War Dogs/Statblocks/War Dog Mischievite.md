@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-mischievite
 scdc:
-  - 1.1.1:2.49.1:33
+  - 1.1.1:2.50.1:33
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

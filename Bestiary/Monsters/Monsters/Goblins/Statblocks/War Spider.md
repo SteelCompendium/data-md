@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.goblins.statblock:war-spider
 scdc:
-  - 1.1.1:2.38.1:11
+  - 1.1.1:2.39.1:11
 size: '3'
 source: mcdm.monsters.v1
 speed: 7

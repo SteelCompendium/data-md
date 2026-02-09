@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dragons.statblock:omen-dragon
 scdc:
-  - 1.1.1:2.45.1:01
+  - 1.1.1:2.46.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10

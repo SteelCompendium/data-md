@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.goblins.statblock:goblin-assassin
 scdc:
-  - 1.1.1:2.38.1:04
+  - 1.1.1:2.39.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 6

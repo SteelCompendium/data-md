@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.animals.statblock:animal-swarm
 scdc:
-  - 1.1.1:2.32.1:03
+  - 1.1.1:2.33.1:03
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

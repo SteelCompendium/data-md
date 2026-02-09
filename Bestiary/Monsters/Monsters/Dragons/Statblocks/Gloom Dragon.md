@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dragons.statblock:gloom-dragon
 scdc:
-  - 1.1.1:2.45.1:02
+  - 1.1.1:2.46.1:02
 size: '4'
 source: mcdm.monsters.v1
 speed: 8

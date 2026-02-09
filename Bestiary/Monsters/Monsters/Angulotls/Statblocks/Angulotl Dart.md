@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-dart
 scdc:
-  - 1.1.1:2.29.1:02
+  - 1.1.1:2.30.1:02
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

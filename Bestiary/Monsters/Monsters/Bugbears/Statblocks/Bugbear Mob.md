@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-mob
 scdc:
-  - 1.1.1:2.35.1:02
+  - 1.1.1:2.36.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 6

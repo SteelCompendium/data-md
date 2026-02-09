@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elementals.statblock:field-of-growth
 scdc:
-  - 1.1.1:2.40.1:02
+  - 1.1.1:2.41.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

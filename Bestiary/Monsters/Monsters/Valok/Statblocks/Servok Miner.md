@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.valok.statblock:servok-miner
 scdc:
-  - 1.1.1:2.41.1:04
+  - 1.1.1:2.42.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

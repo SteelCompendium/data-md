@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:wobalas
 scdc:
-  - 1.1.1:2.33.1:02
+  - 1.1.1:2.34.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

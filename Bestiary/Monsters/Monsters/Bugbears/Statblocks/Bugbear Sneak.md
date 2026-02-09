@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-sneak
 scdc:
-  - 1.1.1:2.35.1:01
+  - 1.1.1:2.36.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 7

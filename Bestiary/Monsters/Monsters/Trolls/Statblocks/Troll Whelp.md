@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.trolls.statblock:troll-whelp
 scdc:
-  - 1.1.1:2.51.1:02
+  - 1.1.1:2.52.1:02
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

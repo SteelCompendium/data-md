@@ -2,12 +2,12 @@
 file_basename: Crucible Dragon Malice
 file_dpath: Monsters/Dragons/Features
 item_id: crucible-dragon-malice-malice-features
-item_index: '53'
+item_index: '54'
 item_name: Crucible Dragon Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:crucible-dragon-malice-malice-features
 scdc:
-  - 1.1.1:2.2:53
+  - 1.1.1:2.2:54
 source: mcdm.monsters.v1
 type: monster/feature
 ---

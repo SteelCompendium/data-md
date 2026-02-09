@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-blood-jumper
 scdc:
-  - 1.1.1:2.49.1:08
+  - 1.1.1:2.50.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:torlas
 scdc:
-  - 1.1.1:2.33.1:33
+  - 1.1.1:2.34.1:33
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

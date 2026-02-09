@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-shadow.statblock:brush-stalker
 scdc:
-  - 1.1.1:2.25.1:06
+  - 1.1.1:2.26.1:06
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

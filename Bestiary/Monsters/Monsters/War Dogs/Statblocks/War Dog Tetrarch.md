@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-tetrarch
 scdc:
-  - 1.1.1:2.49.1:13
+  - 1.1.1:2.50.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

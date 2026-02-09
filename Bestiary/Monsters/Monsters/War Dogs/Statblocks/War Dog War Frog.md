@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-war-frog
 scdc:
-  - 1.1.1:2.49.1:41
+  - 1.1.1:2.50.1:41
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

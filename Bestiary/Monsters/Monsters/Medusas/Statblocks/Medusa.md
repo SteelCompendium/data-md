@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.medusas.statblock:medusa
 scdc:
-  - 1.1.1:2.30.1:01
+  - 1.1.1:2.31.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 10

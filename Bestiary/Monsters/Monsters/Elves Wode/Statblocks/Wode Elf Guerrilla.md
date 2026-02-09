@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-guerrilla
 scdc:
-  - 1.1.1:2.26.1:10
+  - 1.1.1:2.27.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

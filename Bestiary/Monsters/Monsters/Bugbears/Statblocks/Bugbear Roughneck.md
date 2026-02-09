@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-roughneck
 scdc:
-  - 1.1.1:2.35.1:04
+  - 1.1.1:2.36.1:04
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

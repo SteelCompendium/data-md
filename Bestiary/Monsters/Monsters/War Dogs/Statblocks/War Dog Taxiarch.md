@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-taxiarch
 scdc:
-  - 1.1.1:2.49.1:24
+  - 1.1.1:2.50.1:24
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

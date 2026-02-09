@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-draconite
 scdc:
-  - 1.1.1:2.49.1:14
+  - 1.1.1:2.50.1:14
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

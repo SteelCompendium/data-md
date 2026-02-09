@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.valok.statblock:multivok-chief
 scdc:
-  - 1.1.1:2.41.1:05
+  - 1.1.1:2.42.1:05
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

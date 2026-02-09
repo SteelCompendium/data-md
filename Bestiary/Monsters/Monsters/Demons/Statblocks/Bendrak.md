@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:bendrak
 scdc:
-  - 1.1.1:2.33.1:27
+  - 1.1.1:2.34.1:27
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

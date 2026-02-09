@@ -2,12 +2,12 @@
 file_basename: Elemental Malice
 file_dpath: Monsters/Elementals/Features
 item_id: elemental-malice-malice-features
-item_index: '44'
+item_index: '45'
 item_name: Elemental Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:elemental-malice-malice-features
 scdc:
-  - 1.1.1:2.2:44
+  - 1.1.1:2.2:45
 source: mcdm.monsters.v1
 type: monster/feature
 ---

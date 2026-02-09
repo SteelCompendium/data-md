@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:ruinant
 scdc:
-  - 1.1.1:2.33.1:32
+  - 1.1.1:2.34.1:32
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

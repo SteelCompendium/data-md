@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.goblins.statblock:goblin-stinker
 scdc:
-  - 1.1.1:2.38.1:09
+  - 1.1.1:2.39.1:09
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

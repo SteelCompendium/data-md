@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.animals.statblock:animal
 scdc:
-  - 1.1.1:2.32.1:04
+  - 1.1.1:2.33.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

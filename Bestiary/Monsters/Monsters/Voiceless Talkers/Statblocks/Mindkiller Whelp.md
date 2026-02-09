@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.voiceless-talkers.statblock:mindkiller-whelp
 scdc:
-  - 1.1.1:2.44.1:03
+  - 1.1.1:2.45.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 4

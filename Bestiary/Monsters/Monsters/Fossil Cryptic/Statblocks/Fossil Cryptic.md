@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.fossil-cryptic.statblock:fossil-cryptic
 scdc:
-  - 1.1.1:2.52.1:01
+  - 1.1.1:2.53.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 8

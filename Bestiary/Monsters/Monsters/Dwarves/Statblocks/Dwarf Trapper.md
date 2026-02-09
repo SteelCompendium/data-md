@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-trapper
 scdc:
-  - 1.1.1:2.50.1:09
+  - 1.1.1:2.51.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

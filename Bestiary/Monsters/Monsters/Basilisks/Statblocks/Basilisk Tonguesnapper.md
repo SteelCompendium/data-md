@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.basilisks.statblock:basilisk-tonguesnapper
 scdc:
-  - 1.1.1:2.42.1:02
+  - 1.1.1:2.43.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:tyburaki
 scdc:
-  - 1.1.1:2.33.1:06
+  - 1.1.1:2.34.1:06
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

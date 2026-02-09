@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dragons.statblock:meteor-dragon
 scdc:
-  - 1.1.1:2.45.1:04
+  - 1.1.1:2.46.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 15

@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-mournblade
 scdc:
-  - 1.1.1:2.25.1:14
+  - 1.1.1:2.26.1:14
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

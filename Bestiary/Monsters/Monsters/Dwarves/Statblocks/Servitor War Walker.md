@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.dwarves.statblock:servitor-war-walker
 scdc:
-  - 1.1.1:2.50.1:01
+  - 1.1.1:2.51.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

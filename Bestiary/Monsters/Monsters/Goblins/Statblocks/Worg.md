@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.goblins.statblock:worg
 scdc:
-  - 1.1.1:2.38.1:03
+  - 1.1.1:2.39.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

@@ -19,7 +19,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.trolls.statblock:troll-limbjumble
 scdc:
-  - 1.1.1:2.51.1:06
+  - 1.1.1:2.52.1:06
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

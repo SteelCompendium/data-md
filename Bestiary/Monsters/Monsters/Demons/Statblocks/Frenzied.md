@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:frenzied
 scdc:
-  - 1.1.1:2.33.1:22
+  - 1.1.1:2.34.1:22
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

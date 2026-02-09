@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-equivite
 scdc:
-  - 1.1.1:2.49.1:12
+  - 1.1.1:2.50.1:12
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

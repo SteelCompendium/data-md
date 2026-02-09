@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:pitling
 scdc:
-  - 1.1.1:2.33.1:03
+  - 1.1.1:2.34.1:03
 size: 1T
 source: mcdm.monsters.v1
 speed: 5
