@@ -66,7 +66,7 @@ type: monster/devils/statblock
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; slide 1
 > - **12-16:** 10 damage; slide 3

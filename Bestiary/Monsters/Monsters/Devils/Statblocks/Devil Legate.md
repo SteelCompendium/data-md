@@ -59,7 +59,7 @@ type: monster/devils/statblock
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)

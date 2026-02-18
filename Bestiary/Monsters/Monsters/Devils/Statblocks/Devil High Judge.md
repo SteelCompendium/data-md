@@ -59,7 +59,7 @@ type: monster/devils/statblock
 > | ------------------------- | -------------------: |
 > | **📏 Ranged 12**          | **🎯 Two creatures** |
 >
-> **Power Roll + 4**
+> **Power Roll + 4:**
 >
 > - **≤11:** I < 2 the target is charmed (save ends)
 > - **12-16:** I < 3 the target is charmed (save ends)

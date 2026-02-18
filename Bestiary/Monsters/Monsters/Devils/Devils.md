@@ -277,7 +277,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; slide 1
 > - **12-16:** 10 damage; slide 3
@@ -344,7 +344,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
@@ -416,7 +416,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage
@@ -488,7 +488,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | -------------------: |
 > | **📏 Ranged 12**          | **🎯 Two creatures** |
 >
-> **Power Roll + 4**
+> **Power Roll + 4:**
 >
 > - **≤11:** I < 2 the target is charmed (save ends)
 > - **12-16:** I < 3 the target is charmed (save ends)

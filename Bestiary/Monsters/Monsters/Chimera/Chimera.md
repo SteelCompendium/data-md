@@ -139,7 +139,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** The chimera shifts up to 5 squares. If they end this shift within distance of the target, make a power roll.
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 slowed (save ends)
 > - **12-16:** 8 damage; prone; M < 2 slowed (save ends)

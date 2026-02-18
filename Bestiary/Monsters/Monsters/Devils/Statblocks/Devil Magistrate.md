@@ -59,7 +59,7 @@ type: monster/devils/statblock
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage
