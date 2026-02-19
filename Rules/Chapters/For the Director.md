@@ -86,7 +86,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 *The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
 
-As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in Chapter 1: The Basics). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
 <!-- -->
 > **Personal Problems at the Table**
@@ -143,7 +143,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see Chapter 3) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see Chapter 4) so that no one can take Aristocrat or Politician.
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take Aristocrat or Politician.
 
 Put any restrictions your campaign has into your pitch!
 
@@ -242,7 +242,7 @@ Multiple-front campaigns make the world feel authentic and alive, but they requi
 
 As part of your worldbuilding, you can create an outline of the events that might occur in each echelon of your campaign. The farther these events get from the start of the campaign, the vaguer you can leave the details. The actions of the heroes should matter and influence the course of events, so don't plan too much. Otherwise, you might end up throwing out earlier preparation to make player and character decisions matter.
 
-Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in Chapter 1: The Basics to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
+Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](#page-17-3) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
 
 - **1st Echelon:** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
 - **2nd Echelon:** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout Vasloria. The heroes can race to these locations to claim the treasures before Ajax's forces do.
@@ -491,7 +491,7 @@ Allow the heroes' investigation to drive the action. In an exploration scene, yo
 
 The heroes can usually obtain basic information just by interacting with their environment. If a player asks, "Does it look like the muddy floor of the cave would cling to someone's boots?", getting confirmation doesn't require a test. However, following the tracks that lead out of the cave toward the bandits' new hideout does require a test, because that's a harder task whose failure gives the bandits extra time to prepare an ambush for when the heroes arrive! If a character wants to meticulously dig through the refuse pile and examine each piece of trash, no test is required to find the torn-up pieces of the map unless they're under serious time pressure to do so. However, a character piecing the map back together needs to succeed on a Reason test to do so, because failing that task means the heroes obtain only incomplete information as they continue their search.
 
-Chapter 9: Tests explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
+[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
 
 Additionally, if a player has a particularly clever and plausible idea for attempting to overcome a challenge, you can have them automatically succeed on a task even if failure would make the story more interesting. It's important to reward clever thinking with success once in a while, so that the players are encouraged to think outside the box and create memorable moments!
 
@@ -527,7 +527,7 @@ If a test is a **success**, the hero does what they set out to do! You can even 
 
 If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
-Sample consequences and rewards for tests are detailed in Chapter 9: Tests.
+Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
 
 #### Creating and Running Hazards
 
@@ -613,7 +613,7 @@ Refer to the details you wrote down for your NPCs while you roleplay them. Keep 
 
 ### Creating and Running Negotiations
 
-When you're preparing for a negotiation (see Chapter 11: Negotiation), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
+When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
 When assigning negotiation stats, keep the following guidelines in mind:
 
@@ -1008,7 +1008,7 @@ You can use montage tests to play out chases, escapes, investigations, wildernes
 
 When you prepare a montage test, you'll want to write down some key information.
 
-First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in Chapter 9: Tests).
+First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](#page-263-0)).
 
 You'll then need to create the three outcomes of the montage: total success, partial success, and total failure. With a total success, the heroes should accomplish whatever they set out to do. With a partial success, they should accomplish their goal at a cost, create a new problem for themselves after doing what they set out to do, or not quite accomplish their full goal. With a total failure, the characters fail to do whatever they set out to do, but this result should not grind the story to a halt. Maybe they lose track of the fleeing lackeys they were pursuing, but they know they can now raid a mage's tower to find that information. Even if failure costs the characters dearly, they should still have options for continuing the adventure.
 
@@ -1016,7 +1016,7 @@ You'll then need to create the three outcomes of the montage: total success, par
 
 When you run a montage test, start by setting the scene for the players and listing the various challenges the heroes must overcome. Allow the players to strategize about the order in which they'll tackle these challenges and make tests.
 
-When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in Chapter 9). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
+When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](#page-263-0)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
 
 After each test, narrate the hero's failure or success in such a way that the other players can understand if and how the challenge has been overcome. Your description might even spark some new ideas for what the characters can do next.
 
@@ -1216,7 +1216,7 @@ One of the following outcomes ends the montage test:
 
 ### Running Respites
 
-When the heroes decide to take a respite (see [Respite](#page-21-4) in Chapter 1: The Basics, your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
+When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1:](#page-17-3) [The Basics](#page-17-3)), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
 
 #### Safe Place
 
@@ -1226,13 +1226,13 @@ Heroes can't take a respite unless they're in a safe place. This typically means
 
 #### Too Many Respites?
 
-It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects (Chapter 12) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
+It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](#page-307-2)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
 
 If you prefer a campaign that has few respites, you might want to deploy artisans, sages, and readily available project sources to allow the heroes a chance to craft useful items and do research, since their available time to do so will be limited.
 
 #### Project Events
 
-Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in Chapter 12) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
+Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](#page-307-2)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
 
 When you're running downtime events, be sure to rotate which heroes are in the spotlight of the action. Don't focus on the same hero over and over again. You can also do a little preparation for events before you play them out, reading the event prompt and fleshing it out into a scene. Prompts are intentionally vaguely written so you can modify them as you see fit or easily create your own.
 
@@ -1260,7 +1260,7 @@ That said, you can make it easier to craft treasures and other items by changing
 
 ### Granting Rewards
 
-You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see Chapter 13: Rewards). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
+You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](#page-327-1)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
 
 #### Granting Treasures
 
@@ -1289,7 +1289,7 @@ The players can choose their hero's treasures, and can replace any leveled treas
 
 #### Making New Treasures
 
-You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in Chapter 12: Downtime Projects.
+You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](#page-307-2).
 
 You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the damage types, and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
 

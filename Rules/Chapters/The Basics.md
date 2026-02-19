@@ -114,7 +114,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a fury uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A tactician might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An elementalist doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See Tests for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A tactician might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An elementalist doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -123,7 +123,7 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and Tests.
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](#page-263-0).
 
 ##### Power Roll Outcomes
 
@@ -133,19 +133,19 @@ The total of a power roll determines your outcome tier—three levels that deter
 - **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a strike ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
 - **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a strike ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see Tests).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](#page-263-0)).
 
 ##### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the restrained condition on a creature, but the tier 2 outcome for that ability lets you impose the slowed condition, you can use the tier 2 outcome if you would rather have the creature slowed than restrained.
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in Classes).
+If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
 
 ##### Natural Roll
 
 The total of your power roll before your characteristic or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your characteristic, this is called rolling a natural 20.
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in Classes).
+When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
 
 #### Edges and Banes
 
@@ -206,13 +206,13 @@ At the start of a new game session, the heroes have a number of hero tokens equa
 
 Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a hero token for the group. The Director has the final say regarding which heroic acts earn hero tokens.
 
-Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see Tests).
+Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](#page-263-0)).
 
 #### Spending Hero Tokens
 
 Whenever hero tokens are available, you can spend them in the following ways:
 
-- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in Classes.)
+- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](#page-83-2).)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
 - You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
