@@ -21962,12 +21962,10 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**.
 >
 > - **≤11:** 10 damage
->
 > - **12-16:** 8 damage
->
 > - **17+:** 5 damage
 >
-> - The waxen is then destroyed and the area is difficult terrain for enemies.
+> The waxen is then destroyed and the area is difficult terrain for enemies.
 
 <!-- -->
 > ⭐️ **Burn Bright**
