@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:orc-chainlock
 scdc:
-  - 1.1.1:2.15.1:03
+  - 1.1.1:2.16.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

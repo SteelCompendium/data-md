@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-smokebinder
 scdc:
-  - 1.1.1:2.21.1:05
+  - 1.1.1:2.22.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

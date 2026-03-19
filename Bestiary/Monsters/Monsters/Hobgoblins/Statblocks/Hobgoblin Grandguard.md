@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-grandguard
 scdc:
-  - 1.1.1:2.21.1:07
+  - 1.1.1:2.22.1:07
 size: '2'
 source: mcdm.monsters.v1
 speed: 4

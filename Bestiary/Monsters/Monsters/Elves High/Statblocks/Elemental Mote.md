@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-high.statblock:elemental-mote
 scdc:
-  - 1.1.1:2.13.1:03
+  - 1.1.1:2.14.1:03
 size: 1T
 source: mcdm.monsters.v1
 speed: 5

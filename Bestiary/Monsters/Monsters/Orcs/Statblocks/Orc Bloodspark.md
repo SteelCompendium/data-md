@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:orc-bloodspark
 scdc:
-  - 1.1.1:2.15.1:14
+  - 1.1.1:2.16.1:14
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

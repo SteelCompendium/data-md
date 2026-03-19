@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:orc-eye-of-grole
 scdc:
-  - 1.1.1:2.15.1:07
+  - 1.1.1:2.16.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

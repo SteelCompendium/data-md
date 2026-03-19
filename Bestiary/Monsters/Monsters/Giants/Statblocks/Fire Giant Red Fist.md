@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:fire-giant-red-fist
 scdc:
-  - 1.1.1:2.22.1:07
+  - 1.1.1:2.23.1:07
 size: '4'
 source: mcdm.monsters.v1
 speed: 8

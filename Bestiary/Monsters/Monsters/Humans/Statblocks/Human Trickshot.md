@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.humans.statblock:human-trickshot
 scdc:
-  - 1.1.1:2.19.1:04
+  - 1.1.1:2.20.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

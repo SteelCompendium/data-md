@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.humans.statblock:human-raider
 scdc:
-  - 1.1.1:2.19.1:03
+  - 1.1.1:2.20.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7

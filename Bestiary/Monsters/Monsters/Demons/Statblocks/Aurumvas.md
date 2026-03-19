@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.demons.statblock:aurumvas
 scdc:
-  - 1.1.1:2.34.1:14
+  - 1.1.1:2.35.1:14
 size: '3'
 source: mcdm.monsters.v1
 speed: 8

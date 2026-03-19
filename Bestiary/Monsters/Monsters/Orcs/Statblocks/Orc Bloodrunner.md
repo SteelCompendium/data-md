@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:orc-bloodrunner
 scdc:
-  - 1.1.1:2.15.1:04
+  - 1.1.1:2.16.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 8

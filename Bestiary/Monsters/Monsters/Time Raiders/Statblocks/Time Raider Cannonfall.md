@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-cannonfall
 scdc:
-  - 1.1.1:2.17.1:09
+  - 1.1.1:2.18.1:09
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

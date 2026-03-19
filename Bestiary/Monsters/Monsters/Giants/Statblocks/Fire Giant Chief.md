@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:fire-giant-chief
 scdc:
-  - 1.1.1:2.22.1:01
+  - 1.1.1:2.23.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10

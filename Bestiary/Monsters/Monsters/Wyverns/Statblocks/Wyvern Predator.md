@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.wyverns.statblock:wyvern-predator
 scdc:
-  - 1.1.1:2.14.1:02
+  - 1.1.1:2.15.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 7

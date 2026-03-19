@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-high.statblock:soot-crow
 scdc:
-  - 1.1.1:2.13.1:10
+  - 1.1.1:2.14.1:10
 size: 1T
 source: mcdm.monsters.v1
 speed: 7

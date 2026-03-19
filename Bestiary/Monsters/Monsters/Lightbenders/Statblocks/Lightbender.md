@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.lightbenders.statblock:lightbender
 scdc:
-  - 1.1.1:2.24.1:01
+  - 1.1.1:2.25.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 10

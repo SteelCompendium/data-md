@@ -15327,7 +15327,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > **Effect:** While a target is frightened this way, any ogre gains an edge on strikes against them.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh!**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
 > | **-**       | **Free triggered action** |
 > | ----------- | ------------------------: |

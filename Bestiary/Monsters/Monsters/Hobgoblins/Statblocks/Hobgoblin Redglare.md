@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-redglare
 scdc:
-  - 1.1.1:2.21.1:09
+  - 1.1.1:2.22.1:09
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

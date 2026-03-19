@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-bruxer
 scdc:
-  - 1.1.1:2.18.1:01
+  - 1.1.1:2.19.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

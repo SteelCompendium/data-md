@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-scrapper
 scdc:
-  - 1.1.1:2.18.1:06
+  - 1.1.1:2.19.1:06
 size: 1S
 source: mcdm.monsters.v1
 speed: 5

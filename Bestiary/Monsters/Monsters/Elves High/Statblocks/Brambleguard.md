@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-high.statblock:brambleguard
 scdc:
-  - 1.1.1:2.13.1:09
+  - 1.1.1:2.14.1:09
 size: '2'
 source: mcdm.monsters.v1
 speed: 4

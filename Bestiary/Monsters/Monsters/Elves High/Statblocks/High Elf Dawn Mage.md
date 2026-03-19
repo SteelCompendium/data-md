@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-dawn-mage
 scdc:
-  - 1.1.1:2.13.1:05
+  - 1.1.1:2.14.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.humans.statblock:giant-hawk
 scdc:
-  - 1.1.1:2.19.1:12
+  - 1.1.1:2.20.1:12
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:scyza
 scdc:
-  - 1.1.1:2.15.1:09
+  - 1.1.1:2.16.1:09
 size: '4'
 source: mcdm.monsters.v1
 speed: 6

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-high.statblock:ceramic-horse
 scdc:
-  - 1.1.1:2.13.1:11
+  - 1.1.1:2.14.1:11
 size: '2'
 source: mcdm.monsters.v1
 speed: 10

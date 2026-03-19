@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:hill-giant-clobberer
 scdc:
-  - 1.1.1:2.22.1:12
+  - 1.1.1:2.23.1:12
 size: '4'
 source: mcdm.monsters.v1
 speed: 6

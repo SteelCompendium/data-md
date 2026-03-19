@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur
 scdc:
-  - 1.1.1:2.20.1:02
+  - 1.1.1:2.21.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 8

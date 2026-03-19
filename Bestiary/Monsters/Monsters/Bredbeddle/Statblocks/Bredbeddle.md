@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.bredbeddle.statblock:bredbeddle
 scdc:
-  - 1.1.1:2.23.1:01
+  - 1.1.1:2.24.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5

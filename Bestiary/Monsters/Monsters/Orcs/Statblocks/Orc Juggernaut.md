@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:orc-juggernaut
 scdc:
-  - 1.1.1:2.15.1:15
+  - 1.1.1:2.16.1:15
 size: 1L
 source: mcdm.monsters.v1
 speed: 6

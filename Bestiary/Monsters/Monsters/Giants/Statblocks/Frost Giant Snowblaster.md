@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:frost-giant-snowblaster
 scdc:
-  - 1.1.1:2.22.1:04
+  - 1.1.1:2.23.1:04
 size: '4'
 source: mcdm.monsters.v1
 speed: 7

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-myriad
 scdc:
-  - 1.1.1:2.17.1:06
+  - 1.1.1:2.18.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

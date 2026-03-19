@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.hobgoblins.statblock:slaughter-demon
 scdc:
-  - 1.1.1:2.21.1:14
+  - 1.1.1:2.22.1:14
 size: '3'
 source: mcdm.monsters.v1
 speed: 7

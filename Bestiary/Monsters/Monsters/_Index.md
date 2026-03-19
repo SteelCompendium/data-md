@@ -326,6 +326,7 @@ type: index
 | [Minotaur](Minotaurs/Statblocks/Minotaur)                                                                          |
 | [Minotaur Stampede](Minotaurs/Statblocks/Minotaur%20Stampede)                                                      |
 | [Minotaur Sunderer](Minotaurs/Statblocks/Minotaur%20Sunderer)                                                      |
+| [Noncombatant](Noncombatant/Statblocks/Noncombatant)                                                               |
 | [Ogre Malice](Ogres/Features/Ogre%20Malice)                                                                        |
 | [Ogres](Ogres/Ogres)                                                                                               |
 | [Cyclops](Ogres/Statblocks/Cyclops)                                                                                |

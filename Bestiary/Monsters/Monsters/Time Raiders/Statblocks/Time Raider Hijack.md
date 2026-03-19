@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-hijack
 scdc:
-  - 1.1.1:2.17.1:02
+  - 1.1.1:2.18.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 6

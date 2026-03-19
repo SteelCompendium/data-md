@@ -21,7 +21,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-wyrd
 scdc:
-  - 1.1.1:2.13.1:06
+  - 1.1.1:2.14.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

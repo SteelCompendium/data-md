@@ -22,7 +22,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-brandbearer
 scdc:
-  - 1.1.1:2.21.1:11
+  - 1.1.1:2.22.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

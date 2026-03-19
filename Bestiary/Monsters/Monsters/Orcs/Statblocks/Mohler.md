@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:mohler
 scdc:
-  - 1.1.1:2.15.1:01
+  - 1.1.1:2.16.1:01
 size: 1S
 source: mcdm.monsters.v1
 speed: 7

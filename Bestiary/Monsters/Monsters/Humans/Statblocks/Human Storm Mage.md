@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.humans.statblock:human-storm-mage
 scdc:
-  - 1.1.1:2.19.1:15
+  - 1.1.1:2.20.1:15
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

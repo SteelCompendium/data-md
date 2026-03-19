@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.humans.statblock:human-knave
 scdc:
-  - 1.1.1:2.19.1:02
+  - 1.1.1:2.20.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.orcs.statblock:orc-garotter
 scdc:
-  - 1.1.1:2.15.1:13
+  - 1.1.1:2.16.1:13
 size: 1L
 source: mcdm.monsters.v1
 speed: 5

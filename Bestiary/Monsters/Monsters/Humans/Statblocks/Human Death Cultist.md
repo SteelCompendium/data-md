@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.humans.statblock:human-death-cultist
 scdc:
-  - 1.1.1:2.19.1:06
+  - 1.1.1:2.20.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5

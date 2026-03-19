@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:granite-stone-giant
 scdc:
-  - 1.1.1:2.22.1:13
+  - 1.1.1:2.23.1:13
 size: '4'
 source: mcdm.monsters.v1
 speed: 7

@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:hill-giant-mosstooth
 scdc:
-  - 1.1.1:2.22.1:06
+  - 1.1.1:2.23.1:06
 size: '4'
 source: mcdm.monsters.v1
 speed: 6

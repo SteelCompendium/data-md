@@ -20,7 +20,7 @@ roles:
 scc:
   - mcdm.monsters.v1:monster.giants.statblock:frost-giant-storm-hurler
 scdc:
-  - 1.1.1:2.22.1:09
+  - 1.1.1:2.23.1:09
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
