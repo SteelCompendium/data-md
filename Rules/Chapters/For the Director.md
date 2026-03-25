@@ -143,7 +143,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see Chapter 3) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see Chapter 4) so that no one can take Aristocrat or Politician.
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see Chapter 3) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see Chapter 4: Background) so that no one can take Aristocrat or Politician.
 
 Put any restrictions your campaign has into your pitch!
 

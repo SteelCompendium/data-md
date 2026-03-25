@@ -75,7 +75,7 @@ Choose your hero's humanoid ancestry from among the range of ancestries availabl
 
 #### 3. Culture
 
-Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0) for more information.
+Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in Chapter 4: Background for more information.
 
 <!-- -->
 > **Choosing Skills**

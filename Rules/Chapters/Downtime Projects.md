@@ -38,7 +38,7 @@ To start a downtime project, you must have access to specific lore detailing how
 
 Some project sources are relatively easy to find. Building a castle doesn't require tomes filled with ancient lore, but it's also not something every stonemason knows how to do. However, the location of the tomb of Ashrya, the mummified protector of one hundred slumbering sorcerer-sovereigns, might exist only in a single tome that requires an accompanying adventure to unearth.
 
-The language with which project sources are set down or can be shared is chosen by the Director. The sample projects below have suggestions using languages in Orden (see that section in [Chapter 4: Background](#page-67-0)), though you might be able to find a version of a source in other languages as well.
+The language with which project sources are set down or can be shared is chosen by the Director. The sample projects below have suggestions using languages in Orden (see that section in Chapter 4: Background), though you might be able to find a version of a source in other languages as well.
 
 Whenever the Director determines that a creature with needed knowledge can be used as a project source, another hero can serve as this source of knowledge. However, they must use a respite activity to be your project source whenever you make a project roll related to the project.
 

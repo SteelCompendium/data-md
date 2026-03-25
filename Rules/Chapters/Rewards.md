@@ -2981,7 +2981,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
-At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see [Chapter 4: Background](#page-67-0)).
+At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Chapter 4: Background).
 
 ### Increasing Renown
 
@@ -3046,7 +3046,7 @@ Treasures such as magic swords, psionic crowns, and even healing potions are rar
 
 ### Earning Wealth
 
-Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see [Chapter 4: Background](#page-67-0)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
+Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see Chapter 4: Background). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
 
 In general, a hero earns 1 wealth every second level of play. The Director can increase this rate if they wish.
 

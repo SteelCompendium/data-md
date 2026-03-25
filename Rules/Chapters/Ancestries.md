@@ -20,7 +20,7 @@ Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwa
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of Chapter 4: Background) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
 
 This chapter details twelve ancestries for the game:
 
@@ -55,7 +55,7 @@ This chapter details twelve ancestries for the game:
 >
 > Edges and banes, Recoveries, respites: [Chapter 1: The Basics](#page-17-3)
 >
-> Languages: [Chapter 4: Background](#page-67-0)
+> Background Languages: Chapter 4: Background
 >
 > Abilities, conditions, potencies, saving throws, surges: [Chapter 5: Classes](#page-83-2)
 >

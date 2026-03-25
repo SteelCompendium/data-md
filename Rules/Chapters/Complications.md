@@ -425,7 +425,7 @@ You have contracted a rare magical disease called evanesceria. From time to time
 
 Whether you're a convicted criminal, a noble stripped of their title, or a person who made one too many enemies, you've been cast forth from your homeland, never to return. At least not until you're strong enough to set things right.
 
-**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).
+**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in Chapter 4: Background).
 
 **Drawback:** If any NPC from your homeland recognizes you, whether in your homeland or elsewhere, they attempt to harm you at the Director's discretion.
 
@@ -611,7 +611,7 @@ You made a deal with a devil. Not a very good deal, because it wasn't a very goo
 
 You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books were a little out of date.
 
-**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).
+**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in Chapter 4: Background).
 
 **Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
 
@@ -831,7 +831,7 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 **Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
-**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0)), though you can speak Caelian.
+**Drawback:** You don't have a culture (see [Culture](#page-67-1) in Chapter 4: Background), though you can speak Caelian.
 
 #### Refugee
 

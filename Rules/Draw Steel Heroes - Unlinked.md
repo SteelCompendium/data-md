@@ -1116,7 +1116,7 @@ Choose your hero's humanoid ancestry from among the range of ancestries availabl
 
 #### 3. Culture
 
-Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0) for more information.
+Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in Chapter 4: Background for more information.
 
 <!-- -->
 > **Choosing Skills**
@@ -1271,7 +1271,7 @@ Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwa
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-In *Draw Steel*, ancestry describes how you were born. Culture (part of [Chapter 4: Background](#page-67-0)) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
+In *Draw Steel*, ancestry describes how you were born. Culture (part of Chapter 4: Background) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
 
 This chapter details twelve ancestries for the game:
 
@@ -1306,7 +1306,7 @@ This chapter details twelve ancestries for the game:
 >
 > Edges and banes, Recoveries, respites: [Chapter 1: The Basics](#page-17-3)
 >
-> Languages: [Chapter 4: Background](#page-67-0)
+> Background Languages: Chapter 4: Background
 >
 > Abilities, conditions, potencies, saving throws, surges: [Chapter 5: Classes](#page-83-2)
 >
@@ -18534,7 +18534,7 @@ You have contracted a rare magical disease called evanesceria. From time to time
 
 Whether you're a convicted criminal, a noble stripped of their title, or a person who made one too many enemies, you've been cast forth from your homeland, never to return. At least not until you're strong enough to set things right.
 
-**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).
+**Benefit:** You know one extant language of your choice (see [Languages in Orden](#page-70-0) in Chapter 4: Background).
 
 **Drawback:** If any NPC from your homeland recognizes you, whether in your homeland or elsewhere, they attempt to harm you at the Director's discretion.
 
@@ -18720,7 +18720,7 @@ You made a deal with a devil. Not a very good deal, because it wasn't a very goo
 
 You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books were a little out of date.
 
-**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in [Chapter 4: Background](#page-67-0)).
+**Benefit:** You have three skills of your choice, and you know one dead language of your choice (see [Languages in Orden](#page-70-0) in Chapter 4: Background).
 
 **Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
 
@@ -18940,7 +18940,7 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 **Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
-**Drawback:** You don't have a culture (see [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0)), though you can speak Caelian.
+**Drawback:** You don't have a culture (see [Culture](#page-67-1) in Chapter 4: Background), though you can speak Caelian.
 
 #### Refugee
 
@@ -20780,7 +20780,7 @@ Patience can decrease each time the heroes make an argument during a negotiation
 
 ##### Language and Patience
 
-If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Caelian), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5). [Chapter 4: Background](#page-67-0) has information on some of the languages in the game.
+If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Caelian), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5). Chapter 4: Background has information on some of the languages in the game.
 
 #### Motivations
 
@@ -21306,7 +21306,7 @@ To start a downtime project, you must have access to specific lore detailing how
 
 Some project sources are relatively easy to find. Building a castle doesn't require tomes filled with ancient lore, but it's also not something every stonemason knows how to do. However, the location of the tomb of Ashrya, the mummified protector of one hundred slumbering sorcerer-sovereigns, might exist only in a single tome that requires an accompanying adventure to unearth.
 
-The language with which project sources are set down or can be shared is chosen by the Director. The sample projects below have suggestions using languages in Orden (see that section in [Chapter 4: Background](#page-67-0)), though you might be able to find a version of a source in other languages as well.
+The language with which project sources are set down or can be shared is chosen by the Director. The sample projects below have suggestions using languages in Orden (see that section in Chapter 4: Background), though you might be able to find a version of a source in other languages as well.
 
 Whenever the Director determines that a creature with needed knowledge can be used as a project source, another hero can serve as this source of knowledge. However, they must use a respite activity to be your project source whenever you make a project roll related to the project.
 
@@ -25278,7 +25278,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
-At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see [Chapter 4: Background](#page-67-0)).
+At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Chapter 4: Background).
 
 ### Increasing Renown
 
@@ -25343,7 +25343,7 @@ Treasures such as magic swords, psionic crowns, and even healing potions are rar
 
 ### Earning Wealth
 
-Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see [Chapter 4: Background](#page-67-0)). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
+Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation (see Chapter 4: Background). Your hero earns Wealth whenever you find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair, or several unique and valuable paintings gifted by a monarch as a reward for a job well done.
 
 In general, a hero earns 1 wealth every second level of play. The Director can increase this rate if they wish.
 
@@ -26451,7 +26451,7 @@ The buy-in tells the players that their heroes are going to travel to far-flung 
 
 #### Player Option Restrictions
 
-Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see Chapter 3) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see Chapter 4) so that no one can take Aristocrat or Politician.
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see Chapter 3) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see Chapter 4: Background) so that no one can take Aristocrat or Politician.
 
 Put any restrictions your campaign has into your pitch!
 
