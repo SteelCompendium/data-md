@@ -45,6 +45,7 @@ type: index
 | [Melodrama](4th-Level%20Features/Melodrama)                                                                     |          |      | 4     | trait        | feature     |          |        |
 | [Perk](4th-Level%20Features/Perk)                                                                               |          |      | 4     | trait        | feature     |          |        |
 | [Skill](4th-Level%20Features/Skill)                                                                             |          |      | 4     | trait        | feature     |          |        |
+| [Zeitgeist](4th-Level%20Features/Zeitgeist)                                                                     |          |      | 4     | trait        | feature     |          |        |
 | [Bolstering Banter](5th-Level%20Features/Bolstering%20Banter)                                                   | Virtuoso |      | 5     | trait        | feature     |          |        |
 | [Fix It in Post](5th-Level%20Features/Fix%20It%20in%20Post)                                                     | Auteur   |      | 5     | trait        | feature     |          |        |
 | [Medley](5th-Level%20Features/Medley)                                                                           | Virtuoso |      | 5     | trait        | feature     |          |        |

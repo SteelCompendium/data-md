@@ -10,7 +10,7 @@ file_basename: Counterstrategy
 file_dpath: Abilities/Tactician/9th-Level Features
 flavor: I've identified a way to negate their strengths.
 item_id: counterstrategy-11-focus
-item_index: '02'
+item_index: '01'
 item_name: Counterstrategy (11 Focus)
 keywords:
   - '-'
@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:counterstrategy-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:02
+  - 1.1.1:11.2.4.7:01
 source: mcdm.heroes.v1
 subclass: Mastermind
 target: Self

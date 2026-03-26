@@ -10,7 +10,7 @@ file_basename: Blot Out the Sun
 file_dpath: Abilities/Tactician/9th-Level Features
 flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 item_id: blot-out-the-sun-11-focus
-item_index: '03'
+item_index: '02'
 item_name: Blot Out the Sun! (11 Focus)
 keywords:
   - Area
@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:blot-out-the-sun-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:03
+  - 1.1.1:11.2.4.7:02
 source: mcdm.heroes.v1
 subclass: Mastermind
 target: Self and each ally in the area

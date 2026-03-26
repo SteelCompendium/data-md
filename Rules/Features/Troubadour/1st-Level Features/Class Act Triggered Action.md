@@ -20,7 +20,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 Your troubadour class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
 
-###### Class Act Triggered Action Table
+###### Class Act Triggered Actions Table
 
 | Class Act | Triggered Action       |
 | --------- | ---------------------- |

@@ -10,7 +10,7 @@ file_basename: That One Is Mine
 file_dpath: Abilities/Tactician/9th-Level Features
 flavor: You focus on making an enemy irrelevant.
 item_id: that-one-is-mine-11-focus
-item_index: '06'
+item_index: '05'
 item_name: That One Is Mine! (11 Focus)
 keywords:
   - Melee
@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:that-one-is-mine-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:06
+  - 1.1.1:11.2.4.7:05
 source: mcdm.heroes.v1
 subclass: Vanguard
 target: One creature

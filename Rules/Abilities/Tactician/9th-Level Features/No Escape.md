@@ -10,7 +10,7 @@ file_basename: No Escape
 file_dpath: Abilities/Tactician/9th-Level Features
 flavor: Nothing will stop you from reaching your foe.
 item_id: no-escape-11-focus
-item_index: '04'
+item_index: '03'
 item_name: No Escape (11 Focus)
 keywords:
   - Charge
@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:no-escape-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:04
+  - 1.1.1:11.2.4.7:03
 source: mcdm.heroes.v1
 subclass: Vanguard
 target: One creature

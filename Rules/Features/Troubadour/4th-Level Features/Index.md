@@ -14,3 +14,4 @@ type: index
 | [Melodrama](Melodrama)                               |          |      | 4     | trait        | feature     |          |        |
 | [Perk](Perk)                                         |          |      | 4     | trait        | feature     |          |        |
 | [Skill](Skill)                                       |          |      | 4     | trait        | feature     |          |        |
+| [Zeitgeist](Zeitgeist)                               |          |      | 4     | trait        | feature     |          |        |
