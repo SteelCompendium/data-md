@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Shadow College
 file_dpath: Shadow/1st-Level Features
 item_id: shadow-college
-item_index: '07'
+item_index: 08
 item_name: Shadow College
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:shadow-college
 scdc:
-  - 1.1.1:11.1.2.1:07
+  - 1.1.1:11.1.2.1:08
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

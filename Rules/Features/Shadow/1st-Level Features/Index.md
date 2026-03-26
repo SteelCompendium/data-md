@@ -9,6 +9,7 @@ type: index
 | ------------------------------------------------------------ | --------------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
 | [Black Ash Teleport](Black%20Ash%20Teleport)                 |                 |      | 1     | trait        | feature     |          |        |
 | [Coat the Blade](Coat%20the%20Blade)                         |                 |      | 1     | trait        | feature     |          |        |
+| [College Triggered Action](College%20Triggered%20Action)     |                 |      | 1     | trait        | feature     |          |        |
 | [Hesitation Is Weakness](Hesitation%20Is%20Weakness)         |                 |      | 1     | trait        | feature     |          |        |
 | [Im No Threat](Im%20No%20Threat)                             |                 |      | 1     | trait        | feature     |          |        |
 | [Insight in Combat](Insight%20in%20Combat)                   |                 |      | 1     | trait        | feature     |          |        |

@@ -7,6 +7,7 @@ type: index
 
 | File Name                                                      | Subclass   | Cost | Level | Feature Type | Action Type | Distance | Target |
 | -------------------------------------------------------------- | ---------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
+| [Aspect Triggered Action](Aspect%20Triggered%20Action)         |            |      | 1     | trait        | feature     |          |        |
 | [Beast Shape](Beast%20Shape)                                   | Stormwight |      | 1     | trait        | feature     |          |        |
 | [Ferocity in Combat](Ferocity%20in%20Combat)                   |            |      | 1     | trait        | feature     |          |        |
 | [Ferocity Outside of Combat](Ferocity%20Outside%20of%20Combat) |            |      | 1     | trait        | feature     |          |        |

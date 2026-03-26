@@ -14,6 +14,7 @@ type: index
 | [Primordial Ferocity](10th-Level%20Features/Primordial%20Ferocity)                                  |            |      | 10    | trait        | feature     |          |        |
 | [Primordial Power](10th-Level%20Features/Primordial%20Power)                                        |            |      | 10    | trait        | feature     |          |        |
 | [Skill](10th-Level%20Features/Skill)                                                                |            |      | 10    | trait        | feature     |          |        |
+| [Aspect Triggered Action](1st-Level%20Features/Aspect%20Triggered%20Action)                         |            |      | 1     | trait        | feature     |          |        |
 | [Beast Shape](1st-Level%20Features/Beast%20Shape)                                                   | Stormwight |      | 1     | trait        | feature     |          |        |
 | [Ferocity in Combat](1st-Level%20Features/Ferocity%20in%20Combat)                                   |            |      | 1     | trait        | feature     |          |        |
 | [Ferocity Outside of Combat](1st-Level%20Features/Ferocity%20Outside%20of%20Combat)                 |            |      | 1     | trait        | feature     |          |        |

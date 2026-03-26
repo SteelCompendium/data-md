@@ -25,6 +25,7 @@ type: index
 | [Practical Magic](Practical%20Magic)                                     |          |      | 1     | trait        | feature     |          |        |
 | [Return to Formlessness](Return%20to%20Formlessness)                     |          |      | 1     | trait        | feature     |          |        |
 | [Signature Abilities](Signature%20Abilities)                             |          |      | 1     | trait        | feature     |          |        |
+| [Specialization Triggered Action](Specialization%20Triggered%20Action)   |          |      | 1     | trait        | feature     |          |        |
 | [Void Acolyte of the Mystery](Void%20Acolyte%20of%20the%20Mystery)       | Void     |      | 1     | trait        | feature     |          |        |
 | [Ward of Delightful Consequences](Ward%20of%20Delightful%20Consequences) |          |      | 1     | trait        | feature     |          |        |
 | [Ward of Excellent Protection](Ward%20of%20Excellent%20Protection)       |          |      | 1     | trait        | feature     |          |        |

@@ -34,6 +34,7 @@ type: index
 | [Practical Magic](1st-Level%20Features/Practical%20Magic)                                           |          |      | 1     | trait        | feature     |          |        |
 | [Return to Formlessness](1st-Level%20Features/Return%20to%20Formlessness)                           |          |      | 1     | trait        | feature     |          |        |
 | [Signature Abilities](1st-Level%20Features/Signature%20Abilities)                                   |          |      | 1     | trait        | feature     |          |        |
+| [Specialization Triggered Action](1st-Level%20Features/Specialization%20Triggered%20Action)         |          |      | 1     | trait        | feature     |          |        |
 | [Void Acolyte of the Mystery](1st-Level%20Features/Void%20Acolyte%20of%20the%20Mystery)             | Void     |      | 1     | trait        | feature     |          |        |
 | [Ward of Delightful Consequences](1st-Level%20Features/Ward%20of%20Delightful%20Consequences)       |          |      | 1     | trait        | feature     |          |        |
 | [Ward of Excellent Protection](1st-Level%20Features/Ward%20of%20Excellent%20Protection)             |          |      | 1     | trait        | feature     |          |        |
@@ -41,6 +42,7 @@ type: index
 | [Ward of Surprising Reactivity](1st-Level%20Features/Ward%20of%20Surprising%20Reactivity)           |          |      | 1     | trait        | feature     |          |        |
 | [Disciple of Earth](2nd-Level%20Features/Disciple%20of%20Earth)                                     | Earth    |      | 2     | trait        | feature     |          |        |
 | [Disciple of Fire](2nd-Level%20Features/Disciple%20of%20Fire)                                       | Fire     |      | 2     | trait        | feature     |          |        |
+| [Disciple of the Green](2nd-Level%20Features/Disciple%20of%20the%20Green)                           |          |      | 2     | trait        | feature     |          |        |
 | [New 5 Essence Ability](2nd-Level%20Features/New%205%20Essence%20Ability)                           |          |      | 2     | trait        | feature     |          |        |
 | [Perk](2nd-Level%20Features/Perk)                                                                   |          |      | 2     | trait        | feature     |          |        |
 | [There Is No Space Between](2nd-Level%20Features/There%20Is%20No%20Space%20Between)                 |          |      | 2     | trait        | feature     |          |        |
@@ -52,6 +54,7 @@ type: index
 | [Characteristic Increase](4th-Level%20Features/Characteristic%20Increase)                           |          |      | 4     | trait        | feature     |          |        |
 | [Flowering Bed](4th-Level%20Features/Flowering%20Bed)                                               | Green    |      | 4     | trait        | feature     |          |        |
 | [Font of Essence](4th-Level%20Features/Font%20of%20Essence)                                         |          |      | 4     | trait        | feature     |          |        |
+| [Mantle of Essence](4th-Level%20Features/Mantle%20of%20Essence)                                     |          |      | 4     | trait        | feature     |          |        |
 | [Perk](4th-Level%20Features/Perk)                                                                   |          |      | 4     | trait        | feature     |          |        |
 | [Quaking Earth](4th-Level%20Features/Quaking%20Earth)                                               | Earth    |      | 4     | trait        | feature     |          |        |
 | [Skill](4th-Level%20Features/Skill)                                                                 |          |      | 4     | trait        | feature     |          |        |

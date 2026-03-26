@@ -15,6 +15,7 @@ type: index
 | [Warmaster](10th-Level%20Features/Warmaster)                                                            |            |      | 10    | trait        | feature     |          |        |
 | [Commanding Presence](1st-Level%20Features/Commanding%20Presence)                                       | Vanguard   |      | 1     | trait        | feature     |          |        |
 | [Covert Operations](1st-Level%20Features/Covert%20Operations)                                           | Insurgent  |      | 1     | trait        | feature     |          |        |
+| [Doctrine Triggered Action](1st-Level%20Features/Doctrine%20Triggered%20Action)                         |            |      | 1     | trait        | feature     |          |        |
 | [Field Arsenal](1st-Level%20Features/Field%20Arsenal)                                                   |            |      | 1     | trait        | feature     |          |        |
 | [Focus in Combat](1st-Level%20Features/Focus%20in%20Combat)                                             |            |      | 1     | trait        | feature     |          |        |
 | [Focus Outside of Combat](1st-Level%20Features/Focus%20Outside%20of%20Combat)                           |            |      | 1     | trait        | feature     |          |        |

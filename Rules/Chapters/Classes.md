@@ -2051,7 +2051,9 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 **Clear:** You and your allies gain an edge on tests that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an edge on tests that use the Hide skill. **Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
+**Foggy:** You and your allies gain an edge on tests that use the Hide skill.
+
+**Overcast:** You and your allies gain an edge on tests that use the Endurance skill.
 
 **Precipitation:** When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.
 

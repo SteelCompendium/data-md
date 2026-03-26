@@ -11,6 +11,7 @@ type: index
 | [Characteristic Increase](Characteristic%20Increase) |          |      | 4     | trait        | feature     |          |        |
 | [Flowering Bed](Flowering%20Bed)                     | Green    |      | 4     | trait        | feature     |          |        |
 | [Font of Essence](Font%20of%20Essence)               |          |      | 4     | trait        | feature     |          |        |
+| [Mantle of Essence](Mantle%20of%20Essence)           |          |      | 4     | trait        | feature     |          |        |
 | [Perk](Perk)                                         |          |      | 4     | trait        | feature     |          |        |
 | [Quaking Earth](Quaking%20Earth)                     | Earth    |      | 4     | trait        | feature     |          |        |
 | [Skill](Skill)                                       |          |      | 4     | trait        | feature     |          |        |

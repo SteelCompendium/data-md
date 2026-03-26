@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Dramatic Monologue
 file_dpath: Troubadour/1st-Level Features
 item_id: dramatic-monologue
-item_index: '11'
+item_index: '12'
 item_name: Dramatic Monologue
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:dramatic-monologue
 scdc:
-  - 1.1.1:11.1.3.1:11
+  - 1.1.1:11.1.3.1:12
 source: mcdm.heroes.v1
 subclass: Auteur
 type: feature/trait/troubadour/1st-level-feature

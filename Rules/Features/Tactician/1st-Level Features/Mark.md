@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Mark
 file_dpath: Tactician/1st-Level Features
 item_id: mark
-item_index: '05'
+item_index: '06'
 item_name: Mark
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:mark
 scdc:
-  - 1.1.1:11.1.4.1:05
+  - 1.1.1:11.1.4.1:06
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

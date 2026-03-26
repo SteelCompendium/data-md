@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Focus in Combat
 file_dpath: Tactician/1st-Level Features
 item_id: focus-in-combat
-item_index: '07'
+item_index: 08
 item_name: Focus in Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-in-combat
 scdc:
-  - 1.1.1:11.1.4.1:07
+  - 1.1.1:11.1.4.1:08
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

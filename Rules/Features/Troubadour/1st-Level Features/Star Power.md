@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Star Power
 file_dpath: Troubadour/1st-Level Features
 item_id: star-power
-item_index: '13'
+item_index: '14'
 item_name: Star Power
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:star-power
 scdc:
-  - 1.1.1:11.1.3.1:13
+  - 1.1.1:11.1.3.1:14
 source: mcdm.heroes.v1
 subclass: Duelist
 type: feature/trait/troubadour/1st-level-feature

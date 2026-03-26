@@ -15,6 +15,7 @@ type: index
 | [Skill](10th-Level%20Features/Skill)                                                                            |          |      | 10    | trait        | feature     |          |        |
 | [Acrobatics](1st-Level%20Features/Acrobatics)                                                                   | Duelist  |      | 1     | trait        | feature     |          |        |
 | [Blocking](1st-Level%20Features/Blocking)                                                                       | Auteur   |      | 1     | trait        | feature     |          |        |
+| [Class Act Triggered Action](1st-Level%20Features/Class%20Act%20Triggered%20Action)                             |          |      | 1     | trait        | feature     |          |        |
 | [Drama in Combat](1st-Level%20Features/Drama%20in%20Combat)                                                     |          |      | 1     | trait        | feature     |          |        |
 | [Drama Outside of Combat](1st-Level%20Features/Drama%20Outside%20of%20Combat)                                   |          |      | 1     | trait        | feature     |          |        |
 | [Dramatic Monologue](1st-Level%20Features/Dramatic%20Monologue)                                                 | Auteur   |      | 1     | trait        | feature     |          |        |

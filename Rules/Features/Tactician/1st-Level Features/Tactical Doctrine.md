@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Tactical Doctrine
 file_dpath: Tactician/1st-Level Features
 item_id: tactical-doctrine
-item_index: '04'
+item_index: '05'
 item_name: Tactical Doctrine
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:tactical-doctrine
 scdc:
-  - 1.1.1:11.1.4.1:04
+  - 1.1.1:11.1.4.1:05
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

@@ -1,26 +1,22 @@
 ---
 action_type: Main action
 class: tactician
-cost: 11 Focus
-cost_amount: 11
-cost_resource: Focus
 distance: Ranged 10
 feature_type: ability
-file_basename: Squad Hit and Run
+file_basename: Squad
 file_dpath: Abilities/Tactician/9th-Level Features
 flavor: I had to pry this secret from the shadow colleges.
-item_id: squad-hit-and-run-11-focus
-item_index: '06'
-item_name: Squad! Hit and Run! (11 Focus)
+item_id: squad
+item_index: '01'
+item_name: Squad!
 keywords:
   - Ranged
 level: 9
 scc:
-  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad-hit-and-run-11-focus
+  - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad
 scdc:
-  - 1.1.1:11.2.4.7:06
+  - 1.1.1:11.2.4.7:01
 source: mcdm.heroes.v1
-subclass: Insurgent
 target: Self and two allies
 type: feature/ability/tactician/9th-level-feature
 ---

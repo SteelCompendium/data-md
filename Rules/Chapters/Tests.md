@@ -534,8 +534,6 @@ While you are hidden from another creature, the creature can't target you with a
 
 Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of cover or concealment toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
 
-Draw Steel
-
 You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
 
 ##### Searching for Hidden Creatures
