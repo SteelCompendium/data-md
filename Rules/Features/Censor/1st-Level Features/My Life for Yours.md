@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: My Life for Yours
 file_dpath: Censor/1st-Level Features
 item_id: my-life-for-yours
-item_index: '05'
+item_index: '02'
 item_name: My Life for Yours
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:my-life-for-yours
 scdc:
-  - 1.1.1:11.1.7.1:05
+  - 1.1.1:11.1.7.1:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

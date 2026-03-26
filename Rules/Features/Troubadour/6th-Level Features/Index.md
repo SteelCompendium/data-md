@@ -7,8 +7,6 @@ type: index
 
 | File Name                                                          | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ------------------------------------------------------------------ | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [6th Level Auteur Abilities](6th%20Level%20Auteur%20Abilities)     |          |      | 6     | trait        | feature     |          |        |
-| [6th Level Duelist Abilities](6th%20Level%20Duelist%20Abilities)   |          |      | 6     | trait        | feature     |          |        |
-| [6th Level Virtuoso Abilities](6th%20Level%20Virtuoso%20Abilities) |          |      | 6     | trait        | feature     |          |        |
+| [6th Level Class Act Ability](6th%20Level%20Class%20Act%20Ability) |          |      | 6     | trait        | feature     |          |        |
 | [Perk](Perk)                                                       |          |      | 6     | trait        | feature     |          |        |
 | [Spotlight](Spotlight)                                             |          |      | 6     | trait        | feature     |          |        |

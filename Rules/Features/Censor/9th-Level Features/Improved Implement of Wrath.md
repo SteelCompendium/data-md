@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Improved Implement of Wrath
 file_dpath: Censor/9th-Level Features
 item_id: improved-implement-of-wrath
-item_index: '04'
+item_index: '02'
 item_name: Improved Implement of Wrath
 level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.censor.9th-level-feature:improved-implement-of-wrath
 scdc:
-  - 1.1.1:11.1.7.8:04
+  - 1.1.1:11.1.7.8:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/9th-level-feature
 ---

@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Harbinger of the Primordial Chaos
 file_dpath: Fury/9th-Level Features
 item_id: harbinger-of-the-primordial-chaos
-item_index: '04'
+item_index: '02'
 item_name: Harbinger of the Primordial Chaos
 level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.fury.9th-level-feature:harbinger-of-the-primordial-chaos
 scdc:
-  - 1.1.1:11.1.5.8:04
+  - 1.1.1:11.1.5.8:02
 source: mcdm.heroes.v1
 type: feature/trait/fury/9th-level-feature
 ---

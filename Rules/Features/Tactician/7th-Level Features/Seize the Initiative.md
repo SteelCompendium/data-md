@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Seize the Initiative
 file_dpath: Tactician/7th-Level Features
 item_id: seize-the-initiative
-item_index: '05'
+item_index: '04'
 item_name: Seize the Initiative
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:seize-the-initiative
 scdc:
-  - 1.1.1:11.1.4.9:05
+  - 1.1.1:11.1.4.9:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

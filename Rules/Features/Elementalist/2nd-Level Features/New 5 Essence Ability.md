@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: New 5 Essence Ability
 file_dpath: Elementalist/2nd-Level Features
 item_id: new-5-essence-ability
-item_index: '06'
+item_index: '03'
 item_name: New 5-Essence Ability
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:new-5-essence-ability
 scdc:
-  - 1.1.1:11.1.9.6:06
+  - 1.1.1:11.1.9.6:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

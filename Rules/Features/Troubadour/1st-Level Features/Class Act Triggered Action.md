@@ -3,15 +3,15 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Class Act Triggered Action
-file_dpath: Features/Troubadour/1st-Level Features
+file_dpath: Troubadour/1st-Level Features
 item_id: class-act-triggered-action
-item_index: 08
+item_index: '05'
 item_name: Class Act Triggered Action
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:class-act-triggered-action
 scdc:
-  - 1.1.1:11.1.3.1:08
+  - 1.1.1:11.1.3.1:05
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

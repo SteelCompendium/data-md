@@ -3,15 +3,15 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Aspect Triggered Action
-file_dpath: Features/Fury/1st-Level Features
+file_dpath: Fury/1st-Level Features
 item_id: aspect-triggered-action
-item_index: '11'
+item_index: '06'
 item_name: Aspect Triggered Action
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:aspect-triggered-action
 scdc:
-  - 1.1.1:11.1.5.1:11
+  - 1.1.1:11.1.5.1:06
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

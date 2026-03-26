@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Roar of the Crowd
 file_dpath: Troubadour/9th-Level Features
 item_id: roar-of-the-crowd
-item_index: '03'
+item_index: '01'
 item_name: Roar of the Crowd
 level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.9th-level-feature:roar-of-the-crowd
 scdc:
-  - 1.1.1:11.1.3.8:03
+  - 1.1.1:11.1.3.8:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/9th-level-feature
 ---

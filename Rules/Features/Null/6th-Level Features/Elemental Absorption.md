@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Elemental Absorption
 file_dpath: Null/6th-Level Features
 item_id: elemental-absorption
-item_index: '06'
+item_index: '04'
 item_name: Elemental Absorption
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.null.6th-level-feature:elemental-absorption
 scdc:
-  - 1.1.1:11.1.6.3:06
+  - 1.1.1:11.1.6.3:04
 source: mcdm.heroes.v1
 type: feature/trait/null/6th-level-feature
 ---

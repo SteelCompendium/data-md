@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Appeal to the Muses
 file_dpath: Troubadour/2nd-Level Features
 item_id: appeal-to-the-muses
-item_index: '02'
+item_index: '03'
 item_name: Appeal to the Muses
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:appeal-to-the-muses
 scdc:
-  - 1.1.1:11.1.3.6:02
+  - 1.1.1:11.1.3.6:03
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/2nd-level-feature
 ---

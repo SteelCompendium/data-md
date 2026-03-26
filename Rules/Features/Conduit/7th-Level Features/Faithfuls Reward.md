@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Faithfuls Reward
 file_dpath: Conduit/7th-Level Features
 item_id: faithfuls-reward
-item_index: '07'
+item_index: '01'
 item_name: Faithful's Reward
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:faithfuls-reward
 scdc:
-  - 1.1.1:11.1.8.9:07
+  - 1.1.1:11.1.8.9:01
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

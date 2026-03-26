@@ -3,15 +3,15 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Growing Ferocity
-file_dpath: Features/Fury/1st-Level Features
+file_dpath: Fury/1st-Level Features
 item_id: growing-ferocity
-item_index: '10'
+item_index: '05'
 item_name: Growing Ferocity
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:growing-ferocity
 scdc:
-  - 1.1.1:11.1.5.1:10
+  - 1.1.1:11.1.5.1:05
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Troubadour Class Act
 file_dpath: Troubadour/1st-Level Features
 item_id: troubadour-class-act
-item_index: '06'
+item_index: '03'
 item_name: Troubadour Class Act
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:troubadour-class-act
 scdc:
-  - 1.1.1:11.1.3.1:06
+  - 1.1.1:11.1.3.1:03
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

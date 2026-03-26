@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Deity and Domains
 file_dpath: Conduit/1st-Level Features
 item_id: deity-and-domains
-item_index: '39'
+item_index: 09
 item_name: Deity and Domains
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:deity-and-domains
 scdc:
-  - 1.1.1:11.1.8.1:39
+  - 1.1.1:11.1.8.1:09
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

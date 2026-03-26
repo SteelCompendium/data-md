@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Routines
 file_dpath: Troubadour/1st-Level Features
 item_id: routines
-item_index: '05'
+item_index: '02'
 item_name: Routines
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:routines
 scdc:
-  - 1.1.1:11.1.3.1:05
+  - 1.1.1:11.1.3.1:02
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

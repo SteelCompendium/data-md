@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Umbral Form
 file_dpath: Shadow/6th-Level Features
 item_id: umbral-form
-item_index: '04'
+item_index: '03'
 item_name: Umbral Form
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.6th-level-feature:umbral-form
 scdc:
-  - 1.1.1:11.1.2.3:04
+  - 1.1.1:11.1.2.3:03
 source: mcdm.heroes.v1
 type: feature/trait/shadow/6th-level-feature
 ---

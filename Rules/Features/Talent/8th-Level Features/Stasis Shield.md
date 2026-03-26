@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Stasis Shield
 file_dpath: Talent/8th-Level Features
 item_id: stasis-shield
-item_index: '04'
+item_index: '03'
 item_name: Stasis Shield
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:stasis-shield
 scdc:
-  - 1.1.1:11.1.1.2:04
+  - 1.1.1:11.1.1.2:03
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

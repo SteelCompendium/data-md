@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Perk
 file_dpath: Null/2nd-Level Features
 item_id: perk
-item_index: '02'
+item_index: '03'
 item_name: Perk
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.null.2nd-level-feature:perk
 scdc:
-  - 1.1.1:11.1.6.6:02
+  - 1.1.1:11.1.6.6:03
 source: mcdm.heroes.v1
 type: feature/trait/null/2nd-level-feature
 ---

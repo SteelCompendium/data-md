@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Healing Grace
 file_dpath: Conduit/1st-Level Features
 item_id: healing-grace
-item_index: '16'
+item_index: '05'
 item_name: Healing Grace
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:healing-grace
 scdc:
-  - 1.1.1:11.1.8.1:16
+  - 1.1.1:11.1.8.1:05
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

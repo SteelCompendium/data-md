@@ -3,15 +3,15 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Zeitgeist
-file_dpath: Features/Troubadour/4th-Level Features
+file_dpath: Troubadour/4th-Level Features
 item_id: zeitgeist
-item_index: 08
+item_index: '05'
 item_name: Zeitgeist
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.4th-level-feature:zeitgeist
 scdc:
-  - 1.1.1:11.1.3.10:08
+  - 1.1.1:11.1.3.10:05
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/4th-level-feature
 ---

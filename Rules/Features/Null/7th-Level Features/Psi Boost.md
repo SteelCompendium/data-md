@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Psi Boost
-file_dpath: Features/Null/7th-Level Features
+file_dpath: Null/7th-Level Features
 item_id: psi-boost
 item_index: '04'
 item_name: Psi Boost

@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Censor Order
 file_dpath: Censor/1st-Level Features
 item_id: censor-order
-item_index: '16'
+item_index: '07'
 item_name: Censor Order
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:censor-order
 scdc:
-  - 1.1.1:11.1.7.1:16
+  - 1.1.1:11.1.7.1:07
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

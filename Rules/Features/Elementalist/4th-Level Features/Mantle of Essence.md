@@ -3,15 +3,15 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Mantle of Essence
-file_dpath: Features/Elementalist/4th-Level Features
+file_dpath: Elementalist/4th-Level Features
 item_id: mantle-of-essence
-item_index: 08
+item_index: '05'
 item_name: Mantle of Essence
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:mantle-of-essence
 scdc:
-  - 1.1.1:11.1.9.10:08
+  - 1.1.1:11.1.9.10:05
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/4th-level-feature
 ---

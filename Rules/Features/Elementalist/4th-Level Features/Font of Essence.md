@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Font of Essence
 file_dpath: Elementalist/4th-Level Features
 item_id: font-of-essence
-item_index: '07'
+item_index: '04'
 item_name: Font of Essence
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:font-of-essence
 scdc:
-  - 1.1.1:11.1.9.10:07
+  - 1.1.1:11.1.9.10:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/4th-level-feature
 ---

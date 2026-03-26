@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Triggered Action
 file_dpath: Conduit/1st-Level Features
 item_id: triggered-action
-item_index: '10'
+item_index: '04'
 item_name: Triggered Action
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:triggered-action
 scdc:
-  - 1.1.1:11.1.8.1:10
+  - 1.1.1:11.1.8.1:04
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

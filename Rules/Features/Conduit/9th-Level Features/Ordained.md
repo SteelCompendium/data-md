@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Ordained
 file_dpath: Conduit/9th-Level Features
 item_id: ordained
-item_index: '02'
+item_index: '03'
 item_name: Ordained
 level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.9th-level-feature:ordained
 scdc:
-  - 1.1.1:11.1.8.8:02
+  - 1.1.1:11.1.8.8:03
 source: mcdm.heroes.v1
 type: feature/trait/conduit/9th-level-feature
 ---

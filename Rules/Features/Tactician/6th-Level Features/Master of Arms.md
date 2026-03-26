@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Master of Arms
 file_dpath: Tactician/6th-Level Features
 item_id: master-of-arms
-item_index: '05'
+item_index: '02'
 item_name: Master of Arms
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.6th-level-feature:master-of-arms
 scdc:
-  - 1.1.1:11.1.4.3:05
+  - 1.1.1:11.1.4.3:02
 source: mcdm.heroes.v1
 type: feature/trait/tactician/6th-level-feature
 ---

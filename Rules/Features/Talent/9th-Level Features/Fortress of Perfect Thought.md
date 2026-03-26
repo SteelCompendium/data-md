@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Fortress of Perfect Thought
 file_dpath: Talent/9th-Level Features
 item_id: fortress-of-perfect-thought
-item_index: '03'
+item_index: '01'
 item_name: Fortress of Perfect Thought
 level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.talent.9th-level-feature:fortress-of-perfect-thought
 scdc:
-  - 1.1.1:11.1.1.8:03
+  - 1.1.1:11.1.1.8:01
 source: mcdm.heroes.v1
 type: feature/trait/talent/9th-level-feature
 ---

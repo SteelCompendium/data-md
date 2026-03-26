@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Burgeoning Saint
 file_dpath: Conduit/6th-Level Features
 item_id: burgeoning-saint
-item_index: '02'
+item_index: '03'
 item_name: Burgeoning Saint
 level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.6th-level-feature:burgeoning-saint
 scdc:
-  - 1.1.1:11.1.8.3:02
+  - 1.1.1:11.1.8.3:03
 source: mcdm.heroes.v1
 type: feature/trait/conduit/6th-level-feature
 ---

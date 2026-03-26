@@ -5,13 +5,13 @@ feature_type: trait
 file_basename: Faiths Sword
 file_dpath: Conduit/9th-Level Features
 item_id: faiths-sword
-item_index: '01'
+item_index: '02'
 item_name: Faith's Sword
 level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.9th-level-feature:faiths-sword
 scdc:
-  - 1.1.1:11.1.8.8:01
+  - 1.1.1:11.1.8.8:02
 source: mcdm.heroes.v1
 type: feature/trait/conduit/9th-level-feature
 ---
