@@ -11,7 +11,7 @@ type: index
 | [Melodrama](Melodrama)                               |          |      | 4     | trait        | feature     |          |        |
 | [Perk](Perk)                                         |          |      | 4     | trait        | feature     |          |        |
 | [Skill](Skill)                                       |          |      | 4     | trait        | feature     |          |        |
+| [Zeitgeist](Zeitgeist)                               |          |      | 4     | trait        | feature     |          |        |
 | [Foreshadowing](Zeitgeist/Foreshadowing)             |          |      | 4     | subtrait     | feature     |          |        |
 | [Hear Ye Hear Ye](Zeitgeist/Hear%20Ye%20Hear%20Ye)   |          |      | 4     | subtrait     | feature     |          |        |
 | [Latest Goss](Zeitgeist/Latest%20Goss)               |          |      | 4     | subtrait     | feature     |          |        |
-| [Zeitgeist](Zeitgeist)                               |          |      | 4     | trait        | feature     |          |        |
