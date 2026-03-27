@@ -8,7 +8,7 @@ item_name: Grab
 scc:
   - mcdm.heroes.v1:common-ability.maneuver:grab
 scdc:
-  - 1.1.1:15.3:10
+  - 1.1.1:16.3:10
 source: mcdm.heroes.v1
 type: common-ability/maneuver
 ---

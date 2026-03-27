@@ -17,7 +17,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.spellsword:leaping-lightning
 scdc:
-  - 1.1.1:14.20:01
+  - 1.1.1:15.20:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: kit-ability/spellsword

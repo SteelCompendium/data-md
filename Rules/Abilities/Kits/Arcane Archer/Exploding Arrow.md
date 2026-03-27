@@ -17,7 +17,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.arcane-archer:exploding-arrow
 scdc:
-  - 1.1.1:14.1:01
+  - 1.1.1:15.1:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: kit-ability/arcane-archer

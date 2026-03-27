@@ -17,7 +17,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.battlemind:unmooring
 scdc:
-  - 1.1.1:14.3:01
+  - 1.1.1:15.3:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/battlemind

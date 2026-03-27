@@ -8,7 +8,7 @@ item_name: Noble
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:noble
 scdc:
-  - 1.1.1:16.2:04
+  - 1.1.1:17.2:04
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

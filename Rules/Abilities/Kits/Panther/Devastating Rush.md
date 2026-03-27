@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.panther:devastating-rush
 scdc:
-  - 1.1.1:14.14:01
+  - 1.1.1:15.14:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: kit-ability/panther

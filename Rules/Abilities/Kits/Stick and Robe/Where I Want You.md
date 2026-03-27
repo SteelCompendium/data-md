@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.stick-and-robe:where-i-want-you
 scdc:
-  - 1.1.1:14.21:01
+  - 1.1.1:15.21:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/stick-and-robe

@@ -8,7 +8,7 @@ item_name: Stand Up
 scc:
   - mcdm.heroes.v1:common-ability.maneuver:stand-up
 scdc:
-  - 1.1.1:15.3:03
+  - 1.1.1:16.3:03
 source: mcdm.heroes.v1
 type: common-ability/maneuver
 ---

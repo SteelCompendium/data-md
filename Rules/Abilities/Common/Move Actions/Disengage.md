@@ -8,7 +8,7 @@ item_name: Disengage
 scc:
   - mcdm.heroes.v1:common-ability.move-action:disengage
 scdc:
-  - 1.1.1:15.2:01
+  - 1.1.1:16.2:01
 source: mcdm.heroes.v1
 type: common-ability/move-action
 ---

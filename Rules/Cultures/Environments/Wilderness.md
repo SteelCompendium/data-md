@@ -8,7 +8,7 @@ item_name: Wilderness
 scc:
   - mcdm.heroes.v1:culture\_benefit.environment:wilderness
 scdc:
-  - 1.1.1:17.2:04
+  - 1.1.1:18.2:04
 source: mcdm.heroes.v1
 type: culture\_benefit/environment
 ---

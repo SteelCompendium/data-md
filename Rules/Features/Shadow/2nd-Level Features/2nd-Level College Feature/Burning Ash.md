@@ -1,0 +1,21 @@
+---
+action_type: feature
+class: shadow
+feature_type: trait
+file_basename: Burning Ash
+file_dpath: Shadow/2nd-Level Features/2nd-Level College Feature
+item_id: burning-ash
+item_index: '05'
+item_name: Burning Ash
+level: 2
+scc:
+  - mcdm.heroes.v1:subfeature.trait.shadow.2nd-level-feature:burning-ash
+scdc:
+  - 1.1.1:12.1.2.2:05
+source: mcdm.heroes.v1
+type: subfeature/trait/shadow/2nd-level-feature
+---
+
+##### Burning Ash
+
+The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.

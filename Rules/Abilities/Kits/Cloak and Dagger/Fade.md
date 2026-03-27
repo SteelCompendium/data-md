@@ -17,7 +17,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.cloak-and-dagger:fade
 scdc:
-  - 1.1.1:14.6:01
+  - 1.1.1:15.6:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/cloak-and-dagger

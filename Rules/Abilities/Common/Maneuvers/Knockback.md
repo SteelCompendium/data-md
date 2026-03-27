@@ -8,7 +8,7 @@ item_name: Knockback
 scc:
   - mcdm.heroes.v1:common-ability.maneuver:knockback
 scdc:
-  - 1.1.1:15.3:05
+  - 1.1.1:16.3:05
 source: mcdm.heroes.v1
 type: common-ability/maneuver
 ---

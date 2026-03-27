@@ -8,7 +8,7 @@ item_name: Marshal
 scc:
   - mcdm.heroes.v1:title.1st-echelon:marshal
 scdc:
-  - 1.1.1:16.4:15
+  - 1.1.1:17.4:15
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

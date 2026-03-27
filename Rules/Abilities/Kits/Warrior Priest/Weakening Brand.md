@@ -17,7 +17,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.warrior-priest:weakening-brand
 scdc:
-  - 1.1.1:14.11:01
+  - 1.1.1:15.11:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: kit-ability/warrior-priest

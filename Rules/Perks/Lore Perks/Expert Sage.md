@@ -7,7 +7,7 @@ item_name: Expert Sage
 scc:
   - mcdm.heroes.v1:perk.lore:expert-sage
 scdc:
-  - 1.1.1:18.2:06
+  - 1.1.1:19.2:06
 source: mcdm.heroes.v1
 type: perk/lore
 ---

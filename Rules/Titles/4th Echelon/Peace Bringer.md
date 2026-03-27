@@ -8,7 +8,7 @@ item_name: Peace Bringer
 scc:
   - mcdm.heroes.v1:title.4th-echelon:peace-bringer
 scdc:
-  - 1.1.1:16.1:09
+  - 1.1.1:17.1:09
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

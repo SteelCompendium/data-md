@@ -7,7 +7,7 @@ item_name: Spot the Tell
 scc:
   - mcdm.heroes.v1:perk.interpersonal:spot-the-tell
 scdc:
-  - 1.1.1:18.1:05
+  - 1.1.1:19.1:05
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

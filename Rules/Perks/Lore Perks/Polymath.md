@@ -7,7 +7,7 @@ item_name: Polymath
 scc:
   - mcdm.heroes.v1:perk.lore:polymath
 scdc:
-  - 1.1.1:18.2:07
+  - 1.1.1:19.2:07
 source: mcdm.heroes.v1
 type: perk/lore
 ---

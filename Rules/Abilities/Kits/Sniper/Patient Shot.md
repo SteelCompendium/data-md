@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.sniper:patient-shot
 scdc:
-  - 1.1.1:14.10:01
+  - 1.1.1:15.10:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/sniper

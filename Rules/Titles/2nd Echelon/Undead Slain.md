@@ -8,7 +8,7 @@ item_name: Undead Slain
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:undead-slain
 scdc:
-  - 1.1.1:16.3:16
+  - 1.1.1:17.3:16
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

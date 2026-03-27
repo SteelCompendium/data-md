@@ -7,7 +7,7 @@ item_name: Brawny
 scc:
   - mcdm.heroes.v1:perk.exploration:brawny
 scdc:
-  - 1.1.1:18.3:10
+  - 1.1.1:19.3:10
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

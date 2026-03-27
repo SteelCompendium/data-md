@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.guisarmier:forward-thrust-backward-smash
 scdc:
-  - 1.1.1:14.7:01
+  - 1.1.1:15.7:01
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: kit-ability/guisarmier

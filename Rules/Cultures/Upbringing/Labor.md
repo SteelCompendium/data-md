@@ -8,7 +8,7 @@ item_name: Labor
 scc:
   - mcdm.heroes.v1:culture\_benefit.upbringing:labor
 scdc:
-  - 1.1.1:17.3:02
+  - 1.1.1:18.3:02
 source: mcdm.heroes.v1
 type: culture\_benefit/upbringing
 ---

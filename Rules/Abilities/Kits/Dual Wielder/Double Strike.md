@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.dual-wielder:double-strike
 scdc:
-  - 1.1.1:14.19:01
+  - 1.1.1:15.19:01
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: kit-ability/dual-wielder

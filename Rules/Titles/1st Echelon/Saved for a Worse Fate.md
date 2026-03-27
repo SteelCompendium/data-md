@@ -8,7 +8,7 @@ item_name: Saved for a Worse Fate
 scc:
   - mcdm.heroes.v1:title.1st-echelon:saved-for-a-worse-fate
 scdc:
-  - 1.1.1:16.4:12
+  - 1.1.1:17.4:12
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

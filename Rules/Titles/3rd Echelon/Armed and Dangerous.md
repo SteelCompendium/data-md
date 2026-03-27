@@ -8,7 +8,7 @@ item_name: Armed and Dangerous
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:armed-and-dangerous
 scdc:
-  - 1.1.1:16.2:02
+  - 1.1.1:17.2:02
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

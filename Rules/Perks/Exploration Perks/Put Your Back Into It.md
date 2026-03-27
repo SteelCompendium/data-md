@@ -7,7 +7,7 @@ item_name: Put Your Back Into It!
 scc:
   - mcdm.heroes.v1:perk.exploration:put-your-back-into-it
 scdc:
-  - 1.1.1:18.3:04
+  - 1.1.1:19.3:04
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

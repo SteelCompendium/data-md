@@ -7,7 +7,7 @@ item_name: Open Book
 scc:
   - mcdm.heroes.v1:perk.interpersonal:open-book
 scdc:
-  - 1.1.1:18.1:10
+  - 1.1.1:19.1:10
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

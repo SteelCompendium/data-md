@@ -7,7 +7,7 @@ item_name: Charming Liar
 scc:
   - mcdm.heroes.v1:perk.interpersonal:charming-liar
 scdc:
-  - 1.1.1:18.1:06
+  - 1.1.1:19.1:06
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

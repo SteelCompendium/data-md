@@ -5,6 +5,12 @@ type: index
 
 # Tactician: 5th-Level Features Index
 
-| File Name                                                        | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ---------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [5th Level Doctrine Features](5th%20Level%20Doctrine%20Features) |          |      | 5     | trait        | feature     |          |        |
+| File Name                                                                  | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
+| -------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
+| [Anticipation](5th-Level%20Doctrine%20Features/Anticipation)               |          |      | 5     | trait        | feature     |          |        |
+| [Distracted](5th-Level%20Doctrine%20Features/Distracted)                   |          |      | 5     | trait        | feature     |          |        |
+| [I Predicted That](5th-Level%20Doctrine%20Features/I%20Predicted%20That)   |          |      | 5     | trait        | feature     |          |        |
+| [Leave No Trace](5th-Level%20Doctrine%20Features/Leave%20No%20Trace)       |          |      | 5     | trait        | feature     |          |        |
+| [5th Level Doctrine Features](5th%20Level%20Doctrine%20Features)           |          |      | 5     | trait        | feature     |          |        |
+| [Shake It Off](5th-Level%20Doctrine%20Features/Shake%20It%20Off)           |          |      | 5     | trait        | feature     |          |        |
+| [Tactical Offensive](5th-Level%20Doctrine%20Features/Tactical%20Offensive) |          |      | 5     | trait        | feature     |          |        |

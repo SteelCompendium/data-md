@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.rapid-fire:two-shot
 scdc:
-  - 1.1.1:14.13:01
+  - 1.1.1:15.13:01
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: kit-ability/rapid-fire

@@ -8,7 +8,7 @@ item_name: Demon Slayer
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:demon-slayer
 scdc:
-  - 1.1.1:16.2:08
+  - 1.1.1:17.2:08
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---
