@@ -3,9 +3,8 @@ name: Build and Release
 on:
   push:
     branches:
-      - backer
-      - patron
       - main
+      - v3
 
 permissions:
   contents: write  # Grant write permissions to the contents scope
