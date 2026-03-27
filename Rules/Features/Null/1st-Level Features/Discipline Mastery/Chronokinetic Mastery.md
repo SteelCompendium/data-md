@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: Chronokinetic Mastery
 file_dpath: Null/1st-Level Features/Discipline Mastery
 item_id: chronokinetic-mastery
@@ -9,11 +9,11 @@ item_index: '07'
 item_name: Chronokinetic Mastery
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.1st-level-feature:chronokinetic-mastery
+  - mcdm.heroes.v1:feature.subtrait.null.1st-level-feature:chronokinetic-mastery
 scdc:
-  - 1.1.1:12.1.6.5:07
+  - 1.1.1:11.2.6.5:07
 source: mcdm.heroes.v1
-type: subfeature/trait/null/1st-level-feature
+type: feature/subtrait/null/1st-level-feature
 ---
 
 ##### Chronokinetic Mastery

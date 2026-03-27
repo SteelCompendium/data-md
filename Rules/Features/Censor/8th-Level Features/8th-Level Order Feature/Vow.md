@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Vow
 file_dpath: Censor/8th-Level Features/8th-Level Order Feature
 item_id: vow
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Vow
 level: 8
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.8th-level-feature:vow
+  - mcdm.heroes.v1:feature.subtrait.censor.8th-level-feature:vow
 scdc:
-  - 1.1.1:12.1.7.7:03
+  - 1.1.1:11.2.7.7:03
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/8th-level-feature
+type: feature/subtrait/censor/8th-level-feature
 ---
 
 ##### Vow

@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:shared-void-sense
 scdc:
-  - 1.1.1:11.2.9.1:12
+  - 1.1.1:11.3.9.1:12
 source: mcdm.heroes.v1
 subclass: Void
 target: Special

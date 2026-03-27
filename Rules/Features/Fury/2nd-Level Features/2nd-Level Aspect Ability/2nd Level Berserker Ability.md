@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Berserker Ability
 file_dpath: Fury/2nd-Level Features/2nd-Level Aspect Ability
 item_id: 2nd-level-berserker-ability
@@ -9,11 +9,11 @@ item_index: '05'
 item_name: 2nd-Level Berserker Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.2nd-level-feature:2nd-level-berserker-ability
+  - mcdm.heroes.v1:feature.subtrait.fury.2nd-level-feature:2nd-level-berserker-ability
 scdc:
-  - 1.1.1:12.1.5.3:05
+  - 1.1.1:11.2.5.3:05
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/2nd-level-feature
+type: feature/subtrait/fury/2nd-level-feature
 ---
 
 ##### 2nd-Level Berserker Ability

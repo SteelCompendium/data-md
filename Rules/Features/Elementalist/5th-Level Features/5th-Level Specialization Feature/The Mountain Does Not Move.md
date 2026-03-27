@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: The Mountain Does Not Move
 file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: the-mountain-does-not-move
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: The Mountain Does Not Move
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.5th-level-feature:the-mountain-does-not-move
+  - mcdm.heroes.v1:feature.subtrait.elementalist.5th-level-feature:the-mountain-does-not-move
 scdc:
-  - 1.1.1:12.1.9.4:02
+  - 1.1.1:11.2.9.4:02
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/5th-level-feature
+type: feature/subtrait/elementalist/5th-level-feature
 ---
 
 ##### The Mountain Does Not Move

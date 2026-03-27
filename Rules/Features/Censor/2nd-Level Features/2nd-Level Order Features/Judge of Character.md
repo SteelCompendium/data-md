@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Judge of Character
 file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
 item_id: judge-of-character
@@ -9,11 +9,11 @@ item_index: 08
 item_name: Judge of Character
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.2nd-level-feature:judge-of-character
+  - mcdm.heroes.v1:feature.subtrait.censor.2nd-level-feature:judge-of-character
 scdc:
-  - 1.1.1:12.1.7.4:08
+  - 1.1.1:11.2.7.4:08
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/2nd-level-feature
+type: feature/subtrait/censor/2nd-level-feature
 ---
 
 ##### Judge of Character

@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:lines-of-force
 scdc:
-  - 1.1.1:11.2.5.1:11
+  - 1.1.1:11.3.5.1:11
 source: mcdm.heroes.v1
 subclass: Berserker
 target: Self or one creature

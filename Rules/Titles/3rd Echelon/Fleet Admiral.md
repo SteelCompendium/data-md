@@ -8,7 +8,7 @@ item_name: Fleet Admiral
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:fleet-admiral
 scdc:
-  - 1.1.1:17.2:13
+  - 1.1.1:16.2:13
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

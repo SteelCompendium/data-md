@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: 9th Level Mastermind Abilities
 file_dpath: Tactician/9th-Level Features/9th-Level Doctrine Ability
 item_id: 9th-level-mastermind-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 9th-Level Mastermind Abilities
 level: 9
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.9th-level-feature:9th-level-mastermind-abilities
+  - mcdm.heroes.v1:feature.subtrait.tactician.9th-level-feature:9th-level-mastermind-abilities
 scdc:
-  - 1.1.1:12.1.4.2:03
+  - 1.1.1:11.2.4.2:03
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/9th-level-feature
+type: feature/subtrait/tactician/9th-level-feature
 ---
 
 ##### 9th-Level Mastermind Abilities

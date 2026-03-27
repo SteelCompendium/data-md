@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: My Reputation Precedes Me
 file_dpath: Troubadour/2nd-Level Features/Invocation
 item_id: my-reputation-precedes-me
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: My Reputation Precedes Me
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.2nd-level-feature:my-reputation-precedes-me
+  - mcdm.heroes.v1:feature.subtrait.troubadour.2nd-level-feature:my-reputation-precedes-me
 scdc:
-  - 1.1.1:12.1.3.4:04
+  - 1.1.1:11.2.3.4:04
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/2nd-level-feature
+type: feature/subtrait/troubadour/2nd-level-feature
 ---
 
 ##### My Reputation Precedes Me

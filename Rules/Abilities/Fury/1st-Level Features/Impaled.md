@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:impaled
 scdc:
-  - 1.1.1:11.2.5.1:08
+  - 1.1.1:11.3.5.1:08
 source: mcdm.heroes.v1
 target: One creature of your size or smaller
 type: feature/ability/fury/1st-level-feature

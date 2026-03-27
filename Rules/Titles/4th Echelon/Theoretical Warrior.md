@@ -8,7 +8,7 @@ item_name: Theoretical Warrior
 scc:
   - mcdm.heroes.v1:title.4th-echelon:theoretical-warrior
 scdc:
-  - 1.1.1:17.1:05
+  - 1.1.1:16.1:05
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

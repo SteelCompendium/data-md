@@ -17,7 +17,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:spotlight
 scdc:
-  - 1.1.1:11.2.3.3:01
+  - 1.1.1:11.3.3.3:01
 source: mcdm.heroes.v1
 target: Self and each ally in the area
 type: feature/ability/troubadour/6th-level-feature

@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harsh-critic-3-drama
 scdc:
-  - 1.1.1:11.2.3.1:20
+  - 1.1.1:11.3.3.1:20
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/troubadour/1st-level-feature

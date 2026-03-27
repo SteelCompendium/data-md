@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Enchantment of Permanence
 file_dpath: Elementalist/1st-Level Features/Enchantment
 item_id: enchantment-of-permanence
@@ -9,11 +9,11 @@ item_index: '14'
 item_name: Enchantment of Permanence
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.1st-level-feature:enchantment-of-permanence
+  - mcdm.heroes.v1:feature.subtrait.elementalist.1st-level-feature:enchantment-of-permanence
 scdc:
-  - 1.1.1:12.1.9.7:14
+  - 1.1.1:11.2.9.7:14
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/1st-level-feature
+type: feature/subtrait/elementalist/1st-level-feature
 ---
 
 ##### Enchantment of Permanence

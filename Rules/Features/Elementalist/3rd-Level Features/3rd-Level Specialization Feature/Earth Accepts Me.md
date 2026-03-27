@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Earth Accepts Me
 file_dpath: Elementalist/3rd-Level Features/3rd-Level Specialization Feature
 item_id: earth-accepts-me
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Earth Accepts Me
 level: 3
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.3rd-level-feature:earth-accepts-me
+  - mcdm.heroes.v1:feature.subtrait.elementalist.3rd-level-feature:earth-accepts-me
 scdc:
-  - 1.1.1:12.1.9.2:03
+  - 1.1.1:11.2.9.2:03
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/3rd-level-feature
+type: feature/subtrait/elementalist/3rd-level-feature
 ---
 
 ##### Earth Accepts Me

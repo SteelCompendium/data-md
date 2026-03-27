@@ -7,7 +7,7 @@ item_name: Arcane Trick
 scc:
   - mcdm.heroes.v1:perk.supernatural:arcane-trick
 scdc:
-  - 1.1.1:19.4:02
+  - 1.1.1:18.4:02
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

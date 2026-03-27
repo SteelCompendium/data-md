@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Harlequin Mask Ability
 file_dpath: Shadow/2nd-Level Features/2nd-Level College Ability
 item_id: 2nd-level-harlequin-mask-ability
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: 2nd-Level Harlequin Mask Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.2nd-level-feature:2nd-level-harlequin-mask-ability
+  - mcdm.heroes.v1:feature.subtrait.shadow.2nd-level-feature:2nd-level-harlequin-mask-ability
 scdc:
-  - 1.1.1:12.1.2.2:02
+  - 1.1.1:11.2.2.2:02
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/2nd-level-feature
+type: feature/subtrait/shadow/2nd-level-feature
 ---
 
 ##### 2nd-Level Harlequin Mask Ability

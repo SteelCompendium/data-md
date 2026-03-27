@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:word-of-judgment
 scdc:
-  - 1.1.1:11.2.8.1:16
+  - 1.1.1:11.3.8.1:16
 source: mcdm.heroes.v1
 target: One ally
 type: feature/ability/conduit/1st-level-feature

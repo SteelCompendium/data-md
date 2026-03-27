@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:blot-out-the-sun-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:02
+  - 1.1.1:11.3.4.7:02
 source: mcdm.heroes.v1
 subclass: Mastermind
 target: Self and each ally in the area

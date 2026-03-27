@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:stink-bomb-5-insight
 scdc:
-  - 1.1.1:11.2.2.5:06
+  - 1.1.1:11.3.2.5:06
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: Each creature in the area

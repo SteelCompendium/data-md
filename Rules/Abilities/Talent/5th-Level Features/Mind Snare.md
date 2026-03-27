@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.talent.5th-level-feature:mind-snare-9-clarity
 scdc:
-  - 1.1.1:11.2.1.4:01
+  - 1.1.1:11.3.1.4:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/5th-level-feature

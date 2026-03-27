@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:gravitic-well-9-clarity
 scdc:
-  - 1.1.1:11.2.1.3:03
+  - 1.1.1:11.3.1.3:03
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: Each creature and object in the area

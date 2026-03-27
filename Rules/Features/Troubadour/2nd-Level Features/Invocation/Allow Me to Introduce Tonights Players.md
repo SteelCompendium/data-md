@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Allow Me to Introduce Tonights Players
 file_dpath: Troubadour/2nd-Level Features/Invocation
 item_id: allow-me-to-introduce-tonights-players
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Allow Me to Introduce Tonight's Players
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.2nd-level-feature:allow-me-to-introduce-tonights-players
+  - mcdm.heroes.v1:feature.subtrait.troubadour.2nd-level-feature:allow-me-to-introduce-tonights-players
 scdc:
-  - 1.1.1:12.1.3.4:06
+  - 1.1.1:11.2.3.4:06
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/2nd-level-feature
+type: feature/subtrait/troubadour/2nd-level-feature
 ---
 
 ##### Allow Me to Introduce Tonight's Players

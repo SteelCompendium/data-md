@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Auteur Abilities
 file_dpath: Troubadour/6th-Level Features/6th-Level Class Act Ability
 item_id: 6th-level-auteur-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 6th-Level Auteur Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.6th-level-feature:6th-level-auteur-abilities
+  - mcdm.heroes.v1:feature.subtrait.troubadour.6th-level-feature:6th-level-auteur-abilities
 scdc:
-  - 1.1.1:12.1.3.6:03
+  - 1.1.1:11.2.3.6:03
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/6th-level-feature
+type: feature/subtrait/troubadour/6th-level-feature
 ---
 
 ##### 6th-Level Auteur Abilities

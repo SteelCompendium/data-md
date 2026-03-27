@@ -8,7 +8,7 @@ item_name: Corsair
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:corsair
 scdc:
-  - 1.1.1:17.3:09
+  - 1.1.1:16.3:09
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

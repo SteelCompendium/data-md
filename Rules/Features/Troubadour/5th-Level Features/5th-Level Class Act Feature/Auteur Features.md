@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Auteur Features
 file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature
 item_id: auteur-features
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Auteur Features
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.5th-level-feature:auteur-features
+  - mcdm.heroes.v1:feature.subtrait.troubadour.5th-level-feature:auteur-features
 scdc:
-  - 1.1.1:12.1.3.5:01
+  - 1.1.1:11.2.3.5:01
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/5th-level-feature
+type: feature/subtrait/troubadour/5th-level-feature
 ---
 
 ##### Auteur Features

@@ -8,7 +8,7 @@ item_name: Creative
 scc:
   - mcdm.heroes.v1:culture\_benefit.upbringing:creative
 scdc:
-  - 1.1.1:18.3:03
+  - 1.1.1:17.3:03
 source: mcdm.heroes.v1
 type: culture\_benefit/upbringing
 ---

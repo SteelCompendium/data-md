@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Heroic Abilities
 file_dpath: Conduit/1st-Level Features/Conduit Abilities
 item_id: heroic-abilities
@@ -9,11 +9,11 @@ item_index: '26'
 item_name: Heroic Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.1st-level-feature:heroic-abilities
+  - mcdm.heroes.v1:feature.subtrait.conduit.1st-level-feature:heroic-abilities
 scdc:
-  - 1.1.1:12.1.8.3:26
+  - 1.1.1:11.2.8.3:26
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/1st-level-feature
+type: feature/subtrait/conduit/1st-level-feature
 ---
 
 ##### Heroic Abilities

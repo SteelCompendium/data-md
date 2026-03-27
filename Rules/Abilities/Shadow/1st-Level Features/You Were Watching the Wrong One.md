@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:you-were-watching-the-wrong-one
 scdc:
-  - 1.1.1:11.2.2.1:14
+  - 1.1.1:11.3.2.1:14
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/shadow/1st-level-feature

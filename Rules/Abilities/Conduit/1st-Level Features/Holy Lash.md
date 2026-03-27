@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:holy-lash
 scdc:
-  - 1.1.1:11.2.8.1:18
+  - 1.1.1:11.3.8.1:18
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/conduit/1st-level-feature

@@ -17,7 +17,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:there-is-no-space-between
 scdc:
-  - 1.1.1:11.2.9.5:04
+  - 1.1.1:11.3.9.5:04
 source: mcdm.heroes.v1
 subclass: Void
 target: Special

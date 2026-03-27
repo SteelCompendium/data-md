@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: Feedback Loop
 file_dpath: Talent/1st-Level Features/1st-Level Tradition Features
 item_id: feedback-loop
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Feedback Loop
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.talent.1st-level-feature:feedback-loop
+  - mcdm.heroes.v1:feature.subtrait.talent.1st-level-feature:feedback-loop
 scdc:
-  - 1.1.1:12.1.1.6:06
+  - 1.1.1:11.2.1.6:06
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/1st-level-feature
+type: feature/subtrait/talent/1st-level-feature
 ---
 
 ##### Feedback Loop

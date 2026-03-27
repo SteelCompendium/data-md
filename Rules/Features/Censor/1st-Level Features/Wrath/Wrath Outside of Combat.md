@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Wrath Outside of Combat
 file_dpath: Censor/1st-Level Features/Wrath
 item_id: wrath-outside-of-combat
@@ -9,11 +9,11 @@ item_index: '13'
 item_name: Wrath Outside of Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.1st-level-feature:wrath-outside-of-combat
+  - mcdm.heroes.v1:feature.subtrait.censor.1st-level-feature:wrath-outside-of-combat
 scdc:
-  - 1.1.1:12.1.7.8:13
+  - 1.1.1:11.2.7.8:13
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/1st-level-feature
+type: feature/subtrait/censor/1st-level-feature
 ---
 
 ##### Wrath Outside of Combat

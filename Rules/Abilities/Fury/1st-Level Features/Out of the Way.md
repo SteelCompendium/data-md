@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:out-of-the-way-3-ferocity
 scdc:
-  - 1.1.1:11.2.5.1:04
+  - 1.1.1:11.3.5.1:04
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/fury/1st-level-feature

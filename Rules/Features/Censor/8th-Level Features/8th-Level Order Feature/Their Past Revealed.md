@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Their Past Revealed
 file_dpath: Censor/8th-Level Features/8th-Level Order Feature
 item_id: their-past-revealed
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Their Past Revealed
 level: 8
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.8th-level-feature:their-past-revealed
+  - mcdm.heroes.v1:feature.subtrait.censor.8th-level-feature:their-past-revealed
 scdc:
-  - 1.1.1:12.1.7.7:02
+  - 1.1.1:11.2.7.7:02
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/8th-level-feature
+type: feature/subtrait/censor/8th-level-feature
 ---
 
 ##### Their Past Revealed

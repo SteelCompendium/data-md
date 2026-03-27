@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Chronokinetic Ability
 file_dpath: Null/2nd-Level Features/2nd-Level Tradition Ability
 item_id: 2nd-level-chronokinetic-ability
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 2nd-Level Chronokinetic Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.2nd-level-feature:2nd-level-chronokinetic-ability
+  - mcdm.heroes.v1:feature.subtrait.null.2nd-level-feature:2nd-level-chronokinetic-ability
 scdc:
-  - 1.1.1:12.1.6.2:01
+  - 1.1.1:11.2.6.2:01
 source: mcdm.heroes.v1
-type: subfeature/trait/null/2nd-level-feature
+type: feature/subtrait/null/2nd-level-feature
 ---
 
 ##### 2nd-Level Chronokinetic Ability

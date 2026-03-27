@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: Signature Ability
 file_dpath: Fury/1st-Level Features/Fury Abilities
 item_id: signature-ability
@@ -9,11 +9,11 @@ item_index: 09
 item_name: Signature Ability
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.1st-level-feature:signature-ability
+  - mcdm.heroes.v1:feature.subtrait.fury.1st-level-feature:signature-ability
 scdc:
-  - 1.1.1:12.1.5.7:09
+  - 1.1.1:11.2.5.7:09
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/1st-level-feature
+type: feature/subtrait/fury/1st-level-feature
 ---
 
 ##### Signature Ability

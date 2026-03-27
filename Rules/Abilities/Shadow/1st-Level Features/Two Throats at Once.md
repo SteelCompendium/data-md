@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:two-throats-at-once-3-insight
 scdc:
-  - 1.1.1:11.2.2.1:18
+  - 1.1.1:11.3.2.1:18
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: feature/ability/shadow/1st-level-feature

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Wrath in Combat
 file_dpath: Censor/1st-Level Features/Wrath
 item_id: wrath-in-combat
@@ -9,11 +9,11 @@ item_index: '14'
 item_name: Wrath in Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.1st-level-feature:wrath-in-combat
+  - mcdm.heroes.v1:feature.subtrait.censor.1st-level-feature:wrath-in-combat
 scdc:
-  - 1.1.1:12.1.7.8:14
+  - 1.1.1:11.2.7.8:14
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/1st-level-feature
+type: feature/subtrait/censor/1st-level-feature
 ---
 
 ##### Wrath in Combat

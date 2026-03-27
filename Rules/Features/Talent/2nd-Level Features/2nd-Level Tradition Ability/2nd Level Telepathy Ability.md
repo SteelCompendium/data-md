@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Telepathy Ability
 file_dpath: Talent/2nd-Level Features/2nd-Level Tradition Ability
 item_id: 2nd-level-telepathy-ability
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: 2nd-Level Telepathy Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.talent.2nd-level-feature:2nd-level-telepathy-ability
+  - mcdm.heroes.v1:feature.subtrait.talent.2nd-level-feature:2nd-level-telepathy-ability
 scdc:
-  - 1.1.1:12.1.1.2:02
+  - 1.1.1:11.2.1.2:02
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/2nd-level-feature
+type: feature/subtrait/talent/2nd-level-feature
 ---
 
 ##### 2nd-Level Telepathy Ability

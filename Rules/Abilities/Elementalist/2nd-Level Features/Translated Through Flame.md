@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:translated-through-flame-5-essence
 scdc:
-  - 1.1.1:11.2.9.5:03
+  - 1.1.1:11.3.9.5:03
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/elementalist/2nd-level-feature

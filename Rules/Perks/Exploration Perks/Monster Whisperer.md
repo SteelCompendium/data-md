@@ -7,7 +7,7 @@ item_name: Monster Whisperer
 scc:
   - mcdm.heroes.v1:perk.exploration:monster-whisperer
 scdc:
-  - 1.1.1:19.3:03
+  - 1.1.1:18.3:03
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

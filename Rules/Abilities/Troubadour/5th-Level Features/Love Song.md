@@ -19,7 +19,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:love-song-9-drama
 scdc:
-  - 1.1.1:11.2.3.4:03
+  - 1.1.1:11.3.3.4:03
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/troubadour/5th-level-feature

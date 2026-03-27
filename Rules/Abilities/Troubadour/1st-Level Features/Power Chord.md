@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:power-chord
 scdc:
-  - 1.1.1:11.2.3.1:09
+  - 1.1.1:11.3.3.1:09
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Each enemy in the area

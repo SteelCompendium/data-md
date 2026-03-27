@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Light of the Burning Sun
 file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: light-of-the-burning-sun
@@ -9,11 +9,11 @@ item_index: 09
 item_name: Light of the Burning Sun
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.7th-level-feature:light-of-the-burning-sun
+  - mcdm.heroes.v1:feature.subtrait.conduit.7th-level-feature:light-of-the-burning-sun
 scdc:
-  - 1.1.1:12.1.8.2:09
+  - 1.1.1:11.2.8.2:09
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/7th-level-feature
+type: feature/subtrait/conduit/7th-level-feature
 ---
 
 ##### Light of the Burning Sun

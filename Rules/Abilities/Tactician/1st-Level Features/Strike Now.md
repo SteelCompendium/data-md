@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:strike-now
 scdc:
-  - 1.1.1:11.2.4.1:06
+  - 1.1.1:11.3.4.1:06
 source: mcdm.heroes.v1
 target: One ally
 type: feature/ability/tactician/1st-level-feature

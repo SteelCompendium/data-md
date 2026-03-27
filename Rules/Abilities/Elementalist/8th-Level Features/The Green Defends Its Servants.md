@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:the-green-defends-its-servants-11-essence
 scdc:
-  - 1.1.1:11.2.9.2:08
+  - 1.1.1:11.3.9.2:08
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/elementalist/8th-level-feature

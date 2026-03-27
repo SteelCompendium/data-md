@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.retiarius:net-and-stab
 scdc:
-  - 1.1.1:15.2:01
+  - 1.1.1:14.2:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/retiarius

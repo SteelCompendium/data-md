@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:hypnotic-overtones-3-drama
 scdc:
-  - 1.1.1:11.2.3.1:13
+  - 1.1.1:11.3.3.1:13
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/1st-level-feature

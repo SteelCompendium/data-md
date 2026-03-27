@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:saved-in-the-edit-11-drama
 scdc:
-  - 1.1.1:11.2.3.2:01
+  - 1.1.1:11.3.3.2:01
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/troubadour/8th-level-feature

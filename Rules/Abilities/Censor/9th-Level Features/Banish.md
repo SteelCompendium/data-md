@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:banish-11-wrath
 scdc:
-  - 1.1.1:11.2.7.7:05
+  - 1.1.1:11.3.7.7:05
 source: mcdm.heroes.v1
 subclass: Exorcist
 target: One creature

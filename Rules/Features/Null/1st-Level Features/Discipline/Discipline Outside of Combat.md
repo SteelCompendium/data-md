@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: Discipline Outside of Combat
 file_dpath: Null/1st-Level Features/Discipline
 item_id: discipline-outside-of-combat
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Discipline Outside of Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.1st-level-feature:discipline-outside-of-combat
+  - mcdm.heroes.v1:feature.subtrait.null.1st-level-feature:discipline-outside-of-combat
 scdc:
-  - 1.1.1:12.1.6.5:02
+  - 1.1.1:11.2.6.5:02
 source: mcdm.heroes.v1
-type: subfeature/trait/null/1st-level-feature
+type: feature/subtrait/null/1st-level-feature
 ---
 
 ##### Discipline Outside of Combat

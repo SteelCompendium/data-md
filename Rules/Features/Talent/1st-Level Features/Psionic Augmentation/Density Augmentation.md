@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: Density Augmentation
 file_dpath: Talent/1st-Level Features/Psionic Augmentation
 item_id: density-augmentation
@@ -9,11 +9,11 @@ item_index: '18'
 item_name: Density Augmentation
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.talent.1st-level-feature:density-augmentation
+  - mcdm.heroes.v1:feature.subtrait.talent.1st-level-feature:density-augmentation
 scdc:
-  - 1.1.1:12.1.1.6:18
+  - 1.1.1:11.2.1.6:18
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/1st-level-feature
+type: feature/subtrait/talent/1st-level-feature
 ---
 
 ##### Density Augmentation

@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:the-show-must-go-on-11-drama
 scdc:
-  - 1.1.1:11.2.3.2:04
+  - 1.1.1:11.3.3.2:04
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/8th-level-feature

@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:force-redirected-5-discipline
 scdc:
-  - 1.1.1:11.2.6.5:06
+  - 1.1.1:11.3.6.5:06
 source: mcdm.heroes.v1
 subclass: Chronokinetic
 target: One creature

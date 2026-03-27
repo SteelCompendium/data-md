@@ -17,7 +17,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:take-two
 scdc:
-  - 1.1.1:11.2.3.4:04
+  - 1.1.1:11.3.3.4:04
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Self and each ally in the area

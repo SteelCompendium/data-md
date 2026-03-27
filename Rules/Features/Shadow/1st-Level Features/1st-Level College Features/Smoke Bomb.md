@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: Smoke Bomb
 file_dpath: Shadow/1st-Level Features/1st-Level College Features
 item_id: smoke-bomb
@@ -9,11 +9,11 @@ item_index: '05'
 item_name: Smoke Bomb
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.1st-level-feature:smoke-bomb
+  - mcdm.heroes.v1:feature.subtrait.shadow.1st-level-feature:smoke-bomb
 scdc:
-  - 1.1.1:12.1.2.6:05
+  - 1.1.1:11.2.2.6:05
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/1st-level-feature
+type: feature/subtrait/shadow/1st-level-feature
 ---
 
 ##### Smoke Bomb

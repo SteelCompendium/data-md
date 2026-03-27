@@ -8,7 +8,7 @@ item_name: Charge
 scc:
   - mcdm.heroes.v1:common-ability.main-action:charge
 scdc:
-  - 1.1.1:16.1:03
+  - 1.1.1:15.1:03
 source: mcdm.heroes.v1
 type: common-ability/main-action
 ---

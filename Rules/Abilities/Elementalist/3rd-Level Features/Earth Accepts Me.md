@@ -16,7 +16,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:earth-accepts-me
 scdc:
-  - 1.1.1:11.2.9.6:05
+  - 1.1.1:11.3.9.6:05
 source: mcdm.heroes.v1
 subclass: Earth
 target: Self

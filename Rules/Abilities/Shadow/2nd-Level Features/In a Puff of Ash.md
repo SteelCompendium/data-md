@@ -22,7 +22,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-ash-5-insight
 scdc:
-  - 1.1.1:11.2.2.5:02
+  - 1.1.1:11.3.2.5:02
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: One creature

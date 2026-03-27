@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: Bounder
 file_dpath: Fury/5th-Level Features/5th-Level Aspect Feature
 item_id: bounder
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Bounder
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.5th-level-feature:bounder
+  - mcdm.heroes.v1:feature.subtrait.fury.5th-level-feature:bounder
 scdc:
-  - 1.1.1:12.1.5.4:01
+  - 1.1.1:11.2.5.4:01
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/5th-level-feature
+type: feature/subtrait/fury/5th-level-feature
 ---
 
 ##### Bounder

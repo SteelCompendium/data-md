@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: Unfettered
 file_dpath: Fury/5th-Level Features/5th-Level Aspect Feature
 item_id: unfettered
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Unfettered
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.5th-level-feature:unfettered
+  - mcdm.heroes.v1:feature.subtrait.fury.5th-level-feature:unfettered
 scdc:
-  - 1.1.1:12.1.5.4:03
+  - 1.1.1:11.2.5.4:03
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/5th-level-feature
+type: feature/subtrait/fury/5th-level-feature
 ---
 
 ##### Unfettered

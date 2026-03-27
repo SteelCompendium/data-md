@@ -19,7 +19,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:blessing-of-the-blade-11-piety
 scdc:
-  - 1.1.1:11.2.8.8:01
+  - 1.1.1:11.3.8.8:01
 source: mcdm.heroes.v1
 target: Self and each ally in the area
 type: feature/ability/conduit/7th-level-feature

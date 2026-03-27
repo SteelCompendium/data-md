@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Hands of the Maker
 file_dpath: Conduit/1st-Level Features/1st-Level Domain Feature
 item_id: hands-of-the-maker
@@ -9,11 +9,11 @@ item_index: '07'
 item_name: Hands of the Maker
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.1st-level-feature:hands-of-the-maker
+  - mcdm.heroes.v1:feature.subtrait.conduit.1st-level-feature:hands-of-the-maker
 scdc:
-  - 1.1.1:12.1.8.3:07
+  - 1.1.1:11.2.8.3:07
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/1st-level-feature
+type: feature/subtrait/conduit/1st-level-feature
 ---
 
 ##### Hands of the Maker

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Drama in Combat
 file_dpath: Troubadour/1st-Level Features/Drama
 item_id: drama-in-combat
@@ -9,11 +9,11 @@ item_index: 08
 item_name: Drama in Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:drama-in-combat
+  - mcdm.heroes.v1:feature.subtrait.troubadour.1st-level-feature:drama-in-combat
 scdc:
-  - 1.1.1:12.1.3.8:08
+  - 1.1.1:11.2.3.8:08
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/1st-level-feature
+type: feature/subtrait/troubadour/1st-level-feature
 ---
 
 ##### Drama in Combat

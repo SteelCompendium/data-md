@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:thunder-mother
 scdc:
-  - 1.1.1:11.2.3.1:15
+  - 1.1.1:11.3.3.1:15
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: One creature

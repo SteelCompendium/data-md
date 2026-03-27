@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Second Album
 file_dpath: Troubadour/3rd-Level Features/3rd-Level Class Act Feature
 item_id: second-album
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Second Album
 level: 3
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.3rd-level-feature:second-album
+  - mcdm.heroes.v1:feature.subtrait.troubadour.3rd-level-feature:second-album
 scdc:
-  - 1.1.1:12.1.3.3:01
+  - 1.1.1:11.2.3.3:01
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/3rd-level-feature
+type: feature/subtrait/troubadour/3rd-level-feature
 ---
 
 ##### Second Album

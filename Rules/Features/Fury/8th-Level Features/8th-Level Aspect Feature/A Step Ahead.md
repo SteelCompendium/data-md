@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: A Step Ahead
 file_dpath: Fury/8th-Level Features/8th-Level Aspect Feature
 item_id: a-step-ahead
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: A Step Ahead
 level: 8
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.8th-level-feature:a-step-ahead
+  - mcdm.heroes.v1:feature.subtrait.fury.8th-level-feature:a-step-ahead
 scdc:
-  - 1.1.1:12.1.5.6:03
+  - 1.1.1:11.2.5.6:03
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/8th-level-feature
+type: feature/subtrait/fury/8th-level-feature
 ---
 
 ##### A Step Ahead

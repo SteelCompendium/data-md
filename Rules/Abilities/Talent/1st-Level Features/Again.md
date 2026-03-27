@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:again
 scdc:
-  - 1.1.1:11.2.1.1:14
+  - 1.1.1:11.3.1.1:14
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Self or one creature

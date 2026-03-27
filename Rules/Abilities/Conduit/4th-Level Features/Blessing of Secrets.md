@@ -16,7 +16,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.4th-level-feature:blessing-of-secrets
 scdc:
-  - 1.1.1:11.2.8.9:02
+  - 1.1.1:11.3.8.9:02
 source: mcdm.heroes.v1
 subclass: Trickery
 target: Self and each ally in the area

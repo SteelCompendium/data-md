@@ -8,7 +8,7 @@ item_name: Urban
 scc:
   - mcdm.heroes.v1:culture\_benefit.environment:urban
 scdc:
-  - 1.1.1:18.2:03
+  - 1.1.1:17.2:03
 source: mcdm.heroes.v1
 type: culture\_benefit/environment
 ---

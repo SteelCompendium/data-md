@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:black-ash-teleport
 scdc:
-  - 1.1.1:11.2.2.1:19
+  - 1.1.1:11.3.2.1:19
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: Self

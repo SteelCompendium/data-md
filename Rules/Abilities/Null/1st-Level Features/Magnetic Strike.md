@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:magnetic-strike
 scdc:
-  - 1.1.1:11.2.6.1:09
+  - 1.1.1:11.3.6.1:09
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/1st-level-feature

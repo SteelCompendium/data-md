@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Protective Circle
 file_dpath: Conduit/1st-Level Features/1st-Level Domain Feature
 item_id: protective-circle
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Protective Circle
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.1st-level-feature:protective-circle
+  - mcdm.heroes.v1:feature.subtrait.conduit.1st-level-feature:protective-circle
 scdc:
-  - 1.1.1:12.1.8.3:06
+  - 1.1.1:11.2.8.3:06
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/1st-level-feature
+type: feature/subtrait/conduit/1st-level-feature
 ---
 
 ##### Protective Circle

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Essence in Combat
 file_dpath: Elementalist/1st-Level Features/Essence
 item_id: essence-in-combat
@@ -9,11 +9,11 @@ item_index: '16'
 item_name: Essence in Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.1st-level-feature:essence-in-combat
+  - mcdm.heroes.v1:feature.subtrait.elementalist.1st-level-feature:essence-in-combat
 scdc:
-  - 1.1.1:12.1.9.7:16
+  - 1.1.1:11.2.9.7:16
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/1st-level-feature
+type: feature/subtrait/elementalist/1st-level-feature
 ---
 
 ##### Essence in Combat

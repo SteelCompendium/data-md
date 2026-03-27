@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:force-of-storms-9-ferocity
 scdc:
-  - 1.1.1:11.2.5.3:02
+  - 1.1.1:11.3.5.3:02
 source: mcdm.heroes.v1
 subclass: Berserker
 target: One creature

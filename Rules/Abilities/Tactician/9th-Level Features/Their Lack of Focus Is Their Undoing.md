@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:their-lack-of-focus-is-their-undoing-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:04
+  - 1.1.1:11.3.4.7:04
 source: mcdm.heroes.v1
 subclass: Insurgent
 target: Three enemies

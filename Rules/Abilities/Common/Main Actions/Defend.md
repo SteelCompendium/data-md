@@ -8,7 +8,7 @@ item_name: Defend
 scc:
   - mcdm.heroes.v1:common-ability.main-action:defend
 scdc:
-  - 1.1.1:16.1:01
+  - 1.1.1:15.1:01
 source: mcdm.heroes.v1
 type: common-ability/main-action
 ---

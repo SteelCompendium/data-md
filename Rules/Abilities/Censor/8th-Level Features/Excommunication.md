@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:excommunication-11-wrath
 scdc:
-  - 1.1.1:11.2.7.2:04
+  - 1.1.1:11.3.7.2:04
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/censor/8th-level-feature

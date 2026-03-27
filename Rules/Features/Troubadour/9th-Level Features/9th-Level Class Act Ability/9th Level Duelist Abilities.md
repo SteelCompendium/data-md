@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: 9th Level Duelist Abilities
 file_dpath: Troubadour/9th-Level Features/9th-Level Class Act Ability
 item_id: 9th-level-duelist-abilities
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 9th-Level Duelist Abilities
 level: 9
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.9th-level-feature:9th-level-duelist-abilities
+  - mcdm.heroes.v1:feature.subtrait.troubadour.9th-level-feature:9th-level-duelist-abilities
 scdc:
-  - 1.1.1:12.1.3.2:01
+  - 1.1.1:11.2.3.2:01
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/9th-level-feature
+type: feature/subtrait/troubadour/9th-level-feature
 ---
 
 ##### 9th-Level Duelist Abilities

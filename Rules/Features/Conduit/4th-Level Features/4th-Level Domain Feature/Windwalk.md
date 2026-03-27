@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Windwalk
 file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: windwalk
@@ -9,11 +9,11 @@ item_index: '12'
 item_name: Windwalk
 level: 4
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.4th-level-feature:windwalk
+  - mcdm.heroes.v1:feature.subtrait.conduit.4th-level-feature:windwalk
 scdc:
-  - 1.1.1:12.1.8.1:12
+  - 1.1.1:11.2.8.1:12
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/4th-level-feature
+type: feature/subtrait/conduit/4th-level-feature
 ---
 
 ###### Windwalk

@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:youre-all-my-understudies-9-drama
 scdc:
-  - 1.1.1:11.2.3.3:03
+  - 1.1.1:11.3.3.3:03
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Each ally in the area

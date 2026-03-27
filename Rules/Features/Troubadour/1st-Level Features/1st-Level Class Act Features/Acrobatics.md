@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Acrobatics
 file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: acrobatics
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Acrobatics
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:acrobatics
+  - mcdm.heroes.v1:feature.subtrait.troubadour.1st-level-feature:acrobatics
 scdc:
-  - 1.1.1:12.1.3.8:04
+  - 1.1.1:11.2.3.8:04
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/1st-level-feature
+type: feature/subtrait/troubadour/1st-level-feature
 ---
 
 ##### Acrobatics

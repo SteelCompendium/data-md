@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Covenant of the Heart
 file_dpath: Censor/7th-Level Features/7th-Level Domain Feature
 item_id: covenant-of-the-heart
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Covenant of the Heart
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.7th-level-feature:covenant-of-the-heart
+  - mcdm.heroes.v1:feature.subtrait.censor.7th-level-feature:covenant-of-the-heart
 scdc:
-  - 1.1.1:12.1.7.2:06
+  - 1.1.1:11.2.7.2:06
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/7th-level-feature
+type: feature/subtrait/censor/7th-level-feature
 ---
 
 ##### Covenant of the Heart

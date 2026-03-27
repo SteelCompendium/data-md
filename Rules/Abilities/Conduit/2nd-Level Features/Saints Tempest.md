@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:saints-tempest-5-piety
 scdc:
-  - 1.1.1:11.2.8.5:01
+  - 1.1.1:11.3.8.5:01
 source: mcdm.heroes.v1
 subclass: Storm
 target: Each enemy in the area

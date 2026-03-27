@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Verbal Duel
 file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Duelist Features
 item_id: verbal-duel
@@ -9,11 +9,11 @@ item_index: 08
 item_name: Verbal Duel
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.5th-level-feature:verbal-duel
+  - mcdm.heroes.v1:feature.subtrait.troubadour.5th-level-feature:verbal-duel
 scdc:
-  - 1.1.1:12.1.3.5:08
+  - 1.1.1:11.2.3.5:08
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/5th-level-feature
+type: feature/subtrait/troubadour/5th-level-feature
 ---
 
 ###### Verbal Duel

@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder-11-essence
 scdc:
-  - 1.1.1:11.2.9.2:06
+  - 1.1.1:11.3.9.2:06
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/8th-level-feature

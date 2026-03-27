@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Harlequin Mask Abilities
 file_dpath: Shadow/6th-Level Features/6th-Level College Ability
 item_id: 6th-level-harlequin-mask-abilities
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 6th-Level Harlequin Mask Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.6th-level-feature:6th-level-harlequin-mask-abilities
+  - mcdm.heroes.v1:feature.subtrait.shadow.6th-level-feature:6th-level-harlequin-mask-abilities
 scdc:
-  - 1.1.1:12.1.2.4:01
+  - 1.1.1:11.2.2.4:01
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/6th-level-feature
+type: feature/subtrait/shadow/6th-level-feature
 ---
 
 ##### 6th-Level Harlequin Mask Abilities

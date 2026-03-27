@@ -7,7 +7,7 @@ item_name: Harmonizer
 scc:
   - mcdm.heroes.v1:perk.interpersonal:harmonizer
 scdc:
-  - 1.1.1:19.1:01
+  - 1.1.1:18.1:01
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

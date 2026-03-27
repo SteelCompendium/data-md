@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: Natures Knight
 file_dpath: Fury/3rd-Level Features/3rd-Level Aspect Feature
 item_id: natures-knight
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Nature's Knight
 level: 3
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.3rd-level-feature:natures-knight
+  - mcdm.heroes.v1:feature.subtrait.fury.3rd-level-feature:natures-knight
 scdc:
-  - 1.1.1:12.1.5.2:03
+  - 1.1.1:11.2.5.2:03
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/3rd-level-feature
+type: feature/subtrait/fury/3rd-level-feature
 ---
 
 ##### Nature's Knight

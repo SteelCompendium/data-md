@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:soul-burn-7-clarity
 scdc:
-  - 1.1.1:11.2.1.6:02
+  - 1.1.1:11.3.1.6:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/3rd-level-feature

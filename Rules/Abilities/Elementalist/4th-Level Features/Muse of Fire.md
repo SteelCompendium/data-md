@@ -21,7 +21,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.4th-level-feature:muse-of-fire-11-essence
 scdc:
-  - 1.1.1:11.2.9.8:01
+  - 1.1.1:11.3.9.8:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/4th-level-feature

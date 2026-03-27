@@ -21,7 +21,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:storm-of-sands-9-essence
 scdc:
-  - 1.1.1:11.2.9.4:07
+  - 1.1.1:11.3.9.4:07
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/5th-level-feature

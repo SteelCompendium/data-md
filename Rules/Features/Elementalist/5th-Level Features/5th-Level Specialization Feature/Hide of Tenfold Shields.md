@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Hide of Tenfold Shields
 file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: hide-of-tenfold-shields
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Hide of Tenfold Shields
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields
+  - mcdm.heroes.v1:feature.subtrait.elementalist.5th-level-feature:hide-of-tenfold-shields
 scdc:
-  - 1.1.1:12.1.9.4:01
+  - 1.1.1:11.2.9.4:01
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/5th-level-feature
+type: feature/subtrait/elementalist/5th-level-feature
 ---
 
 ##### Hide of Tenfold Shields

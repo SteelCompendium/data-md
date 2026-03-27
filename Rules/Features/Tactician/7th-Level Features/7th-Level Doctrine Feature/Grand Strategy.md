@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Grand Strategy
 file_dpath: Tactician/7th-Level Features/7th-Level Doctrine Feature
 item_id: grand-strategy
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Grand Strategy
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.7th-level-feature:grand-strategy
+  - mcdm.heroes.v1:feature.subtrait.tactician.7th-level-feature:grand-strategy
 scdc:
-  - 1.1.1:12.1.4.1:01
+  - 1.1.1:11.2.4.1:01
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/7th-level-feature
+type: feature/subtrait/tactician/7th-level-feature
 ---
 
 ##### Grand Strategy

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Take Two
 file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Auteur Features
 item_id: take-two
@@ -9,11 +9,11 @@ item_index: '05'
 item_name: Take Two!
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.5th-level-feature:take-two
+  - mcdm.heroes.v1:feature.subtrait.troubadour.5th-level-feature:take-two
 scdc:
-  - 1.1.1:12.1.3.5:05
+  - 1.1.1:11.2.3.5:05
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/5th-level-feature
+type: feature/subtrait/troubadour/5th-level-feature
 ---
 
 ###### Take Two!

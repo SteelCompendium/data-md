@@ -19,7 +19,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-stillness-7-wrath
 scdc:
-  - 1.1.1:11.2.7.6:04
+  - 1.1.1:11.3.7.6:04
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/censor/3rd-level-feature

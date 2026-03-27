@@ -16,7 +16,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.4th-level-feature:night-watch
 scdc:
-  - 1.1.1:11.2.2.8:01
+  - 1.1.1:11.3.2.8:01
 source: mcdm.heroes.v1
 target: One ally
 type: feature/ability/shadow/4th-level-feature

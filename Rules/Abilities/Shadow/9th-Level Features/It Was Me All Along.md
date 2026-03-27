@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:it-was-me-all-along-11-insight
 scdc:
-  - 1.1.1:11.2.2.7:03
+  - 1.1.1:11.3.2.7:03
 source: mcdm.heroes.v1
 subclass: Harlequin Mask
 target: One creature or object

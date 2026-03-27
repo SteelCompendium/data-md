@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Blessing of Fortunate Weather
 file_dpath: Conduit/1st-Level Features/1st-Level Domain Feature
 item_id: blessing-of-fortunate-weather
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Blessing of Fortunate Weather
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.1st-level-feature:blessing-of-fortunate-weather
+  - mcdm.heroes.v1:feature.subtrait.conduit.1st-level-feature:blessing-of-fortunate-weather
 scdc:
-  - 1.1.1:12.1.8.3:01
+  - 1.1.1:11.2.8.3:01
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/1st-level-feature
+type: feature/subtrait/conduit/1st-level-feature
 ---
 
 ##### Blessing of Fortunate Weather

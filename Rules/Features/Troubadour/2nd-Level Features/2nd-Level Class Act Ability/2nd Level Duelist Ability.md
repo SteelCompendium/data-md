@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Duelist Ability
 file_dpath: Troubadour/2nd-Level Features/2nd-Level Class Act Ability
 item_id: 2nd-level-duelist-ability
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: 2nd-Level Duelist Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.2nd-level-feature:2nd-level-duelist-ability
+  - mcdm.heroes.v1:feature.subtrait.troubadour.2nd-level-feature:2nd-level-duelist-ability
 scdc:
-  - 1.1.1:12.1.3.4:02
+  - 1.1.1:11.2.3.4:02
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/2nd-level-feature
+type: feature/subtrait/troubadour/2nd-level-feature
 ---
 
 ##### 2nd-Level Duelist Ability

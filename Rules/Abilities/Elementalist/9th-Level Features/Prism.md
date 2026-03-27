@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:prism-11-essence
 scdc:
-  - 1.1.1:11.2.9.7:02
+  - 1.1.1:11.3.9.7:02
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/elementalist/9th-level-feature

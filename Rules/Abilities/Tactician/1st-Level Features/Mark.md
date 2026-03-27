@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:mark
 scdc:
-  - 1.1.1:11.2.4.1:11
+  - 1.1.1:11.3.4.1:11
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/tactician/1st-level-feature

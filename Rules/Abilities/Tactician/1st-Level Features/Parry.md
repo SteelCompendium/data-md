@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:parry
 scdc:
-  - 1.1.1:11.2.4.1:01
+  - 1.1.1:11.3.4.1:01
 source: mcdm.heroes.v1
 subclass: Vanguard
 target: Self or one ally

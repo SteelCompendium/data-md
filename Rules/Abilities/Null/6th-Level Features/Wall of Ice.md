@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:wall-of-ice-9-discipline
 scdc:
-  - 1.1.1:11.2.6.3:03
+  - 1.1.1:11.3.6.3:03
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: Special

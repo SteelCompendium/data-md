@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:make-peace-with-your-god-5-ferocity
 scdc:
-  - 1.1.1:11.2.5.1:15
+  - 1.1.1:11.3.5.1:15
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/fury/1st-level-feature

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: Harlequin Gambit
 file_dpath: Shadow/5th-Level Features/5th-Level College Feature
 item_id: harlequin-gambit
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Harlequin Gambit
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.5th-level-feature:harlequin-gambit
+  - mcdm.heroes.v1:feature.subtrait.shadow.5th-level-feature:harlequin-gambit
 scdc:
-  - 1.1.1:12.1.2.3:01
+  - 1.1.1:11.2.2.3:01
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/5th-level-feature
+type: feature/subtrait/shadow/5th-level-feature
 ---
 
 ##### Harlequin Gambit

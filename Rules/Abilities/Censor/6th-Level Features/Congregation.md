@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:congregation-9-wrath
 scdc:
-  - 1.1.1:11.2.7.3:04
+  - 1.1.1:11.3.7.3:04
 source: mcdm.heroes.v1
 subclass: Paragon
 target: One creature

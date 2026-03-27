@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Your Triumphs Are Remembered
 file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: your-triumphs-are-remembered
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Your Triumphs Are Remembered
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.7th-level-feature:your-triumphs-are-remembered
+  - mcdm.heroes.v1:feature.subtrait.conduit.7th-level-feature:your-triumphs-are-remembered
 scdc:
-  - 1.1.1:12.1.8.2:03
+  - 1.1.1:11.2.8.2:03
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/7th-level-feature
+type: feature/subtrait/conduit/7th-level-feature
 ---
 
 ##### Your Triumphs Are Remembered

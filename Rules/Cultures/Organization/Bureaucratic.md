@@ -8,7 +8,7 @@ item_name: Bureaucratic
 scc:
   - mcdm.heroes.v1:culture\_benefit.organization:bureaucratic
 scdc:
-  - 1.1.1:18.1:01
+  - 1.1.1:17.1:01
 source: mcdm.heroes.v1
 type: culture\_benefit/organization
 ---

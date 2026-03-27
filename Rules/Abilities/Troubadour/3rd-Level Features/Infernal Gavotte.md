@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:infernal-gavotte-7-drama
 scdc:
-  - 1.1.1:11.2.3.6:03
+  - 1.1.1:11.3.3.6:03
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/troubadour/3rd-level-feature

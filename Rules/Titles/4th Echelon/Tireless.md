@@ -8,7 +8,7 @@ item_name: Tireless
 scc:
   - mcdm.heroes.v1:title.4th-echelon:tireless
 scdc:
-  - 1.1.1:17.1:03
+  - 1.1.1:16.1:03
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

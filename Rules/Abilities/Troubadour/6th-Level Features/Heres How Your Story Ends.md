@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:heres-how-your-story-ends-9-drama
 scdc:
-  - 1.1.1:11.2.3.3:05
+  - 1.1.1:11.3.3.3:05
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Each enemy in the area

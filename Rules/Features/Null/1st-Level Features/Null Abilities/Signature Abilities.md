@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: Signature Abilities
 file_dpath: Null/1st-Level Features/Null Abilities
 item_id: signature-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Signature Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.1st-level-feature:signature-abilities
+  - mcdm.heroes.v1:feature.subtrait.null.1st-level-feature:signature-abilities
 scdc:
-  - 1.1.1:12.1.6.5:03
+  - 1.1.1:11.2.6.5:03
 source: mcdm.heroes.v1
-type: subfeature/trait/null/1st-level-feature
+type: feature/subtrait/null/1st-level-feature
 ---
 
 ##### Signature Abilities

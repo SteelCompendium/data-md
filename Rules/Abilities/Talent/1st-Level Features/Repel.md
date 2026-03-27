@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:repel
 scdc:
-  - 1.1.1:11.2.1.1:18
+  - 1.1.1:11.3.1.1:18
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: Self or one ally

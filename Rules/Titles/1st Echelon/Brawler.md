@@ -8,7 +8,7 @@ item_name: Brawler
 scc:
   - mcdm.heroes.v1:title.1st-echelon:brawler
 scdc:
-  - 1.1.1:17.4:05
+  - 1.1.1:16.4:05
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Blessing of Secrets
 file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: blessing-of-secrets
@@ -9,11 +9,11 @@ item_index: 08
 item_name: Blessing of Secrets
 level: 4
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.4th-level-feature:blessing-of-secrets
+  - mcdm.heroes.v1:feature.subtrait.conduit.4th-level-feature:blessing-of-secrets
 scdc:
-  - 1.1.1:12.1.8.1:08
+  - 1.1.1:11.2.8.1:08
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/4th-level-feature
+type: feature/subtrait/conduit/4th-level-feature
 ---
 
 ###### Blessing of Secrets

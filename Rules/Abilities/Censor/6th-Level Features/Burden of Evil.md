@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:burden-of-evil-9-wrath
 scdc:
-  - 1.1.1:11.2.7.3:06
+  - 1.1.1:11.3.7.3:06
 source: mcdm.heroes.v1
 subclass: Oracle
 target: Three enemies

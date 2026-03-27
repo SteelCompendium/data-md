@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Judgment Order Benefit
 file_dpath: Censor/1st-Level Features/Judgment
 item_id: judgment-order-benefit
@@ -9,11 +9,11 @@ item_index: '15'
 item_name: Judgment Order Benefit
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.1st-level-feature:judgment-order-benefit
+  - mcdm.heroes.v1:feature.subtrait.censor.1st-level-feature:judgment-order-benefit
 scdc:
-  - 1.1.1:12.1.7.8:15
+  - 1.1.1:11.2.7.8:15
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/1st-level-feature
+type: feature/subtrait/censor/1st-level-feature
 ---
 
 ##### Judgment Order Benefit

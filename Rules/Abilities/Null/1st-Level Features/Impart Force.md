@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:impart-force-5-discipline
 scdc:
-  - 1.1.1:11.2.6.1:13
+  - 1.1.1:11.3.6.1:13
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/null/1st-level-feature

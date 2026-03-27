@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Mastermind Abilities
 file_dpath: Tactician/6th-Level Features/6th-Level Doctrine Ability
 item_id: 6th-level-mastermind-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 6th-Level Mastermind Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.6th-level-feature:6th-level-mastermind-abilities
+  - mcdm.heroes.v1:feature.subtrait.tactician.6th-level-feature:6th-level-mastermind-abilities
 scdc:
-  - 1.1.1:12.1.4.5:03
+  - 1.1.1:11.2.4.5:03
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/6th-level-feature
+type: feature/subtrait/tactician/6th-level-feature
 ---
 
 ##### 6th-Level Mastermind Abilities

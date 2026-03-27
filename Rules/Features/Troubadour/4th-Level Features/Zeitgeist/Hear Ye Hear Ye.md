@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Hear Ye Hear Ye
 file_dpath: Troubadour/4th-Level Features/Zeitgeist
 item_id: hear-ye-hear-ye
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Hear Ye, Hear Ye!
 level: 4
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.4th-level-feature:hear-ye-hear-ye
+  - mcdm.heroes.v1:feature.subtrait.troubadour.4th-level-feature:hear-ye-hear-ye
 scdc:
-  - 1.1.1:12.1.3.1:02
+  - 1.1.1:11.2.3.1:02
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/4th-level-feature
+type: feature/subtrait/troubadour/4th-level-feature
 ---
 
 ##### Hear Ye, Hear Ye!

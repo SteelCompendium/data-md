@@ -18,7 +18,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:absolute-zero-11-discipline
 scdc:
-  - 1.1.1:11.2.6.7:01
+  - 1.1.1:11.3.6.7:01
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: Self

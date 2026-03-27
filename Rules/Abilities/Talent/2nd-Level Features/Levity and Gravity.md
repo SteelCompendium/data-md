@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:levity-and-gravity-5-clarity
 scdc:
-  - 1.1.1:11.2.1.5:01
+  - 1.1.1:11.3.1.5:01
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: One creature or object

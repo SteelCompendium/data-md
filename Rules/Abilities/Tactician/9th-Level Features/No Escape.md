@@ -21,7 +21,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:no-escape-11-focus
 scdc:
-  - 1.1.1:11.2.4.7:03
+  - 1.1.1:11.3.4.7:03
 source: mcdm.heroes.v1
 subclass: Vanguard
 target: One creature

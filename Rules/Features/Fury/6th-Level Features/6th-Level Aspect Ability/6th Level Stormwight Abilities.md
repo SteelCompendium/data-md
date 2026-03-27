@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Stormwight Abilities
 file_dpath: Fury/6th-Level Features/6th-Level Aspect Ability
 item_id: 6th-level-stormwight-abilities
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 6th-Level Stormwight Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.6th-level-feature:6th-level-stormwight-abilities
+  - mcdm.heroes.v1:feature.subtrait.fury.6th-level-feature:6th-level-stormwight-abilities
 scdc:
-  - 1.1.1:12.1.5.5:01
+  - 1.1.1:11.2.5.5:01
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/6th-level-feature
+type: feature/subtrait/fury/6th-level-feature
 ---
 
 ##### 6th-Level Stormwight Abilities

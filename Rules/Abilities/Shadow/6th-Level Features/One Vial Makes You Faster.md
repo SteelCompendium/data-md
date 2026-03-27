@@ -18,7 +18,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:one-vial-makes-you-faster-9-insight
 scdc:
-  - 1.1.1:11.2.2.3:04
+  - 1.1.1:11.3.2.3:04
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: Three creatures

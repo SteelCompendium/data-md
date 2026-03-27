@@ -7,8 +7,8 @@ type: index
 
 | File Name                                                                 | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | ------------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [A Step Ahead](8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |          |      | 8     | trait        | feature     |          |        |
+| [A Step Ahead](8th-Level%20Aspect%20Feature/A%20Step%20Ahead)             |          |      | 8     | subtrait     | feature     |          |        |
 | [8th Level Aspect Feature](8th%20Level%20Aspect%20Feature)                |          |      | 8     | trait        | feature     |          |        |
-| [Menagerie](8th-Level%20Aspect%20Feature/Menagerie)                       |          |      | 8     | trait        | feature     |          |        |
-| [Strongest There Is](8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |          |      | 8     | trait        | feature     |          |        |
+| [Menagerie](8th-Level%20Aspect%20Feature/Menagerie)                       |          |      | 8     | subtrait     | feature     |          |        |
+| [Strongest There Is](8th-Level%20Aspect%20Feature/Strongest%20There%20Is) |          |      | 8     | subtrait     | feature     |          |        |
 | [Perk](Perk)                                                              |          |      | 8     | trait        | feature     |          |        |

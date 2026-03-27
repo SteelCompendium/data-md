@@ -8,7 +8,7 @@ item_name: Dwarven Legionnaire
 scc:
   - mcdm.heroes.v1:title.1st-echelon:dwarven-legionnaire
 scdc:
-  - 1.1.1:17.4:16
+  - 1.1.1:16.4:16
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

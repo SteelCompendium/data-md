@@ -19,7 +19,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.null.8th-level-feature:scalar-assault-11-discipline
 scdc:
-  - 1.1.1:11.2.6.2:02
+  - 1.1.1:11.3.6.2:02
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/null/8th-level-feature

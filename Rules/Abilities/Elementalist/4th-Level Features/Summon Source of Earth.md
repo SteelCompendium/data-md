@@ -17,7 +17,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.4th-level-feature:summon-source-of-earth
 scdc:
-  - 1.1.1:11.2.9.8:03
+  - 1.1.1:11.3.9.8:03
 source: mcdm.heroes.v1
 target: Special
 type: feature/ability/elementalist/4th-level-feature

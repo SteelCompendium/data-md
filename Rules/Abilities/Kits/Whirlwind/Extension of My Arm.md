@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.whirlwind:extension-of-my-arm
 scdc:
-  - 1.1.1:15.9:01
+  - 1.1.1:14.9:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/whirlwind

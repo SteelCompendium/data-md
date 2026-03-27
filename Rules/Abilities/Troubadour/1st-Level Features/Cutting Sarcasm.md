@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:cutting-sarcasm
 scdc:
-  - 1.1.1:11.2.3.1:02
+  - 1.1.1:11.3.3.1:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/troubadour/1st-level-feature

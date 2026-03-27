@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-death
 scdc:
-  - 1.1.1:11.2.5.1:02
+  - 1.1.1:11.3.5.1:02
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/fury/1st-level-feature

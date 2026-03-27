@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:hoarfrost
 scdc:
-  - 1.1.1:11.2.1.1:06
+  - 1.1.1:11.3.1.1:06
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/talent/1st-level-feature

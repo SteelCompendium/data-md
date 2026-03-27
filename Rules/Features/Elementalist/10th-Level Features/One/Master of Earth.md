@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Master of Earth
 file_dpath: Elementalist/10th-Level Features/One
 item_id: master-of-earth
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Master of Earth
 level: 10
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.10th-level-feature:master-of-earth
+  - mcdm.heroes.v1:feature.subtrait.elementalist.10th-level-feature:master-of-earth
 scdc:
-  - 1.1.1:12.1.9.5:03
+  - 1.1.1:11.2.9.5:03
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/10th-level-feature
+type: feature/subtrait/elementalist/10th-level-feature
 ---
 
 ##### Master of Earth

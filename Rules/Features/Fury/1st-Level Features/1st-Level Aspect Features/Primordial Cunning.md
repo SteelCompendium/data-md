@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: Primordial Cunning
 file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
 item_id: primordial-cunning
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Primordial Cunning
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.1st-level-feature:primordial-cunning
+  - mcdm.heroes.v1:feature.subtrait.fury.1st-level-feature:primordial-cunning
 scdc:
-  - 1.1.1:12.1.5.7:03
+  - 1.1.1:11.2.5.7:03
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/1st-level-feature
+type: feature/subtrait/fury/1st-level-feature
 ---
 
 ##### Primordial Cunning

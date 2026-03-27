@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: Signature Ability
 file_dpath: Shadow/1st-Level Features/Shadow Abilities
 item_id: signature-ability
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Signature Ability
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.1st-level-feature:signature-ability
+  - mcdm.heroes.v1:feature.subtrait.shadow.1st-level-feature:signature-ability
 scdc:
-  - 1.1.1:12.1.2.6:04
+  - 1.1.1:11.2.2.6:04
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/1st-level-feature
+type: feature/subtrait/shadow/1st-level-feature
 ---
 
 ##### Signature Ability

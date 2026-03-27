@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: 9th Level Harlequin Mask Abilities
 file_dpath: Shadow/9th-Level Features/9th-Level College Ability
 item_id: 9th-level-harlequin-mask-abilities
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 9th-Level Harlequin Mask Abilities
 level: 9
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.9th-level-feature:9th-level-harlequin-mask-abilities
+  - mcdm.heroes.v1:feature.subtrait.shadow.9th-level-feature:9th-level-harlequin-mask-abilities
 scdc:
-  - 1.1.1:12.1.2.1:01
+  - 1.1.1:11.2.2.1:01
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/9th-level-feature
+type: feature/subtrait/shadow/9th-level-feature
 ---
 
 ##### 9th-Level Harlequin Mask Abilities

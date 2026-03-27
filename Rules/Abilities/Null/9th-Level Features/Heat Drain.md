@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:heat-drain-11-discipline
 scdc:
-  - 1.1.1:11.2.6.7:05
+  - 1.1.1:11.3.6.7:05
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: One creature

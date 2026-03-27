@@ -21,7 +21,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain-5-essence
 scdc:
-  - 1.1.1:11.2.9.1:15
+  - 1.1.1:11.3.9.1:15
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/elementalist/1st-level-feature

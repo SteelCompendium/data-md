@@ -17,7 +17,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:summon-source-of-earth
 scdc:
-  - 1.1.1:11.2.9.2:04
+  - 1.1.1:11.3.9.2:04
 source: mcdm.heroes.v1
 subclass: Earth
 target: Special

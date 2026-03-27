@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:artful-flourish
 scdc:
-  - 1.1.1:11.2.3.1:11
+  - 1.1.1:11.3.3.1:11
 source: mcdm.heroes.v1
 target: Two creatures or objects
 type: feature/ability/troubadour/1st-level-feature

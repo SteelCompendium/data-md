@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Heroic Abilities
 file_dpath: Troubadour/1st-Level Features/Signature Ability
 item_id: heroic-abilities
@@ -9,11 +9,11 @@ item_index: '07'
 item_name: Heroic Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:heroic-abilities
+  - mcdm.heroes.v1:feature.subtrait.troubadour.1st-level-feature:heroic-abilities
 scdc:
-  - 1.1.1:12.1.3.8:07
+  - 1.1.1:11.2.3.8:07
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/1st-level-feature
+type: feature/subtrait/troubadour/1st-level-feature
 ---
 
 ##### Heroic Abilities

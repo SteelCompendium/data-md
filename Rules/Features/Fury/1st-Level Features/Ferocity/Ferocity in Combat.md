@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: Ferocity in Combat
 file_dpath: Fury/1st-Level Features/Ferocity
 item_id: ferocity-in-combat
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Ferocity in Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.1st-level-feature:ferocity-in-combat
+  - mcdm.heroes.v1:feature.subtrait.fury.1st-level-feature:ferocity-in-combat
 scdc:
-  - 1.1.1:12.1.5.7:02
+  - 1.1.1:11.2.5.7:02
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/1st-level-feature
+type: feature/subtrait/fury/1st-level-feature
 ---
 
 ##### Ferocity in Combat

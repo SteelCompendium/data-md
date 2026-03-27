@@ -7,7 +7,7 @@ item_name: Creature Sense
 scc:
   - mcdm.heroes.v1:perk.supernatural:creature-sense
 scdc:
-  - 1.1.1:19.4:03
+  - 1.1.1:18.4:03
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

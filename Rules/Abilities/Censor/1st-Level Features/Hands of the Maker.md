@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:hands-of-the-maker
 scdc:
-  - 1.1.1:11.2.7.1:10
+  - 1.1.1:11.3.7.1:10
 source: mcdm.heroes.v1
 subclass: Creation
 target: Self

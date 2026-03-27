@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:drag-the-unworthy-11-piety
 scdc:
-  - 1.1.1:11.2.8.2:04
+  - 1.1.1:11.3.8.2:04
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/conduit/8th-level-feature

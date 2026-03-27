@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:revitalizing-limerick
 scdc:
-  - 1.1.1:11.2.3.1:06
+  - 1.1.1:11.3.3.1:06
 source: mcdm.heroes.v1
 target: Self and each ally in the area
 type: feature/ability/troubadour/1st-level-feature

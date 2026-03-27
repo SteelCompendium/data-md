@@ -21,7 +21,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:fling-through-time-7-clarity
 scdc:
-  - 1.1.1:11.2.1.6:03
+  - 1.1.1:11.3.1.6:03
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/talent/3rd-level-feature

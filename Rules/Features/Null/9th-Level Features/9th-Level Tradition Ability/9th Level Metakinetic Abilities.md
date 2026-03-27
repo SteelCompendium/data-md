@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: 9th Level Metakinetic Abilities
 file_dpath: Null/9th-Level Features/9th-Level Tradition Ability
 item_id: 9th-level-metakinetic-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 9th-Level Metakinetic Abilities
 level: 9
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.9th-level-feature:9th-level-metakinetic-abilities
+  - mcdm.heroes.v1:feature.subtrait.null.9th-level-feature:9th-level-metakinetic-abilities
 scdc:
-  - 1.1.1:12.1.6.1:03
+  - 1.1.1:11.2.6.1:03
 source: mcdm.heroes.v1
-type: subfeature/trait/null/9th-level-feature
+type: feature/subtrait/null/9th-level-feature
 ---
 
 ##### 9th-Level Metakinetic Abilities

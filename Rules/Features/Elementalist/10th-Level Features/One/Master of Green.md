@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Master of Green
 file_dpath: Elementalist/10th-Level Features/One
 item_id: master-of-green
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Master of Green
 level: 10
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.10th-level-feature:master-of-green
+  - mcdm.heroes.v1:feature.subtrait.elementalist.10th-level-feature:master-of-green
 scdc:
-  - 1.1.1:12.1.9.5:04
+  - 1.1.1:11.2.9.5:04
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/10th-level-feature
+type: feature/subtrait/elementalist/10th-level-feature
 ---
 
 ##### Master of Green

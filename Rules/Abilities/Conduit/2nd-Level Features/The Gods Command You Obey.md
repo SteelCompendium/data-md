@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:the-gods-command-you-obey-5-piety
 scdc:
-  - 1.1.1:11.2.8.5:07
+  - 1.1.1:11.3.8.5:07
 source: mcdm.heroes.v1
 subclass: Knowledge
 target: One creature

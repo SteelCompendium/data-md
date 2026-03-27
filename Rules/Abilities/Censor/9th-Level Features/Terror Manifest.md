@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:terror-manifest-11-wrath
 scdc:
-  - 1.1.1:11.2.7.7:01
+  - 1.1.1:11.3.7.7:01
 source: mcdm.heroes.v1
 subclass: Exorcist
 target: One creature

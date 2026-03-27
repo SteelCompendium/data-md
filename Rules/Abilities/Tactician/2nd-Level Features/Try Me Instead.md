@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:try-me-instead-5-focus
 scdc:
-  - 1.1.1:11.2.4.5:01
+  - 1.1.1:11.3.4.5:01
 source: mcdm.heroes.v1
 subclass: Insurgent
 target: Self

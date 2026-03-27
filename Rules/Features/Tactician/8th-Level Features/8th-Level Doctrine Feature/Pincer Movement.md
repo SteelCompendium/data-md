@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Pincer Movement
 file_dpath: Tactician/8th-Level Features/8th-Level Doctrine Feature
 item_id: pincer-movement
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Pincer Movement
 level: 8
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.8th-level-feature:pincer-movement
+  - mcdm.heroes.v1:feature.subtrait.tactician.8th-level-feature:pincer-movement
 scdc:
-  - 1.1.1:12.1.4.6:02
+  - 1.1.1:11.2.4.6:02
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/8th-level-feature
+type: feature/subtrait/tactician/8th-level-feature
 ---
 
 ##### Pincer Movement

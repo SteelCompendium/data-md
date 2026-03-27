@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Signature Abilities
 file_dpath: Elementalist/1st-Level Features/Elementalist Abilities
 item_id: signature-abilities
@@ -9,11 +9,11 @@ item_index: 09
 item_name: Signature Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.1st-level-feature:signature-abilities
+  - mcdm.heroes.v1:feature.subtrait.elementalist.1st-level-feature:signature-abilities
 scdc:
-  - 1.1.1:12.1.9.7:09
+  - 1.1.1:11.2.9.7:09
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/1st-level-feature
+type: feature/subtrait/elementalist/1st-level-feature
 ---
 
 ##### Signature Abilities

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: 9th Level Chronopathy Abilities
 file_dpath: Talent/9th-Level Features/9th-Level Tradition Ability
 item_id: 9th-level-chronopathy-abilities
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 9th-Level Chronopathy Abilities
 level: 9
 scc:
-  - mcdm.heroes.v1:subfeature.trait.talent.9th-level-feature:9th-level-chronopathy-abilities
+  - mcdm.heroes.v1:feature.subtrait.talent.9th-level-feature:9th-level-chronopathy-abilities
 scdc:
-  - 1.1.1:12.1.1.1:01
+  - 1.1.1:11.2.1.1:01
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/9th-level-feature
+type: feature/subtrait/talent/9th-level-feature
 ---
 
 ##### 9th-Level Chronopathy Abilities

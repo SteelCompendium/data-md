@@ -8,7 +8,7 @@ item_name: Forsaken
 scc:
   - mcdm.heroes.v1:title.4th-echelon:forsaken
 scdc:
-  - 1.1.1:17.1:08
+  - 1.1.1:16.1:08
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

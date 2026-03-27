@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:phase-step-9-discipline
 scdc:
-  - 1.1.1:11.2.6.3:06
+  - 1.1.1:11.3.6.3:06
 source: mcdm.heroes.v1
 subclass: Chronokinetic
 target: Self

@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:drain
 scdc:
-  - 1.1.1:11.2.8.1:20
+  - 1.1.1:11.3.8.1:20
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/conduit/1st-level-feature

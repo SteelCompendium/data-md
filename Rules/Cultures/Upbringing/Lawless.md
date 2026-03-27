@@ -8,7 +8,7 @@ item_name: Lawless
 scc:
   - mcdm.heroes.v1:culture\_benefit.upbringing:lawless
 scdc:
-  - 1.1.1:18.3:04
+  - 1.1.1:17.3:04
 source: mcdm.heroes.v1
 type: culture\_benefit/upbringing
 ---

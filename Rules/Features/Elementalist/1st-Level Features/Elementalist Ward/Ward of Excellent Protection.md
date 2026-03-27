@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Ward of Excellent Protection
 file_dpath: Elementalist/1st-Level Features/Elementalist Ward
 item_id: ward-of-excellent-protection
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Ward of Excellent Protection
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.1st-level-feature:ward-of-excellent-protection
+  - mcdm.heroes.v1:feature.subtrait.elementalist.1st-level-feature:ward-of-excellent-protection
 scdc:
-  - 1.1.1:12.1.9.7:02
+  - 1.1.1:11.2.9.7:02
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/1st-level-feature
+type: feature/subtrait/elementalist/1st-level-feature
 ---
 
 ##### Ward of Excellent Protection

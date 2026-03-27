@@ -7,7 +7,7 @@ item_name: So Tell Me...
 scc:
   - mcdm.heroes.v1:perk.interpersonal:so-tell-me
 scdc:
-  - 1.1.1:19.1:02
+  - 1.1.1:18.1:02
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

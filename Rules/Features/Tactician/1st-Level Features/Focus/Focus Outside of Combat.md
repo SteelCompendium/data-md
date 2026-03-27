@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Focus Outside of Combat
 file_dpath: Tactician/1st-Level Features/Focus
 item_id: focus-outside-of-combat
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Focus Outside of Combat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.1st-level-feature:focus-outside-of-combat
+  - mcdm.heroes.v1:feature.subtrait.tactician.1st-level-feature:focus-outside-of-combat
 scdc:
-  - 1.1.1:12.1.4.7:04
+  - 1.1.1:11.2.4.7:04
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/1st-level-feature
+type: feature/subtrait/tactician/1st-level-feature
 ---
 
 ##### Focus Outside of Combat

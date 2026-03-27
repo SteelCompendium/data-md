@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:revitalizing-grace-9-piety
 scdc:
-  - 1.1.1:11.2.8.3:10
+  - 1.1.1:11.3.8.3:10
 source: mcdm.heroes.v1
 subclass: Life
 target: Self and each ally in the area

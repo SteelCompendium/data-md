@@ -7,7 +7,7 @@ item_name: Lucky Dog
 scc:
   - mcdm.heroes.v1:perk.intrigue:lucky-dog
 scdc:
-  - 1.1.1:19.5:01
+  - 1.1.1:18.5:01
 source: mcdm.heroes.v1
 type: perk/intrigue
 ---

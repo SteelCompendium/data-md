@@ -21,7 +21,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.null.8th-level-feature:arcane-purge-11-discipline
 scdc:
-  - 1.1.1:11.2.6.2:04
+  - 1.1.1:11.3.6.2:04
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/null/8th-level-feature

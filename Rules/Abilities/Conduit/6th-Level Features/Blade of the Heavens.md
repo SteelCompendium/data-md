@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:blade-of-the-heavens-9-piety
 scdc:
-  - 1.1.1:11.2.8.3:08
+  - 1.1.1:11.3.8.3:08
 source: mcdm.heroes.v1
 subclass: War
 target: One creature

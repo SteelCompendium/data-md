@@ -17,7 +17,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain
 scdc:
-  - 1.1.1:11.2.9.6:01
+  - 1.1.1:11.3.9.6:01
 source: mcdm.heroes.v1
 subclass: Green
 target: One mundane wooden object

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: Force Augmentation
 file_dpath: Null/1st-Level Features/Psionic Augmentation
 item_id: force-augmentation
@@ -9,11 +9,11 @@ item_index: 09
 item_name: Force Augmentation
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.1st-level-feature:force-augmentation
+  - mcdm.heroes.v1:feature.subtrait.null.1st-level-feature:force-augmentation
 scdc:
-  - 1.1.1:12.1.6.5:09
+  - 1.1.1:11.2.6.5:09
 source: mcdm.heroes.v1
-type: subfeature/trait/null/1st-level-feature
+type: feature/subtrait/null/1st-level-feature
 ---
 
 ##### Force Augmentation

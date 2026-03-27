@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Word of Death Deferred
 file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: word-of-death-deferred
@@ -9,11 +9,11 @@ item_index: '10'
 item_name: Word of Death Deferred
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.7th-level-feature:word-of-death-deferred
+  - mcdm.heroes.v1:feature.subtrait.conduit.7th-level-feature:word-of-death-deferred
 scdc:
-  - 1.1.1:12.1.8.2:10
+  - 1.1.1:11.2.8.2:10
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/7th-level-feature
+type: feature/subtrait/conduit/7th-level-feature
 ---
 
 ##### Word of Death Deferred

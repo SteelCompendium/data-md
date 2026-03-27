@@ -7,7 +7,7 @@ item_name: Pardon My Friend
 scc:
   - mcdm.heroes.v1:perk.interpersonal:pardon-my-friend
 scdc:
-  - 1.1.1:19.1:07
+  - 1.1.1:18.1:07
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

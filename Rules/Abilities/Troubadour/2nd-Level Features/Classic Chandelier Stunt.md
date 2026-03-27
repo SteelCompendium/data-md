@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:classic-chandelier-stunt-5-drama
 scdc:
-  - 1.1.1:11.2.3.5:06
+  - 1.1.1:11.3.3.5:06
 source: mcdm.heroes.v1
 subclass: Duelist
 target: Self and one willing ally

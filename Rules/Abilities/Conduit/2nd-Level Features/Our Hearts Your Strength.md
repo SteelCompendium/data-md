@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:our-hearts-your-strength-5-piety
 scdc:
-  - 1.1.1:11.2.8.5:04
+  - 1.1.1:11.3.8.5:04
 source: mcdm.heroes.v1
 subclass: Love
 target: Self and one ally

@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:driving-assault-3-wrath
 scdc:
-  - 1.1.1:11.2.7.1:17
+  - 1.1.1:11.3.7.1:17
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/censor/1st-level-feature

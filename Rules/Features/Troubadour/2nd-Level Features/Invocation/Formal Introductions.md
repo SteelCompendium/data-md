@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Formal Introductions
 file_dpath: Troubadour/2nd-Level Features/Invocation
 item_id: formal-introductions
@@ -9,11 +9,11 @@ item_index: '05'
 item_name: Formal Introductions
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.2nd-level-feature:formal-introductions
+  - mcdm.heroes.v1:feature.subtrait.troubadour.2nd-level-feature:formal-introductions
 scdc:
-  - 1.1.1:12.1.3.4:05
+  - 1.1.1:11.2.3.4:05
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/2nd-level-feature
+type: feature/subtrait/troubadour/2nd-level-feature
 ---
 
 ##### Formal Introductions

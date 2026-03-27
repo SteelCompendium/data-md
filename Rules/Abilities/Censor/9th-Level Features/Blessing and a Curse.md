@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:blessing-and-a-curse-11-wrath
 scdc:
-  - 1.1.1:11.2.7.7:03
+  - 1.1.1:11.3.7.7:03
 source: mcdm.heroes.v1
 subclass: Oracle
 target: One creature

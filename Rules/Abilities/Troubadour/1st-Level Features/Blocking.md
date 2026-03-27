@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:blocking
 scdc:
-  - 1.1.1:11.2.3.1:03
+  - 1.1.1:11.3.3.1:03
 source: mcdm.heroes.v1
 subclass: Auteur
 target: Each creature in the area

@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.shining-armor:protective-attack
 scdc:
-  - 1.1.1:15.17:01
+  - 1.1.1:14.17:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/shining-armor

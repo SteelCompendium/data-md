@@ -7,7 +7,7 @@ item_name: Power Player
 scc:
   - mcdm.heroes.v1:perk.interpersonal:power-player
 scdc:
-  - 1.1.1:19.1:09
+  - 1.1.1:18.1:09
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

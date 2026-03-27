@@ -7,7 +7,7 @@ item_name: Engrossing Monologue
 scc:
   - mcdm.heroes.v1:perk.interpersonal:engrossing-monologue
 scdc:
-  - 1.1.1:19.1:03
+  - 1.1.1:18.1:03
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

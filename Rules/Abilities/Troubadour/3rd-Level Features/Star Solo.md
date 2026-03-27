@@ -22,7 +22,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:star-solo-7-drama
 scdc:
-  - 1.1.1:11.2.3.6:01
+  - 1.1.1:11.3.3.6:01
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/troubadour/3rd-level-feature

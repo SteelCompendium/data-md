@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Melee Superiority
 file_dpath: Tactician/2nd-Level Features/2nd-Level Doctrine Feature
 item_id: melee-superiority
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Melee Superiority
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.2nd-level-feature:melee-superiority
+  - mcdm.heroes.v1:feature.subtrait.tactician.2nd-level-feature:melee-superiority
 scdc:
-  - 1.1.1:12.1.4.3:06
+  - 1.1.1:11.2.4.3:06
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/2nd-level-feature
+type: feature/subtrait/tactician/2nd-level-feature
 ---
 
 ##### Melee Superiority

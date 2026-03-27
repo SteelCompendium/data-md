@@ -18,7 +18,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:dramatic-reveal-11-drama
 scdc:
-  - 1.1.1:11.2.3.2:06
+  - 1.1.1:11.3.3.2:06
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/troubadour/8th-level-feature

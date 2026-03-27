@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:shadowfall-9-insight
 scdc:
-  - 1.1.1:11.2.2.4:01
+  - 1.1.1:11.3.2.4:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/shadow/5th-level-feature

@@ -8,7 +8,7 @@ item_name: Catch Breath
 scc:
   - mcdm.heroes.v1:common-ability.maneuver:catch-breath
 scdc:
-  - 1.1.1:16.3:02
+  - 1.1.1:15.3:02
 source: mcdm.heroes.v1
 type: common-ability/maneuver
 ---

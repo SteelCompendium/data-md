@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Heroic Abilities
 file_dpath: Elementalist/1st-Level Features/Elementalist Abilities
 item_id: heroic-abilities
@@ -9,11 +9,11 @@ item_index: '10'
 item_name: Heroic Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.1st-level-feature:heroic-abilities
+  - mcdm.heroes.v1:feature.subtrait.elementalist.1st-level-feature:heroic-abilities
 scdc:
-  - 1.1.1:12.1.9.7:10
+  - 1.1.1:11.2.9.7:10
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/1st-level-feature
+type: feature/subtrait/elementalist/1st-level-feature
 ---
 
 ##### Heroic Abilities

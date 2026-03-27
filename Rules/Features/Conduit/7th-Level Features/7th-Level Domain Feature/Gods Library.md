@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Gods Library
 file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: gods-library
@@ -9,11 +9,11 @@ item_index: '05'
 item_name: Gods' Library
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.7th-level-feature:gods-library
+  - mcdm.heroes.v1:feature.subtrait.conduit.7th-level-feature:gods-library
 scdc:
-  - 1.1.1:12.1.8.2:05
+  - 1.1.1:11.2.8.2:05
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/7th-level-feature
+type: feature/subtrait/conduit/7th-level-feature
 ---
 
 ##### Gods' Library

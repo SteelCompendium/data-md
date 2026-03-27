@@ -8,7 +8,7 @@ item_name: Nomadic
 scc:
   - mcdm.heroes.v1:culture\_benefit.environment:nomadic
 scdc:
-  - 1.1.1:18.2:01
+  - 1.1.1:17.2:01
 source: mcdm.heroes.v1
 type: culture\_benefit/environment
 ---

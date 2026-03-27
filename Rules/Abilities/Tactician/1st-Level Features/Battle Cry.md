@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:battle-cry-3-focus
 scdc:
-  - 1.1.1:11.2.4.1:07
+  - 1.1.1:11.3.4.1:07
 source: mcdm.heroes.v1
 target: Three allies
 type: feature/ability/tactician/1st-level-feature

@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:coat-the-blade
 scdc:
-  - 1.1.1:11.2.2.1:11
+  - 1.1.1:11.3.2.1:11
 source: mcdm.heroes.v1
 subclass: Caustic Alchemy
 target: Self

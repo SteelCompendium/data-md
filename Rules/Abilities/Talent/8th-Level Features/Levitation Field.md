@@ -16,7 +16,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:levitation-field
 scdc:
-  - 1.1.1:11.2.1.2:02
+  - 1.1.1:11.3.1.2:02
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: Each ally in the area

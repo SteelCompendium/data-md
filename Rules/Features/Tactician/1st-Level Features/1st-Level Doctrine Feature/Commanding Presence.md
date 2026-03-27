@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Commanding Presence
 file_dpath: Tactician/1st-Level Features/1st-Level Doctrine Feature
 item_id: commanding-presence
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Commanding Presence
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.1st-level-feature:commanding-presence
+  - mcdm.heroes.v1:feature.subtrait.tactician.1st-level-feature:commanding-presence
 scdc:
-  - 1.1.1:12.1.4.7:03
+  - 1.1.1:11.2.4.7:03
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/1st-level-feature
+type: feature/subtrait/tactician/1st-level-feature
 ---
 
 ##### Commanding Presence

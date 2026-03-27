@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:overwatch
 scdc:
-  - 1.1.1:11.2.4.1:13
+  - 1.1.1:11.3.4.1:13
 source: mcdm.heroes.v1
 subclass: Mastermind
 target: One creature

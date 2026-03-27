@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.ranger:hamstring-shot
 scdc:
-  - 1.1.1:15.12:01
+  - 1.1.1:14.12:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/ranger

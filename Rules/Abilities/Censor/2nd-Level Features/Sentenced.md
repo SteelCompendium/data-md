@@ -21,7 +21,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:sentenced-5-wrath
 scdc:
-  - 1.1.1:11.2.7.5:02
+  - 1.1.1:11.3.7.5:02
 source: mcdm.heroes.v1
 subclass: Paragon
 target: One creature

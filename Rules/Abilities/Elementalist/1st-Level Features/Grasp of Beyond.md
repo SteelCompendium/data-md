@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:grasp-of-beyond
 scdc:
-  - 1.1.1:11.2.9.1:19
+  - 1.1.1:11.3.9.1:19
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/elementalist/1st-level-feature

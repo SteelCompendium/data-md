@@ -22,7 +22,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:subvert-the-green-within-5-essence
 scdc:
-  - 1.1.1:11.2.9.5:02
+  - 1.1.1:11.3.9.5:02
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/elementalist/2nd-level-feature

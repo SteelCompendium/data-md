@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:faithful-friend
 scdc:
-  - 1.1.1:11.2.7.1:01
+  - 1.1.1:11.3.7.1:01
 source: mcdm.heroes.v1
 subclass: Nature
 target: Self

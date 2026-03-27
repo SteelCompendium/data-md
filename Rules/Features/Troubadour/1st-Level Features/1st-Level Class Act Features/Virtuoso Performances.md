@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Virtuoso Performances
 file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: virtuoso-performances
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Virtuoso Performances
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.1st-level-feature:virtuoso-performances
+  - mcdm.heroes.v1:feature.subtrait.troubadour.1st-level-feature:virtuoso-performances
 scdc:
-  - 1.1.1:12.1.3.8:03
+  - 1.1.1:11.2.3.8:03
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/1st-level-feature
+type: feature/subtrait/troubadour/1st-level-feature
 ---
 
 ##### Virtuoso Performances

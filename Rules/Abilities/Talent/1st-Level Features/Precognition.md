@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:precognition-3-clarity
 scdc:
-  - 1.1.1:11.2.1.1:11
+  - 1.1.1:11.3.1.1:11
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/1st-level-feature

@@ -19,7 +19,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:stasis-shield-3-clarity
 scdc:
-  - 1.1.1:11.2.1.2:01
+  - 1.1.1:11.3.1.2:01
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Self, or one creature or object

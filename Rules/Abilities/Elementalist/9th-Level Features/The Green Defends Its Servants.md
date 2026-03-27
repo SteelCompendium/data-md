@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:the-green-defends-its-servants-11-essence
 scdc:
-  - 1.1.1:11.2.9.7:03
+  - 1.1.1:11.3.9.7:03
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/elementalist/9th-level-feature

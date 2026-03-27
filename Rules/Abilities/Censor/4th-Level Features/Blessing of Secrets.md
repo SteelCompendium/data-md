@@ -16,7 +16,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.censor.4th-level-feature:blessing-of-secrets
 scdc:
-  - 1.1.1:11.2.7.9:01
+  - 1.1.1:11.3.7.9:01
 source: mcdm.heroes.v1
 subclass: Trickery
 target: Self and each ally in the area

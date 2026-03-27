@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Heroic Abilities
 file_dpath: Tactician/1st-Level Features/Tactician Abilities
 item_id: heroic-abilities
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Heroic Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.1st-level-feature:heroic-abilities
+  - mcdm.heroes.v1:feature.subtrait.tactician.1st-level-feature:heroic-abilities
 scdc:
-  - 1.1.1:12.1.4.7:06
+  - 1.1.1:11.2.4.7:06
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/1st-level-feature
+type: feature/subtrait/tactician/1st-level-feature
 ---
 
 ##### Heroic Abilities

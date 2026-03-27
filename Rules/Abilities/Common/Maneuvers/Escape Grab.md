@@ -8,7 +8,7 @@ item_name: Escape Grab
 scc:
   - mcdm.heroes.v1:common-ability.maneuver:escape-grab
 scdc:
-  - 1.1.1:16.3:08
+  - 1.1.1:15.3:08
 source: mcdm.heroes.v1
 type: common-ability/maneuver
 ---

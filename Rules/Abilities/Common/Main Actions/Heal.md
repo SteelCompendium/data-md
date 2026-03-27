@@ -8,7 +8,7 @@ item_name: Heal
 scc:
   - mcdm.heroes.v1:common-ability.main-action:heal
 scdc:
-  - 1.1.1:16.1:02
+  - 1.1.1:15.1:02
 source: mcdm.heroes.v1
 type: common-ability/main-action
 ---

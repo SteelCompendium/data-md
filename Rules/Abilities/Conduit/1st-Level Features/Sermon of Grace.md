@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:sermon-of-grace-5-piety
 scdc:
-  - 1.1.1:11.2.8.1:23
+  - 1.1.1:11.3.8.1:23
 source: mcdm.heroes.v1
 target: Each ally in the area
 type: feature/ability/conduit/1st-level-feature

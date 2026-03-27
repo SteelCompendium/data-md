@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:fate-9-clarity
 scdc:
-  - 1.1.1:11.2.1.3:05
+  - 1.1.1:11.3.1.3:05
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: One enemy

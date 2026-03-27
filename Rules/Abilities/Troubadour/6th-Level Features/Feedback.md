@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:feedback-9-drama
 scdc:
-  - 1.1.1:11.2.3.3:02
+  - 1.1.1:11.3.3.3:02
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Each enemy in the area

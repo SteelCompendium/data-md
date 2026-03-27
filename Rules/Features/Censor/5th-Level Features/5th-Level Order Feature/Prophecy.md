@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Prophecy
 file_dpath: Censor/5th-Level Features/5th-Level Order Feature
 item_id: prophecy
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Prophecy
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.5th-level-feature:prophecy
+  - mcdm.heroes.v1:feature.subtrait.censor.5th-level-feature:prophecy
 scdc:
-  - 1.1.1:12.1.7.5:02
+  - 1.1.1:11.2.7.5:02
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/5th-level-feature
+type: feature/subtrait/censor/5th-level-feature
 ---
 
 ##### Prophecy

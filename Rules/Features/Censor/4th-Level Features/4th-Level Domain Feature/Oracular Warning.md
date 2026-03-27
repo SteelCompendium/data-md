@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Oracular Warning
 file_dpath: Censor/4th-Level Features/4th-Level Domain Feature
 item_id: oracular-warning
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Oracular Warning
 level: 4
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.4th-level-feature:oracular-warning
+  - mcdm.heroes.v1:feature.subtrait.censor.4th-level-feature:oracular-warning
 scdc:
-  - 1.1.1:12.1.7.1:01
+  - 1.1.1:11.2.7.1:01
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/4th-level-feature
+type: feature/subtrait/censor/4th-level-feature
 ---
 
 ##### Oracular Warning

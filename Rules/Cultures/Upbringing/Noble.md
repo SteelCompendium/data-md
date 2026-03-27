@@ -8,7 +8,7 @@ item_name: Noble
 scc:
   - mcdm.heroes.v1:culture\_benefit.upbringing:noble
 scdc:
-  - 1.1.1:18.3:05
+  - 1.1.1:17.3:05
 source: mcdm.heroes.v1
 type: culture\_benefit/upbringing
 ---

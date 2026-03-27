@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.fury.2nd-level-feature:death-death-5-ferocity
 scdc:
-  - 1.1.1:11.2.5.5:01
+  - 1.1.1:11.3.5.5:01
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/fury/2nd-level-feature

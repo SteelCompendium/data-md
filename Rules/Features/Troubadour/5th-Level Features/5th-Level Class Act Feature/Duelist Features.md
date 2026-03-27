@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Duelist Features
 file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature
 item_id: duelist-features
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Duelist Features
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.5th-level-feature:duelist-features
+  - mcdm.heroes.v1:feature.subtrait.troubadour.5th-level-feature:duelist-features
 scdc:
-  - 1.1.1:12.1.3.5:02
+  - 1.1.1:11.2.3.5:02
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/5th-level-feature
+type: feature/subtrait/troubadour/5th-level-feature
 ---
 
 ##### Duelist Features

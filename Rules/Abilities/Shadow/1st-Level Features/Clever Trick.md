@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:clever-trick-1-insight
 scdc:
-  - 1.1.1:11.2.2.1:06
+  - 1.1.1:11.3.2.1:06
 source: mcdm.heroes.v1
 subclass: Harlequin Mask
 target: Self

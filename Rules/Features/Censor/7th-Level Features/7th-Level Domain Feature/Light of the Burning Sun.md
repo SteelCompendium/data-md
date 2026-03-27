@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Light of the Burning Sun
 file_dpath: Censor/7th-Level Features/7th-Level Domain Feature
 item_id: light-of-the-burning-sun
@@ -9,11 +9,11 @@ item_index: 08
 item_name: Light of the Burning Sun
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.7th-level-feature:light-of-the-burning-sun
+  - mcdm.heroes.v1:feature.subtrait.censor.7th-level-feature:light-of-the-burning-sun
 scdc:
-  - 1.1.1:12.1.7.2:08
+  - 1.1.1:11.2.7.2:08
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/7th-level-feature
+type: feature/subtrait/censor/7th-level-feature
 ---
 
 ##### Light of the Burning Sun

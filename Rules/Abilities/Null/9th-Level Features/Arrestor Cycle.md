@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle-11-discipline
 scdc:
-  - 1.1.1:11.2.6.7:03
+  - 1.1.1:11.3.6.7:03
 source: mcdm.heroes.v1
 subclass: Chronokinetic
 target: One creature

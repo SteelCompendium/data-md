@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: Ease the Mind
 file_dpath: Talent/2nd-Level Features/2nd-Level Tradition Feature
 item_id: ease-the-mind
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Ease the Mind
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.talent.2nd-level-feature:ease-the-mind
+  - mcdm.heroes.v1:feature.subtrait.talent.2nd-level-feature:ease-the-mind
 scdc:
-  - 1.1.1:12.1.1.2:04
+  - 1.1.1:11.2.1.2:04
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/2nd-level-feature
+type: feature/subtrait/talent/2nd-level-feature
 ---
 
 ##### Ease the Mind

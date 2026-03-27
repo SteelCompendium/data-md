@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Pierce the Veil of Substance
 file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: pierce-the-veil-of-substance
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Pierce the Veil of Substance
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance
+  - mcdm.heroes.v1:feature.subtrait.elementalist.5th-level-feature:pierce-the-veil-of-substance
 scdc:
-  - 1.1.1:12.1.9.4:04
+  - 1.1.1:11.2.9.4:04
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/5th-level-feature
+type: feature/subtrait/elementalist/5th-level-feature
 ---
 
 ##### Pierce the Veil of Substance

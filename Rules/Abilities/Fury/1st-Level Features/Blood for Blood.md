@@ -20,7 +20,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:blood-for-blood-5-ferocity
 scdc:
-  - 1.1.1:11.2.5.1:13
+  - 1.1.1:11.3.5.1:13
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/fury/1st-level-feature

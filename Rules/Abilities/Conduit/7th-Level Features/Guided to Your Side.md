@@ -16,7 +16,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:11.2.8.8:05
+  - 1.1.1:11.3.8.8:05
 source: mcdm.heroes.v1
 subclass: Love
 target: Self and each ally

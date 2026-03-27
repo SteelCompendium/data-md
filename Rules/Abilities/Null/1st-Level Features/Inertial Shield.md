@@ -15,7 +15,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:inertial-shield
 scdc:
-  - 1.1.1:11.2.6.1:01
+  - 1.1.1:11.3.6.1:01
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/null/1st-level-feature

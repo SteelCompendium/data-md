@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:tough-crowd-5-drama
 scdc:
-  - 1.1.1:11.2.3.5:04
+  - 1.1.1:11.3.3.5:04
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Special

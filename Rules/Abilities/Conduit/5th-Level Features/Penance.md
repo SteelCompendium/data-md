@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:penance-9-piety
 scdc:
-  - 1.1.1:11.2.8.4:01
+  - 1.1.1:11.3.8.4:01
 source: mcdm.heroes.v1
 target: Each enemy in the area
 type: feature/ability/conduit/5th-level-feature

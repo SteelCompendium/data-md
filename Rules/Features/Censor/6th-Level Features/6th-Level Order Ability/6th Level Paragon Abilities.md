@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Paragon Abilities
 file_dpath: Censor/6th-Level Features/6th-Level Order Ability
 item_id: 6th-level-paragon-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 6th-Level Paragon Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.6th-level-feature:6th-level-paragon-abilities
+  - mcdm.heroes.v1:feature.subtrait.censor.6th-level-feature:6th-level-paragon-abilities
 scdc:
-  - 1.1.1:12.1.7.6:03
+  - 1.1.1:11.2.7.6:03
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/6th-level-feature
+type: feature/subtrait/censor/6th-level-feature
 ---
 
 ##### 6th-Level Paragon Abilities

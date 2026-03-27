@@ -20,7 +20,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.4th-level-feature:beacon-of-grace-9-piety
 scdc:
-  - 1.1.1:11.2.8.9:05
+  - 1.1.1:11.3.8.9:05
 source: mcdm.heroes.v1
 target: One creature
 type: feature/ability/conduit/4th-level-feature

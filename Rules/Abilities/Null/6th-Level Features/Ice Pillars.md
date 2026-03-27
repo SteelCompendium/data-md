@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:ice-pillars-9-discipline
 scdc:
-  - 1.1.1:11.2.6.3:01
+  - 1.1.1:11.3.6.3:01
 source: mcdm.heroes.v1
 subclass: Cryokinetic
 target: Three creatures or objects

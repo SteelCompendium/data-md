@@ -20,7 +20,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:machinations-of-sound-5-insight
 scdc:
-  - 1.1.1:11.2.2.5:05
+  - 1.1.1:11.3.2.5:05
 source: mcdm.heroes.v1
 subclass: Harlequin Mask
 target: Each creature in the area

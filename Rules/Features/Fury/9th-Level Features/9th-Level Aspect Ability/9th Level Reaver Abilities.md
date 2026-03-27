@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: fury
-feature_type: trait
+feature_type: subtrait
 file_basename: 9th Level Reaver Abilities
 file_dpath: Fury/9th-Level Features/9th-Level Aspect Ability
 item_id: 9th-level-reaver-abilities
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: 9th-Level Reaver Abilities
 level: 9
 scc:
-  - mcdm.heroes.v1:subfeature.trait.fury.9th-level-feature:9th-level-reaver-abilities
+  - mcdm.heroes.v1:feature.subtrait.fury.9th-level-feature:9th-level-reaver-abilities
 scdc:
-  - 1.1.1:12.1.5.1:02
+  - 1.1.1:11.2.5.1:02
 source: mcdm.heroes.v1
-type: subfeature/trait/fury/9th-level-feature
+type: feature/subtrait/fury/9th-level-feature
 ---
 
 ##### 9th-Level Reaver Abilities

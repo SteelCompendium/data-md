@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Stand Fast
 file_dpath: Censor/5th-Level Features/5th-Level Order Feature
 item_id: stand-fast
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: Stand Fast!
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.5th-level-feature:stand-fast
+  - mcdm.heroes.v1:feature.subtrait.censor.5th-level-feature:stand-fast
 scdc:
-  - 1.1.1:12.1.7.5:01
+  - 1.1.1:11.2.7.5:01
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/5th-level-feature
+type: feature/subtrait/censor/5th-level-feature
 ---
 
 ##### Stand Fast!

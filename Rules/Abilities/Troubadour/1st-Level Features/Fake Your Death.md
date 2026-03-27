@@ -18,7 +18,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:fake-your-death-5-drama
 scdc:
-  - 1.1.1:11.2.3.1:05
+  - 1.1.1:11.3.3.1:05
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/troubadour/1st-level-feature

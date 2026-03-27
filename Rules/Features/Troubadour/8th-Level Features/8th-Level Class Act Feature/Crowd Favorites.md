@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Crowd Favorites
 file_dpath: Troubadour/8th-Level Features/8th-Level Class Act Feature
 item_id: crowd-favorites
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Crowd Favorites
 level: 8
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.8th-level-feature:crowd-favorites
+  - mcdm.heroes.v1:feature.subtrait.troubadour.8th-level-feature:crowd-favorites
 scdc:
-  - 1.1.1:12.1.3.7:02
+  - 1.1.1:11.2.3.7:02
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/8th-level-feature
+type: feature/subtrait/troubadour/8th-level-feature
 ---
 
 ##### Crowd Favorites

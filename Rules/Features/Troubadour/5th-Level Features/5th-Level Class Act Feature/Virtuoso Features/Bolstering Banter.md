@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Bolstering Banter
 file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
 item_id: bolstering-banter
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Bolstering Banter
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.5th-level-feature:bolstering-banter
+  - mcdm.heroes.v1:feature.subtrait.troubadour.5th-level-feature:bolstering-banter
 scdc:
-  - 1.1.1:12.1.3.5:06
+  - 1.1.1:11.2.3.5:06
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/5th-level-feature
+type: feature/subtrait/troubadour/5th-level-feature
 ---
 
 ###### Bolstering Banter

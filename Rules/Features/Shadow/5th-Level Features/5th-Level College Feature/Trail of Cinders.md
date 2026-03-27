@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: Trail of Cinders
 file_dpath: Shadow/5th-Level Features/5th-Level College Feature
 item_id: trail-of-cinders
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Trail of Cinders
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.5th-level-feature:trail-of-cinders
+  - mcdm.heroes.v1:feature.subtrait.shadow.5th-level-feature:trail-of-cinders
 scdc:
-  - 1.1.1:12.1.2.3:03
+  - 1.1.1:11.2.2.3:03
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/5th-level-feature
+type: feature/subtrait/shadow/5th-level-feature
 ---
 
 ##### Trail of Cinders

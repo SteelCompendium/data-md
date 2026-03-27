@@ -17,7 +17,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:fire-up-the-night
 scdc:
-  - 1.1.1:11.2.3.6:02
+  - 1.1.1:11.3.3.6:02
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Self and each ally in the area

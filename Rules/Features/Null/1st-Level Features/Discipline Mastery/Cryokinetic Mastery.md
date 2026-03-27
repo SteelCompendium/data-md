@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: Cryokinetic Mastery
 file_dpath: Null/1st-Level Features/Discipline Mastery
 item_id: cryokinetic-mastery
@@ -9,11 +9,11 @@ item_index: '05'
 item_name: Cryokinetic Mastery
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.1st-level-feature:cryokinetic-mastery
+  - mcdm.heroes.v1:feature.subtrait.null.1st-level-feature:cryokinetic-mastery
 scdc:
-  - 1.1.1:12.1.6.5:05
+  - 1.1.1:11.2.6.5:05
 source: mcdm.heroes.v1
-type: subfeature/trait/null/1st-level-feature
+type: feature/subtrait/null/1st-level-feature
 ---
 
 ##### Cryokinetic Mastery

@@ -18,7 +18,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight
 scdc:
-  - 1.1.1:11.2.2.3:02
+  - 1.1.1:11.3.2.3:02
 source: mcdm.heroes.v1
 subclass: Black Ash
 target: Self and each ally in the area

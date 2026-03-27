@@ -20,7 +20,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:gravitic-nova-11-clarity
 scdc:
-  - 1.1.1:11.2.1.7:05
+  - 1.1.1:11.3.1.7:05
 source: mcdm.heroes.v1
 subclass: Telekinesis
 target: Each enemy and object in the area

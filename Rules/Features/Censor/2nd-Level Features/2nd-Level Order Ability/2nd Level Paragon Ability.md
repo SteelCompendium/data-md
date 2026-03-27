@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Paragon Ability
 file_dpath: Censor/2nd-Level Features/2nd-Level Order Ability
 item_id: 2nd-level-paragon-ability
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 2nd-Level Paragon Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.2nd-level-feature:2nd-level-paragon-ability
+  - mcdm.heroes.v1:feature.subtrait.censor.2nd-level-feature:2nd-level-paragon-ability
 scdc:
-  - 1.1.1:12.1.7.4:03
+  - 1.1.1:11.2.7.4:03
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/2nd-level-feature
+type: feature/subtrait/censor/2nd-level-feature
 ---
 
 ##### 2nd-Level Paragon Ability

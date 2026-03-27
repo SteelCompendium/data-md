@@ -20,7 +20,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:heart-of-the-wode-11-essence
 scdc:
-  - 1.1.1:11.2.9.4:09
+  - 1.1.1:11.3.9.4:09
 source: mcdm.heroes.v1
 target: Special
 type: feature/ability/elementalist/5th-level-feature

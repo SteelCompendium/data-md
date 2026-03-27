@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: Im No Threat
 file_dpath: Shadow/1st-Level Features/1st-Level College Features
 item_id: im-no-threat
@@ -9,11 +9,11 @@ item_index: '07'
 item_name: I'm No Threat
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.1st-level-feature:im-no-threat
+  - mcdm.heroes.v1:feature.subtrait.shadow.1st-level-feature:im-no-threat
 scdc:
-  - 1.1.1:12.1.2.6:07
+  - 1.1.1:11.2.2.6:07
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/1st-level-feature
+type: feature/subtrait/shadow/1st-level-feature
 ---
 
 ##### I'm No Threat

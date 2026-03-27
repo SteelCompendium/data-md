@@ -8,7 +8,7 @@ item_name: Monster Bane
 scc:
   - mcdm.heroes.v1:title.1st-echelon:monster-bane
 scdc:
-  - 1.1.1:17.4:14
+  - 1.1.1:16.4:14
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

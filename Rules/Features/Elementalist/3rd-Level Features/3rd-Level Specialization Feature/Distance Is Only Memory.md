@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Distance Is Only Memory
 file_dpath: Elementalist/3rd-Level Features/3rd-Level Specialization Feature
 item_id: distance-is-only-memory
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Distance Is Only Memory
 level: 3
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.3rd-level-feature:distance-is-only-memory
+  - mcdm.heroes.v1:feature.subtrait.elementalist.3rd-level-feature:distance-is-only-memory
 scdc:
-  - 1.1.1:12.1.9.2:02
+  - 1.1.1:11.2.9.2:02
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/3rd-level-feature
+type: feature/subtrait/elementalist/3rd-level-feature
 ---
 
 ##### Distance Is Only Memory

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: censor
-feature_type: trait
+feature_type: subtrait
 file_basename: Saints Vigilance
 file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
 item_id: saints-vigilance
@@ -9,11 +9,11 @@ item_index: 09
 item_name: Saint's Vigilance
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.censor.2nd-level-feature:saints-vigilance
+  - mcdm.heroes.v1:feature.subtrait.censor.2nd-level-feature:saints-vigilance
 scdc:
-  - 1.1.1:12.1.7.4:09
+  - 1.1.1:11.2.7.4:09
 source: mcdm.heroes.v1
-type: subfeature/trait/censor/2nd-level-feature
+type: feature/subtrait/censor/2nd-level-feature
 ---
 
 ##### Saint's Vigilance

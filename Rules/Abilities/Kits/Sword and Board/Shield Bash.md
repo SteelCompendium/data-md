@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.sword-and-board:shield-bash
 scdc:
-  - 1.1.1:15.4:01
+  - 1.1.1:14.4:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/sword-and-board

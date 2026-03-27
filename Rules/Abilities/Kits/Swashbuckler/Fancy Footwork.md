@@ -16,7 +16,7 @@ keywords:
 scc:
   - mcdm.heroes.v1:kit-ability.swashbuckler:fancy-footwork
 scdc:
-  - 1.1.1:15.8:01
+  - 1.1.1:14.8:01
 source: mcdm.heroes.v1
 target: One creature
 type: kit-ability/swashbuckler

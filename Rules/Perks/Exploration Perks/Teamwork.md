@@ -7,7 +7,7 @@ item_name: Teamwork
 scc:
   - mcdm.heroes.v1:perk.exploration:teamwork
 scdc:
-  - 1.1.1:19.3:02
+  - 1.1.1:18.3:02
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

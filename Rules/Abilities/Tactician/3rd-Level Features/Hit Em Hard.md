@@ -18,7 +18,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:hit-em-hard-7-focus
 scdc:
-  - 1.1.1:11.2.4.6:03
+  - 1.1.1:11.3.4.6:03
 source: mcdm.heroes.v1
 target: Self
 type: feature/ability/tactician/3rd-level-feature

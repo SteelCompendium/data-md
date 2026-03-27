@@ -19,7 +19,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.4th-level-feature:vessel-of-retribution-9-piety
 scdc:
-  - 1.1.1:11.2.8.9:03
+  - 1.1.1:11.3.8.9:03
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/conduit/4th-level-feature

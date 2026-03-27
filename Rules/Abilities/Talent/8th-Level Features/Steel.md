@@ -20,7 +20,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:steel-11-clarity
 scdc:
-  - 1.1.1:11.2.1.2:04
+  - 1.1.1:11.3.1.2:04
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/talent/8th-level-feature

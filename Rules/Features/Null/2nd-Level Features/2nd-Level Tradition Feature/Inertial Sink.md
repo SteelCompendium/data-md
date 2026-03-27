@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: Inertial Sink
 file_dpath: Null/2nd-Level Features/2nd-Level Tradition Feature
 item_id: inertial-sink
@@ -9,11 +9,11 @@ item_index: '06'
 item_name: Inertial Sink
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.2nd-level-feature:inertial-sink
+  - mcdm.heroes.v1:feature.subtrait.null.2nd-level-feature:inertial-sink
 scdc:
-  - 1.1.1:12.1.6.2:06
+  - 1.1.1:11.2.6.2:06
 source: mcdm.heroes.v1
-type: subfeature/trait/null/2nd-level-feature
+type: feature/subtrait/null/2nd-level-feature
 ---
 
 ##### Inertial Sink

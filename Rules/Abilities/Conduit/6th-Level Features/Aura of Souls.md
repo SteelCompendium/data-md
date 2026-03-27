@@ -19,7 +19,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:aura-of-souls-9-piety
 scdc:
-  - 1.1.1:11.2.8.3:02
+  - 1.1.1:11.3.8.3:02
 source: mcdm.heroes.v1
 subclass: Death
 target: Each creature in the area

@@ -19,7 +19,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:twist-at-the-end-5-drama
 scdc:
-  - 1.1.1:11.2.3.5:01
+  - 1.1.1:11.3.3.5:01
 source: mcdm.heroes.v1
 subclass: Auteur
 target: One dead enemy

@@ -18,7 +18,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:gods-grant-thee-strength-9-wrath
 scdc:
-  - 1.1.1:11.2.7.4:04
+  - 1.1.1:11.3.7.4:04
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/censor/5th-level-feature

@@ -8,7 +8,7 @@ item_name: Local Hero
 scc:
   - mcdm.heroes.v1:title.1st-echelon:local-hero
 scdc:
-  - 1.1.1:17.4:01
+  - 1.1.1:16.4:01
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

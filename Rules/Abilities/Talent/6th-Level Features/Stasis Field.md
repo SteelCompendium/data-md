@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:stasis-field-9-clarity
 scdc:
-  - 1.1.1:11.2.1.3:04
+  - 1.1.1:11.3.1.3:04
 source: mcdm.heroes.v1
 subclass: Chronopathy
 target: Each creature and object in the area

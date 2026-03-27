@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: elementalist
-feature_type: trait
+feature_type: subtrait
 file_basename: Summon Source of Earth
 file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: summon-source-of-earth
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Summon Source of Earth
 level: 8
 scc:
-  - mcdm.heroes.v1:subfeature.trait.elementalist.8th-level-feature:summon-source-of-earth
+  - mcdm.heroes.v1:feature.subtrait.elementalist.8th-level-feature:summon-source-of-earth
 scdc:
-  - 1.1.1:12.1.9.6:03
+  - 1.1.1:11.2.9.6:03
 source: mcdm.heroes.v1
-type: subfeature/trait/elementalist/8th-level-feature
+type: feature/subtrait/elementalist/8th-level-feature
 ---
 
 ##### Summon Source of Earth

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: 'null'
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Cryokinetic Abilities
 file_dpath: Null/6th-Level Features/6th-Level Tradition Ability
 item_id: 6th-level-cryokinetic-abilities
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 6th-Level Cryokinetic Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.null.6th-level-feature:6th-level-cryokinetic-abilities
+  - mcdm.heroes.v1:feature.subtrait.null.6th-level-feature:6th-level-cryokinetic-abilities
 scdc:
-  - 1.1.1:12.1.6.3:01
+  - 1.1.1:11.2.6.3:01
 source: mcdm.heroes.v1
-type: subfeature/trait/null/6th-level-feature
+type: feature/subtrait/null/6th-level-feature
 ---
 
 ##### 6th-Level Cryokinetic Abilities

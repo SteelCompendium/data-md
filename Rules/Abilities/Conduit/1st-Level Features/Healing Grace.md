@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:healing-grace
 scdc:
-  - 1.1.1:11.2.8.1:12
+  - 1.1.1:11.3.8.1:12
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/conduit/1st-level-feature

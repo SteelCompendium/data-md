@@ -7,7 +7,7 @@ item_name: Team Leader
 scc:
   - mcdm.heroes.v1:perk.exploration:team-leader
 scdc:
-  - 1.1.1:19.3:05
+  - 1.1.1:18.3:05
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

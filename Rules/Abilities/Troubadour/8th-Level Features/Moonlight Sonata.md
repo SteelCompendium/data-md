@@ -17,7 +17,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:moonlight-sonata
 scdc:
-  - 1.1.1:11.2.3.2:03
+  - 1.1.1:11.3.3.2:03
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Each ally in the area

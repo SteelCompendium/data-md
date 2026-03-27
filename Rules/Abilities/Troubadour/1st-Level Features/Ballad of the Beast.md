@@ -17,7 +17,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:ballad-of-the-beast
 scdc:
-  - 1.1.1:11.2.3.1:22
+  - 1.1.1:11.3.3.1:22
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Self and each ally in the area

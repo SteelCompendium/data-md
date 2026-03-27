@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: Latest Goss
 file_dpath: Troubadour/4th-Level Features/Zeitgeist
 item_id: latest-goss
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: Latest Goss
 level: 4
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.4th-level-feature:latest-goss
+  - mcdm.heroes.v1:feature.subtrait.troubadour.4th-level-feature:latest-goss
 scdc:
-  - 1.1.1:12.1.3.1:03
+  - 1.1.1:11.2.3.1:03
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/4th-level-feature
+type: feature/subtrait/troubadour/4th-level-feature
 ---
 
 ##### Latest Goss

@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:blessing-of-the-fortress-11-piety
 scdc:
-  - 1.1.1:11.2.8.7:04
+  - 1.1.1:11.3.8.7:04
 source: mcdm.heroes.v1
 subclass: Protection
 target: Self

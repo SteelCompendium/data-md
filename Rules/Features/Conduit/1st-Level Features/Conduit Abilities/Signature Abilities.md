@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: conduit
-feature_type: trait
+feature_type: subtrait
 file_basename: Signature Abilities
 file_dpath: Conduit/1st-Level Features/Conduit Abilities
 item_id: signature-abilities
@@ -9,11 +9,11 @@ item_index: '25'
 item_name: Signature Abilities
 level: 1
 scc:
-  - mcdm.heroes.v1:subfeature.trait.conduit.1st-level-feature:signature-abilities
+  - mcdm.heroes.v1:feature.subtrait.conduit.1st-level-feature:signature-abilities
 scdc:
-  - 1.1.1:12.1.8.3:25
+  - 1.1.1:11.2.8.3:25
 source: mcdm.heroes.v1
-type: subfeature/trait/conduit/1st-level-feature
+type: feature/subtrait/conduit/1st-level-feature
 ---
 
 ##### Signature Abilities

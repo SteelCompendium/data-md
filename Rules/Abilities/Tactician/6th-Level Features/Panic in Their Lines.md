@@ -21,7 +21,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:panic-in-their-lines-9-focus
 scdc:
-  - 1.1.1:11.2.4.3:03
+  - 1.1.1:11.3.4.3:03
 source: mcdm.heroes.v1
 subclass: Insurgent
 target: Two creatures

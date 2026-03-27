@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:pressure-points
 scdc:
-  - 1.1.1:11.2.6.1:14
+  - 1.1.1:11.3.6.1:14
 source: mcdm.heroes.v1
 target: One creature or object
 type: feature/ability/null/1st-level-feature

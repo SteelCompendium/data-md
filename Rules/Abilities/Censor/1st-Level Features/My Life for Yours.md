@@ -16,7 +16,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:my-life-for-yours
 scdc:
-  - 1.1.1:11.2.7.1:02
+  - 1.1.1:11.3.7.1:02
 source: mcdm.heroes.v1
 target: Self or one ally
 type: feature/ability/censor/1st-level-feature

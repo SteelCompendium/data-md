@@ -19,7 +19,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:jam-session-11-drama
 scdc:
-  - 1.1.1:11.2.3.7:01
+  - 1.1.1:11.3.3.7:01
 source: mcdm.heroes.v1
 subclass: Virtuoso
 target: Each enemy in the area

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: talent
-feature_type: trait
+feature_type: subtrait
 file_basename: 6th Level Chronopathy Abilities
 file_dpath: Talent/6th-Level Features/6th-Level Tradition Ability
 item_id: 6th-level-chronopathy-abilities
@@ -9,11 +9,11 @@ item_index: '03'
 item_name: 6th-Level Chronopathy Abilities
 level: 6
 scc:
-  - mcdm.heroes.v1:subfeature.trait.talent.6th-level-feature:6th-level-chronopathy-abilities
+  - mcdm.heroes.v1:feature.subtrait.talent.6th-level-feature:6th-level-chronopathy-abilities
 scdc:
-  - 1.1.1:12.1.1.4:03
+  - 1.1.1:11.2.1.4:03
 source: mcdm.heroes.v1
-type: subfeature/trait/talent/6th-level-feature
+type: feature/subtrait/talent/6th-level-feature
 ---
 
 ##### 6th-Level Chronopathy Abilities

@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: Asymmetric Warfare
 file_dpath: Tactician/7th-Level Features/7th-Level Doctrine Feature
 item_id: asymmetric-warfare
@@ -9,11 +9,11 @@ item_index: '02'
 item_name: Asymmetric Warfare
 level: 7
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.7th-level-feature:asymmetric-warfare
+  - mcdm.heroes.v1:feature.subtrait.tactician.7th-level-feature:asymmetric-warfare
 scdc:
-  - 1.1.1:12.1.4.1:02
+  - 1.1.1:11.2.4.1:02
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/7th-level-feature
+type: feature/subtrait/tactician/7th-level-feature
 ---
 
 ##### Asymmetric Warfare

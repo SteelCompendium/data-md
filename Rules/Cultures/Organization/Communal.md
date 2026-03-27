@@ -8,7 +8,7 @@ item_name: Communal
 scc:
   - mcdm.heroes.v1:culture\_benefit.organization:communal
 scdc:
-  - 1.1.1:18.1:02
+  - 1.1.1:17.1:02
 source: mcdm.heroes.v1
 type: culture\_benefit/organization
 ---

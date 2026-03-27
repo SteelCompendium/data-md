@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: troubadour
-feature_type: trait
+feature_type: subtrait
 file_basename: We Cant Be Upstaged
 file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Duelist Features
 item_id: we-cant-be-upstaged
@@ -9,11 +9,11 @@ item_index: 09
 item_name: We Can't Be Upstaged!
 level: 5
 scc:
-  - mcdm.heroes.v1:subfeature.trait.troubadour.5th-level-feature:we-cant-be-upstaged
+  - mcdm.heroes.v1:feature.subtrait.troubadour.5th-level-feature:we-cant-be-upstaged
 scdc:
-  - 1.1.1:12.1.3.5:09
+  - 1.1.1:11.2.3.5:09
 source: mcdm.heroes.v1
-type: subfeature/trait/troubadour/5th-level-feature
+type: feature/subtrait/troubadour/5th-level-feature
 ---
 
 ###### We Can't Be Upstaged!

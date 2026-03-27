@@ -20,7 +20,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:death-strike-9-ferocity
 scdc:
-  - 1.1.1:11.2.5.3:01
+  - 1.1.1:11.3.5.3:01
 source: mcdm.heroes.v1
 subclass: Reaver
 target: Self

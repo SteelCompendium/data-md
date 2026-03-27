@@ -19,7 +19,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:flip-the-script-5-drama
 scdc:
-  - 1.1.1:11.2.3.1:10
+  - 1.1.1:11.3.3.1:10
 source: mcdm.heroes.v1
 target: Self and each ally in the area
 type: feature/ability/troubadour/1st-level-feature

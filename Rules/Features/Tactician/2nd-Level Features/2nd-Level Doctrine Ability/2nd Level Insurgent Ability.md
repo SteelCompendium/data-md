@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: tactician
-feature_type: trait
+feature_type: subtrait
 file_basename: 2nd Level Insurgent Ability
 file_dpath: Tactician/2nd-Level Features/2nd-Level Doctrine Ability
 item_id: 2nd-level-insurgent-ability
@@ -9,11 +9,11 @@ item_index: '01'
 item_name: 2nd-Level Insurgent Ability
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.tactician.2nd-level-feature:2nd-level-insurgent-ability
+  - mcdm.heroes.v1:feature.subtrait.tactician.2nd-level-feature:2nd-level-insurgent-ability
 scdc:
-  - 1.1.1:12.1.4.3:01
+  - 1.1.1:11.2.4.3:01
 source: mcdm.heroes.v1
-type: subfeature/trait/tactician/2nd-level-feature
+type: feature/subtrait/tactician/2nd-level-feature
 ---
 
 ##### 2nd-Level Insurgent Ability

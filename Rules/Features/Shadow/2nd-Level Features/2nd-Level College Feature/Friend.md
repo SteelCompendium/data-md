@@ -1,7 +1,7 @@
 ---
 action_type: feature
 class: shadow
-feature_type: trait
+feature_type: subtrait
 file_basename: Friend
 file_dpath: Shadow/2nd-Level Features/2nd-Level College Feature
 item_id: friend
@@ -9,11 +9,11 @@ item_index: '04'
 item_name: Friend!
 level: 2
 scc:
-  - mcdm.heroes.v1:subfeature.trait.shadow.2nd-level-feature:friend
+  - mcdm.heroes.v1:feature.subtrait.shadow.2nd-level-feature:friend
 scdc:
-  - 1.1.1:12.1.2.2:04
+  - 1.1.1:11.2.2.2:04
 source: mcdm.heroes.v1
-type: subfeature/trait/shadow/2nd-level-feature
+type: feature/subtrait/shadow/2nd-level-feature
 ---
 
 ##### Friend!
