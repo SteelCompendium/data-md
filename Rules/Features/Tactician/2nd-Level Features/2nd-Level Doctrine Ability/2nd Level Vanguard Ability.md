@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: 2nd Level Vanguard Ability
-file_dpath: Tactician/2nd-Level Features/2nd-Level Doctrine Ability
+file_dpath: Features/Tactician/2nd-Level Features/2nd-Level Doctrine Ability
 item_id: 2nd-level-vanguard-ability
 item_index: '03'
 item_name: 2nd-Level Vanguard Ability

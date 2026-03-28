@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Roar of the Crowd
-file_dpath: Troubadour/9th-Level Features
+file_dpath: Features/Troubadour/9th-Level Features
 item_id: roar-of-the-crowd
 item_index: '01'
 item_name: Roar of the Crowd

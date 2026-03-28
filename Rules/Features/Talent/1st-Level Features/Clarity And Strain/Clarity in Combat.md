@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Clarity in Combat
-file_dpath: Talent/1st-Level Features/Clarity And Strain
+file_dpath: Features/Talent/1st-Level Features/Clarity And Strain
 item_id: clarity-in-combat
 item_index: 08
 item_name: Clarity in Combat

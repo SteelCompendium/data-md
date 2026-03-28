@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Light of the Burning Sun
-file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: light-of-the-burning-sun
 item_index: 09
 item_name: Light of the Burning Sun

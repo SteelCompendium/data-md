@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Clear Mind
-file_dpath: Talent/10th-Level Features
+file_dpath: Features/Talent/10th-Level Features
 item_id: clear-mind
 item_index: '07'
 item_name: Clear Mind

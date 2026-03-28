@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Instant Action
-file_dpath: Null/5th-Level Features
+file_dpath: Features/Null/5th-Level Features
 item_id: instant-action
 item_index: '04'
 item_name: Instant Action

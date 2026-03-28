@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Lead by Example
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Features
 item_id: lead-by-example
 item_index: '05'
 item_name: Lead by Example

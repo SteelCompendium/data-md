@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Umbral Form
-file_dpath: Shadow/6th-Level Features
+file_dpath: Features/Shadow/6th-Level Features
 item_id: umbral-form
 item_index: '03'
 item_name: Umbral Form

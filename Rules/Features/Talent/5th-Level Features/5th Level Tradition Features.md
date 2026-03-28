@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 5th Level Tradition Features
-file_dpath: Talent/5th-Level Features
+file_dpath: Features/Talent/5th-Level Features
 item_id: 5th-level-tradition-features
 item_index: '01'
 item_name: 5th-Level Tradition Features

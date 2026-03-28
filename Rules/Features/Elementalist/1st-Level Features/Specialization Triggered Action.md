@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Specialization Triggered Action
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Features/Elementalist/1st-Level Features
 item_id: specialization-triggered-action
 item_index: '07'
 item_name: Specialization Triggered Action

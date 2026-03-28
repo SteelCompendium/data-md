@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 9th Level Doctrine Ability
-file_dpath: Tactician/9th-Level Features
+file_dpath: Features/Tactician/9th-Level Features
 item_id: 9th-level-doctrine-ability
 item_index: '01'
 item_name: 9th-Level Doctrine Ability

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: 6th Level Stormwight Abilities
-file_dpath: Fury/6th-Level Features/6th-Level Aspect Ability
+file_dpath: Features/Fury/6th-Level Features/6th-Level Aspect Ability
 item_id: 6th-level-stormwight-abilities
 item_index: '01'
 item_name: 6th-Level Stormwight Abilities

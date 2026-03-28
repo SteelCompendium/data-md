@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Chimeric Manifestation
-file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
+file_dpath: Features/Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: chimeric-manifestation
 item_index: '02'
 item_name: Chimeric Manifestation

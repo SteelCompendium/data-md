@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: A Step Ahead
-file_dpath: Fury/8th-Level Features/8th-Level Aspect Feature
+file_dpath: Features/Fury/8th-Level Features/8th-Level Aspect Feature
 item_id: a-step-ahead
 item_index: '03'
 item_name: A Step Ahead

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Synaptic Triage
-file_dpath: Null/8th-Level Features/8th-Level Tradition Feature
+file_dpath: Features/Null/8th-Level Features/8th-Level Tradition Feature
 item_id: synaptic-triage
 item_index: '01'
 item_name: Synaptic Triage

@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Focus
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: focus
 item_index: '05'
 item_name: Focus

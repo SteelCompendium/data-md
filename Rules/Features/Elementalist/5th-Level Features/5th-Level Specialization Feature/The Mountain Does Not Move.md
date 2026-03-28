@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: The Mountain Does Not Move
-file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
+file_dpath: Features/Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: the-mountain-does-not-move
 item_index: '02'
 item_name: The Mountain Does Not Move

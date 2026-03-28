@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 1st Level Doctrine Feature
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: 1st-level-doctrine-feature
 item_index: '01'
 item_name: 1st-Level Doctrine Feature

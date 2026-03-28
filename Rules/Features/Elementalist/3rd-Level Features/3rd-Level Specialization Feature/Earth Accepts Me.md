@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Earth Accepts Me
-file_dpath: Elementalist/3rd-Level Features/3rd-Level Specialization Feature
+file_dpath: Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature
 item_id: earth-accepts-me
 item_index: '03'
 item_name: Earth Accepts Me

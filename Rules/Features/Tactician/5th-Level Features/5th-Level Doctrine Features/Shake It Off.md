@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Shake It Off
-file_dpath: Tactician/5th-Level Features/5th-Level Doctrine Features
+file_dpath: Features/Tactician/5th-Level Features/5th-Level Doctrine Features
 item_id: shake-it-off
 item_index: '05'
 item_name: Shake It Off

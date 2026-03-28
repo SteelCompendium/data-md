@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Trail of Cinders
-file_dpath: Shadow/5th-Level Features/5th-Level College Feature
+file_dpath: Features/Shadow/5th-Level Features/5th-Level College Feature
 item_id: trail-of-cinders
 item_index: '03'
 item_name: Trail of Cinders

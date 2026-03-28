@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Black Ash Teleport
-file_dpath: Shadow/1st-Level Features/1st-Level College Features
+file_dpath: Features/Shadow/1st-Level Features/1st-Level College Features
 item_id: black-ash-teleport
 item_index: 08
 item_name: Black Ash Teleport

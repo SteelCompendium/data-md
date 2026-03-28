@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Look On My Work and Despair
-file_dpath: Censor/3rd-Level Features
+file_dpath: Features/Censor/3rd-Level Features
 item_id: look-on-my-work-and-despair
 item_index: '01'
 item_name: Look On My Work and Despair

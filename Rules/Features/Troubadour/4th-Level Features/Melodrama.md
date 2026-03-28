@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Melodrama
-file_dpath: Troubadour/4th-Level Features
+file_dpath: Features/Troubadour/4th-Level Features
 item_id: melodrama
 item_index: '02'
 item_name: Melodrama

@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: 2nd Level Virtuoso Ability
-file_dpath: Troubadour/2nd-Level Features/2nd-Level Class Act Ability
+file_dpath: Features/Troubadour/2nd-Level Features/2nd-Level Class Act Ability
 item_id: 2nd-level-virtuoso-ability
 item_index: '03'
 item_name: 2nd-Level Virtuoso Ability

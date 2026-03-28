@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Prayer
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: prayer
 item_index: '06'
 item_name: Prayer

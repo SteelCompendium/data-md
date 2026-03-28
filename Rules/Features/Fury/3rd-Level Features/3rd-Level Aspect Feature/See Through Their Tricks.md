@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: See Through Their Tricks
-file_dpath: Fury/3rd-Level Features/3rd-Level Aspect Feature
+file_dpath: Features/Fury/3rd-Level Features/3rd-Level Aspect Feature
 item_id: see-through-their-tricks
 item_index: '02'
 item_name: See Through Their Tricks

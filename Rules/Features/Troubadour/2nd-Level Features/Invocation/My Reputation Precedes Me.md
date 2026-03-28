@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: My Reputation Precedes Me
-file_dpath: Troubadour/2nd-Level Features/Invocation
+file_dpath: Features/Troubadour/2nd-Level Features/Invocation
 item_id: my-reputation-precedes-me
 item_index: '04'
 item_name: My Reputation Precedes Me

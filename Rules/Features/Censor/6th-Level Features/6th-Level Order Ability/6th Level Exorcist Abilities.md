@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: 6th Level Exorcist Abilities
-file_dpath: Censor/6th-Level Features/6th-Level Order Ability
+file_dpath: Features/Censor/6th-Level Features/6th-Level Order Ability
 item_id: 6th-level-exorcist-abilities
 item_index: '01'
 item_name: 6th-Level Exorcist Abilities

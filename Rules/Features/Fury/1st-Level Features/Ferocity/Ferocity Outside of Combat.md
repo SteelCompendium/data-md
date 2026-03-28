@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Ferocity Outside of Combat
-file_dpath: Fury/1st-Level Features/Ferocity
+file_dpath: Features/Fury/1st-Level Features/Ferocity
 item_id: ferocity-outside-of-combat
 item_index: '01'
 item_name: Ferocity Outside of Combat

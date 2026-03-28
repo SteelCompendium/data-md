@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Burning Grounds
-file_dpath: Elementalist/4th-Level Features/Mantle Of Essence
+file_dpath: Features/Elementalist/4th-Level Features/Mantle Of Essence
 item_id: burning-grounds
 item_index: '02'
 item_name: Burning Grounds

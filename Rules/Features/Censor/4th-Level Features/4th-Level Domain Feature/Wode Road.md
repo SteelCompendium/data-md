@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Wode Road
-file_dpath: Censor/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Censor/4th-Level Features/4th-Level Domain Feature
 item_id: wode-road
 item_index: '03'
 item_name: Wode Road

@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Ancestral Memory
-file_dpath: Talent/7th-Level Features
+file_dpath: Features/Talent/7th-Level Features
 item_id: ancestral-memory
 item_index: '05'
 item_name: Ancestral Memory

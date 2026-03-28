@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Judgment Order Benefit
-file_dpath: Censor/1st-Level Features/Judgment
+file_dpath: Features/Censor/1st-Level Features/Judgment
 item_id: judgment-order-benefit
 item_index: '15'
 item_name: Judgment Order Benefit

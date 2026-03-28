@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Shadow Abilities
-file_dpath: Shadow/1st-Level Features
+file_dpath: Features/Shadow/1st-Level Features
 item_id: shadow-abilities
 item_index: '01'
 item_name: Shadow Abilities

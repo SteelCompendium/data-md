@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Out of Position
-file_dpath: Tactician/3rd-Level Features
+file_dpath: Features/Tactician/3rd-Level Features
 item_id: out-of-position
 item_index: '01'
 item_name: Out of Position

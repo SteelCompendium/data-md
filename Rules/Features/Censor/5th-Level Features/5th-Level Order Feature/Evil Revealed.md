@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Evil Revealed
-file_dpath: Censor/5th-Level Features/5th-Level Order Feature
+file_dpath: Features/Censor/5th-Level Features/5th-Level Order Feature
 item_id: evil-revealed
 item_index: '03'
 item_name: Evil Revealed

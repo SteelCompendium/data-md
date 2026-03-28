@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: 9th Level Virtuoso Abilities
-file_dpath: Troubadour/9th-Level Features/9th-Level Class Act Ability
+file_dpath: Features/Troubadour/9th-Level Features/9th-Level Class Act Ability
 item_id: 9th-level-virtuoso-abilities
 item_index: '02'
 item_name: 9th-Level Virtuoso Abilities

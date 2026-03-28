@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Parkour
-file_dpath: Shadow/8th-Level Features/8th-Level College Feature
+file_dpath: Features/Shadow/8th-Level Features/8th-Level College Feature
 item_id: parkour
 item_index: '03'
 item_name: Parkour

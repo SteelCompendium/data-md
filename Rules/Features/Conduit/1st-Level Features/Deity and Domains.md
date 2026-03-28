@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Deity and Domains
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: deity-and-domains
 item_index: 09
 item_name: Deity and Domains

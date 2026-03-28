@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 5th Level Order Feature
-file_dpath: Censor/5th-Level Features
+file_dpath: Features/Censor/5th-Level Features
 item_id: 5th-level-order-feature
 item_index: '01'
 item_name: 5th-Level Order Feature

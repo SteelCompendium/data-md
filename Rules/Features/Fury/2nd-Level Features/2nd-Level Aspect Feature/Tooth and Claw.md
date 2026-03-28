@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Tooth and Claw
-file_dpath: Fury/2nd-Level Features/2nd-Level Aspect Feature
+file_dpath: Features/Fury/2nd-Level Features/2nd-Level Aspect Feature
 item_id: tooth-and-claw
 item_index: '03'
 item_name: Tooth and Claw

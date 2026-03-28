@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Stand Fast
-file_dpath: Censor/5th-Level Features/5th-Level Order Feature
+file_dpath: Features/Censor/5th-Level Features/5th-Level Order Feature
 item_id: stand-fast
 item_index: '01'
 item_name: Stand Fast!

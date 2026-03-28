@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Mind Spike
-file_dpath: Talent/1st-Level Features
+file_dpath: Features/Talent/1st-Level Features
 item_id: mind-spike
 item_index: '06'
 item_name: Mind Spike

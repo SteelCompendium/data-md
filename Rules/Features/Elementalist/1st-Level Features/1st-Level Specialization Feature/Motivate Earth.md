@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Motivate Earth
-file_dpath: Elementalist/1st-Level Features/1st-Level Specialization Feature
+file_dpath: Features/Elementalist/1st-Level Features/1st-Level Specialization Feature
 item_id: motivate-earth
 item_index: 08
 item_name: Motivate Earth

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Entropic Adaptability
-file_dpath: Null/2nd-Level Features/2nd-Level Tradition Feature
+file_dpath: Features/Null/2nd-Level Features/2nd-Level Tradition Feature
 item_id: entropic-adaptability
 item_index: '05'
 item_name: Entropic Adaptability

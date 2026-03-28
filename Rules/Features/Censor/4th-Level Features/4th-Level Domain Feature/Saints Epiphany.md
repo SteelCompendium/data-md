@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Saints Epiphany
-file_dpath: Censor/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Censor/4th-Level Features/4th-Level Domain Feature
 item_id: saints-epiphany
 item_index: '11'
 item_name: Saint's Epiphany

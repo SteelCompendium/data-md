@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Foreshadowing
-file_dpath: Troubadour/4th-Level Features/Zeitgeist
+file_dpath: Features/Troubadour/4th-Level Features/Zeitgeist
 item_id: foreshadowing
 item_index: '01'
 item_name: Foreshadowing

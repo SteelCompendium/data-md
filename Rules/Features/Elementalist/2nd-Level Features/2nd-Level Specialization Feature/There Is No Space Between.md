@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: There Is No Space Between
-file_dpath: Elementalist/2nd-Level Features/2nd-Level Specialization Feature
+file_dpath: Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature
 item_id: there-is-no-space-between
 item_index: '02'
 item_name: There Is No Space Between

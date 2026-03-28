@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 5th Level Class Act Feature
-file_dpath: Troubadour/5th-Level Features
+file_dpath: Features/Troubadour/5th-Level Features
 item_id: 5th-level-class-act-feature
 item_index: '01'
 item_name: 5th-Level Class Act Feature

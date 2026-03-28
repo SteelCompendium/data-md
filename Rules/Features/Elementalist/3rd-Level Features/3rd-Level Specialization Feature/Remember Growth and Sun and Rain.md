@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Remember Growth and Sun and Rain
-file_dpath: Elementalist/3rd-Level Features/3rd-Level Specialization Feature
+file_dpath: Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature
 item_id: remember-growth-and-sun-and-rain
 item_index: '01'
 item_name: Remember Growth and Sun and Rain

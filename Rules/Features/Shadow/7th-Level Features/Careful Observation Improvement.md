@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Careful Observation Improvement
-file_dpath: Shadow/7th-Level Features
+file_dpath: Features/Shadow/7th-Level Features
 item_id: careful-observation-improvement
 item_index: '03'
 item_name: Careful Observation Improvement

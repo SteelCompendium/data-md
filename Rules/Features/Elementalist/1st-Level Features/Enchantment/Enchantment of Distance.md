@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Enchantment of Distance
-file_dpath: Elementalist/1st-Level Features/Enchantment
+file_dpath: Features/Elementalist/1st-Level Features/Enchantment
 item_id: enchantment-of-distance
 item_index: '15'
 item_name: Enchantment of Distance

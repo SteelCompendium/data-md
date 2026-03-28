@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Your Triumphs Are Remembered
-file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: your-triumphs-are-remembered
 item_index: '03'
 item_name: Your Triumphs Are Remembered

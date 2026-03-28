@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Enchantment of Permanence
-file_dpath: Elementalist/1st-Level Features/Enchantment
+file_dpath: Features/Elementalist/1st-Level Features/Enchantment
 item_id: enchantment-of-permanence
 item_index: '14'
 item_name: Enchantment of Permanence

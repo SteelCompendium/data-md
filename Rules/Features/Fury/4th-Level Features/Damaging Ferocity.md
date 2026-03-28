@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Damaging Ferocity
-file_dpath: Fury/4th-Level Features
+file_dpath: Features/Fury/4th-Level Features
 item_id: damaging-ferocity
 item_index: '01'
 item_name: Damaging Ferocity

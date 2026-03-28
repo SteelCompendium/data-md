@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Judge of Character
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Features
 item_id: judge-of-character
 item_index: 08
 item_name: Judge of Character

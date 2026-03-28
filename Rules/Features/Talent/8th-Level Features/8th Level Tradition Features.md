@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 8th Level Tradition Features
-file_dpath: Talent/8th-Level Features
+file_dpath: Features/Talent/8th-Level Features
 item_id: 8th-level-tradition-features
 item_index: '02'
 item_name: 8th-Level Tradition Features

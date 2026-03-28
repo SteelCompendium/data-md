@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: 2nd Level Exorcist Ability
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Ability
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Ability
 item_id: 2nd-level-exorcist-ability
 item_index: '01'
 item_name: 2nd-Level Exorcist Ability

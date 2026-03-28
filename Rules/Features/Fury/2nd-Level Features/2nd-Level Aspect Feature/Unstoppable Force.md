@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Unstoppable Force
-file_dpath: Fury/2nd-Level Features/2nd-Level Aspect Feature
+file_dpath: Features/Fury/2nd-Level Features/2nd-Level Aspect Feature
 item_id: unstoppable-force
 item_index: '01'
 item_name: Unstoppable Force

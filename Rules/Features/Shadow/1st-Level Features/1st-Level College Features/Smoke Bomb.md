@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Smoke Bomb
-file_dpath: Shadow/1st-Level Features/1st-Level College Features
+file_dpath: Features/Shadow/1st-Level Features/1st-Level College Features
 item_id: smoke-bomb
 item_index: '05'
 item_name: Smoke Bomb

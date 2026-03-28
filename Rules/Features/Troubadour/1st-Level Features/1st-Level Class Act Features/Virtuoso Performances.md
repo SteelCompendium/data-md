@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Virtuoso Performances
-file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: virtuoso-performances
 item_index: '03'
 item_name: Virtuoso Performances

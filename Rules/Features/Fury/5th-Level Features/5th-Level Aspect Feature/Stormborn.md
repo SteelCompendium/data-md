@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Stormborn
-file_dpath: Fury/5th-Level Features/5th-Level Aspect Feature
+file_dpath: Features/Fury/5th-Level Features/5th-Level Aspect Feature
 item_id: stormborn
 item_index: '02'
 item_name: Stormborn

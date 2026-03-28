@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Universal Connection
-file_dpath: Talent/8th-Level Features
+file_dpath: Features/Talent/8th-Level Features
 item_id: universal-connection
 item_index: '04'
 item_name: Universal Connection

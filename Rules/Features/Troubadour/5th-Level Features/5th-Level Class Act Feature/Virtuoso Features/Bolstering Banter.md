@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Bolstering Banter
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
 item_id: bolstering-banter
 item_index: '06'
 item_name: Bolstering Banter

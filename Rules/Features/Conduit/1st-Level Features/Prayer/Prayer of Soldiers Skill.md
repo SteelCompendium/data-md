@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Prayer of Soldiers Skill
-file_dpath: Conduit/1st-Level Features/Prayer
+file_dpath: Features/Conduit/1st-Level Features/Prayer
 item_id: prayer-of-soldiers-skill
 item_index: '16'
 item_name: Prayer of Soldier's Skill

@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Seance
-file_dpath: Censor/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Censor/4th-Level Features/4th-Level Domain Feature
 item_id: seance
 item_index: '02'
 item_name: Seance

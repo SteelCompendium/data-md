@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Bastion Ward
-file_dpath: Conduit/1st-Level Features/Conduit Ward
+file_dpath: Features/Conduit/1st-Level Features/Conduit Ward
 item_id: bastion-ward
 item_index: '18'
 item_name: Bastion Ward

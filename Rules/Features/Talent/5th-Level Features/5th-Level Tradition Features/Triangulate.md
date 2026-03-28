@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Triangulate
-file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
 item_id: triangulate
 item_index: '05'
 item_name: Triangulate

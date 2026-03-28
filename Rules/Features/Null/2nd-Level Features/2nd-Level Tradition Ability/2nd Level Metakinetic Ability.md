@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: 2nd Level Metakinetic Ability
-file_dpath: Null/2nd-Level Features/2nd-Level Tradition Ability
+file_dpath: Features/Null/2nd-Level Features/2nd-Level Tradition Ability
 item_id: 2nd-level-metakinetic-ability
 item_index: '03'
 item_name: 2nd-Level Metakinetic Ability

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Inertial Sink
-file_dpath: Null/2nd-Level Features/2nd-Level Tradition Feature
+file_dpath: Features/Null/2nd-Level Features/2nd-Level Tradition Feature
 item_id: inertial-sink
 item_index: '06'
 item_name: Inertial Sink

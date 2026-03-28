@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Asymmetric Warfare
-file_dpath: Tactician/7th-Level Features/7th-Level Doctrine Feature
+file_dpath: Features/Tactician/7th-Level Features/7th-Level Doctrine Feature
 item_id: asymmetric-warfare
 item_index: '02'
 item_name: Asymmetric Warfare

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Growing Ferocity
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: growing-ferocity
 item_index: '05'
 item_name: Growing Ferocity

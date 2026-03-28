@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 1st Level Aspect Features
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: 1st-level-aspect-features
 item_index: '07'
 item_name: 1st-Level Aspect Features

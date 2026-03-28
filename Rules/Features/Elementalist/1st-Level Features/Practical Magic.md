@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Practical Magic
-file_dpath: Elementalist/1st-Level Features
+file_dpath: Features/Elementalist/1st-Level Features
 item_id: practical-magic
 item_index: '02'
 item_name: Practical Magic

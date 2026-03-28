@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Scene Partner
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: scene-partner
 item_index: '07'
 item_name: Scene Partner

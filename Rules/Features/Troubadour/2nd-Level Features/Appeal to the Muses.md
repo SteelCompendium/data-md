@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Appeal to the Muses
-file_dpath: Troubadour/2nd-Level Features
+file_dpath: Features/Troubadour/2nd-Level Features
 item_id: appeal-to-the-muses
 item_index: '03'
 item_name: Appeal to the Muses

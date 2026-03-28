@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Smoldering Step
-file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
+file_dpath: Features/Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: smoldering-step
 item_index: '03'
 item_name: Smoldering Step

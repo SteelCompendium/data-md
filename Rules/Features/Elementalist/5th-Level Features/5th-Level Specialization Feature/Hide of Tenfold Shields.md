@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Hide of Tenfold Shields
-file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
+file_dpath: Features/Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: hide-of-tenfold-shields
 item_index: '01'
 item_name: Hide of Tenfold Shields

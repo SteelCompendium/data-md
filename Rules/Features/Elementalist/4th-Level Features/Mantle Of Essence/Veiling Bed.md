@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Veiling Bed
-file_dpath: Elementalist/4th-Level Features/Mantle Of Essence
+file_dpath: Features/Elementalist/4th-Level Features/Mantle Of Essence
 item_id: veiling-bed
 item_index: '04'
 item_name: Veiling Bed

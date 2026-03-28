@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Inner Light
-file_dpath: Censor/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Censor/1st-Level Features/1st-Level Domain Feature
 item_id: inner-light
 item_index: '04'
 item_name: Inner Light

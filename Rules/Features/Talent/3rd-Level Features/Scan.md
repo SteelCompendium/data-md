@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Scan
-file_dpath: Talent/3rd-Level Features
+file_dpath: Features/Talent/3rd-Level Features
 item_id: scan
 item_index: '01'
 item_name: Scan

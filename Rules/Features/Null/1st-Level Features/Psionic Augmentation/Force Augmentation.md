@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Force Augmentation
-file_dpath: Null/1st-Level Features/Psionic Augmentation
+file_dpath: Features/Null/1st-Level Features/Psionic Augmentation
 item_id: force-augmentation
 item_index: 09
 item_name: Force Augmentation

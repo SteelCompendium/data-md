@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Oracular Warning
-file_dpath: Censor/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Censor/4th-Level Features/4th-Level Domain Feature
 item_id: oracular-warning
 item_index: '01'
 item_name: Oracular Warning

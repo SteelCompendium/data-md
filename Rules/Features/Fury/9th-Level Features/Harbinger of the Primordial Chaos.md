@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Harbinger of the Primordial Chaos
-file_dpath: Fury/9th-Level Features
+file_dpath: Features/Fury/9th-Level Features
 item_id: harbinger-of-the-primordial-chaos
 item_index: '02'
 item_name: Harbinger of the Primordial Chaos

@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Low Gravity
-file_dpath: Talent/8th-Level Features/8th-Level Tradition Features
+file_dpath: Features/Talent/8th-Level Features/8th-Level Tradition Features
 item_id: low-gravity
 item_index: '04'
 item_name: Low Gravity

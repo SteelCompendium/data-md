@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: 1st Level Tradition Features
-file_dpath: Talent/1st-Level Features
+file_dpath: Features/Talent/1st-Level Features
 item_id: 1st-level-tradition-features
 item_index: 08
 item_name: 1st-Level Tradition Features

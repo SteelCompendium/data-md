@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Second Album
-file_dpath: Troubadour/3rd-Level Features/3rd-Level Class Act Feature
+file_dpath: Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature
 item_id: second-album
 item_index: '01'
 item_name: Second Album

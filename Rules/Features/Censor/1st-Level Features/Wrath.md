@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Wrath
-file_dpath: Censor/1st-Level Features
+file_dpath: Features/Censor/1st-Level Features
 item_id: wrath
 item_index: '05'
 item_name: Wrath

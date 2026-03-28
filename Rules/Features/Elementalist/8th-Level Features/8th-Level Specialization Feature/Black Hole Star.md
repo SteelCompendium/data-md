@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Black Hole Star
-file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
+file_dpath: Features/Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: black-hole-star
 item_index: '01'
 item_name: Black Hole Star

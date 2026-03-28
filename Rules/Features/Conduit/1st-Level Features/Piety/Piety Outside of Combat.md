@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Piety Outside of Combat
-file_dpath: Conduit/1st-Level Features/Piety
+file_dpath: Features/Conduit/1st-Level Features/Piety
 item_id: piety-outside-of-combat
 item_index: '22'
 item_name: Piety Outside of Combat

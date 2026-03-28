@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Grand Wyrding
-file_dpath: Elementalist/9th-Level Features
+file_dpath: Features/Elementalist/9th-Level Features
 item_id: grand-wyrding
 item_index: '01'
 item_name: Grand Wyrding

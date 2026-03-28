@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Missed Cue
-file_dpath: Troubadour/3rd-Level Features/3rd-Level Class Act Feature
+file_dpath: Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature
 item_id: missed-cue
 item_index: '03'
 item_name: Missed Cue

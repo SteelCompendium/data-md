@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: A Muses Muse
-file_dpath: Troubadour/7th-Level Features
+file_dpath: Features/Troubadour/7th-Level Features
 item_id: a-muses-muse
 item_index: '01'
 item_name: A Muse's Muse

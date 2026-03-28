@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Density Augmentation
-file_dpath: Talent/1st-Level Features/Psionic Augmentation
+file_dpath: Features/Talent/1st-Level Features/Psionic Augmentation
 item_id: density-augmentation
 item_index: '18'
 item_name: Density Augmentation

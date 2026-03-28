@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Mark
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: mark
 item_index: '07'
 item_name: Mark

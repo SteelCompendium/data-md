@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Seize the Initiative
-file_dpath: Tactician/7th-Level Features
+file_dpath: Features/Tactician/7th-Level Features
 item_id: seize-the-initiative
 item_index: '04'
 item_name: Seize the Initiative

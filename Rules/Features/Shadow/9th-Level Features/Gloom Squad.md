@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Gloom Squad
-file_dpath: Shadow/9th-Level Features
+file_dpath: Features/Shadow/9th-Level Features
 item_id: gloom-squad
 item_index: '02'
 item_name: Gloom Squad

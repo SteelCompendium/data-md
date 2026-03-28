@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Pincer Movement
-file_dpath: Tactician/8th-Level Features/8th-Level Doctrine Feature
+file_dpath: Features/Tactician/8th-Level Features/8th-Level Doctrine Feature
 item_id: pincer-movement
 item_index: '02'
 item_name: Pincer Movement

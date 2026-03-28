@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Light of Revelation
-file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: light-of-revelation
 item_index: 09
 item_name: Light of Revelation

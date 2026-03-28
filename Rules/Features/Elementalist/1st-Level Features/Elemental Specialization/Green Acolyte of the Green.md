@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Green Acolyte of the Green
-file_dpath: Elementalist/1st-Level Features/Elemental Specialization
+file_dpath: Features/Elementalist/1st-Level Features/Elemental Specialization
 item_id: green-acolyte-of-the-green
 item_index: '20'
 item_name: 'Green: Acolyte of the Green'

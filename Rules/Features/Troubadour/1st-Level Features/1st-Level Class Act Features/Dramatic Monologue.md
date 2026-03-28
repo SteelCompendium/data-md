@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Dramatic Monologue
-file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: dramatic-monologue
 item_index: '05'
 item_name: Dramatic Monologue

@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Friend
-file_dpath: Shadow/2nd-Level Features/2nd-Level College Feature
+file_dpath: Features/Shadow/2nd-Level Features/2nd-Level College Feature
 item_id: friend
 item_index: '04'
 item_name: Friend!

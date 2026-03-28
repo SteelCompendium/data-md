@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Troubadour Abilities
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: troubadour-abilities
 item_index: 08
 item_name: Troubadour Abilities

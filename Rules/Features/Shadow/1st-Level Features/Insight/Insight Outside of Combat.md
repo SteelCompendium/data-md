@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Insight Outside of Combat
-file_dpath: Shadow/1st-Level Features/Insight
+file_dpath: Features/Shadow/1st-Level Features/Insight
 item_id: insight-outside-of-combat
 item_index: '01'
 item_name: Insight Outside of Combat

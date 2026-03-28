@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Surge of Insight
-file_dpath: Shadow/4th-Level Features
+file_dpath: Features/Shadow/4th-Level Features
 item_id: surge-of-insight
 item_index: '05'
 item_name: Surge of Insight

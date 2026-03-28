@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Beast Shape
-file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
 item_id: beast-shape
 item_index: '06'
 item_name: Beast Shape

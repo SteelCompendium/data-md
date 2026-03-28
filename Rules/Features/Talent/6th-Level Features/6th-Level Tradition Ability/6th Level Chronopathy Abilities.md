@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: 6th Level Chronopathy Abilities
-file_dpath: Talent/6th-Level Features/6th-Level Tradition Ability
+file_dpath: Features/Talent/6th-Level Features/6th-Level Tradition Ability
 item_id: 6th-level-chronopathy-abilities
 item_index: '03'
 item_name: 6th-Level Chronopathy Abilities

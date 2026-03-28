@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: 9th Level Metakinetic Abilities
-file_dpath: Null/9th-Level Features/9th-Level Tradition Ability
+file_dpath: Features/Null/9th-Level Features/9th-Level Tradition Ability
 item_id: 9th-level-metakinetic-abilities
 item_index: '03'
 item_name: 9th-Level Metakinetic Abilities

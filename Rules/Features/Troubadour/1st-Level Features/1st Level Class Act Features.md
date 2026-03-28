@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 1st Level Class Act Features
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: 1st-level-class-act-features
 item_index: '04'
 item_name: 1st-Level Class Act Features

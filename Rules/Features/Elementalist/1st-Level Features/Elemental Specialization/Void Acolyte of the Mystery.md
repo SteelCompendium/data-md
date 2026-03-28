@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Void Acolyte of the Mystery
-file_dpath: Elementalist/1st-Level Features/Elemental Specialization
+file_dpath: Features/Elementalist/1st-Level Features/Elemental Specialization
 item_id: void-acolyte-of-the-mystery
 item_index: '19'
 item_name: 'Void: Acolyte of the Mystery'

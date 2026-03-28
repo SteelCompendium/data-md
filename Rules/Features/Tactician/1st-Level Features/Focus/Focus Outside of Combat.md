@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Focus Outside of Combat
-file_dpath: Tactician/1st-Level Features/Focus
+file_dpath: Features/Tactician/1st-Level Features/Focus
 item_id: focus-outside-of-combat
 item_index: '04'
 item_name: Focus Outside of Combat

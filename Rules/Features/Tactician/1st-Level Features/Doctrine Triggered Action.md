@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Doctrine Triggered Action
-file_dpath: Tactician/1st-Level Features
+file_dpath: Features/Tactician/1st-Level Features
 item_id: doctrine-triggered-action
 item_index: '03'
 item_name: Doctrine Triggered Action

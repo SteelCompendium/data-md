@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Earth Acolyte of Earth
-file_dpath: Elementalist/1st-Level Features/Elemental Specialization
+file_dpath: Features/Elementalist/1st-Level Features/Elemental Specialization
 item_id: earth-acolyte-of-earth
 item_index: '21'
 item_name: 'Earth: Acolyte of Earth'

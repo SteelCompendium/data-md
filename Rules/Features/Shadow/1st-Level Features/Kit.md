@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Kit
-file_dpath: Shadow/1st-Level Features
+file_dpath: Features/Shadow/1st-Level Features
 item_id: kit
 item_index: '04'
 item_name: Kit

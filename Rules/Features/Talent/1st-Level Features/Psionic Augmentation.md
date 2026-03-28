@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Psionic Augmentation
-file_dpath: Talent/1st-Level Features
+file_dpath: Features/Talent/1st-Level Features
 item_id: psionic-augmentation
 item_index: '04'
 item_name: Psionic Augmentation

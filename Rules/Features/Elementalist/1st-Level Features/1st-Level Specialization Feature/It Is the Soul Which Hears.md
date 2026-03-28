@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: It Is the Soul Which Hears
-file_dpath: Elementalist/1st-Level Features/1st-Level Specialization Feature
+file_dpath: Features/Elementalist/1st-Level Features/1st-Level Specialization Feature
 item_id: it-is-the-soul-which-hears
 item_index: '06'
 item_name: It Is the Soul Which Hears

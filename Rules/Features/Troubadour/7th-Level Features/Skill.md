@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Skill
-file_dpath: Troubadour/7th-Level Features
+file_dpath: Features/Troubadour/7th-Level Features
 item_id: skill
 item_index: '02'
 item_name: Skill

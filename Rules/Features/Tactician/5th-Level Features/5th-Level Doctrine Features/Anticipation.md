@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Anticipation
-file_dpath: Tactician/5th-Level Features/5th-Level Doctrine Features
+file_dpath: Features/Tactician/5th-Level Features/5th-Level Doctrine Features
 item_id: anticipation
 item_index: '02'
 item_name: Anticipation

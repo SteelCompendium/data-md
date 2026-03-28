@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: My Life for Yours
-file_dpath: Censor/1st-Level Features
+file_dpath: Features/Censor/1st-Level Features
 item_id: my-life-for-yours
 item_index: '02'
 item_name: My Life for Yours

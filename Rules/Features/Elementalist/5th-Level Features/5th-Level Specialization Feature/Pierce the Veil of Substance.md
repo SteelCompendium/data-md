@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Pierce the Veil of Substance
-file_dpath: Elementalist/5th-Level Features/5th-Level Specialization Feature
+file_dpath: Features/Elementalist/5th-Level Features/5th-Level Specialization Feature
 item_id: pierce-the-veil-of-substance
 item_index: '04'
 item_name: Pierce the Veil of Substance

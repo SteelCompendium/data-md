@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Bounder
-file_dpath: Fury/5th-Level Features/5th-Level Aspect Feature
+file_dpath: Features/Fury/5th-Level Features/5th-Level Aspect Feature
 item_id: bounder
 item_index: '01'
 item_name: Bounder

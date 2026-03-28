@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Inertial Dampener
-file_dpath: Null/8th-Level Features/8th-Level Tradition Feature
+file_dpath: Features/Null/8th-Level Features/8th-Level Tradition Feature
 item_id: inertial-dampener
 item_index: '02'
 item_name: Inertial Dampener

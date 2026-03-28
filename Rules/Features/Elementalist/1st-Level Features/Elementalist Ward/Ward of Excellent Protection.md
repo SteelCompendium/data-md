@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Ward of Excellent Protection
-file_dpath: Elementalist/1st-Level Features/Elementalist Ward
+file_dpath: Features/Elementalist/1st-Level Features/Elementalist Ward
 item_id: ward-of-excellent-protection
 item_index: '02'
 item_name: Ward of Excellent Protection

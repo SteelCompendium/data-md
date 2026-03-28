@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Clarity and Strain
-file_dpath: Talent/1st-Level Features
+file_dpath: Features/Talent/1st-Level Features
 item_id: clarity-and-strain
 item_index: 09
 item_name: Clarity and Strain

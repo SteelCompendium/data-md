@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Fortress of Perfect Thought
-file_dpath: Talent/9th-Level Features
+file_dpath: Features/Talent/9th-Level Features
 item_id: fortress-of-perfect-thought
 item_index: '01'
 item_name: Fortress of Perfect Thought

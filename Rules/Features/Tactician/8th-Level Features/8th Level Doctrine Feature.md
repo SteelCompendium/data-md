@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 8th Level Doctrine Feature
-file_dpath: Tactician/8th-Level Features
+file_dpath: Features/Tactician/8th-Level Features
 item_id: 8th-level-doctrine-feature
 item_index: '02'
 item_name: 8th-Level Doctrine Feature

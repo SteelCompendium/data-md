@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Cryokinetic Mastery
-file_dpath: Null/1st-Level Features/Discipline Mastery
+file_dpath: Features/Null/1st-Level Features/Discipline Mastery
 item_id: cryokinetic-mastery
 item_index: '05'
 item_name: Cryokinetic Mastery

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: 9th Level Stormwight Abilities
-file_dpath: Fury/9th-Level Features/9th-Level Aspect Ability
+file_dpath: Features/Fury/9th-Level Features/9th-Level Aspect Ability
 item_id: 9th-level-stormwight-abilities
 item_index: '03'
 item_name: 9th-Level Stormwight Abilities

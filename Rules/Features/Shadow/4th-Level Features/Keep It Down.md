@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Keep It Down
-file_dpath: Shadow/4th-Level Features
+file_dpath: Features/Shadow/4th-Level Features
 item_id: keep-it-down
 item_index: '02'
 item_name: Keep It Down

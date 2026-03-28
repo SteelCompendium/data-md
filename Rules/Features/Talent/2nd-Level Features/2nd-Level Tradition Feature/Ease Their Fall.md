@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Ease Their Fall
-file_dpath: Talent/2nd-Level Features/2nd-Level Tradition Feature
+file_dpath: Features/Talent/2nd-Level Features/2nd-Level Tradition Feature
 item_id: ease-their-fall
 item_index: '06'
 item_name: Ease Their Fall

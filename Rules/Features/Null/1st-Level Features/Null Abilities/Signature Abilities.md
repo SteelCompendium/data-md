@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Signature Abilities
-file_dpath: Null/1st-Level Features/Null Abilities
+file_dpath: Features/Null/1st-Level Features/Null Abilities
 item_id: signature-abilities
 item_index: '03'
 item_name: Signature Abilities

@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Stalwart Icon
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Features
 item_id: stalwart-icon
 item_index: '07'
 item_name: Stalwart Icon

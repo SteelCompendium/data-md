@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Font of Essence
-file_dpath: Elementalist/4th-Level Features
+file_dpath: Features/Elementalist/4th-Level Features
 item_id: font-of-essence
 item_index: '04'
 item_name: Font of Essence

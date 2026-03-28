@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Hands of the Maker
-file_dpath: Censor/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Censor/1st-Level Features/1st-Level Domain Feature
 item_id: hands-of-the-maker
 item_index: '07'
 item_name: Hands of the Maker

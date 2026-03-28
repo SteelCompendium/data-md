@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Again
-file_dpath: Talent/1st-Level Features/1st-Level Tradition Features
+file_dpath: Features/Talent/1st-Level Features/1st-Level Tradition Features
 item_id: again
 item_index: '05'
 item_name: Again

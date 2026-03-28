@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Divine Power
-file_dpath: Conduit/10th-Level Features
+file_dpath: Features/Conduit/10th-Level Features
 item_id: divine-power
 item_index: '01'
 item_name: Divine Power

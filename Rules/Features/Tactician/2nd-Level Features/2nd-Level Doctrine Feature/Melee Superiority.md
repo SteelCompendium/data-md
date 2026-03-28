@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Melee Superiority
-file_dpath: Tactician/2nd-Level Features/2nd-Level Doctrine Feature
+file_dpath: Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature
 item_id: melee-superiority
 item_index: '06'
 item_name: Melee Superiority

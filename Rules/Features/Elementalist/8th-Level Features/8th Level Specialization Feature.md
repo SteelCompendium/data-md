@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: 8th Level Specialization Feature
-file_dpath: Elementalist/8th-Level Features
+file_dpath: Features/Elementalist/8th-Level Features
 item_id: 8th-level-specialization-feature
 item_index: '02'
 item_name: 8th-Level Specialization Feature

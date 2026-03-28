@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Discipline Outside of Combat
-file_dpath: Null/1st-Level Features/Discipline
+file_dpath: Features/Null/1st-Level Features/Discipline
 item_id: discipline-outside-of-combat
 item_index: '02'
 item_name: Discipline Outside of Combat

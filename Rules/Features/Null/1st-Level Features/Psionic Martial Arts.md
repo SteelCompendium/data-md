@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Psionic Martial Arts
-file_dpath: Null/1st-Level Features
+file_dpath: Features/Null/1st-Level Features
 item_id: psionic-martial-arts
 item_index: '07'
 item_name: Psionic Martial Arts

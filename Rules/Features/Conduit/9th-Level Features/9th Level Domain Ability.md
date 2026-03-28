@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 9th Level Domain Ability
-file_dpath: Conduit/9th-Level Features
+file_dpath: Features/Conduit/9th-Level Features
 item_id: 9th-level-domain-ability
 item_index: '01'
 item_name: 9th-Level Domain Ability

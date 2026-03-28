@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Divine Quartermaster
-file_dpath: Censor/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Censor/7th-Level Features/7th-Level Domain Feature
 item_id: divine-quartermaster
 item_index: '05'
 item_name: Divine Quartermaster

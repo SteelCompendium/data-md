@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Verbal Duel
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Duelist Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Duelist Features
 item_id: verbal-duel
 item_index: 08
 item_name: Verbal Duel

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Density Augmentation
-file_dpath: Null/1st-Level Features/Psionic Augmentation
+file_dpath: Features/Null/1st-Level Features/Psionic Augmentation
 item_id: density-augmentation
 item_index: '10'
 item_name: Density Augmentation

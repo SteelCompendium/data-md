@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Im No Threat
-file_dpath: Shadow/1st-Level Features/1st-Level College Features
+file_dpath: Features/Shadow/1st-Level Features/1st-Level College Features
 item_id: im-no-threat
 item_index: '07'
 item_name: I'm No Threat

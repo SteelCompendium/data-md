@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Quaking Earth
-file_dpath: Elementalist/4th-Level Features/Mantle Of Essence
+file_dpath: Features/Elementalist/4th-Level Features/Mantle Of Essence
 item_id: quaking-earth
 item_index: '01'
 item_name: Quaking Earth

@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: It Was Foretold
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Features
 item_id: it-was-foretold
 item_index: '04'
 item_name: It Was Foretold

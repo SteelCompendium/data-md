@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 8th Level College Feature
-file_dpath: Shadow/8th-Level Features
+file_dpath: Features/Shadow/8th-Level Features
 item_id: 8th-level-college-feature
 item_index: '01'
 item_name: 8th-Level College Feature

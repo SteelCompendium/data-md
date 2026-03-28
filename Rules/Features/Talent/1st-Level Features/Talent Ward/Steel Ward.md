@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Steel Ward
-file_dpath: Talent/1st-Level Features/Talent Ward
+file_dpath: Features/Talent/1st-Level Features/Talent Ward
 item_id: steel-ward
 item_index: '13'
 item_name: Steel Ward

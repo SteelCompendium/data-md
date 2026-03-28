@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Trickery Domain Piety and Effect
-file_dpath: Conduit/1st-Level Features/Piety/Domain Piety And Effects
+file_dpath: Features/Conduit/1st-Level Features/Piety/Domain Piety And Effects
 item_id: trickery-domain-piety-and-effect
 item_index: '38'
 item_name: Trickery Domain Piety and Effect

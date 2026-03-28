@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Heroic Abilities
-file_dpath: Null/1st-Level Features/Null Abilities
+file_dpath: Features/Null/1st-Level Features/Null Abilities
 item_id: heroic-abilities
 item_index: '04'
 item_name: Heroic Abilities

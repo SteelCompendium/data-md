@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Faiths Sword
-file_dpath: Conduit/9th-Level Features
+file_dpath: Features/Conduit/9th-Level Features
 item_id: faiths-sword
 item_index: '02'
 item_name: Faith's Sword

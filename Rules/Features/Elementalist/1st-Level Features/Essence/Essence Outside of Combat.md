@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Essence Outside of Combat
-file_dpath: Elementalist/1st-Level Features/Essence
+file_dpath: Features/Elementalist/1st-Level Features/Essence
 item_id: essence-outside-of-combat
 item_index: '17'
 item_name: Essence Outside of Combat

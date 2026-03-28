@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Perk
-file_dpath: Shadow/4th-Level Features
+file_dpath: Features/Shadow/4th-Level Features
 item_id: perk
 item_index: '01'
 item_name: Perk

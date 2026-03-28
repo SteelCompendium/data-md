@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Cinder Step
-file_dpath: Shadow/8th-Level Features/8th-Level College Feature
+file_dpath: Features/Shadow/8th-Level Features/8th-Level College Feature
 item_id: cinder-step
 item_index: '01'
 item_name: Cinder Step

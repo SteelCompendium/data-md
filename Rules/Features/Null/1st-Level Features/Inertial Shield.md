@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Inertial Shield
-file_dpath: Null/1st-Level Features
+file_dpath: Features/Null/1st-Level Features
 item_id: inertial-shield
 item_index: '01'
 item_name: Inertial Shield

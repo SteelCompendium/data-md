@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Trinity of Trickery
-file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: trinity-of-trickery
 item_index: '12'
 item_name: Trinity of Trickery

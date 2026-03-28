@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Surging Essence
-file_dpath: Elementalist/7th-Level Features
+file_dpath: Features/Elementalist/7th-Level Features
 item_id: surging-essence
 item_index: '04'
 item_name: Surging Essence

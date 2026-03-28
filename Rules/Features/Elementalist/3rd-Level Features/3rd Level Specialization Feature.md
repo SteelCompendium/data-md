@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: 3rd Level Specialization Feature
-file_dpath: Elementalist/3rd-Level Features
+file_dpath: Features/Elementalist/3rd-Level Features
 item_id: 3rd-level-specialization-feature
 item_index: '01'
 item_name: 3rd-Level Specialization Feature

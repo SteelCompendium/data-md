@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: 9th Level Exorcist Abilities
-file_dpath: Censor/9th-Level Features/9th-Level Order Ability
+file_dpath: Features/Censor/9th-Level Features/9th-Level Order Ability
 item_id: 9th-level-exorcist-abilities
 item_index: '02'
 item_name: 9th-Level Exorcist Abilities

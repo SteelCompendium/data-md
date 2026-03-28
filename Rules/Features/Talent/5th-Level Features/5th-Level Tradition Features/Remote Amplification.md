@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Remote Amplification
-file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
 item_id: remote-amplification
 item_index: '01'
 item_name: Remote Amplification

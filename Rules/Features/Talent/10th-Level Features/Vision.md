@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Vision
-file_dpath: Talent/10th-Level Features
+file_dpath: Features/Talent/10th-Level Features
 item_id: vision
 item_index: '06'
 item_name: Vision

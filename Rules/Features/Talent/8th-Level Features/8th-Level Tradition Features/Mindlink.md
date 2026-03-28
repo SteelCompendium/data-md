@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Mindlink
-file_dpath: Talent/8th-Level Features/8th-Level Tradition Features
+file_dpath: Features/Talent/8th-Level Features/8th-Level Tradition Features
 item_id: mindlink
 item_index: '02'
 item_name: Mindlink

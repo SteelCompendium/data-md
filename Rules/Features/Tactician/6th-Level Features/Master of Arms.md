@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Master of Arms
-file_dpath: Tactician/6th-Level Features
+file_dpath: Features/Tactician/6th-Level Features
 item_id: master-of-arms
 item_index: '02'
 item_name: Master of Arms

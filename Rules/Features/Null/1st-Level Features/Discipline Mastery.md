@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Discipline Mastery
-file_dpath: Null/1st-Level Features
+file_dpath: Features/Null/1st-Level Features
 item_id: discipline-mastery
 item_index: '05'
 item_name: Discipline Mastery

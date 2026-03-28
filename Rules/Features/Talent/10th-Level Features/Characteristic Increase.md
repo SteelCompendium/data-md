@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Characteristic Increase
-file_dpath: Talent/10th-Level Features
+file_dpath: Features/Talent/10th-Level Features
 item_id: characteristic-increase
 item_index: '04'
 item_name: Characteristic Increase

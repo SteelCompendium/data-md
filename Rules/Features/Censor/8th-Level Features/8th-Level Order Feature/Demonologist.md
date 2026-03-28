@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Demonologist
-file_dpath: Censor/8th-Level Features/8th-Level Order Feature
+file_dpath: Features/Censor/8th-Level Features/8th-Level Order Feature
 item_id: demonologist
 item_index: '01'
 item_name: Demonologist

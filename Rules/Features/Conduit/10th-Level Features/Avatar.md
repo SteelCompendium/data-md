@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Avatar
-file_dpath: Conduit/10th-Level Features
+file_dpath: Features/Conduit/10th-Level Features
 item_id: avatar
 item_index: '06'
 item_name: Avatar

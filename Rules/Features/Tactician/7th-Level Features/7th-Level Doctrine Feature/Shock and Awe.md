@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Shock and Awe
-file_dpath: Tactician/7th-Level Features/7th-Level Doctrine Feature
+file_dpath: Features/Tactician/7th-Level Features/7th-Level Doctrine Feature
 item_id: shock-and-awe
 item_index: '03'
 item_name: Shock and Awe

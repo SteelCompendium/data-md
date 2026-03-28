@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Discipline Mastery Improvement
-file_dpath: Null/4th-Level Features
+file_dpath: Features/Null/4th-Level Features
 item_id: discipline-mastery-improvement
 item_index: '04'
 item_name: Discipline Mastery Improvement

@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Ordained
-file_dpath: Conduit/9th-Level Features
+file_dpath: Features/Conduit/9th-Level Features
 item_id: ordained
 item_index: '03'
 item_name: Ordained

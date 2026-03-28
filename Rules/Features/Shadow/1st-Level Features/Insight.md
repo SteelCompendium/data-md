@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Insight
-file_dpath: Shadow/1st-Level Features
+file_dpath: Features/Shadow/1st-Level Features
 item_id: insight
 item_index: '05'
 item_name: Insight

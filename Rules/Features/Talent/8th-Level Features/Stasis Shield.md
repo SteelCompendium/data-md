@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Stasis Shield
-file_dpath: Talent/8th-Level Features
+file_dpath: Features/Talent/8th-Level Features
 item_id: stasis-shield
 item_index: '03'
 item_name: Stasis Shield

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Discipline in Combat
-file_dpath: Null/1st-Level Features/Discipline
+file_dpath: Features/Null/1st-Level Features/Discipline
 item_id: discipline-in-combat
 item_index: '01'
 item_name: Discipline in Combat

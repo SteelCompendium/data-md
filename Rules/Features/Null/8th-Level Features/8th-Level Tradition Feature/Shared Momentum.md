@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Shared Momentum
-file_dpath: Null/8th-Level Features/8th-Level Tradition Feature
+file_dpath: Features/Null/8th-Level Features/8th-Level Tradition Feature
 item_id: shared-momentum
 item_index: '03'
 item_name: Shared Momentum

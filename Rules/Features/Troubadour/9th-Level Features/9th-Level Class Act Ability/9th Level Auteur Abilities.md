@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: 9th Level Auteur Abilities
-file_dpath: Troubadour/9th-Level Features/9th-Level Class Act Ability
+file_dpath: Features/Troubadour/9th-Level Features/9th-Level Class Act Ability
 item_id: 9th-level-auteur-abilities
 item_index: '03'
 item_name: 9th-Level Auteur Abilities

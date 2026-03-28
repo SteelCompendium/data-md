@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Remote Assistance
-file_dpath: Talent/1st-Level Features/1st-Level Tradition Features
+file_dpath: Features/Talent/1st-Level Features/1st-Level Tradition Features
 item_id: remote-assistance
 item_index: '07'
 item_name: Remote Assistance

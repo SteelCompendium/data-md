@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Breath
-file_dpath: Elementalist/10th-Level Features
+file_dpath: Features/Elementalist/10th-Level Features
 item_id: breath
 item_index: '05'
 item_name: Breath

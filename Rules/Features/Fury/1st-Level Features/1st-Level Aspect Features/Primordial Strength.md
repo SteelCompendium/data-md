@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Primordial Strength
-file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
 item_id: primordial-strength
 item_index: '07'
 item_name: Primordial Strength

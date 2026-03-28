@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Perk
-file_dpath: Tactician/4th-Level Features
+file_dpath: Features/Tactician/4th-Level Features
 item_id: perk
 item_index: '02'
 item_name: Perk

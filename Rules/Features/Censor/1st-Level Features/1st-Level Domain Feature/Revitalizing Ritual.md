@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Revitalizing Ritual
-file_dpath: Censor/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Censor/1st-Level Features/1st-Level Domain Feature
 item_id: revitalizing-ritual
 item_index: '05'
 item_name: Revitalizing Ritual

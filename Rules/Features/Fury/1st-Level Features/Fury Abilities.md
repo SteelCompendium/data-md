@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Fury Abilities
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: fury-abilities
 item_index: '04'
 item_name: Fury Abilities

@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Word of Fate Denied
-file_dpath: Conduit/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Conduit/7th-Level Features/7th-Level Domain Feature
 item_id: word-of-fate-denied
 item_index: 08
 item_name: Word of Fate Denied

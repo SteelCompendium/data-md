@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Inspired Deception
-file_dpath: Conduit/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Conduit/1st-Level Features/1st-Level Domain Feature
 item_id: inspired-deception
 item_index: '03'
 item_name: Inspired Deception

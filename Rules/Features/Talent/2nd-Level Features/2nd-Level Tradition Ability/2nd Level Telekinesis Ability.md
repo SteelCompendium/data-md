@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: 2nd Level Telekinesis Ability
-file_dpath: Talent/2nd-Level Features/2nd-Level Tradition Ability
+file_dpath: Features/Talent/2nd-Level Features/2nd-Level Tradition Ability
 item_id: 2nd-level-telekinesis-ability
 item_index: '01'
 item_name: 2nd-Level Telekinesis Ability

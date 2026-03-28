@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 2nd Level Tradition Feature
-file_dpath: Null/2nd-Level Features
+file_dpath: Features/Null/2nd-Level Features
 item_id: 2nd-level-tradition-feature
 item_index: '02'
 item_name: 2nd-Level Tradition Feature

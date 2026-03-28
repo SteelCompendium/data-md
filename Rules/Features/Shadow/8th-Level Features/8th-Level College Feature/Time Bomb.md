@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Time Bomb
-file_dpath: Shadow/8th-Level Features/8th-Level College Feature
+file_dpath: Features/Shadow/8th-Level Features/8th-Level College Feature
 item_id: time-bomb
 item_index: '02'
 item_name: Time Bomb

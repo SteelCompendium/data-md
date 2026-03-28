@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 5th Level Domain Feature
-file_dpath: Conduit/5th-Level Features
+file_dpath: Features/Conduit/5th-Level Features
 item_id: 5th-level-domain-feature
 item_index: '01'
 item_name: 5th-Level Domain Feature

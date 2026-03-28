@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Master of Fire
-file_dpath: Elementalist/10th-Level Features/One
+file_dpath: Features/Elementalist/10th-Level Features/One
 item_id: master-of-fire
 item_index: '02'
 item_name: Master of Fire

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Elemental Absorption
-file_dpath: Null/6th-Level Features
+file_dpath: Features/Null/6th-Level Features
 item_id: elemental-absorption
 item_index: '04'
 item_name: Elemental Absorption

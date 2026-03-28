@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Relentless Hunter
-file_dpath: Fury/1st-Level Features/1st-Level Aspect Features
+file_dpath: Features/Fury/1st-Level Features/1st-Level Aspect Features
 item_id: relentless-hunter
 item_index: '04'
 item_name: Relentless Hunter

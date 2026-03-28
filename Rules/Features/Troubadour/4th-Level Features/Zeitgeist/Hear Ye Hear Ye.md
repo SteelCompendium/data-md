@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Hear Ye Hear Ye
-file_dpath: Troubadour/4th-Level Features/Zeitgeist
+file_dpath: Features/Troubadour/4th-Level Features/Zeitgeist
 item_id: hear-ye-hear-ye
 item_index: '02'
 item_name: Hear Ye, Hear Ye!

@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 6th Level Doctrine Ability
-file_dpath: Tactician/6th-Level Features
+file_dpath: Features/Tactician/6th-Level Features
 item_id: 6th-level-doctrine-ability
 item_index: '03'
 item_name: 6th-Level Doctrine Ability

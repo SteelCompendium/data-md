@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Heightened Focus
-file_dpath: Tactician/7th-Level Features
+file_dpath: Features/Tactician/7th-Level Features
 item_id: heightened-focus
 item_index: '05'
 item_name: Heightened Focus

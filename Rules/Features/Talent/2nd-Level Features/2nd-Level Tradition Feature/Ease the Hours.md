@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Ease the Hours
-file_dpath: Talent/2nd-Level Features/2nd-Level Tradition Feature
+file_dpath: Features/Talent/2nd-Level Features/2nd-Level Tradition Feature
 item_id: ease-the-hours
 item_index: '05'
 item_name: Ease the Hours

@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Wrath of the Gods
-file_dpath: Censor/10th-Level Features
+file_dpath: Features/Censor/10th-Level Features
 item_id: wrath-of-the-gods
 item_index: '05'
 item_name: Wrath of the Gods

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Immovable Object
-file_dpath: Fury/3rd-Level Features/3rd-Level Aspect Feature
+file_dpath: Features/Fury/3rd-Level Features/3rd-Level Aspect Feature
 item_id: immovable-object
 item_index: '01'
 item_name: Immovable Object

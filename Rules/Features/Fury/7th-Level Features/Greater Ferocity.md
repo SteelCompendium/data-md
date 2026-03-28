@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Greater Ferocity
-file_dpath: Fury/7th-Level Features
+file_dpath: Features/Fury/7th-Level Features
 item_id: greater-ferocity
 item_index: '04'
 item_name: Greater Ferocity

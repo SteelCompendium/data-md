@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Commanding Presence
-file_dpath: Tactician/1st-Level Features/1st-Level Doctrine Feature
+file_dpath: Features/Tactician/1st-Level Features/1st-Level Doctrine Feature
 item_id: commanding-presence
 item_index: '03'
 item_name: Commanding Presence

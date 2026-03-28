@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Characteristic Increase
-file_dpath: Censor/4th-Level Features
+file_dpath: Features/Censor/4th-Level Features
 item_id: characteristic-increase
 item_index: '04'
 item_name: Characteristic Increase

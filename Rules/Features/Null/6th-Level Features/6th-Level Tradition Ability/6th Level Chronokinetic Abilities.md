@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: 6th Level Chronokinetic Abilities
-file_dpath: Null/6th-Level Features/6th-Level Tradition Ability
+file_dpath: Features/Null/6th-Level Features/6th-Level Tradition Ability
 item_id: 6th-level-chronokinetic-abilities
 item_index: '02'
 item_name: 6th-Level Chronokinetic Abilities

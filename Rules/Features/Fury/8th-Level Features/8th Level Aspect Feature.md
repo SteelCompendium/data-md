@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 8th Level Aspect Feature
-file_dpath: Fury/8th-Level Features
+file_dpath: Features/Fury/8th-Level Features
 item_id: 8th-level-aspect-feature
 item_index: '02'
 item_name: 8th-Level Aspect Feature

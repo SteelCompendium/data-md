@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Saints Vigilance
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Features
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Features
 item_id: saints-vigilance
 item_index: 09
 item_name: Saint's Vigilance

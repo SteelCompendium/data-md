@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: 9th Level Caustic Alchemy Abilities
-file_dpath: Shadow/9th-Level Features/9th-Level College Ability
+file_dpath: Features/Shadow/9th-Level Features/9th-Level College Ability
 item_id: 9th-level-caustic-alchemy-abilities
 item_index: '03'
 item_name: 9th-Level Caustic Alchemy Abilities

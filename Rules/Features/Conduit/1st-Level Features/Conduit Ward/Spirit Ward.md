@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Spirit Ward
-file_dpath: Conduit/1st-Level Features/Conduit Ward
+file_dpath: Features/Conduit/1st-Level Features/Conduit Ward
 item_id: spirit-ward
 item_index: '21'
 item_name: Spirit Ward

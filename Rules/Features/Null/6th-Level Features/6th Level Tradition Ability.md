@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 6th Level Tradition Ability
-file_dpath: Null/6th-Level Features
+file_dpath: Features/Null/6th-Level Features
 item_id: 6th-level-tradition-ability
 item_index: '03'
 item_name: 6th-Level Tradition Ability

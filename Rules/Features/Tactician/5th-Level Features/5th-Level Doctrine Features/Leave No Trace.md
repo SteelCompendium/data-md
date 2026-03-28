@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Leave No Trace
-file_dpath: Tactician/5th-Level Features/5th-Level Doctrine Features
+file_dpath: Features/Tactician/5th-Level Features/5th-Level Doctrine Features
 item_id: leave-no-trace
 item_index: '04'
 item_name: Leave No Trace

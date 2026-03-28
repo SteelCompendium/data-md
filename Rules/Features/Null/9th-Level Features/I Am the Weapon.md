@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: I Am the Weapon
-file_dpath: Null/9th-Level Features
+file_dpath: Features/Null/9th-Level Features
 item_id: i-am-the-weapon
 item_index: '01'
 item_name: I Am the Weapon

@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Fire Acolyte of Fire
-file_dpath: Elementalist/1st-Level Features/Elemental Specialization
+file_dpath: Features/Elementalist/1st-Level Features/Elemental Specialization
 item_id: fire-acolyte-of-fire
 item_index: '18'
 item_name: 'Fire: Acolyte of Fire'

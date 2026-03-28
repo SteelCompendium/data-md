@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Power Chord
-file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: power-chord
 item_index: '02'
 item_name: Power Chord

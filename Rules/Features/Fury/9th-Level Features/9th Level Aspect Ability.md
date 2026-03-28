@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 9th Level Aspect Ability
-file_dpath: Fury/9th-Level Features
+file_dpath: Features/Fury/9th-Level Features
 item_id: 9th-level-aspect-ability
 item_index: '01'
 item_name: 9th-Level Aspect Ability

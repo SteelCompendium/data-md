@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Heroic Abilities
-file_dpath: Talent/1st-Level Features/Talent Abilities
+file_dpath: Features/Talent/1st-Level Features/Talent Abilities
 item_id: heroic-abilities
 item_index: '02'
 item_name: Heroic Abilities

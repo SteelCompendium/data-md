@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: 5th Level Specialization Feature
-file_dpath: Elementalist/5th-Level Features
+file_dpath: Features/Elementalist/5th-Level Features
 item_id: 5th-level-specialization-feature
 item_index: '01'
 item_name: 5th-Level Specialization Feature

@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Elemental Buffer
-file_dpath: Null/6th-Level Features
+file_dpath: Features/Null/6th-Level Features
 item_id: elemental-buffer
 item_index: '01'
 item_name: Elemental Buffer

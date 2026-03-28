@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Distracted
-file_dpath: Tactician/5th-Level Features/5th-Level Doctrine Features
+file_dpath: Features/Tactician/5th-Level Features/5th-Level Doctrine Features
 item_id: distracted
 item_index: '06'
 item_name: Distracted

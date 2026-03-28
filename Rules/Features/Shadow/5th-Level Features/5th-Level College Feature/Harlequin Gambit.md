@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Harlequin Gambit
-file_dpath: Shadow/5th-Level Features/5th-Level College Feature
+file_dpath: Features/Shadow/5th-Level Features/5th-Level College Feature
 item_id: harlequin-gambit
 item_index: '01'
 item_name: Harlequin Gambit

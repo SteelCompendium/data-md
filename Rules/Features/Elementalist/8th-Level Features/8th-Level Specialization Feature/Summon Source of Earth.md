@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Summon Source of Earth
-file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
+file_dpath: Features/Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: summon-source-of-earth
 item_index: '03'
 item_name: Summon Source of Earth

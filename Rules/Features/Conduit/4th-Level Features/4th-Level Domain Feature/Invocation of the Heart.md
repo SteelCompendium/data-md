@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Invocation of the Heart
-file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: invocation-of-the-heart
 item_index: '10'
 item_name: Invocation of the Heart

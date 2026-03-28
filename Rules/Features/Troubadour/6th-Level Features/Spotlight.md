@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Spotlight
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Features/Troubadour/6th-Level Features
 item_id: spotlight
 item_index: '01'
 item_name: Spotlight

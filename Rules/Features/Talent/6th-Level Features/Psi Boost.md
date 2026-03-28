@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Psi Boost
-file_dpath: Talent/6th-Level Features
+file_dpath: Features/Talent/6th-Level Features
 item_id: psi-boost
 item_index: '03'
 item_name: Psi Boost

@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Judgment
-file_dpath: Censor/1st-Level Features
+file_dpath: Features/Censor/1st-Level Features
 item_id: judgment
 item_index: '04'
 item_name: Judgment

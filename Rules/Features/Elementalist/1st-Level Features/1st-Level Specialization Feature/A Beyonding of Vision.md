@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: A Beyonding of Vision
-file_dpath: Elementalist/1st-Level Features/1st-Level Specialization Feature
+file_dpath: Features/Elementalist/1st-Level Features/1st-Level Specialization Feature
 item_id: a-beyonding-of-vision
 item_index: '07'
 item_name: A Beyonding of Vision

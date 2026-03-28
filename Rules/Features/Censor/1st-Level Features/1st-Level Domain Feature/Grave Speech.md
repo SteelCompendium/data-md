@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Grave Speech
-file_dpath: Censor/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Censor/1st-Level Features/1st-Level Domain Feature
 item_id: grave-speech
 item_index: 08
 item_name: Grave Speech

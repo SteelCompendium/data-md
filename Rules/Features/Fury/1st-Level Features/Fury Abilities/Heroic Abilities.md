@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Heroic Abilities
-file_dpath: Fury/1st-Level Features/Fury Abilities
+file_dpath: Features/Fury/1st-Level Features/Fury Abilities
 item_id: heroic-abilities
 item_index: 08
 item_name: Heroic Abilities

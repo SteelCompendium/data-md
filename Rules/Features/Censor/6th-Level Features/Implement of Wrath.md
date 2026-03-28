@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Implement of Wrath
-file_dpath: Censor/6th-Level Features
+file_dpath: Features/Censor/6th-Level Features
 item_id: implement-of-wrath
 item_index: '01'
 item_name: Implement of Wrath

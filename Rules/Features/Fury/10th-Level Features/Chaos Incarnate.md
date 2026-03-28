@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Chaos Incarnate
-file_dpath: Fury/10th-Level Features
+file_dpath: Features/Fury/10th-Level Features
 item_id: chaos-incarnate
 item_index: '06'
 item_name: Chaos Incarnate

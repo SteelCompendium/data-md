@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Entropy Ward
-file_dpath: Talent/1st-Level Features/Talent Ward
+file_dpath: Features/Talent/1st-Level Features/Talent Ward
 item_id: entropy-ward
 item_index: '12'
 item_name: Entropy Ward

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Aspect Triggered Action
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: aspect-triggered-action
 item_index: '06'
 item_name: Aspect Triggered Action

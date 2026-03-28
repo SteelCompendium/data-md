@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: 6th Level Caustic Alchemy Abilities
-file_dpath: Shadow/6th-Level Features/6th-Level College Ability
+file_dpath: Features/Shadow/6th-Level Features/6th-Level College Ability
 item_id: 6th-level-caustic-alchemy-abilities
 item_index: '03'
 item_name: 6th-Level Caustic Alchemy Abilities

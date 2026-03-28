@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: A Conversation With Fire
-file_dpath: Elementalist/3rd-Level Features/3rd-Level Specialization Feature
+file_dpath: Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature
 item_id: a-conversation-with-fire
 item_index: '04'
 item_name: A Conversation With Fire

@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Vanishing Ward
-file_dpath: Talent/1st-Level Features/Talent Ward
+file_dpath: Features/Talent/1st-Level Features/Talent Ward
 item_id: vanishing-ward
 item_index: '11'
 item_name: Vanishing Ward

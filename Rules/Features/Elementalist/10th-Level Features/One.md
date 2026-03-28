@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: One
-file_dpath: Elementalist/10th-Level Features
+file_dpath: Features/Elementalist/10th-Level Features
 item_id: one
 item_index: '06'
 item_name: One

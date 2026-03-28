@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: 6th Level College Ability
-file_dpath: Shadow/6th-Level Features
+file_dpath: Features/Shadow/6th-Level Features
 item_id: 6th-level-college-ability
 item_index: '02'
 item_name: 6th-Level College Ability

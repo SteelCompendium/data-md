@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Signature Abilities
-file_dpath: Conduit/1st-Level Features/Conduit Abilities
+file_dpath: Features/Conduit/1st-Level Features/Conduit Abilities
 item_id: signature-abilities
 item_index: '25'
 item_name: Signature Abilities

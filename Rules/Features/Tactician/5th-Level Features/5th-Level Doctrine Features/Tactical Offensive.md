@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Tactical Offensive
-file_dpath: Tactician/5th-Level Features/5th-Level Doctrine Features
+file_dpath: Features/Tactician/5th-Level Features/5th-Level Doctrine Features
 item_id: tactical-offensive
 item_index: '03'
 item_name: Tactical Offensive

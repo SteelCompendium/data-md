@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: Skill
-file_dpath: Censor/10th-Level Features
+file_dpath: Features/Censor/10th-Level Features
 item_id: skill
 item_index: '02'
 item_name: Skill

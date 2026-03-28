@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Medley
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Virtuoso Features
 item_id: medley
 item_index: '07'
 item_name: Medley

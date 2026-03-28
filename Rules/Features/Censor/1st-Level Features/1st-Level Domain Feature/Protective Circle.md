@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Protective Circle
-file_dpath: Censor/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Censor/1st-Level Features/1st-Level Domain Feature
 item_id: protective-circle
 item_index: '06'
 item_name: Protective Circle

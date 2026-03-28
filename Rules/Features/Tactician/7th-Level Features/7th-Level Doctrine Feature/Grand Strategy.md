@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Grand Strategy
-file_dpath: Tactician/7th-Level Features/7th-Level Doctrine Feature
+file_dpath: Features/Tactician/7th-Level Features/7th-Level Doctrine Feature
 item_id: grand-strategy
 item_index: '01'
 item_name: Grand Strategy

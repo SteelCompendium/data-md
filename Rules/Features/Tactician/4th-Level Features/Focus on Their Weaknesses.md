@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Focus on Their Weaknesses
-file_dpath: Tactician/4th-Level Features
+file_dpath: Features/Tactician/4th-Level Features
 item_id: focus-on-their-weaknesses
 item_index: '05'
 item_name: Focus on Their Weaknesses

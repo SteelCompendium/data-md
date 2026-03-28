@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Enchantment of Celerity
-file_dpath: Elementalist/1st-Level Features/Enchantment
+file_dpath: Features/Elementalist/1st-Level Features/Enchantment
 item_id: enchantment-of-celerity
 item_index: '11'
 item_name: Enchantment of Celerity

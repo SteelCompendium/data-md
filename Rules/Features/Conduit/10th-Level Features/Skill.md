@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Skill
-file_dpath: Conduit/10th-Level Features
+file_dpath: Features/Conduit/10th-Level Features
 item_id: skill
 item_index: '03'
 item_name: Skill

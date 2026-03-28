@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: See Your Enemies Driven Before You
-file_dpath: Tactician/8th-Level Features/8th-Level Doctrine Feature
+file_dpath: Features/Tactician/8th-Level Features/8th-Level Doctrine Feature
 item_id: see-your-enemies-driven-before-you
 item_index: '03'
 item_name: See Your Enemies Driven Before You

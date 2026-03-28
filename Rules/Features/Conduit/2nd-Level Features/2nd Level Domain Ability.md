@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 2nd Level Domain Ability
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Features/Conduit/2nd-Level Features
 item_id: 2nd-level-domain-ability
 item_index: '01'
 item_name: 2nd-Level Domain Ability

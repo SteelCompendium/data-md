@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: trait
 file_basename: Death Pool
-file_dpath: Shadow/10th-Level Features
+file_dpath: Features/Shadow/10th-Level Features
 item_id: death-pool
 item_index: '07'
 item_name: Death Pool

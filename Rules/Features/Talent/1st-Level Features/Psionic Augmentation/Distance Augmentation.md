@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Distance Augmentation
-file_dpath: Talent/1st-Level Features/Psionic Augmentation
+file_dpath: Features/Talent/1st-Level Features/Psionic Augmentation
 item_id: distance-augmentation
 item_index: '14'
 item_name: Distance Augmentation

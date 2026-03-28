@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Ward of Delightful Consequences
-file_dpath: Elementalist/1st-Level Features/Elementalist Ward
+file_dpath: Features/Elementalist/1st-Level Features/Elementalist Ward
 item_id: ward-of-delightful-consequences
 item_index: '04'
 item_name: Ward of Delightful Consequences

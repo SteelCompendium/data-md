@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Bait and Ambush
-file_dpath: Tactician/8th-Level Features/8th-Level Doctrine Feature
+file_dpath: Features/Tactician/8th-Level Features/8th-Level Doctrine Feature
 item_id: bait-and-ambush
 item_index: '01'
 item_name: Bait and Ambush

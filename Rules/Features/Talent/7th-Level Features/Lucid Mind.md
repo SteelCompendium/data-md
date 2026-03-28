@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Lucid Mind
-file_dpath: Talent/7th-Level Features
+file_dpath: Features/Talent/7th-Level Features
 item_id: lucid-mind
 item_index: '02'
 item_name: Lucid Mind

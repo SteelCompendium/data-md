@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Master of Void
-file_dpath: Elementalist/10th-Level Features/One
+file_dpath: Features/Elementalist/10th-Level Features/One
 item_id: master-of-void
 item_index: '01'
 item_name: Master of Void

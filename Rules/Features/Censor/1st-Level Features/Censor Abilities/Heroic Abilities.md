@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Heroic Abilities
-file_dpath: Censor/1st-Level Features/Censor Abilities
+file_dpath: Features/Censor/1st-Level Features/Censor Abilities
 item_id: heroic-abilities
 item_index: '16'
 item_name: Heroic Abilities

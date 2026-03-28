@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: 3rd Level Aspect Feature
-file_dpath: Fury/3rd-Level Features
+file_dpath: Features/Fury/3rd-Level Features
 item_id: 3rd-level-aspect-feature
 item_index: '01'
 item_name: 3rd-Level Aspect Feature

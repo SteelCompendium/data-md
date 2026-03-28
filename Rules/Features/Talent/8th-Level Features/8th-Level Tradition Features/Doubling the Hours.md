@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Doubling the Hours
-file_dpath: Talent/8th-Level Features/8th-Level Tradition Features
+file_dpath: Features/Talent/8th-Level Features/8th-Level Tradition Features
 item_id: doubling-the-hours
 item_index: '01'
 item_name: Doubling the Hours

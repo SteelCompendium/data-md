@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: 9th Level Insurgent Abilities
-file_dpath: Tactician/9th-Level Features/9th-Level Doctrine Ability
+file_dpath: Features/Tactician/9th-Level Features/9th-Level Doctrine Ability
 item_id: 9th-level-insurgent-abilities
 item_index: '01'
 item_name: 9th-Level Insurgent Abilities

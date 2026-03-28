@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Drama Outside of Combat
-file_dpath: Troubadour/1st-Level Features/Drama
+file_dpath: Features/Troubadour/1st-Level Features/Drama
 item_id: drama-outside-of-combat
 item_index: 09
 item_name: Drama Outside of Combat

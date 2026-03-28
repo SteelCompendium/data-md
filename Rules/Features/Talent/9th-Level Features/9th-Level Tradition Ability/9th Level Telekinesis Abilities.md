@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: 9th Level Telekinesis Abilities
-file_dpath: Talent/9th-Level Features/9th-Level Tradition Ability
+file_dpath: Features/Talent/9th-Level Features/9th-Level Tradition Ability
 item_id: 9th-level-telekinesis-abilities
 item_index: '02'
 item_name: 9th-Level Telekinesis Abilities

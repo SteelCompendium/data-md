@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: 6th Level Virtuoso Abilities
-file_dpath: Troubadour/6th-Level Features/6th-Level Class Act Ability
+file_dpath: Features/Troubadour/6th-Level Features/6th-Level Class Act Ability
 item_id: 6th-level-virtuoso-abilities
 item_index: '01'
 item_name: 6th-Level Virtuoso Abilities

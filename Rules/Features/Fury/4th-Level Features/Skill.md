@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Skill
-file_dpath: Fury/4th-Level Features
+file_dpath: Features/Fury/4th-Level Features
 item_id: skill
 item_index: '03'
 item_name: Skill

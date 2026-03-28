@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Marauder of the Primordial Chaos
-file_dpath: Fury/6th-Level Features
+file_dpath: Features/Fury/6th-Level Features
 item_id: marauder-of-the-primordial-chaos
 item_index: '02'
 item_name: Marauder of the Primordial Chaos

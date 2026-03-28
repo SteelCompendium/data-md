@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Faithfuls Reward
-file_dpath: Conduit/7th-Level Features
+file_dpath: Features/Conduit/7th-Level Features
 item_id: faithfuls-reward
 item_index: '01'
 item_name: Faithful's Reward

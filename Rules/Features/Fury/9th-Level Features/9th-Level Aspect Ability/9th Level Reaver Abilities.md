@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: 9th Level Reaver Abilities
-file_dpath: Fury/9th-Level Features/9th-Level Aspect Ability
+file_dpath: Features/Fury/9th-Level Features/9th-Level Aspect Ability
 item_id: 9th-level-reaver-abilities
 item_index: '02'
 item_name: 9th-Level Reaver Abilities

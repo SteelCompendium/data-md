@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: 2nd Level Caustic Alchemy Ability
-file_dpath: Shadow/2nd-Level Features/2nd-Level College Ability
+file_dpath: Features/Shadow/2nd-Level Features/2nd-Level College Ability
 item_id: 2nd-level-caustic-alchemy-ability
 item_index: '03'
 item_name: 2nd-Level Caustic Alchemy Ability

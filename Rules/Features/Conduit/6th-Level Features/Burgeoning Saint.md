@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Burgeoning Saint
-file_dpath: Conduit/6th-Level Features
+file_dpath: Features/Conduit/6th-Level Features
 item_id: burgeoning-saint
 item_index: '03'
 item_name: Burgeoning Saint

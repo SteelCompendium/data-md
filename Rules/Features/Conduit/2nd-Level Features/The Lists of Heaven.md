@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: The Lists of Heaven
-file_dpath: Conduit/2nd-Level Features
+file_dpath: Features/Conduit/2nd-Level Features
 item_id: the-lists-of-heaven
 item_index: '04'
 item_name: The Lists of Heaven

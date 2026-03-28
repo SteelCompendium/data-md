@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 8th Level Domain Feature
-file_dpath: Conduit/8th-Level Features
+file_dpath: Features/Conduit/8th-Level Features
 item_id: 8th-level-domain-feature
 item_index: '01'
 item_name: 8th-Level Domain Feature

@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Drama in Combat
-file_dpath: Troubadour/1st-Level Features/Drama
+file_dpath: Features/Troubadour/1st-Level Features/Drama
 item_id: drama-in-combat
 item_index: 08
 item_name: Drama in Combat

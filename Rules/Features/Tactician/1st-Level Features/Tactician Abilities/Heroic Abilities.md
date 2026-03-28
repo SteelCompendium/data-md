@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Heroic Abilities
-file_dpath: Tactician/1st-Level Features/Tactician Abilities
+file_dpath: Features/Tactician/1st-Level Features/Tactician Abilities
 item_id: heroic-abilities
 item_index: '06'
 item_name: Heroic Abilities

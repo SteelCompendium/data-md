@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Perk
-file_dpath: Talent/4th-Level Features
+file_dpath: Features/Talent/4th-Level Features
 item_id: perk
 item_index: '02'
 item_name: Perk

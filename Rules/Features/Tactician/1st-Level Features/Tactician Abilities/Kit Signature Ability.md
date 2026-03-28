@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Kit Signature Ability
-file_dpath: Tactician/1st-Level Features/Tactician Abilities
+file_dpath: Features/Tactician/1st-Level Features/Tactician Abilities
 item_id: kit-signature-ability
 item_index: '07'
 item_name: Kit Signature Ability

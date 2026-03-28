@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Prayer of Distance
-file_dpath: Conduit/1st-Level Features/Prayer
+file_dpath: Features/Conduit/1st-Level Features/Prayer
 item_id: prayer-of-distance
 item_index: '15'
 item_name: Prayer of Distance

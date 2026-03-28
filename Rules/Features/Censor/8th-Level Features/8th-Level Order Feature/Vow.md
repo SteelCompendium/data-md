@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Vow
-file_dpath: Censor/8th-Level Features/8th-Level Order Feature
+file_dpath: Features/Censor/8th-Level Features/8th-Level Order Feature
 item_id: vow
 item_index: '03'
 item_name: Vow

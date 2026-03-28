@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Essence in Combat
-file_dpath: Elementalist/1st-Level Features/Essence
+file_dpath: Features/Elementalist/1st-Level Features/Essence
 item_id: essence-in-combat
 item_index: '16'
 item_name: Essence in Combat

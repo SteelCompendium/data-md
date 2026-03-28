@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Prayer of Destruction
-file_dpath: Conduit/1st-Level Features/Prayer
+file_dpath: Features/Conduit/1st-Level Features/Prayer
 item_id: prayer-of-destruction
 item_index: '14'
 item_name: Prayer of Destruction

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Inescapable Wrath
-file_dpath: Fury/2nd-Level Features/2nd-Level Aspect Feature
+file_dpath: Features/Fury/2nd-Level Features/2nd-Level Aspect Feature
 item_id: inescapable-wrath
 item_index: '02'
 item_name: Inescapable Wrath

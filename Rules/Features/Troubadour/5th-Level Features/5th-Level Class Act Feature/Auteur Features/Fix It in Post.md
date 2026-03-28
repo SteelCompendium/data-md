@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Fix It in Post
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Auteur Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Auteur Features
 item_id: fix-it-in-post
 item_index: '04'
 item_name: Fix It in Post

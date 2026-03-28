@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Cascading Strain
-file_dpath: Talent/7th-Level Features
+file_dpath: Features/Talent/7th-Level Features
 item_id: cascading-strain
 item_index: '01'
 item_name: Cascading Strain

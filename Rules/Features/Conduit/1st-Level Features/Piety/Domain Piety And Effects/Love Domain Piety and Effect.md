@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Love Domain Piety and Effect
-file_dpath: Conduit/1st-Level Features/Piety/Domain Piety And Effects
+file_dpath: Features/Conduit/1st-Level Features/Piety/Domain Piety And Effects
 item_id: love-domain-piety-and-effect
 item_index: '34'
 item_name: Love Domain Piety and Effect

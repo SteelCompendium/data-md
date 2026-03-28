@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: 8th Level Tradition Feature
-file_dpath: Null/8th-Level Features
+file_dpath: Features/Null/8th-Level Features
 item_id: 8th-level-tradition-feature
 item_index: '02'
 item_name: 8th-Level Tradition Feature

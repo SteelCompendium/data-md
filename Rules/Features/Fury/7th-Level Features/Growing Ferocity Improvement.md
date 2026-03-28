@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Growing Ferocity Improvement
-file_dpath: Fury/7th-Level Features
+file_dpath: Features/Fury/7th-Level Features
 item_id: growing-ferocity-improvement
 item_index: '05'
 item_name: Growing Ferocity Improvement

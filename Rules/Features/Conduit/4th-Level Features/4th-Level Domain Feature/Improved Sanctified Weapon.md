@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Improved Sanctified Weapon
-file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: improved-sanctified-weapon
 item_index: '05'
 item_name: Improved Sanctified Weapon

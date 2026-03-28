@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Domain Piety and Effects
-file_dpath: Conduit/1st-Level Features/Piety
+file_dpath: Features/Conduit/1st-Level Features/Piety
 item_id: domain-piety-and-effects
 item_index: '23'
 item_name: Domain Piety and Effects

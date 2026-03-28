@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Blessing of Fortunate Weather
-file_dpath: Censor/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Censor/1st-Level Features/1st-Level Domain Feature
 item_id: blessing-of-fortunate-weather
 item_index: '01'
 item_name: Blessing of Fortunate Weather

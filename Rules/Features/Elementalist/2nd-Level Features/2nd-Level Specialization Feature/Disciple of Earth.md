@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Disciple of Earth
-file_dpath: Elementalist/2nd-Level Features/2nd-Level Specialization Feature
+file_dpath: Features/Elementalist/2nd-Level Features/2nd-Level Specialization Feature
 item_id: disciple-of-earth
 item_index: '03'
 item_name: Disciple of Earth

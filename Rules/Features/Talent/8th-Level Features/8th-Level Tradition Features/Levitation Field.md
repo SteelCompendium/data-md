@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Levitation Field
-file_dpath: Talent/8th-Level Features/8th-Level Tradition Features
+file_dpath: Features/Talent/8th-Level Features/8th-Level Tradition Features
 item_id: levitation-field
 item_index: '03'
 item_name: Levitation Field

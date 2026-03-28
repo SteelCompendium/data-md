@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: 2nd Level Stormwight Ability
-file_dpath: Fury/2nd-Level Features/2nd-Level Aspect Ability
+file_dpath: Features/Fury/2nd-Level Features/2nd-Level Aspect Ability
 item_id: 2nd-level-stormwight-ability
 item_index: '04'
 item_name: 2nd-Level Stormwight Ability

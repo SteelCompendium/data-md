@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Class Act Triggered Action
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Features/Troubadour/1st-Level Features
 item_id: class-act-triggered-action
 item_index: '05'
 item_name: Class Act Triggered Action

@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Perk
-file_dpath: Fury/2nd-Level Features
+file_dpath: Features/Fury/2nd-Level Features
 item_id: perk
 item_index: '01'
 item_name: Perk

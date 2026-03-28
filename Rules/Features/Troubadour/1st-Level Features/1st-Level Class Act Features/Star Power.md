@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Star Power
-file_dpath: Troubadour/1st-Level Features/1st-Level Class Act Features
+file_dpath: Features/Troubadour/1st-Level Features/1st-Level Class Act Features
 item_id: star-power
 item_index: '06'
 item_name: Star Power

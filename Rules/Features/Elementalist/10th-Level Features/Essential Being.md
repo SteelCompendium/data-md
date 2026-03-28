@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Essential Being
-file_dpath: Elementalist/10th-Level Features
+file_dpath: Features/Elementalist/10th-Level Features
 item_id: essential-being
 item_index: '02'
 item_name: Essential Being

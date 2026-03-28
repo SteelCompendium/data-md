@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Deleted Scene
-file_dpath: Troubadour/8th-Level Features/8th-Level Class Act Feature
+file_dpath: Features/Troubadour/8th-Level Features/8th-Level Class Act Feature
 item_id: deleted-scene
 item_index: '03'
 item_name: Deleted Scene

@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Coat the Blade
-file_dpath: Shadow/1st-Level Features/1st-Level College Features
+file_dpath: Features/Shadow/1st-Level Features/1st-Level College Features
 item_id: coat-the-blade
 item_index: '06'
 item_name: Coat the Blade

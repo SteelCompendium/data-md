@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Mantle of Quintessence
-file_dpath: Elementalist/7th-Level Features
+file_dpath: Features/Elementalist/7th-Level Features
 item_id: mantle-of-quintessence
 item_index: '01'
 item_name: Mantle of Quintessence

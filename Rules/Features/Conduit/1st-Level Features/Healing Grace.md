@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Healing Grace
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: healing-grace
 item_index: '05'
 item_name: Healing Grace

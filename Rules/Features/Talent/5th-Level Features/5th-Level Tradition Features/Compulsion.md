@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Compulsion
-file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
 item_id: compulsion
 item_index: '06'
 item_name: Compulsion

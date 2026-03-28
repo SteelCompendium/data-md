@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: subtrait
 file_basename: Metakinetic Mastery
-file_dpath: Null/1st-Level Features/Discipline Mastery
+file_dpath: Features/Null/1st-Level Features/Discipline Mastery
 item_id: metakinetic-mastery
 item_index: '06'
 item_name: Metakinetic Mastery

@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: 1st Level Domain Feature
-file_dpath: Conduit/1st-Level Features
+file_dpath: Features/Conduit/1st-Level Features
 item_id: 1st-level-domain-feature
 item_index: '01'
 item_name: 1st-Level Domain Feature

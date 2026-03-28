@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Omnisensory
-file_dpath: Talent/10th-Level Features
+file_dpath: Features/Talent/10th-Level Features
 item_id: omnisensory
 item_index: '02'
 item_name: Omnisensory

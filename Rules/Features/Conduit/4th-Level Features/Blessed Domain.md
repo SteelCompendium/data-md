@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: trait
 file_basename: Blessed Domain
-file_dpath: Conduit/4th-Level Features
+file_dpath: Features/Conduit/4th-Level Features
 item_id: blessed-domain
 item_index: '05'
 item_name: Blessed Domain

@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Zeitgeist
-file_dpath: Troubadour/4th-Level Features
+file_dpath: Features/Troubadour/4th-Level Features
 item_id: zeitgeist
 item_index: '05'
 item_name: Zeitgeist

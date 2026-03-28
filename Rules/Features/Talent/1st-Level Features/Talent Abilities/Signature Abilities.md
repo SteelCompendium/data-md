@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Signature Abilities
-file_dpath: Talent/1st-Level Features/Talent Abilities
+file_dpath: Features/Talent/1st-Level Features/Talent Abilities
 item_id: signature-abilities
 item_index: '01'
 item_name: Signature Abilities

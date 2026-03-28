@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: New 9 Essence Ability
-file_dpath: Elementalist/6th-Level Features
+file_dpath: Features/Elementalist/6th-Level Features
 item_id: new-9-essence-ability
 item_index: '03'
 item_name: New 9-Essence Ability

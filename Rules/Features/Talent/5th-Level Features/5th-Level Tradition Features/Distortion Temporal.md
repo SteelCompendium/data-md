@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Distortion Temporal
-file_dpath: Talent/5th-Level Features/5th-Level Tradition Features
+file_dpath: Features/Talent/5th-Level Features/5th-Level Tradition Features
 item_id: distortion-temporal
 item_index: '03'
 item_name: Distortion Temporal

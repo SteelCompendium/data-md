@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Force Augmentation
-file_dpath: Talent/1st-Level Features/Psionic Augmentation
+file_dpath: Features/Talent/1st-Level Features/Psionic Augmentation
 item_id: force-augmentation
 item_index: '17'
 item_name: Force Augmentation

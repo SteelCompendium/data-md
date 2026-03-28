@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Allow Me to Introduce Tonights Players
-file_dpath: Troubadour/2nd-Level Features/Invocation
+file_dpath: Features/Troubadour/2nd-Level Features/Invocation
 item_id: allow-me-to-introduce-tonights-players
 item_index: '06'
 item_name: Allow Me to Introduce Tonight's Players

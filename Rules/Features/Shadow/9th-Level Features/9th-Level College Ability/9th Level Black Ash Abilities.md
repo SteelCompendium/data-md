@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: 9th Level Black Ash Abilities
-file_dpath: Shadow/9th-Level Features/9th-Level College Ability
+file_dpath: Features/Shadow/9th-Level Features/9th-Level College Ability
 item_id: 9th-level-black-ash-abilities
 item_index: '02'
 item_name: 9th-Level Black Ash Abilities

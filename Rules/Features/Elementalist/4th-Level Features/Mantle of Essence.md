@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: trait
 file_basename: Mantle of Essence
-file_dpath: Elementalist/4th-Level Features
+file_dpath: Features/Elementalist/4th-Level Features
 item_id: mantle-of-essence
 item_index: '05'
 item_name: Mantle of Essence

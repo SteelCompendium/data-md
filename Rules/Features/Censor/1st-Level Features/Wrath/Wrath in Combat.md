@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Wrath in Combat
-file_dpath: Censor/1st-Level Features/Wrath
+file_dpath: Features/Censor/1st-Level Features/Wrath
 item_id: wrath-in-combat
 item_index: '14'
 item_name: Wrath in Combat

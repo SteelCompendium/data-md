@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: subtrait
 file_basename: Strongest There Is
-file_dpath: Fury/8th-Level Features/8th-Level Aspect Feature
+file_dpath: Features/Fury/8th-Level Features/8th-Level Aspect Feature
 item_id: strongest-there-is
 item_index: '02'
 item_name: Strongest There Is

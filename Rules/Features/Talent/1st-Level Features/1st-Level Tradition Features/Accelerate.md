@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Accelerate
-file_dpath: Talent/1st-Level Features/1st-Level Tradition Features
+file_dpath: Features/Talent/1st-Level Features/1st-Level Tradition Features
 item_id: accelerate
 item_index: '04'
 item_name: Accelerate

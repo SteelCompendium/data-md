@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: Ride the Lightning
-file_dpath: Censor/7th-Level Features/7th-Level Domain Feature
+file_dpath: Features/Censor/7th-Level Features/7th-Level Domain Feature
 item_id: ride-the-lightning
 item_index: 09
 item_name: Ride the Lightning

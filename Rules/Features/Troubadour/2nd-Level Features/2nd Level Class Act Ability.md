@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 2nd Level Class Act Ability
-file_dpath: Troubadour/2nd-Level Features
+file_dpath: Features/Troubadour/2nd-Level Features
 item_id: 2nd-level-class-act-ability
 item_index: '04'
 item_name: 2nd-Level Class Act Ability

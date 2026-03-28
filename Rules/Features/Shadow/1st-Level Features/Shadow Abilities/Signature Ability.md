@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Signature Ability
-file_dpath: Shadow/1st-Level Features/Shadow Abilities
+file_dpath: Features/Shadow/1st-Level Features/Shadow Abilities
 item_id: signature-ability
 item_index: '04'
 item_name: Signature Ability

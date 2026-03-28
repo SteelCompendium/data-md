@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: Grandmaster of Arms
-file_dpath: Tactician/9th-Level Features
+file_dpath: Features/Tactician/9th-Level Features
 item_id: grandmaster-of-arms
 item_index: '02'
 item_name: Grandmaster of Arms

@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: subtrait
 file_basename: Repulsive Ward
-file_dpath: Talent/1st-Level Features/Talent Ward
+file_dpath: Features/Talent/1st-Level Features/Talent Ward
 item_id: repulsive-ward
 item_index: '10'
 item_name: Repulsive Ward

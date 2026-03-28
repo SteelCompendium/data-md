@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Covert Operations
-file_dpath: Tactician/1st-Level Features/1st-Level Doctrine Feature
+file_dpath: Features/Tactician/1st-Level Features/1st-Level Doctrine Feature
 item_id: covert-operations
 item_index: '01'
 item_name: Covert Operations

@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: True Focus
-file_dpath: Tactician/10th-Level Features
+file_dpath: Features/Tactician/10th-Level Features
 item_id: true-focus
 item_index: '05'
 item_name: True Focus

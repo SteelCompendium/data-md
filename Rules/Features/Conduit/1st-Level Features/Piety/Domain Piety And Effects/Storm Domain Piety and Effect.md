@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Storm Domain Piety and Effect
-file_dpath: Conduit/1st-Level Features/Piety/Domain Piety And Effects
+file_dpath: Features/Conduit/1st-Level Features/Piety/Domain Piety And Effects
 item_id: storm-domain-piety-and-effect
 item_index: '36'
 item_name: Storm Domain Piety and Effect

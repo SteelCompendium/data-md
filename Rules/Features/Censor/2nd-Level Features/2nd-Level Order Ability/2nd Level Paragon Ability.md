@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: subtrait
 file_basename: 2nd Level Paragon Ability
-file_dpath: Censor/2nd-Level Features/2nd-Level Order Ability
+file_dpath: Features/Censor/2nd-Level Features/2nd-Level Order Ability
 item_id: 2nd-level-paragon-ability
 item_index: '03'
 item_name: 2nd-Level Paragon Ability

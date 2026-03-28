@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Characteristic Increase
-file_dpath: Troubadour/7th-Level Features
+file_dpath: Features/Troubadour/7th-Level Features
 item_id: characteristic-increase
 item_index: '03'
 item_name: Characteristic Increase

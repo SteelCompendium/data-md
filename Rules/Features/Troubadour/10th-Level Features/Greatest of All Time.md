@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: Greatest of All Time
-file_dpath: Troubadour/10th-Level Features
+file_dpath: Features/Troubadour/10th-Level Features
 item_id: greatest-of-all-time
 item_index: '06'
 item_name: Greatest of All Time

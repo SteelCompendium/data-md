@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 6th Level Class Act Ability
-file_dpath: Troubadour/6th-Level Features
+file_dpath: Features/Troubadour/6th-Level Features
 item_id: 6th-level-class-act-ability
 item_index: '03'
 item_name: 6th-Level Class Act Ability

@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Latest Goss
-file_dpath: Troubadour/4th-Level Features/Zeitgeist
+file_dpath: Features/Troubadour/4th-Level Features/Zeitgeist
 item_id: latest-goss
 item_index: '03'
 item_name: Latest Goss

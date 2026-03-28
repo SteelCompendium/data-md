@@ -3,7 +3,7 @@ action_type: feature
 class: shadow
 feature_type: subtrait
 file_basename: Heroic Abilities
-file_dpath: Shadow/1st-Level Features/Shadow Abilities
+file_dpath: Features/Shadow/1st-Level Features/Shadow Abilities
 item_id: heroic-abilities
 item_index: '03'
 item_name: Heroic Abilities

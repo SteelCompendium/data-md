@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Revitalizing Ritual
-file_dpath: Conduit/1st-Level Features/1st-Level Domain Feature
+file_dpath: Features/Conduit/1st-Level Features/1st-Level Domain Feature
 item_id: revitalizing-ritual
 item_index: '05'
 item_name: Revitalizing Ritual

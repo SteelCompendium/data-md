@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 5th Level Doctrine Features
-file_dpath: Tactician/5th-Level Features
+file_dpath: Features/Tactician/5th-Level Features
 item_id: 5th-level-doctrine-features
 item_index: '01'
 item_name: 5th-Level Doctrine Features

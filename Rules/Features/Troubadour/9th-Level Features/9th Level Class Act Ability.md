@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: trait
 file_basename: 9th Level Class Act Ability
-file_dpath: Troubadour/9th-Level Features
+file_dpath: Features/Troubadour/9th-Level Features
 item_id: 9th-level-class-act-ability
 item_index: '02'
 item_name: 9th-Level Class Act Ability

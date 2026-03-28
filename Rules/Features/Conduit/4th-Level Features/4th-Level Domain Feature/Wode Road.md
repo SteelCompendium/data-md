@@ -3,7 +3,7 @@ action_type: feature
 class: conduit
 feature_type: subtrait
 file_basename: Wode Road
-file_dpath: Conduit/4th-Level Features/4th-Level Domain Feature
+file_dpath: Features/Conduit/4th-Level Features/4th-Level Domain Feature
 item_id: wode-road
 item_index: '03'
 item_name: Wode Road

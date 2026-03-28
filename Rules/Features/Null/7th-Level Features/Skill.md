@@ -3,7 +3,7 @@ action_type: feature
 class: 'null'
 feature_type: trait
 file_basename: Skill
-file_dpath: Null/7th-Level Features
+file_dpath: Features/Null/7th-Level Features
 item_id: skill
 item_index: '01'
 item_name: Skill

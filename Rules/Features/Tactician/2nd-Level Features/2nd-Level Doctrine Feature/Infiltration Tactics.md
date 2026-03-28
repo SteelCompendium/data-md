@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: subtrait
 file_basename: Infiltration Tactics
-file_dpath: Tactician/2nd-Level Features/2nd-Level Doctrine Feature
+file_dpath: Features/Tactician/2nd-Level Features/2nd-Level Doctrine Feature
 item_id: infiltration-tactics
 item_index: '05'
 item_name: Infiltration Tactics

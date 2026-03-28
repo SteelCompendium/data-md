@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: Distance Is Only Memory
-file_dpath: Elementalist/3rd-Level Features/3rd-Level Specialization Feature
+file_dpath: Features/Elementalist/3rd-Level Features/3rd-Level Specialization Feature
 item_id: distance-is-only-memory
 item_index: '02'
 item_name: Distance Is Only Memory

@@ -3,7 +3,7 @@ action_type: feature
 class: censor
 feature_type: trait
 file_basename: 7th Level Domain Feature
-file_dpath: Censor/7th-Level Features
+file_dpath: Features/Censor/7th-Level Features
 item_id: 7th-level-domain-feature
 item_index: '03'
 item_name: 7th-Level Domain Feature

@@ -3,7 +3,7 @@ action_type: feature
 class: elementalist
 feature_type: subtrait
 file_basename: The Flame Primordial
-file_dpath: Elementalist/8th-Level Features/8th-Level Specialization Feature
+file_dpath: Features/Elementalist/8th-Level Features/8th-Level Specialization Feature
 item_id: the-flame-primordial
 item_index: '04'
 item_name: The Flame Primordial
