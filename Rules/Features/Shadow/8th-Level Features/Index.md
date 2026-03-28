@@ -5,10 +5,10 @@ type: index
 
 # Shadow: 8th-Level Features Index
 
-| File Name                                                    | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
-| ------------------------------------------------------------ | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
-| [8th Level College Feature](8th%20Level%20College%20Feature) |          |      | 8     | trait        | feature     |          |        |
-| ⎿ [Cinder Step](8th-Level%20College%20Feature/Cinder%20Step) |          |      | 8     | subtrait     | feature     |          |        |
-| ⎿ [Parkour](8th-Level%20College%20Feature/Parkour)           |          |      | 8     | subtrait     | feature     |          |        |
-| ⎿ [Time Bomb](8th-Level%20College%20Feature/Time%20Bomb)     |          |      | 8     | subtrait     | feature     |          |        |
-| [Perk](Perk)                                                 |          |      | 8     | trait        | feature     |          |        |
+| File Name                                                      | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
+| -------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
+| [8th Level College Feature](8th%20Level%20College%20Feature)   |          |      | 8     | trait        | feature     |          |        |
+| └── [Cinder Step](8th-Level%20College%20Feature/Cinder%20Step) |          |      | 8     | subtrait     | feature     |          |        |
+| └── [Parkour](8th-Level%20College%20Feature/Parkour)           |          |      | 8     | subtrait     | feature     |          |        |
+| └── [Time Bomb](8th-Level%20College%20Feature/Time%20Bomb)     |          |      | 8     | subtrait     | feature     |          |        |
+| [Perk](Perk)                                                   |          |      | 8     | trait        | feature     |          |        |
